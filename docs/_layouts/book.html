@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="sidebar box">
+  {%- include postlist.html -%}
+</div>
+<div class="page-content box">
+  <h2 class="book-title">{{ page.title }}</h2>
+  <h3 class="book-author">{{page.author}}</h3>
+  <p>
+    <span>Created on <time datetime="{{page.date}}">{{ page.date |  date_to_string: "ordinal", "US" }}</time>.</span>
+    {%- if pagemodified != pagecreated -%}
+    <span>Last entry on <time datetime="{{page.modified}}">{{page.modified |  date_to_string: "ordinal", "US" }}</time>.</span>
+    {%- endif -%}
+  </p>
+  {% assign bookannotations = site.data.activity | where: 'assetid', page.assetid  %}
+  <div class="tag-list">{%- for tag in page.tags -%}<a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>{%- endfor -%}</div>
+  <ul>
+    {%- for bookannotation in bookannotations -%}
+    <li id="{{bookannotation.cfi}}">{{bookannotation.text}}</li>
+    {%- endfor -%}
+  </ul>
+</div>

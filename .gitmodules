@@ -1,0 +1,3 @@
+[submodule "queryibooks"]
+	path = queryibooks
+	url = https://github.com/nntrn/queryibooks

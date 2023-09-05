@@ -1,0 +1,11 @@
+{%- assign tags = site.data.genre | sort:"name" -%}
+{%- assign pagetag = page.tags | first -%}
+<div class="tag-list">
+  {%- for tag in tags -%}
+  {%- if tag.name == pagetag -%}
+  <span class="tag fw-700" data-count="{{tag.count}}">{{tag.name}}</span>
+  {%- else -%}
+  <span class="tag" data-count="{{tag.count}}">{{tag.name}}</span>
+  {%- endif -%}
+  {%- endfor -%}
+</div>

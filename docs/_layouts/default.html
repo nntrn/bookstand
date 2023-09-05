@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {%- if page.layout == "book" -%}
+    {% assign booktitle = page.title |split: " (" | first |split: ","|first|split: ":" |first %}
+    <title>{{booktitle}} | bookstand (@nntrn)</title>
+    {% endif %}
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{site.description}}">
+    <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <div class="site-container" data-type="{{page.layout}}">
+      <header class="py-3">
+        <div class="flex px-3 column">
+          <h1 class="site-title fw-700"><a href="{{ '/' | relative_url }}">{{site.title}}</a></h1>
+          <h3 class="site-subtitle fw-400">{{site.subtitle}}</h3>
+        </div>
+      </header>
+      <main>
+        <div class="{{page.layout}}-container">
+          {{ content }}
+        </div>
+        <footer>
+          <div class="box py-3">
+            {%- include social.html -%}
+          </div>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+* text=auto
+
+*.md linguist-detectable=false
+*.sh linguist-language=Shell
+
+docs/assets/* linguist-vendored

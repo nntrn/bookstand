@@ -1,0 +1,1209 @@
+[
+  {
+    "name": "anthropology",
+    "count": 1,
+    "books": [
+      {
+        "title": "Cracking Complexity Now",
+        "assetid": "1576153364",
+        "slug": "cracking-complexity-now"
+      }
+    ]
+  },
+  {
+    "name": "astronomy",
+    "count": 1,
+    "books": [
+      {
+        "title": "You Are the Universe",
+        "assetid": "1121002955",
+        "slug": "you-are-the-universe"
+      }
+    ]
+  },
+  {
+    "name": "biographies",
+    "count": 14,
+    "books": [
+      {
+        "title": "Year of Yes",
+        "assetid": "1001812902",
+        "slug": "year-of-yes"
+      },
+      {
+        "title": "Option B",
+        "assetid": "1175889165",
+        "slug": "option-b"
+      },
+      {
+        "title": "From the Corner of the Oval",
+        "assetid": "1299519071",
+        "slug": "from-the-corner-of-the-oval"
+      },
+      {
+        "title": "Bookmarked",
+        "assetid": "1304814298",
+        "slug": "bookmarked"
+      },
+      {
+        "title": "Yearbook",
+        "assetid": "1458259853",
+        "slug": "yearbook"
+      },
+      {
+        "title": "Hype",
+        "assetid": "1511940515",
+        "slug": "hype"
+      },
+      {
+        "title": "The Code Breaker",
+        "assetid": "1528025625",
+        "slug": "the-code-breaker"
+      },
+      {
+        "title": "Sometimes I Trip On How Happy We Could Be",
+        "assetid": "1543663290",
+        "slug": "sometimes-i-trip-on-how-happy-we-could-be"
+      },
+      {
+        "title": "Spark",
+        "assetid": "1558472723",
+        "slug": "spark"
+      },
+      {
+        "title": "Maybe You Should Talk to Someone",
+        "assetid": "1602671221",
+        "slug": "maybe-you-should-talk-to-someone"
+      },
+      {
+        "title": "Genius",
+        "assetid": "418083293",
+        "slug": "genius"
+      },
+      {
+        "title": "Steve Jobs",
+        "assetid": "431617578",
+        "slug": "steve-jobs"
+      },
+      {
+        "title": "Fooling Houdini",
+        "assetid": "491043016",
+        "slug": "fooling-houdini"
+      },
+      {
+        "title": "The Story of Alice",
+        "assetid": "6445467689",
+        "slug": "the-story-of-alice"
+      }
+    ]
+  },
+  {
+    "name": "biology",
+    "count": 3,
+    "books": [
+      {
+        "title": "Sex in the Sea",
+        "assetid": "1018802008",
+        "slug": "sex-in-the-sea"
+      },
+      {
+        "title": "Behave",
+        "assetid": "1133387915",
+        "slug": "behave"
+      },
+      {
+        "title": "The Red Queen",
+        "assetid": "491149102",
+        "slug": "the-red-queen"
+      }
+    ]
+  },
+  {
+    "name": "business",
+    "count": 2,
+    "books": [
+      {
+        "title": "The Storyteller's Secret",
+        "assetid": "1023327825",
+        "slug": "the-storytellers-secret"
+      },
+      {
+        "title": "Superforecasting",
+        "assetid": "989620031",
+        "slug": "superforecasting"
+      }
+    ]
+  },
+  {
+    "name": "careers",
+    "count": 2,
+    "books": [
+      {
+        "title": "How Would You Move Mount Fuji?",
+        "assetid": "357658178",
+        "slug": "how-would-you-move-mount-fuji"
+      },
+      {
+        "title": "What Got You Here Won't Get You There",
+        "assetid": "698941506",
+        "slug": "what-got-you-here-wont-get-you-there"
+      }
+    ]
+  },
+  {
+    "name": "classics",
+    "count": 2,
+    "books": [
+      {
+        "title": "Brave New World",
+        "assetid": "1558619592",
+        "slug": "brave-new-world"
+      },
+      {
+        "title": "The Great Gatsby",
+        "assetid": "914355894",
+        "slug": "the-great-gatsby"
+      }
+    ]
+  },
+  {
+    "name": "comics",
+    "count": 1,
+    "books": [
+      {
+        "title": "The Legion of Regrettable Supervillains",
+        "assetid": "1099551577",
+        "slug": "the-legion-of-regrettable-supervillains"
+      }
+    ]
+  },
+  {
+    "name": "coming-of-age",
+    "count": 1,
+    "books": [
+      {
+        "title": "Looking For Alaska ",
+        "assetid": "929407783",
+        "slug": "looking-for-alaska"
+      }
+    ]
+  },
+  {
+    "name": "computers",
+    "count": 1,
+    "books": [
+      {
+        "title": "You Look Like a Thing and I Love You",
+        "assetid": "1455076486",
+        "slug": "you-look-like-a-thing-and-i-love-you"
+      }
+    ]
+  },
+  {
+    "name": "design",
+    "count": 2,
+    "books": [
+      {
+        "title": "Dark Matter and Trojan Horses. A Strategic Design Vocabulary.",
+        "assetid": "624482249",
+        "slug": "dark-matter-and-trojan-horses-a-strategic-design-vocabulary"
+      },
+      {
+        "title": "Elements of Design",
+        "assetid": "877916403",
+        "slug": "elements-of-design"
+      }
+    ]
+  },
+  {
+    "name": "dictionaries",
+    "count": 3,
+    "books": [
+      {
+        "title": "The Well-Spoken Thesaurus",
+        "assetid": "1092298014",
+        "slug": "the-well-spoken-thesaurus"
+      },
+      {
+        "title": "Word by Word",
+        "assetid": "1143915925",
+        "slug": "word-by-word"
+      },
+      {
+        "title": "How to Tell Fate from Destiny",
+        "assetid": "1517951617",
+        "slug": "how-to-tell-fate-from-destiny"
+      }
+    ]
+  },
+  {
+    "name": "diet",
+    "count": 1,
+    "books": [
+      {
+        "title": "Blood Type O Food, Beverage and Supplement Lists",
+        "assetid": "416645952",
+        "slug": "blood-type-o-food-beverage-and-supplement-lists"
+      }
+    ]
+  },
+  {
+    "name": "economics",
+    "count": 1,
+    "books": [
+      {
+        "title": "The Data Detective",
+        "assetid": "1515014115",
+        "slug": "the-data-detective"
+      }
+    ]
+  },
+  {
+    "name": "education",
+    "count": 1,
+    "books": [
+      {
+        "title": "Dictionary of English Idioms: Vocabulary Building",
+        "assetid": "911624520",
+        "slug": "dictionary-of-english-idioms"
+      }
+    ]
+  },
+  {
+    "name": "essays",
+    "count": 2,
+    "books": [
+      {
+        "title": "The Skeptics' Guide to the Universe",
+        "assetid": "1344715031",
+        "slug": "the-skeptics-guide-to-the-universe"
+      },
+      {
+        "title": "Monkeys, Myths, and Molecules",
+        "assetid": "1479146544",
+        "slug": "monkeys-myths-and-molecules"
+      }
+    ]
+  },
+  {
+    "name": "family",
+    "count": 5,
+    "books": [
+      {
+        "title": "Creating Emotional Attraction",
+        "assetid": "1039833489",
+        "slug": "creating-emotional-attraction"
+      },
+      {
+        "title": "He's Just Not That Into You",
+        "assetid": "381506476",
+        "slug": "hes-just-not-that-into-you"
+      },
+      {
+        "title": "Models: Attract Women Through Honesty",
+        "assetid": "543049690",
+        "slug": "models-attract-women-through-honesty"
+      },
+      {
+        "title": "Love Sense",
+        "assetid": "645570351",
+        "slug": "love-sense"
+      },
+      {
+        "title": "Date-onomics",
+        "assetid": "971459870",
+        "slug": "date-onomics"
+      }
+    ]
+  },
+  {
+    "name": "fiction",
+    "count": 3,
+    "books": [
+      {
+        "title": "The Importance of Being Earnest",
+        "assetid": "395546791",
+        "slug": "the-importance-of-being-earnest"
+      },
+      {
+        "title": "Lemonade Mouth",
+        "assetid": "441038031",
+        "slug": "lemonade-mouth"
+      },
+      {
+        "title": "Essays and Lectures",
+        "assetid": "498732329",
+        "slug": "essays-and-lectures"
+      }
+    ]
+  },
+  {
+    "name": "finance",
+    "count": 2,
+    "books": [
+      {
+        "title": "The Bogle Effect",
+        "assetid": "1578407773",
+        "slug": "the-bogle-effect"
+      },
+      {
+        "title": "Fooled by Randomness",
+        "assetid": "419979120",
+        "slug": "fooled-by-randomness"
+      }
+    ]
+  },
+  {
+    "name": "gardening",
+    "count": 1,
+    "books": [
+      {
+        "title": "Botanical Shakespeare",
+        "assetid": "1126026836",
+        "slug": "botanical-shakespeare"
+      }
+    ]
+  },
+  {
+    "name": "history",
+    "count": 7,
+    "books": [
+      {
+        "title": "On Grand Strategy",
+        "assetid": "1255090950",
+        "slug": "on-grand-strategy"
+      },
+      {
+        "title": "Lost in Math",
+        "assetid": "1291828020",
+        "slug": "lost-in-math"
+      },
+      {
+        "title": "The Address Book",
+        "assetid": "1468904681",
+        "slug": "the-address-book"
+      },
+      {
+        "title": "Stranger Than We Can Imagine",
+        "assetid": "1547269910",
+        "slug": "stranger-than-we-can-imagine"
+      },
+      {
+        "title": "How to Speak Science",
+        "assetid": "1565484317",
+        "slug": "how-to-speak-science"
+      },
+      {
+        "title": "The Disappearing Spoon",
+        "assetid": "357662234",
+        "slug": "the-disappearing-spoon"
+      },
+      {
+        "title": "Monoculture",
+        "assetid": "441381484",
+        "slug": "monoculture"
+      }
+    ]
+  },
+  {
+    "name": "humor",
+    "count": 3,
+    "books": [
+      {
+        "title": "Poe for Your Problems",
+        "assetid": "1547218226",
+        "slug": "poe-for-your-problems"
+      },
+      {
+        "title": "If Nietzsche Were a Narwhal",
+        "assetid": "1605554381",
+        "slug": "if-nietzsche-were-a-narwhal"
+      },
+      {
+        "title": "The Peter Principle",
+        "assetid": "833988467",
+        "slug": "the-peter-principle"
+      }
+    ]
+  },
+  {
+    "name": "industries",
+    "count": 1,
+    "books": [
+      {
+        "title": "High-Impact Interview Questions",
+        "assetid": "1375105063",
+        "slug": "high-impact-interview-questions"
+      }
+    ]
+  },
+  {
+    "name": "language-arts",
+    "count": 17,
+    "books": [
+      {
+        "title": "Word Play",
+        "assetid": "1025655042",
+        "slug": "word-play"
+      },
+      {
+        "title": "Do I Make Myself Clear?",
+        "assetid": "1116587259",
+        "slug": "do-i-make-myself-clear"
+      },
+      {
+        "title": "The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma",
+        "assetid": "1298108173",
+        "slug": "the-emotional-wound-thesaurus"
+      },
+      {
+        "title": "The Plot Machine",
+        "assetid": "1315438697",
+        "slug": "the-plot-machine"
+      },
+      {
+        "title": "Dreyer's English",
+        "assetid": "1378146917",
+        "slug": "dreyers-english"
+      },
+      {
+        "title": "Writing to Be Understood",
+        "assetid": "1408965308",
+        "slug": "writing-to-be-understood"
+      },
+      {
+        "title": "Writing to Persuade: How to Bring People Over to Your Side",
+        "assetid": "1440318677",
+        "slug": "writing-to-persuade"
+      },
+      {
+        "title": "Endangered Phrases",
+        "assetid": "1441865214",
+        "slug": "endangered-phrases"
+      },
+      {
+        "title": "The Emotion Thesaurus: A Writer's Guide to Character Expression",
+        "assetid": "1449848058",
+        "slug": "the-emotion-thesaurus"
+      },
+      {
+        "title": "Thank You for Arguing, Fourth Edition (Revised and Updated)",
+        "assetid": "1499290635",
+        "slug": "thank-you-for-arguing-fourth-edition"
+      },
+      {
+        "title": "Story or Die",
+        "assetid": "1517287570",
+        "slug": "story-or-die"
+      },
+      {
+        "title": "Rewrite Right!",
+        "assetid": "422534204",
+        "slug": "rewrite-right"
+      },
+      {
+        "title": "All the Knowledge in the World",
+        "assetid": "6442942097",
+        "slug": "all-the-knowledge-in-the-world"
+      },
+      {
+        "title": "An Illustrated Book of Loaded Language",
+        "assetid": "6443052101",
+        "slug": "an-illustrated-book-of-loaded-language"
+      },
+      {
+        "title": "The Negative Trait Thesaurus: A Writer's Guide to Character Flaws",
+        "assetid": "719973904",
+        "slug": "the-negative-trait-thesaurus"
+      },
+      {
+        "title": "The Positive Trait Thesaurus: A Writer's Guide to Character Attributes",
+        "assetid": "720805457",
+        "slug": "the-positive-trait-thesaurus"
+      },
+      {
+        "title": "The Sense of Style",
+        "assetid": "828749281",
+        "slug": "the-sense-of-style"
+      }
+    ]
+  },
+  {
+    "name": "life-sciences",
+    "count": 8,
+    "books": [
+      {
+        "title": "Mousy Cats and Sheepish Coyotes",
+        "assetid": "1227281901",
+        "slug": "mousy-cats-and-sheepish-coyotes"
+      },
+      {
+        "title": "Blueprint",
+        "assetid": "1406238772",
+        "slug": "blueprint"
+      },
+      {
+        "title": "Evolution in Four Dimensions, revised edition",
+        "assetid": "1521740396",
+        "slug": "evolution-in-four-dimensions-revised-edition"
+      },
+      {
+        "title": "Neurogastronomy",
+        "assetid": "1523604083",
+        "slug": "neurogastronomy"
+      },
+      {
+        "title": "Sleights of Mind",
+        "assetid": "387160942",
+        "slug": "sleights-of-mind"
+      },
+      {
+        "title": "The Spark of Life: Electricity in the Human Body",
+        "assetid": "550504650",
+        "slug": "the-spark-of-life"
+      },
+      {
+        "title": "Your Brain on Art",
+        "assetid": "6443011449",
+        "slug": "your-brain-on-art"
+      },
+      {
+        "title": "The Liars of Nature and the Nature of Liars",
+        "assetid": "6443726476",
+        "slug": "the-liars-of-nature-and-the-nature-of-liars"
+      }
+    ]
+  },
+  {
+    "name": "management",
+    "count": 9,
+    "books": [
+      {
+        "title": "Smarter Faster Better",
+        "assetid": "1006365439",
+        "slug": "smarter-faster-better"
+      },
+      {
+        "title": "Change by Design, Revised and Updated",
+        "assetid": "1339027747",
+        "slug": "change-by-design-revised-and-updated"
+      },
+      {
+        "title": "Think Again",
+        "assetid": "1529794256",
+        "slug": "think-again"
+      },
+      {
+        "title": "Talent",
+        "assetid": "1552718709",
+        "slug": "talent"
+      },
+      {
+        "title": "Blink",
+        "assetid": "357664470",
+        "slug": "blink"
+      },
+      {
+        "title": "HBR's 10 Must Reads on Change Management (including featured article \"Leading Change,\" by John P. Kotter)",
+        "assetid": "419952696",
+        "slug": "hbrs-10-must-reads-on-change-management"
+      },
+      {
+        "title": "Nudge",
+        "assetid": "563307305",
+        "slug": "nudge"
+      },
+      {
+        "title": "Give and Take",
+        "assetid": "583275747",
+        "slug": "give-and-take"
+      },
+      {
+        "title": "Originals",
+        "assetid": "993984553",
+        "slug": "originals"
+      }
+    ]
+  },
+  {
+    "name": "marketing",
+    "count": 3,
+    "books": [
+      {
+        "title": "Alchemy",
+        "assetid": "1227399404",
+        "slug": "alchemy"
+      },
+      {
+        "title": "Wanting",
+        "assetid": "1535475748",
+        "slug": "wanting"
+      },
+      {
+        "title": "Predictably Irrational, Revised and Expanded Edition",
+        "assetid": "360638697",
+        "slug": "predictably-irrational-revised-and-expanded-edition"
+      }
+    ]
+  },
+  {
+    "name": "mathematics",
+    "count": 5,
+    "books": [
+      {
+        "title": "Math with Bad Drawings",
+        "assetid": "1320762791",
+        "slug": "math-with-bad-drawings"
+      },
+      {
+        "title": "Statistics 101",
+        "assetid": "1329477973",
+        "slug": "statistics-101"
+      },
+      {
+        "title": "Change Is the Only Constant",
+        "assetid": "1451477922",
+        "slug": "change-is-the-only-constant"
+      },
+      {
+        "title": "Shape",
+        "assetid": "1543106278",
+        "slug": "shape"
+      },
+      {
+        "title": "Math Games with Bad Drawings",
+        "assetid": "1579280550",
+        "slug": "math-games-with-bad-drawings"
+      }
+    ]
+  },
+  {
+    "name": "military",
+    "count": 1,
+    "books": [
+      {
+        "title": "The Art of War",
+        "assetid": "395534623",
+        "slug": "the-art-of-war"
+      }
+    ]
+  },
+  {
+    "name": "mysteries",
+    "count": 1,
+    "books": [
+      {
+        "title": "Gone Girl",
+        "assetid": "468717454",
+        "slug": "gone-girl"
+      }
+    ]
+  },
+  {
+    "name": "nature",
+    "count": 6,
+    "books": [
+      {
+        "title": "No Beast So Fierce",
+        "assetid": "1329400578",
+        "slug": "no-beast-so-fierce"
+      },
+      {
+        "title": "Becoming Wild",
+        "assetid": "1466627512",
+        "slug": "becoming-wild"
+      },
+      {
+        "title": "Crow Planet",
+        "assetid": "357321738",
+        "slug": "crow-planet"
+      },
+      {
+        "title": "The Secret Life of Lobsters",
+        "assetid": "360625422",
+        "slug": "the-secret-life-of-lobsters"
+      },
+      {
+        "title": "How Animals Grieve",
+        "assetid": "6445207982",
+        "slug": "how-animals-grieve"
+      },
+      {
+        "title": "The Soul of an Octopus",
+        "assetid": "894606475",
+        "slug": "the-soul-of-an-octopus"
+      }
+    ]
+  },
+  {
+    "name": "paranormal",
+    "count": 1,
+    "books": [
+      {
+        "title": "Shadowfever",
+        "assetid": "419934997",
+        "slug": "shadowfever"
+      }
+    ]
+  },
+  {
+    "name": "philosophy",
+    "count": 5,
+    "books": [
+      {
+        "title": "The Socrates Express",
+        "assetid": "1483501679",
+        "slug": "the-socrates-express"
+      },
+      {
+        "title": "Plato and a Platypus Walk into a Bar . . .",
+        "assetid": "357992325",
+        "slug": "plato-and-a-platypus-walk-into-a-bar"
+      },
+      {
+        "title": "The Pig That Wants to Be Eaten",
+        "assetid": "357996802",
+        "slug": "the-pig-that-wants-to-be-eaten"
+      },
+      {
+        "title": "An Illustrated Book of Bad Arguments",
+        "assetid": "6443054935",
+        "slug": "an-illustrated-book-of-bad-arguments"
+      },
+      {
+        "title": "The Philosophy Book",
+        "assetid": "965056587",
+        "slug": "the-philosophy-book"
+      }
+    ]
+  },
+  {
+    "name": "physics",
+    "count": 3,
+    "books": [
+      {
+        "title": "Complexity",
+        "assetid": "1477281185",
+        "slug": "complexity"
+      },
+      {
+        "title": "What Is Relativity?",
+        "assetid": "1523602776",
+        "slug": "what-is-relativity"
+      },
+      {
+        "title": "A Beautiful Question",
+        "assetid": "934621841",
+        "slug": "a-beautiful-question"
+      }
+    ]
+  },
+  {
+    "name": "political-science",
+    "count": 4,
+    "books": [
+      {
+        "title": "A Generation of Sociopaths",
+        "assetid": "1131161557",
+        "slug": "a-generation-of-sociopaths"
+      },
+      {
+        "title": "A Libertarian Walks Into a Bear",
+        "assetid": "1493758832",
+        "slug": "a-libertarian-walks-into-a-bear"
+      },
+      {
+        "title": "The Candidate's 7 Deadly Sins",
+        "assetid": "1497949400",
+        "slug": "the-candidates-7-deadly-sins"
+      },
+      {
+        "title": "How to Win Friends and Influence Enemies",
+        "assetid": "1553728775",
+        "slug": "how-to-win-friends-and-influence-enemies"
+      }
+    ]
+  },
+  {
+    "name": "psychology",
+    "count": 14,
+    "books": [
+      {
+        "title": "50 Psychology Classics Second Edition",
+        "assetid": "1195494976",
+        "slug": "50-psychology-classics-second-edition"
+      },
+      {
+        "title": "Scripts People Live",
+        "assetid": "1443705633",
+        "slug": "scripts-people-live"
+      },
+      {
+        "title": "Meeting the Shadow",
+        "assetid": "1518473476",
+        "slug": "meeting-the-shadow"
+      },
+      {
+        "title": "Rationality",
+        "assetid": "1553572817",
+        "slug": "rationality"
+      },
+      {
+        "title": "The Mind of the Mathematician",
+        "assetid": "1564867658",
+        "slug": "the-mind-of-the-mathematician"
+      },
+      {
+        "title": "The Psychology of the Simpsons",
+        "assetid": "1574721314",
+        "slug": "the-psychology-of-the-simpsons"
+      },
+      {
+        "title": "What Makes Your Brain Happy and Why You Should Do the Opposite",
+        "assetid": "1619640100",
+        "slug": "what-makes-your-brain-happy-and-why-you-should-do-the-opposite"
+      },
+      {
+        "title": "Connected",
+        "assetid": "357660141",
+        "slug": "connected"
+      },
+      {
+        "title": "The Stuff of Thought",
+        "assetid": "361375948",
+        "slug": "the-stuff-of-thought"
+      },
+      {
+        "title": "Stumbling on Happiness",
+        "assetid": "419282386",
+        "slug": "stumbling-on-happiness"
+      },
+      {
+        "title": "A General Theory of Love",
+        "assetid": "419291771",
+        "slug": "a-general-theory-of-love"
+      },
+      {
+        "title": "The Lucifer Effect",
+        "assetid": "420043667",
+        "slug": "the-lucifer-effect"
+      },
+      {
+        "title": "Games People Play",
+        "assetid": "477710521",
+        "slug": "games-people-play"
+      },
+      {
+        "title": "The Confidence Game",
+        "assetid": "987332972",
+        "slug": "the-confidence-game"
+      }
+    ]
+  },
+  {
+    "name": "public-administration",
+    "count": 1,
+    "books": [
+      {
+        "title": "Weapons of Math Destruction",
+        "assetid": "1067627008",
+        "slug": "weapons-of-math-destruction"
+      }
+    ]
+  },
+  {
+    "name": "quotations",
+    "count": 1,
+    "books": [
+      {
+        "title": "Only Dull People Are Brilliant at Breakfast",
+        "assetid": "1054660370",
+        "slug": "only-dull-people-are-brilliant-at-breakfast"
+      }
+    ]
+  },
+  {
+    "name": "reference",
+    "count": 3,
+    "books": [
+      {
+        "title": "A Stubbornly Persistent Illusion",
+        "assetid": "1210011963",
+        "slug": "a-stubbornly-persistent-illusion"
+      },
+      {
+        "title": "Screenplay",
+        "assetid": "419290090",
+        "slug": "screenplay"
+      },
+      {
+        "title": "It's Raining Cats and Dogs and Other Beastly Expressions",
+        "assetid": "551234484",
+        "slug": "its-raining-cats-and-dogs-and-other-beastly-expressions"
+      }
+    ]
+  },
+  {
+    "name": "science",
+    "count": 6,
+    "books": [
+      {
+        "title": "Algorithms to Live By",
+        "assetid": "1039854246",
+        "slug": "algorithms-to-live-by"
+      },
+      {
+        "title": "The Expectation Effect",
+        "assetid": "1566879165",
+        "slug": "the-expectation-effect"
+      },
+      {
+        "title": "Reading in the Brain",
+        "assetid": "357921803",
+        "slug": "reading-in-the-brain"
+      },
+      {
+        "title": "The Moral Landscape",
+        "assetid": "382785380",
+        "slug": "the-moral-landscape"
+      },
+      {
+        "title": "Denial",
+        "assetid": "576439132",
+        "slug": "denial"
+      },
+      {
+        "title": "The Field Guide to Citizen Science",
+        "assetid": "6443052837",
+        "slug": "the-field-guide-to-citizen-science"
+      }
+    ]
+  },
+  {
+    "name": "self-improvement",
+    "count": 12,
+    "books": [
+      {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "assetid": "1071409887",
+        "slug": "the-subtle-art-of-not-giving-a-fck"
+      },
+      {
+        "title": "How to Be Miserable",
+        "assetid": "1094553836",
+        "slug": "how-to-be-miserable"
+      },
+      {
+        "title": "F*ck Love",
+        "assetid": "1128643437",
+        "slug": "fck-love"
+      },
+      {
+        "title": "Happiness (HBR Emotional Intelligence Series)",
+        "assetid": "1214634413",
+        "slug": "happiness"
+      },
+      {
+        "title": "Handwriting Analysis",
+        "assetid": "1508603455",
+        "slug": "handwriting-analysis"
+      },
+      {
+        "title": "Remembering the Presidents of the USA",
+        "assetid": "1581544256",
+        "slug": "remembering-the-presidents-of-the-usa"
+      },
+      {
+        "title": "Great TED Talks: Creativity",
+        "assetid": "1615706691",
+        "slug": "great-ted-talks-creativity"
+      },
+      {
+        "title": "The Mastery of Love",
+        "assetid": "364297516",
+        "slug": "the-mastery-of-love"
+      },
+      {
+        "title": "The Seven Spiritual Laws of Success",
+        "assetid": "365186470",
+        "slug": "the-seven-spiritual-laws-of-success"
+      },
+      {
+        "title": "It's Called a Breakup Because It's Broken",
+        "assetid": "419974681",
+        "slug": "its-called-a-breakup-because-its-broken"
+      },
+      {
+        "title": "The Happiness Advantage",
+        "assetid": "420522405",
+        "slug": "the-happiness-advantage"
+      },
+      {
+        "title": "Good Self, Bad Self",
+        "assetid": "427556056",
+        "slug": "good-self-bad-self"
+      }
+    ]
+  },
+  {
+    "name": "small-business",
+    "count": 1,
+    "books": [
+      {
+        "title": "Your Next Five Moves",
+        "assetid": "1495717210",
+        "slug": "your-next-five-moves"
+      }
+    ]
+  },
+  {
+    "name": "social-science",
+    "count": 6,
+    "books": [
+      {
+        "title": "A Woman Looking at Men Looking at Women",
+        "assetid": "1091028307",
+        "slug": "a-woman-looking-at-men-looking-at-women"
+      },
+      {
+        "title": "Invisible Women",
+        "assetid": "1450370544",
+        "slug": "invisible-women"
+      },
+      {
+        "title": "Amusing Ourselves to Death",
+        "assetid": "357927096",
+        "slug": "amusing-ourselves-to-death"
+      },
+      {
+        "title": "The Power of Myth",
+        "assetid": "424429367",
+        "slug": "the-power-of-myth"
+      },
+      {
+        "title": "Mythology",
+        "assetid": "527294303",
+        "slug": "mythology"
+      },
+      {
+        "title": "Love and Sex in Prison",
+        "assetid": "6450760266",
+        "slug": "love-and-sex-in-prison"
+      }
+    ]
+  },
+  {
+    "name": "sociology",
+    "count": 1,
+    "books": [
+      {
+        "title": "The Sociology Book",
+        "assetid": "1481301873",
+        "slug": "the-sociology-book"
+      }
+    ]
+  },
+  {
+    "name": "spirituality",
+    "count": 1,
+    "books": [
+      {
+        "title": "101 Essays That Will Change the Way You Think",
+        "assetid": "1148726874",
+        "slug": "101-essays-that-will-change-the-way-you-think"
+      }
+    ]
+  },
+  {
+    "name": "system-administration",
+    "count": 1,
+    "books": [
+      {
+        "title": "Taming the Terminal",
+        "assetid": "1525625941",
+        "slug": "taming-the-terminal"
+      }
+    ]
+  },
+  {
+    "name": "theater",
+    "count": 2,
+    "books": [
+      {
+        "title": "A Practical Handbook for the Actor",
+        "assetid": "479795621",
+        "slug": "a-practical-handbook-for-the-actor"
+      },
+      {
+        "title": "Lady Windermere’s Fan",
+        "assetid": "6444770880",
+        "slug": "lady-windermere-s-fan"
+      }
+    ]
+  },
+  {
+    "name": "true-crime",
+    "count": 1,
+    "books": [
+      {
+        "title": "The Anatomy Of Motive",
+        "assetid": "381461943",
+        "slug": "the-anatomy-of-motive"
+      }
+    ]
+  },
+  {
+    "name": "words",
+    "count": 1,
+    "books": [
+      {
+        "title": "The Dictionary of Clichés",
+        "assetid": "1516422589",
+        "slug": "the-dictionary-of-clich-s"
+      }
+    ]
+  },
+  {
+    "name": "world",
+    "count": 2,
+    "books": [
+      {
+        "title": "Accidental Gods",
+        "assetid": "1529890389",
+        "slug": "accidental-gods"
+      },
+      {
+        "title": "The Little Book of History",
+        "assetid": "1554216935",
+        "slug": "the-little-book-of-history"
+      }
+    ]
+  },
+  {
+    "name": "world-affairs",
+    "count": 1,
+    "books": [
+      {
+        "title": "Why the Germans Do it Better",
+        "assetid": "1543732715",
+        "slug": "why-the-germans-do-it-better"
+      }
+    ]
+  },
+  {
+    "name": "writing",
+    "count": 2,
+    "books": [
+      {
+        "title": "The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles (Volume 1)",
+        "assetid": "1589105199",
+        "slug": "the-conflict-thesaurus-volume-1"
+      },
+      {
+        "title": "The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles (Volume 2)",
+        "assetid": "6443374530",
+        "slug": "the-conflict-thesaurus-volume-2"
+      }
+    ]
+  }
+]

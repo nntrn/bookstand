@@ -1,0 +1,66 @@
+title: bookstand
+subtitle: "read, annotated, & forgotten by annie"
+
+description: >-
+  Book highlights by Annie (@nntrn)
+
+url: https://nntrn.github.io
+baseurl: /bookstand
+repository: nntrn/bookstand
+
+github_username: nntrn
+
+favicon_ico: /assets/favicon.ico
+
+defaults:
+  - scope:
+      path: "_annotations"
+    values:
+      layout: book
+  - scope:
+      path: "_tags"
+    values:
+      layout: tag
+
+collections:
+  annotations:
+    output: true
+    permalink: /:name
+  tags:
+    output: true
+    permalink: tags/:name
+
+# tag_archive:
+#   type: jekyll-archives
+#   path: /tags/
+
+# jekyll-archives:
+#   enabled:
+#     - tags
+#   layouts:
+#     tag: archive-tag
+#   permalinks:
+#     tag: /tags/:name/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compact
+
+compress_html:
+  clippings: [div, p, ul, td, h1, h2]
+  endings: all
+  comments: ["<!--", "-->"]
+  startings: []
+  blanklines: true
+  profile: false
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
