@@ -8,7 +8,7 @@ tags: "biographies"
 slug: hype
 ---
 
-*  There had always been pressure to overshare and keep up with appearances on sites like Facebook, but it took the ubiquity and ease of the Instagram app to turn sharing a photo of your lunch into a monetizable activity. Filled with people pretending to be brands and brands pretending to be people, social media, now easily accessible by smartphone, had become by the mid-s a showcase in performative signaling.
+*  There had always been pressure to overshare and keep up with appearances on sites like Facebook, but it took the ubiquity and ease of the Instagram app to turn sharing a photo of your lunch into a monetizable activity. Filled with people pretending to be brands and brands pretending to be people, social media, now easily accessible by smartphone, had become by the mid-1s a showcase in performative signaling.
 
 *  "Over time, I have learned that he should not have been on the first three Forbes 4 lists at all. In our first-ever list, in 12, we included him at $0 million, but Trump was actually worth roughly $ million—a paltry sum by the standards of his supermoneyed peers—as a spate of government reports and books showed only much later," he wrote.
 

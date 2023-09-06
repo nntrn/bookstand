@@ -1056,6 +1056,17 @@
     "cover": "/assets/artwork/1589105199.jpg"
   },
   {
+    "assetid": "1593234260",
+    "title": "Quantum Shorts: Collected Flash Fiction Inspired by Quantum Physics",
+    "author": "Michael Brooks, Jenny Hogan & Puah Xin Yi",
+    "created": "2023-09-06T02:01:40Z",
+    "modified": "2023-09-06T02:01:40Z",
+    "tags": "fiction",
+    "slug": "quantum-shorts",
+    "count": 1,
+    "cover": "/assets/artwork/1593234260.jpg"
+  },
+  {
     "assetid": "1602671221",
     "title": "Maybe You Should Talk to Someone",
     "author": "Lori Gottlieb",
@@ -1254,6 +1265,17 @@
     "cover": "/assets/artwork/365186470.jpg"
   },
   {
+    "assetid": "376231676",
+    "title": "Fame",
+    "author": "Tom Payne",
+    "created": "2023-09-05T21:12:36Z",
+    "modified": "2023-09-06T01:52:50Z",
+    "tags": "social-science",
+    "slug": "fame",
+    "count": 37,
+    "cover": "/assets/artwork/376231676.jpg"
+  },
+  {
     "assetid": "381461943",
     "title": "The Anatomy Of Motive",
     "author": "John E. Douglas",
@@ -1291,10 +1313,10 @@
     "title": "Sleights of Mind",
     "author": "Stephen Macknik, Susana Martinez-Conde & Sandra Blakeslee",
     "created": "2023-08-17T01:13:41Z",
-    "modified": "2023-08-29T02:14:45Z",
+    "modified": "2023-09-05T15:24:09Z",
     "tags": "life-sciences",
     "slug": "sleights-of-mind",
-    "count": 7,
+    "count": 13,
     "cover": "/assets/artwork/387160942.jpg"
   },
   {
