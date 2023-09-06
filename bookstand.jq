@@ -30,7 +30,7 @@ def get_author($a):
 def get_author: get_author(.);
 
 def remove_citations($text):
-  $text | gsub("(?<period>[a-zA-Z][^a-zA-Z0-9\\ ])[0-9]{1,2} ";.period+""; "xs");
+  $text | gsub("(?<period>[;\\.\",])[0-9]{1,2}$";.period+""; "x");
 
 def remove_citations: remove_citations(.);
 
@@ -126,7 +126,7 @@ def annotation_base2:
       slug: slugify2(.[0].ZTITLE),
       count: length,
       annotations: (map({
-        text: (.ZANNOTATIONSELECTEDTEXT|remove_citations),
+        text: (.ZANNOTATIONSELECTEDTEXT),
         location: (.booklocation|.[1:]),
         date:.ZANNOTATIONCREATIONDATE
       })| sort_by(.location) | map(.location |= join("-")))
