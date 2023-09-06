@@ -30,7 +30,7 @@ def get_author($a):
 def get_author: get_author(.);
 
 def remove_citations($text):
-  $text | gsub("(?<period>[;\\.\",])[0-9]{1,2}$";.period+""; "x");
+  $text | gsub("(?<period>[;\\.\",\\”])[0-9]{1,2}$";.period+""; "x");
 
 def remove_citations: remove_citations(.);
 

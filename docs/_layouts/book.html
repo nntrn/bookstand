@@ -16,9 +16,19 @@ layout: default
   </p>
   {% assign bookannotations = site.data.activity | where: 'assetid', page.assetid  %}
   <div class="tag-list">{%- for tag in page.tags -%}<a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>{%- endfor -%}</div>
-  <ul>
+  <ul class="annotations">
     {%- for bookannotation in bookannotations -%}
-    <li id="{{bookannotation.cfi}}">{{bookannotation.text}}</li>
+    <li id="{{bookannotation.cfi}}">{{bookannotation.text}}<a href="#{{bookannotation.cfi}}" class="loc">#</a></li>
     {%- endfor -%}
   </ul>
 </div>
+<script>
+  function highlightAnnotation() {
+    Array.from(document.querySelectorAll('.highlighted')).forEach(e => e.classList.remove('highlighted'))
+    if (location.hash) {
+      document.querySelector(`[id="${location.hash.substr(1)}"]`).classList.toggle('highlighted')
+    }
+  }
+  highlightAnnotation()
+  window.onhashchange = highlightAnnotation;
+</script>
