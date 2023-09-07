@@ -6,16 +6,14 @@ layout: default
 
 <div class="sidebar box pt-0 mt-3">
   {%- include postlist.html -%}
-  <div class="py-3">
-    {%- include social.html -%}
-  </div>
+  <div class="mt-2">{%- include social.html -%}</div>
 </div>
 <div class="page-content box pt-0 mt-3">
   <h2 class="book-title">{{ page.title }}</h2>
   <h3 class="book-author">{{page.author}}</h3>
   <p>
-    <span>Created on <time datetime="{{page.date}}">{{pagecreated}}</time>.</span>
-    {%- if pagemodified != pagecreated -%}
+    <span>First annotation on <time datetime="{{page.date}}">{{pagecreated}}</time>.</span>
+    {%- if pagemodified != pagecreated %}
     <span>Last entry on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
     {%- endif -%}
   </p>
@@ -31,6 +29,7 @@ layout: default
     {%- endfor -%}
   </ul>
 </div>
+
 <script>
   function highlightAnnotation() {
     Array.from(document.querySelectorAll('.highlighted')).forEach(e => e.classList.remove('highlighted'))
