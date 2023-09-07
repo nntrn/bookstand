@@ -10,6 +10,7 @@ layout: home
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first %}
     <div
       class="book"
+      data-count="{{book.count}}"
       data-modified="{{book.modified | date: "%F" }}"
       data-created="{{book.created | date: "%F" }}">
       <div class="count">
