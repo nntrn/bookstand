@@ -11,10 +11,10 @@ layout: default
 <div class="page-content box pt-0 mt-3">
   <h2 class="book-title">{{ page.title }}</h2>
   <h3 class="book-author">{{page.author}}</h3>
-  <p>
+  <p class="info">
     <span>First annotation on <time datetime="{{page.date}}">{{pagecreated}}</time>.</span>
     {%- if pagemodified != pagecreated %}
-    <span>Last entry on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
+    <span>Latest on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
     {%- endif -%}
   </p>
   {% assign bookannotations = site.data.activity | where: 'assetid', page.assetid  %}

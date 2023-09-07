@@ -5,10 +5,8 @@ body{font-size:14px;padding:0;margin:0;line-height:1.35;flex:1;align-self:stretc
 h1,h2,h3{margin:0}
 a{color:#06c}
 a:focus{color:#1f2328}
-a:hover{font-weight:700;word-break:keep-all}
-a:hover strong{text-decoration:underline;text-decoration-thickness:2px;text-decoration-skip-ink:none}
 footer{padding-bottom:2em}
-h4 a{text-decoration-style:dotted;text-decoration-thickness:1px;text-decoration-skip-ink:none;color:#000;white-space:pre;font-weight:700;font-family:sans-serif}
+h4 a{text-decoration-style:dotted;text-decoration-thickness:1px;text-decoration-skip-ink:none;color:#000;font-family:sans-serif}
 h4{margin-top:0;font-family:system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif;text-transform:uppercase;font-weight:400;font-size:.8rem}
 header .box{display:flex;flex-direction:column;gap:.3em;font-size:80%}
 header{color:#1f2328;font-style:normal;font-size:1.25em;padding:.5rem 0;border-bottom:1px solid #1f232866;position:sticky;top:0;z-index:1000;box-shadow:-1px 4px 10px rgba(0,0,0,.05);background:#fff}
@@ -18,6 +16,7 @@ li>p{margin:0}
 li{padding-left:.5rem}
 main{overflow-y:scroll;display:flex;flex-direction:column;justify-content:space-between;height:100vh;margin:auto;width:100%}
 pre{overflow-x:hidden;white-space:pre-wrap}
+p.info{font-family:sans-serif;font-size:11px}
 time{font-weight:700}
 ul.annotations{gap:.75rem;margin:1rem 0;display:flex}
 .annotations{width:98%}
@@ -40,8 +39,7 @@ ul.annotations{gap:.75rem;margin:1rem 0;display:flex}
 .book{position:relative;width:min-content;font-family:sans-serif;text-align:center;display:flex;flex-direction:column}
 .books.box{padding:1rem 1.5rem}
 .books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:3rem 1rem;row-gap:1rem;align-items:flex-start;margin:auto;background:#fff;column-gap:2rem;overflow-y:auto;-webkit-transform:translate3d(0,0,1px);-webkit-backface-visibility:hidden;scroll-behavior:smooth}
-.box-sm{padding:0 .16em;width:99%;margin:auto}
-.box{width:100%;padding:2rem;margin:0 auto}
+.box{width:100%;padding:1rem;margin:0 auto}
 .col{display:flex;flex-direction:column}
 .column{flex-direction:column}
 .flex{display:flex}
@@ -84,8 +82,8 @@ ul.annotations{gap:.75rem;margin:1rem 0;display:flex}
 .row{display:flex;flex-direction:row;flex-wrap:wrap}
 .row>*{flex:1}
 .sidebar a:hover{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}
-.sidebar ul{margin:auto;margin-bottom:1rem;display: flex;flex-direction: column;gap: .15rem;}
-.sidebar{flex:3;height:75vh;border-right:1px solid gray}
+.sidebar ul{margin:auto;margin-bottom:1rem;display:flex;flex-direction:column;gap:.15rem}
+.sidebar{flex:3;height:75vh;}
 .site-container{display:flex;flex-direction:column;height:100%;overflow-y:hidden;position:relative;max-height:100vh;height:100vh;scrollbar-width:thin}
 .site-subtitle{font-size:11px;font-family:sans-serif;line-height:1.4;font-family:sans-serif;letter-spacing:.25px;text-transform:uppercase}
 .site-title a{color:currentColor;text-decoration-thickness:2px;text-decoration:underline}
@@ -100,12 +98,13 @@ ul.annotations{gap:.75rem;margin:1rem 0;display:flex}
 [data-type=home] main{line-height:1.47059;font-weight:400;letter-spacing:-.022em;color:#1d1d1f;font-style:normal}
 [data-type=book] .page-content{border-bottom:1px solid gray}
 @media (min-width:776px){
+  .sidebar{border-right:1px solid gray}
 .books.box{padding:3rem 3rem}
 .page-content{border-bottom:none;flex:7}
 .site-title{font-size:2rem}
 .books{justify-content:space-between;column-gap:2.5rem;row-gap:2rem}
 .books img{width:min(110px,22vw)}
-[data-type=book] .box{padding:0rem 3rem}
+[data-type=book] .box{padding:0rem 2rem}
 .sidebar{display:block;border-top:0;max-width:320px}
 .sidebar ul{border-top:0;margin:unset}
 .book-container{flex-direction:row;padding:0 3%}
@@ -114,6 +113,7 @@ ul.annotations{gap:.75rem;margin:1rem 0;display:flex}
 .tag-container ul{font-size:14px;display:flex;flex-direction:column;gap:.5rem}
 }
 @media (min-width:1206px){
+[data-type=book] .box{padding:0rem 3rem}
 .book-container{flex-direction:row;padding:0 10%}
 }
 .count{display:flex;color:#aaa;font-family:sans-serif;align-items:center}
