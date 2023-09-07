@@ -3,7 +3,7 @@ title: Essays and Lectures
 author: Oscar Wilde
 assetid: 498732329
 date: 2023-08-31T17:34:29Z
-modified: 2023-08-31T17:35:58Z
+modified: 2023-09-06T13:15:16Z
 tags: "fiction"
 slug: essays-and-lectures
 ---
@@ -33,4 +33,10 @@ slug: essays-and-lectures
    and the illustrations which follow will do much to correct that
    foolish impression that mental and physical beauty are always
    divorced.
+
+---
+
+*  The object of art is to stir the most divine and remote of the
+   chords which make music in our soul; and colour is indeed, of
+   itself a mystical presence on things, and tone a kind of sentinel.
 

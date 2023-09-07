@@ -753,8 +753,13 @@
   },
   {
     "name": "philosophy",
-    "count": 5,
+    "count": 6,
     "books": [
+      {
+        "title": "The Conquest of Happiness",
+        "assetid": "1053260612",
+        "slug": "the-conquest-of-happiness"
+      },
       {
         "title": "The Socrates Express",
         "assetid": "1483501679",
@@ -907,8 +912,13 @@
   },
   {
     "name": "public-administration",
-    "count": 1,
+    "count": 2,
     "books": [
+      {
+        "title": "Biopiracy",
+        "assetid": "1048439447",
+        "slug": "biopiracy"
+      },
       {
         "title": "Weapons of Math Destruction",
         "assetid": "1067627008",
@@ -1063,12 +1073,17 @@
   },
   {
     "name": "social-science",
-    "count": 7,
+    "count": 8,
     "books": [
       {
         "title": "A Woman Looking at Men Looking at Women",
         "assetid": "1091028307",
         "slug": "a-woman-looking-at-men-looking-at-women"
+      },
+      {
+        "title": "Empire of Illusion",
+        "assetid": "1210012069",
+        "slug": "empire-of-illusion"
       },
       {
         "title": "Invisible Women",
@@ -1104,12 +1119,17 @@
   },
   {
     "name": "sociology",
-    "count": 1,
+    "count": 2,
     "books": [
       {
         "title": "The Sociology Book",
         "assetid": "1481301873",
         "slug": "the-sociology-book"
+      },
+      {
+        "title": "The Road to Character",
+        "assetid": "951398384",
+        "slug": "the-road-to-character"
       }
     ]
   },

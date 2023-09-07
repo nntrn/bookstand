@@ -15,7 +15,7 @@ hr:before{content:"---"}
 hr{margin:.5em 0;border:0}
 li>p{margin:0}
 li{padding-left:.5rem}
-main{overflow-y:scroll;display:flex;flex-direction:column;justify-content:space-between;height:100vh;margin:auto;touch-action:pan-y;width:100%}
+main{overflow-y:scroll;display:flex;flex-direction:column;justify-content:space-between;height:100vh;margin:auto;width:100%}
 pre{overflow-x:hidden;white-space:pre-wrap}
 time{font-weight:700}
 ul.annotations{gap:.75rem;margin:1rem 0;}
@@ -77,7 +77,7 @@ ul.annotations{gap:.75rem;margin:1rem 0;}
 .py-1{padding-top:.25rem;padding-bottom:.25rem}
 .py-2{padding-top:.5rem;padding-bottom:.5rem}
 .py-3{padding-top:1rem;padding-bottom:1rem}
-.related-posts{margin:0 0;padding:0 0;font-size:.8rem}
+.related-posts{margin:0 0;padding:0 0;font-size:.8rem;line-height:1.2}
 .related-posts li{margin-bottom:.4rem;list-style:none;padding:0 0}
 .row{display:flex;flex-direction:row;flex-wrap:wrap}
 .row>*{flex:1}

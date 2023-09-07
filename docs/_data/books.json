@@ -77,6 +77,28 @@
     "cover": "/assets/artwork/1039854246.jpg"
   },
   {
+    "assetid": "1048439447",
+    "title": "Biopiracy",
+    "author": "Vandana Shiva",
+    "created": "2023-09-06T13:23:18Z",
+    "modified": "2023-09-07T02:29:57Z",
+    "tags": "public-administration",
+    "slug": "biopiracy",
+    "count": 42,
+    "cover": "/assets/artwork/1048439447.jpg"
+  },
+  {
+    "assetid": "1053260612",
+    "title": "The Conquest of Happiness",
+    "author": "Bertrand Russell",
+    "created": "2023-09-06T23:00:32Z",
+    "modified": "2023-09-06T23:00:32Z",
+    "tags": "philosophy",
+    "slug": "the-conquest-of-happiness",
+    "count": 1,
+    "cover": "/assets/artwork/1053260612.jpg"
+  },
+  {
     "assetid": "1054660370",
     "title": "Only Dull People Are Brilliant at Breakfast",
     "author": "Oscar Wilde",
@@ -273,6 +295,17 @@
     "slug": "a-stubbornly-persistent-illusion",
     "count": 1,
     "cover": "/assets/artwork/1210011963.jpg"
+  },
+  {
+    "assetid": "1210012069",
+    "title": "Empire of Illusion",
+    "author": "Chris Hedges",
+    "created": "2023-09-07T03:08:43Z",
+    "modified": "2023-09-07T03:39:28Z",
+    "tags": "social-science",
+    "slug": "empire-of-illusion",
+    "count": 3,
+    "cover": "/assets/artwork/1210012069.jpg"
   },
   {
     "assetid": "1214634413",
@@ -906,10 +939,10 @@
     "title": "Rationality",
     "author": "Steven Pinker",
     "created": "2023-01-05T20:24:48Z",
-    "modified": "2023-01-05T20:24:48Z",
+    "modified": "2023-09-07T02:59:37Z",
     "tags": "psychology",
     "slug": "rationality",
-    "count": 1,
+    "count": 4,
     "cover": "/assets/artwork/1553572817.jpg"
   },
   {
@@ -1071,10 +1104,10 @@
     "title": "Maybe You Should Talk to Someone",
     "author": "Lori Gottlieb",
     "created": "2022-11-30T01:39:19Z",
-    "modified": "2023-02-14T22:10:20Z",
+    "modified": "2023-09-06T14:57:12Z",
     "tags": "biographies",
     "slug": "maybe-you-should-talk-to-someone",
-    "count": 11,
+    "count": 12,
     "cover": "/assets/artwork/1602671221.jpg"
   },
   {
@@ -1588,10 +1621,10 @@
     "title": "Essays and Lectures",
     "author": "Oscar Wilde",
     "created": "2023-08-31T17:34:29Z",
-    "modified": "2023-08-31T17:35:58Z",
+    "modified": "2023-09-06T13:15:16Z",
     "tags": "fiction",
     "slug": "essays-and-lectures",
-    "count": 2,
+    "count": 3,
     "cover": "/assets/artwork/498732329.jpg"
   },
   {
@@ -1934,6 +1967,17 @@
     "slug": "a-beautiful-question",
     "count": 1,
     "cover": "/assets/artwork/934621841.jpg"
+  },
+  {
+    "assetid": "951398384",
+    "title": "The Road to Character",
+    "author": "David Brooks",
+    "created": "2023-09-07T03:06:45Z",
+    "modified": "2023-09-07T03:06:45Z",
+    "tags": "sociology",
+    "slug": "the-road-to-character",
+    "count": 1,
+    "cover": "/assets/artwork/951398384.jpg"
   },
   {
     "assetid": "965056587",
