@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
 
-ANNOTATION_FILE=${1:-annotations.json}
+SCRIPT="$(realpath "$0")"
+DIR=${SCRIPT%/*}
 
-./ibooktomd.sh $ANNOTATION_FILE
+[[ -d docs/_site ]] && rm -rf $DIR/docs/_site
+[[ -d docs/.jekyll-cache ]] && rm -rf $DIR/docs/.jekyll-cache
 
-[[ -d docs/_site ]] && rm -rf docs/_site
-[[ -d docs/.jekyll-cache ]] && rm -rf docs/.jekyll-cache
-
-cd docs || exit
+cd $DIR/docs || exit
 bundle exec jekyll serve

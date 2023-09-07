@@ -5,9 +5,7 @@ set -e
 SCRIPT="$(realpath "$0")"
 DIR=${SCRIPT%/*}
 PROG=${0##*/}
-OUTDIR=docs/_annotations
-DATADIR=docs/_data
-export OUTDIR
+OUTDIR=$DIR/docs
 
 _usage() {
   echo "
@@ -18,8 +16,10 @@ _usage() {
     \$ $PROG [-o DIR] [file]
 
   OPTIONS
-    -h, --help        Shows this help message
-    -o, --out         Directory to"
+    -h, --help
+    -o, --out <DIR>
+    -d, --data [book|genre|activity|all]
+    -f, --files [annotation|tag|all]"
   exit 1
 }
 
@@ -38,6 +38,9 @@ if [[ $# -gt 0 ]]; then
     case "$cur" in
     -h | --help) _usage ;;
     -o | --out) OUTDIR="${next}" ;;
+    -d | --data) CREATE_DATA="${next}" ;;
+    -f | --files) CREATE_FILES="${next}" ;;
+    -A | --create-all) CREATE_ALL=1 ;;
     *.json) ANNOTATIONS_FILE="${cur}" ;;
     esac
   done
@@ -46,31 +49,64 @@ fi
 [[ ! -f $ANNOTATIONS_FILE ]] && errorMsg "Cannot find json file"
 [[ ! -f $DIR/bookstand.jq ]] && errorMsg "bookstand.jq does not exist"
 
-[[ -d ${OUTDIR}-old ]] && rm -rf ${OUTDIR}-old
-[[ -d $OUTDIR ]] && mv $OUTDIR ${OUTDIR}-old
+tabs 4
 
-tabs 2
-mkdir -p $OUTDIR
-mkdir -p $DATADIR
+mkdir -p $OUTDIR/_data
 
-echo "Writing $DATADIR/books.json"
-jq -L $DIR -r 'include "bookstand"; book_list' $ANNOTATIONS_FILE >$DATADIR/books.json
+create_book_data() {
+  echo "Writing $OUTDIR/_data/books.json"
+  jq -L $DIR -r 'include "bookstand"; book_list' $ANNOTATIONS_FILE >$OUTDIR/_data/books.json
+}
+create_genre_data() {
+  echo "Writing $OUTDIR/_data/genre.json"
+  jq -L $DIR -r 'include "bookstand"; annotation_tags' $ANNOTATIONS_FILE >$OUTDIR/_data/genre.json
+}
 
-echo "Writing $DATADIR/genre.json"
-jq -L $DIR -r 'include "bookstand"; annotation_tags' $ANNOTATIONS_FILE >$DATADIR/genre.json
+create_activity_data() {
+  echo "Writing $OUTDIR/_data/activity.json"
+  jq -L $DIR -r 'include "bookstand"; annotation_list' $ANNOTATIONS_FILE >$OUTDIR/_data/activity.json
+}
 
-echo "Writing $DATADIR/activity.json"
-jq -L $DIR -r 'include "bookstand"; annotation_list' $ANNOTATIONS_FILE >$DATADIR/activity.json
+create_annotation_files() {
+  echo "Creating markdown files to $OUTDIR/_annotations"
+  [[ -d $OUTDIR/_annotations ]] && rm -rf $OUTDIR/_annotations
+  source <(
+    jq -L $DIR -r --arg out $OUTDIR/_annotations \
+      'include "bookstand"; create_annotations_markdown($out)' $ANNOTATIONS_FILE
+  )
+  $DIR/getbookcover.sh -w 150 --get-assetid $ANNOTATIONS_FILE
+}
 
-echo "Creating markdown files to $OUTDIR"
-source <(jq -L $DIR -r 'include "bookstand"; create_markdown|join("\n\n")' $ANNOTATIONS_FILE)
+create_tag_files() {
+  echo "Creating tag files to $OUTDIR/_tags"
+  [[ -d $OUTDIR/_tags ]] && rm -rf $OUTDIR/_tags
+  source <(
+    jq -L $DIR -r --arg out $OUTDIR/_tags \
+      'include "bookstand"; create_tag_markdown($out)' $OUTDIR/_data/genre.json
+  )
+}
 
-if [[ -d ${OUTDIR}-old ]]; then
-  sdiff -s <(ls -1 $OUTDIR) <(ls -1 ${OUTDIR}-old)
-  rm -rf ${OUTDIR}-old
+create_all_files() {
+  create_annotation_files
+  create_tag_files
+}
+
+create_all_data() {
+  create_book_data
+  create_genre_data
+  create_activity_data
+}
+
+create_all() {
+  create_all_files
+  create_all_data
+}
+
+[[ -n $CREATE_DATA ]] && create_${CREATE_DATA}_data
+[[ -n $CREATE_FILES ]] && create_${CREATE_FILES}_files
+
+if [[ -z $CREATE_DATA ]] && [[ -z $CREATE_FILES ]]; then
+  CREATE_ALL=1
 fi
 
-mkdir -p docs/_tags
-source <(jq -r 'map({ title:.name, content: (["---","title: \(.name)","layout: tag","---"]|join("\n")) })
-| map(@sh "echo -e \(.content) >"+ "docs/_tags/\(.title).html")
-| join("\n\n")' $DATADIR/genre.json)
+[[ $CREATE_ALL -eq 1 ]] && create_all

@@ -10,11 +10,9 @@ def epublocation($cfi):
   $cfi
   | gsub("[^0-9]";"-") | gsub("^[-]+";"") | gsub("[-]+$";"";"x") | gsub("[-]{1,}";"-")
   | split("-")|.[1:]
-  | map(select(length < 5)|tonumber)
-  ;
+  | map(select(length < 5)|tonumber);
 
 def squo: [39]|implode;
-
 def squote($text): [squo,$text,squo]|join("");
 def dquote($text): "\"\($text)\"";
 
@@ -30,20 +28,18 @@ def get_author($a):
 def get_author: get_author(.);
 
 def remove_citations($text):
-  $text | gsub("(?<period>[;\\.\",\\”])[0-9]{1,2}$";.period+""; "x");
+  $text
+  | gsub("(?<period>[;\\.\",\\”])[0-9]{1,2}$";.period+""; "x")
+  | gsub("(?<notnumber>[^0-9])\\.[0-9]+(?<whitespace>[\\s\\n]+)";.notnumber+"."+.whitespace;"x");
 
 def remove_citations: remove_citations(.);
-
-def slugify($text):
-  $text|tostring|ascii_downcase| split("[:&\\?\\.](\\s)?";"x")[0]
-  | [[match("(?<a>[a-zA-Z0-9]+).*?";"ig")] | .[].string] | join("-");
 
 def split_long_title($text):
   $text
   | split("\\s?[(:)]\\s?";"x")
   | (map(select(length > 0))| [.[0],(.[1:]|map(select(contains("Volume"))))]|flatten|join(" "));
 
-def slugify2($text):
+def slugify($text):
   ([39]|implode) as $squo
   | (if ($text|length)>40 then split_long_title($text) else $text end)
   | ascii_downcase
@@ -53,7 +49,6 @@ def slugify2($text):
   | gsub("-$";"";"x")
   ;
 
-
 def wrap_text($text):
   $text
   | gsub("[\\s]{2,}";" ";"x")
@@ -62,8 +57,17 @@ def wrap_text($text):
   | (.[0]|tostring|gsub("^[\\s]+";"")) as $first | .[1:] as $last
   | [ "*  \($first)", ($last|map("   \(.)")) ]
   | flatten(2)
-  | join("\n")
-  | gsub("(?<a>[^\\s])[0-9]{1,2}"; .a; "x");
+  | join("\n");
+
+def list_item($text):
+  $text
+  | split("\n")
+  | (.[0]|tostring|gsub("^[\\s]+";"")) as $first | .[1:] as $last
+  | [ "\n*  \($first)", ($last|map("   \(.)")) ]
+  | flatten(2)
+  | join("\n");
+
+def list_item: list_item(.);
 
 def markdown_tmpl:
   [
@@ -79,10 +83,24 @@ def markdown_tmpl:
     "",
     .text,
     ""
-  ]| join ("\n");
+  ] | join("\n");
 
 def heading($text;$index):
   if ($text|length)>0 then "\n## \($text)\n" elif ($index|tonumber) > 0 then "\n---\n" else "" end;
+
+# def format_text:
+#   gsub("[\\t]{2,}";"\t";"x")
+#   | gsub("^[\\t\\n]+";"";"gx")
+#   | split("[\\n]";"x")
+#   | join("\n")
+#   ;
+
+def format_text:
+  split("[\\n\\t]";"x")
+  | join("\n")
+  | gsub("[\\n]{2,}";"\n\n")
+  | gsub("[\\s\\n\\t]+$";"";"x")
+  ;
 
 def group_by_chapter:
   sort_by(.booklocation)
@@ -90,7 +108,7 @@ def group_by_chapter:
   | to_entries
   | map( .key as $k | .value |
     [ heading(.[0].ZFUTUREPROOFING5; $k),
-      (map(wrap_text(.ZANNOTATIONSELECTEDTEXT|remove_citations))|join("\n\n"))
+      (map(.ZANNOTATIONSELECTEDTEXT|remove_citations|unsmart|format_text|list_item)|join("\n\n"))
     ]  | join("\n"))
   | flatten
   | join("\n");
@@ -102,12 +120,11 @@ def annotation_base:
   | map({
       assetid: .[0].ZASSETID,
       title: .[0].ZTITLE,
-      # title: ((if (.[0].ZTITLE|test(":")) then dquote(.[0].ZTITLE) else (.[0].ZTITLE) end)),
       author: .[0].ZAUTHOR,
       created: min_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       modified: max_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       tags: (.[0].ZGENRE|get_tags),
-      slug: slugify2(.[0].ZTITLE),
+      slug: slugify(.[0].ZTITLE),
       count: length,
       text: group_by_chapter
     });
@@ -123,7 +140,7 @@ def annotation_base2:
       created: min_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       modified: max_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       tags: (.[0].ZGENRE|get_tags),
-      slug: slugify2(.[0].ZTITLE),
+      slug: slugify(.[0].ZTITLE),
       count: length,
       annotations: (map({
         text: (.ZANNOTATIONSELECTEDTEXT),
@@ -136,12 +153,6 @@ def book_list:
   annotation_base
   | map(del(.text) | . + {cover: "/assets/artwork/\(.assetid).jpg"} );
 
-
-def format_text:
-  gsub("[\\t]{2,}";"\t";"")
-  | gsub("[\\n]{2,}";"\n";"x")
-  | gsub("[\\n\\s\\t]+$";"";"x")
-  ;
 
 def annotation_list:
   sort_by(.ZANNOTATIONCREATIONDATE)
@@ -166,7 +177,33 @@ def annotation_tags:
 def annotation_json:
   annotation_base|map(del(.text,.created,.modified,.slug));
 
-def create_markdown:
+def create_post_markdown:
+  annotation_base | map(
+    @sh "echo \( markdown_tmpl )" +
+    " | cat -s > docs/_posts/\(.created|fromdate|strftime("%F"))-\(.slug).md"
+  );
+
+def create_annotations_markdown($out):
   annotation_base
-  | map( @sh "echo \( markdown_tmpl )" + " | cat -s > \(env.OUTDIR//"ibooks")/\(
-      if env.SLUGDATE then (.created|fromdate|strftime("%F"))+"-" else "" end )\(.slug).md");
+  | map( @sh "echo \( markdown_tmpl )" + " | cat -s > \($out)/\(.slug).md" )
+  | join("\n\n")
+  | "mkdir -p \($out)\n" + . ;
+
+def create_annotations_markdown: . | create_annotations_markdown("docs/_annotations");
+
+def create_tag_markdown($out):
+  map({
+    title: .name,
+    content: ([
+      "---",
+      "title: \"Tag: \(.name)\"",
+      "tags: \(.name)",
+      "layout: tag",
+      "---"
+    ] | join("\n"))
+  })
+  | map(@sh "echo -e \(.content) >"+ "\($out)/\(.title).html")
+  | join("\n\n")
+  | "mkdir -p \($out)\n" + . ;
+
+def create_tag_markdown: . | create_tag_markdown("docs/_tags");

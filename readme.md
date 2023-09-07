@@ -12,10 +12,9 @@ Build markdown file for annotations
 
 ```sh
 # create page
-./ibooktomd.sh --out docs/ibooks annotations.json
+./ibooktomd.sh --out docs annotations.json
 
-# create post
-SLUGDATE=1 ./ibooktomd.sh --out _posts annotations.json
+
 ```
 
 ```console
@@ -51,7 +50,7 @@ IDS=($(jq -r 'map(.ZASSETID)|unique|join("\n")' annotations.json))
 ./getbookcover.sh 1483501679
 
 # pass json file instead of ids
-./getbookcover.sh --get-assetid annotations.json
+./getbookcover.sh -w 150 --get-assetid annotations.json
 ```
 
 Default:
