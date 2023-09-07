@@ -8,5 +8,5 @@ tags: "history"
 slug: the-address-book
 ---
 
-*  Addresses aren't just for emergency services. They also exist so people can find you, police you, tax you, and try to sell you things you don't need through the mail. 
+*  Addresses aren't just for emergency services. They also exist so people can find you, police you, tax you, and try to sell you things you don't need through the mail.
 

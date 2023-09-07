@@ -8,7 +8,7 @@ tags: "nature"
 slug: how-animals-grieve
 ---
 
-*  Chimpanzees and elephants feel grief. Pioneering women field scientists Jane Goodall, observing chimpanzees in Tanzania, and Cynthia Moss, studying elephants in Kenya, reported years ago firsthand observations of the sorrow these animals felt at the death of loved ones. 
+*  Chimpanzees and elephants feel grief. Pioneering women field scientists Jane Goodall, observing chimpanzees in Tanzania, and Cynthia Moss, studying elephants in Kenya, reported years ago firsthand observations of the sorrow these animals felt at the death of loved ones.
 
 *  In his book, Kessler put it this way:
    The longer I spent with our goats, the more complex and wonderful their emotional life seemed: their moods, desires, sensitivity, intelligence, attachments to place and one another, and us. But also the way they communicated messages with their bodies, voices, and eyes in ways I can't try to translate: their goat song.

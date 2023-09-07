@@ -8,7 +8,13 @@ tags: "mathematics"
 slug: shape
 ---
 
-*  Good luck for shipwreck guy: depressed and hungry though he is, he consoles himself by working his way through Euclid's demonstrations one by one, tracing out the diagrams in the sand with a stick. That's just what it was like to be young, sensitive, poetic Wordsworth, writes middle-aged Wordsworth! Or to let the poet speak: Mighty is the charm of those abstractions to a mind beset With images, and haunted by itself.
+*  Good luck for shipwreck guy: depressed and hungry though he is, he consoles himself by working his way through Euclid's demonstrations one by one, tracing out the diagrams in the sand with a stick. That's just what it was like to be young, sensitive, poetic Wordsworth, writes middle-aged Wordsworth! Or to let the poet speak:
+   
+   Mighty is the charm
+   
+   of those abstractions to a mind beset
+   
+   With images, and haunted by itself.
 
 ---
 

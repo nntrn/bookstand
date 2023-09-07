@@ -52,13 +52,15 @@ slug: monoculture
 
 ---
 
-*  You in the West have the spiritually poorest of the poor much more than you have the physically poor. Often among the rich are very spiritually poor people. I find it is easy to give a plate of rice to a hungry person, to furnish a bed to a person who has no bed, but to console or to remove the bitterness, anger, and loneliness that comes from being spiritually deprived, that takes a long time. —MOTHER TERESA
+*  You in the West have the spiritually poorest of the poor much more than you have the physically poor. Often among the rich are very spiritually poor people. I find it is easy to give a plate of rice to a hungry person, to furnish a bed to a person who has no bed, but to console or to remove the bitterness, anger, and loneliness that comes from being spiritually deprived, that takes a long time. 
+   
+   —MOTHER TERESA
 
 *  Callahan points out that the market model of health care will never encourage us to use less medical care, will never put limits on our desire for ever better health, and will never limit the development and use of health care technology, no matter how expensive it becomes or how incremental the health gains might be. The economic story will never encourage us to accept our own inevitable aging and death. Instead, the economic story in medicine orients us away from all of that, keeps us struggling for ever-longer life through advances in medical technology that simultaneously produce billions of dollars for the medical industry
 
 ---
 
-*  Truth in science mattered. Galileo had linked the two, saying: "The conclusions of natural science are true and necessary, and the judgment of man has nothing to do with them." What he meant was that a scientific result was what it was — you couldn't just create a different outcome because you didn't like what you'd found. 
+*  Truth in science mattered. Galileo had linked the two, saying: "The conclusions of natural science are true and necessary, and the judgment of man has nothing to do with them."5 What he meant was that a scientific result was what it was — you couldn't just create a different outcome because you didn't like what you'd found.
 
 ---
 
@@ -68,7 +70,9 @@ slug: monoculture
 
 ---
 
-*  Instead of striking out on my own, I had conformed to a way of life and modes of thought that had often seemed alien. As a result, I found myself in a wasteland, an inauthentic existence, in which I struggled mightily but fruitlessly to do what I was told. —KAREN ARMSTRONG
+*  Instead of striking out on my own, I had conformed to a way of life and modes of thought that had often seemed alien. As a result, I found myself in a wasteland, an inauthentic existence, in which I struggled mightily but fruitlessly to do what I was told. 
+   
+   —KAREN ARMSTRONG
 
 *  A monoculture based on economic values and assumptions develops. As the years go by, we scarcely remember any other way to think, any other way to live. Other stories that represent other ways of thinking and being are lost to one ultimate value: whatever is economic.
 
@@ -82,7 +86,7 @@ slug: monoculture
 
 ---
 
-*  Wendy Parkins and Geoffrey Craig, "slow living is a process whereby everyday life — in all its pace and complexity, frisson and routine — is approached with care and attention…is above all an attempt to live in the present in a meaningful, sustainable, thoughtful and pleasurable way." In that way, the Slow Food movement, as a parallel structure, serves the human struggle to live more freely and truthfully.
+*  Wendy Parkins and Geoffrey Craig, "slow living is a process whereby everyday life — in all its pace and complexity, frisson and routine — is approached with care and attention…is above all an attempt to live in the present in a meaningful, sustainable, thoughtful and pleasurable way."5 In that way, the Slow Food movement, as a parallel structure, serves the human struggle to live more freely and truthfully.
 
 *  As designer Ilse Crawford put it, "In creating our homes we have failed to pay attention to many of our true needs, the ones that really make a home warm and nurture those that live in it
 

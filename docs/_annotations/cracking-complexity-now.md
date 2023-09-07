@@ -20,7 +20,9 @@ slug: cracking-complexity-now
 
 *  Too many factors are at play (known and unknown) that haven't been identified, let alone mastered; rather than linear and observable, the chain of causation is dynamic and obscure. On top of all this, the human factor is different with every complex challenge. People in a given organization may possess silo mentalities, harbor different objectives, and be resistant to change; they may also be ambitious and politically motivated. Thus, a solution that worked in one place at one time won't necessarily work somewhere else or even in the same place at another time, even when the complex challenge seems to be the same on the surface.
 
-*  Broadly speaking, challenges are either: 1.Technical in nature, mechanistic, orderly, linear, and completely predictable.
+*  Broadly speaking, challenges are either:
+   
+   1.Technical in nature, mechanistic, orderly, linear, and completely predictable.
    Simple and complicated challenges are technical in nature. Straight-line, step-by-step solutions can be implemented by anyone (simple), or by experts with the necessary expertise (complicated). You solve simple challenges on your own regularly. For complicated challenges, you either solve them on your own if you happen to have the expertise, or, more often than not, you solve the problem by getting experts to do for you what they've done for others many times before.
    2.Creative in nature, unscientific, messy, unstable, and unpredictable.
 
@@ -62,16 +64,20 @@ slug: cracking-complexity-now
    An ounce of understanding is worth a pound of knowledge.
    And an ounce of wisdom is worth a pound of understanding.
 
-*  As writer, consultant, and teacher Clay Shirky says, "Abundance breaks more things than scarcity." With data, information, and knowledge being abundant, the advantage that people, companies, and societies enjoyed because they possessed proprietary knowledge assets is now diminished or completely gone, and what remains both scarce and coveted is understanding, wisdom, and speed of execution
+*  As writer, consultant, and teacher Clay Shirky says, "Abundance breaks more things than scarcity."2 With data, information, and knowledge being abundant, the advantage that people, companies, and societies enjoyed because they possessed proprietary knowledge assets is now diminished or completely gone, and what remains both scarce and coveted is understanding, wisdom, and speed of execution
 
 *  The flaw, though, is believing that the best way to benefit from these attributes is to opt in to an interview-based, hub-and-spoke model: The answers are "out there" and all we have to do is to hire a partner to bring them to us.
-   That model is not suited to complexity. •It taps into the important contributions of requisite variety through a linear sequence of interviews (linear, even if scheduling of interviews allows for some to happen in parallel). This isn't fast enough, and it doesn't build connections among the people who collectively hold the answers.
+   That model is not suited to complexity.
+   
+   •It taps into the important contributions of requisite variety through a linear sequence of interviews (linear, even if scheduling of interviews allows for some to happen in parallel). This isn't fast enough, and it doesn't build connections among the people who collectively hold the answers.
 
 *  The right way to benefit from outside experts is to combine them within the requisite variety group. The right way to find answers is through conversations, not interviews. The right way to prepare people for execution is to engage them in co-creating their way forward, not to have someone else tell them what they have to do.
 
 ---
 
-*  The Complexity Formula: Solving for Complexity in 1 Simple Steps 1.Acknowledge the complexity.
+*  The Complexity Formula: Solving for Complexity in 10 Simple Steps
+   
+   1.Acknowledge the complexity.
    2.Construct a really, really good question.
    3.Target a requisite variety of solvers.
    4.Localize the solvers.
@@ -80,17 +86,23 @@ slug: cracking-complexity-now
    7.Put people on a collision course.
    8.Advance iteratively and emergently.
    9.Change how people interact.
-   1.Translate clarity and insights into action.
+   10.Translate clarity and insights into action.
 
 ---
 
 *  RECOGNIZING THAT YOU'RE NOT IN CONTROL of your complex challenge provides the foundation for moving forward
 
-*  Would two "experts" bring about the same result? No Yes Talent strategy
+*  Would two "experts" bring about the same result?
+   
+   No
+   
+   Yes
+   
+   Talent strategy
 
 ---
 
-*  With a complex challenge, however, while you could think of a straightforward label (like "Double the business," "Outpace the market," or "Take the brand to the next level"), this drives deeper questions about the challenge itself, which results in a better expression of the challenge, not a solution. That's exactly what you need to get going: a better expression of the challenge. 
+*  With a complex challenge, however, while you could think of a straightforward label (like "Double the business," "Outpace the market," or "Take the brand to the next level"), this drives deeper questions about the challenge itself, which results in a better expression of the challenge, not a solution. That's exactly what you need to get going: a better expression of the challenge.
 
 *  Use questions about the complicated to solve the challenge. Use questions about the complex to define the challenge.
 
@@ -118,7 +130,7 @@ slug: cracking-complexity-now
 
 ---
 
-*  The noise we're talking about in this chapter takes all forms—too much information all at once; too much wrong or inaccurate information; and too much missing, ambiguous, unreliable, or fragmented information. 
+*  The noise we're talking about in this chapter takes all forms—too much information all at once; too much wrong or inaccurate information; and too much missing, ambiguous, unreliable, or fragmented information.
 
 *  We are making our way toward clarity and action in the face of complexity
 

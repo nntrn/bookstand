@@ -36,7 +36,7 @@ slug: the-well-spoken-thesaurus
    -personifies
    -is the product of
    -amounts to no more than
-   -is at once apparent in 
+   -is at once apparent in
 
 ---
 
@@ -193,7 +193,6 @@ slug: the-well-spoken-thesaurus
    -patent
    -well-pronounced
    -plain
-   
 
 *  ON THE SAME PAGE
    -working from the same script
@@ -202,7 +201,9 @@ slug: the-well-spoken-thesaurus
 ---
 
 *  PLAYING DUMB
-   -laying on the Socratic irony She's playing dumb to make you look ridiculous.
+   -laying on the Socratic irony
+   
+   She's playing dumb to make you look ridiculous.
    She's using Socratic irony to make you look ridiculous.
 
 ---
@@ -242,7 +243,9 @@ slug: the-well-spoken-thesaurus
    -it is not lost on me
    -I arrive at understanding
    -I have it that
-   "It is simply this. That Space, as our mathematicians have it, is spoken of as having three dimensions, which one may call length, breadth, and thickness, and is always definable by reference to three planes, each at right angles to the others." H. G. Wells, The Time Machine As far as I know, the flow of oil has stopped.
+   "It is simply this. That Space, as our mathematicians have it, is spoken of as having three dimensions, which one may call length, breadth, and thickness, and is always definable by reference to three planes, each at right angles to the others." H. G. Wells, The Time Machine
+   
+   As far as I know, the flow of oil has stopped.
    I am given to understand that the flow of oil has stopped.
 
 *  UNIQUE

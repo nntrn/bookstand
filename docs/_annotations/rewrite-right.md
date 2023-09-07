@@ -14,19 +14,193 @@ slug: rewrite-right
 
 *  The first rule of style is to have something to say. The second rule of style is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.—George Polya
 
-*  A compound sentence is two or more independent clauses. The polls closed at 8 p.m., and independent clause the ballots were counted within an hour. independent clause
+*  A compound sentence is two or more independent clauses.
+   
+   The polls closed at 8 p.m., and
+   
+   independent clause
+   
+   the ballots were counted within an hour.
+   
+   independent clause
 
-*  A complex sentence is an independent clause plus one or more dependent clauses (a dependent clause cannot stand by itself as a separate sentence). Although the polls closed at 8 p.m., dependent clause we had counted the ballots by 9:. independent clause
+*  A complex sentence is an independent clause plus one or more dependent clauses (a dependent clause cannot stand by itself as a separate sentence).
+   
+   Although the polls closed at 8 p.m.,
+   
+   dependent clause
+   
+   we had counted the ballots by 9:00.
+   
+   independent clause
 
 *  Certain words tell the reader what to expect. But or however warns that you're changing direction; therefore spotlights a conclusion
 
-*  Confusing: Not all patients do well; some fail completely. The overall results are good. Clear: Not all patients do well; some fail completely. However, the overall results are good.
+*  Confusing: Not all patients do well; some fail completely. The overall results are good.
+   
+   Clear: Not all patients do well; some fail completely. However, the overall results are good.
 
-*  TRANSITIONAL WORDS To indicate a conclusion: thus, accordingly, therefore, so, hence, as a result, consequently To introduce examples: for instance, namely, for example, to illustrate To build a case: also, similarly, in addition, as well as, furthermore, moreover To change direction or show contrast: on the other hand, however, on the contrary, even though, nonetheless, conversely, but, yet To indicate time, place, or order: finally, first, next, then, further, meanwhile, above all, still, again 
+*  TRANSITIONAL WORDS
+   
+   To indicate a conclusion:
+   
+   thus, accordingly, therefore, so, hence, as a result, consequently
+   
+   To introduce examples:
+   
+   for instance, namely, for example, to illustrate
+   
+   To build a case:
+   
+   also, similarly, in addition, as well as, furthermore, moreover
+   
+   To change direction or show contrast:
+   
+   on the other hand, however, on the contrary, even though, nonetheless, conversely, but, yet
+   
+   To indicate time, place, or order:
+   
+   finally, first, next, then, further, meanwhile, above all, still, again
 
 ---
 
-*  REDUNDANT EXPRESSIONS (Delete the italicized words) Adjectives absolute necessity active consideration advance reservations both alike close proximity complete monopoly conclusive proof end result final outcome free gift general rule new recruit past history personal opinion positive identification proposed plan root cause single unit temporary reprieve usual custom Nouns Capitol building component parts doctorate degree weather conditions Prepositional Phrases brief in duration classified into groups estimated at about few in number filled to capacity green in color large in size plan in advance rectangular in shape 1 a.m. in the morning Adverbs completely surround eliminate entirely might possibly mutually agreeable really dangerous Prefixes, Suffixes irregardless to the westward unrelentlessly Verb Tails assemble together cancel out connect up continue on enclosed herein face up to follow after hurry up join together made out of merge together visit with Repetitive Phrases (Choose one part) any and all exact same if and when new all-time record high unless and until
+*  REDUNDANT EXPRESSIONS
+   
+   (Delete the italicized words)
+   
+   Adjectives
+   
+   absolute necessity
+   
+   active consideration
+   
+   advance reservations
+   
+   both alike
+   
+   close proximity
+   
+   complete monopoly
+   
+   conclusive proof
+   
+   end result
+   
+   final outcome
+   
+   free gift
+   
+   general rule
+   
+   new recruit
+   
+   past history
+   
+   personal opinion
+   
+   positive identification
+   
+   proposed plan
+   
+   root cause
+   
+   single unit
+   
+   temporary reprieve
+   
+   usual custom
+   
+   Nouns
+   
+   Capitol building
+   
+   component parts
+   
+   doctorate degree
+   
+   weather conditions
+   
+   Prepositional Phrases
+   
+   brief in duration
+   
+   classified into groups
+   
+   estimated at about
+   
+   few in number
+   
+   filled to capacity
+   
+   green in color
+   
+   large in size
+   
+   plan in advance
+   
+   rectangular in shape
+   
+   1 a.m. in the morning
+   
+   Adverbs
+   
+   completely surround
+   
+   eliminate entirely
+   
+   might possibly
+   
+   mutually agreeable
+   
+   really dangerous
+   
+   Prefixes, Suffixes
+   
+   irregardless
+   
+   to the westward
+   
+   unrelentlessly
+   
+   Verb Tails
+   
+   assemble together
+   
+   cancel out
+   
+   connect up
+   
+   continue on
+   
+   enclosed herein
+   
+   face up to
+   
+   follow after
+   
+   hurry up
+   
+   join together
+   
+   made out of
+   
+   merge together
+   
+   visit with
+   
+   Repetitive Phrases
+   
+   (Choose one part)
+   
+   any and all
+   
+   exact same
+   
+   if and when
+   
+   new all-time record high
+   
+   unless and until
 
 *  Claim. Many careful writers prefer the verbs assert or maintain.
 
@@ -36,9 +210,13 @@ slug: rewrite-right
 
 ---
 
-*  A bore is a man who, when you ask him how he is, tells you. —Bert Taylor
+*  A bore is a man who, when you ask him how he is, tells you.
+   
+   —Bert Taylor
 
-*  Dashes Dashes are an interruption, like waving your finger under the reader's nose. Whenever a colon, semicolon, or comma would serve just as well, use it. Reserve the dash for situations where dramatic emphasis is justified.
+*  Dashes
+   
+   Dashes are an interruption, like waving your finger under the reader's nose. Whenever a colon, semicolon, or comma would serve just as well, use it. Reserve the dash for situations where dramatic emphasis is justified.
 
 *  There is almost always a greater pleasure to come across a semicolon than a period….You get a pleasant feeling of expectancy; there is more to come; read on; it will get clearer.—George R. Will
 

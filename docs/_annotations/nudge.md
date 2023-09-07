@@ -16,11 +16,11 @@ slug: nudge
 
 ## 1 Biases and Blunders
 
-*  This process is called "anchoring and adjustment." You start with some anchor, the number you know, and adjust in the direction you think is appropriate. So far, so good. The bias occurs because the adjustments are typically insufficient. Experiments repeatedly show that, in problems similar to our example, people from Chicago are likely to make a high guess (based on their high anchor) while those from Green Bay guess low (based on their low anchor). As it happens, Milwaukee has about 5,0 people.
+*  This process is called "anchoring and adjustment." You start with some anchor, the number you know, and adjust in the direction you think is appropriate. So far, so good. The bias occurs because the adjustments are typically insufficient. Experiments repeatedly show that, in problems similar to our example, people from Chicago are likely to make a high guess (based on their high anchor) while those from Green Bay guess low (based on their low anchor). As it happens, Milwaukee has about 580,000 people.
 
-*  Anchors can even influence how you think your life is going. In one experiment, college students were asked two questions: (a) How happy are you? (b) How often are you dating? When the two questions were asked in this order the correlation between the two questions was quite low (.). But when the question order was reversed, so that the dating question was asked first, the correlation jumped to .
+*  Anchors can even influence how you think your life is going. In one experiment, college students were asked two questions: (a) How happy are you? (b) How often are you dating? When the two questions were asked in this order the correlation between the two questions was quite low (.11). But when the question order was reversed, so that the dating question was asked first, the correlation jumped to .
 
-*  When charities ask you for a donation, they typically offer you a range of options such as $0, $0, $,0, $,0, or "other." If the charity's fund-raisers have an idea of what they are doing, these values are not picked at random, because the options influence the amount of money people decide to donate. People will give more if the options are $0, $0, $,0, and $,0, than if the options are $, $, $0, and $0.
+*  When charities ask you for a donation, they typically offer you a range of options such as $100, $250, $1,000, $5,000, or "other." If the charity's fund-raisers have an idea of what they are doing, these values are not picked at random, because the options influence the amount of money people decide to donate. People will give more if the options are $100, $250, $1,000, and $5,000, than if the options are $50, $75, $100, and $150.
 
 *  Second marriage, Samuel Johnson once quipped, "is the triumph of hope over experience."
 
@@ -28,7 +28,9 @@ slug: nudge
 
 *  dozens of replications of this experiment, but the results are nearly always the same. Once I have a mug, I don't want to give it up. But if I don't have one, I don't feel an urgent need to buy one. What this means is that people do not assign specific values to objects. When they have to give something up, they are hurt more than they are pleased if they acquire the very same thing.
 
-*  Its preference was that if a company charged different prices to cash and credit customers, the credit price should be considered the "normal" (default) price and the cash price a discount—rather than the alternative of making the cash price the usual price and charging a surcharge to credit card customers. The credit card companies had a good intuitive understanding of what psychologists would come to call "framing." The idea is that choices depend, in part, on the way in which problems are stated
+*  Its preference was that if a company charged different prices to cash and credit customers, the credit price should be considered the "normal" (default) price and the cash price a discount—rather than the alternative of making the cash price the usual price and charging a surcharge to credit card customers.
+   
+   The credit card companies had a good intuitive understanding of what psychologists would come to call "framing." The idea is that choices depend, in part, on the way in which problems are stated
 
 ## 2 Resisting Temptation
 

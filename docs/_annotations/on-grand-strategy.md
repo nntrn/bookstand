@@ -14,9 +14,9 @@ slug: on-grand-strategy
 
 *  Tetlock's hedgehogs, in contrast, shunned self-deprecation and brushed aside criticism. Aggressively deploying big explanations, they displayed a "bristly impatience with those who 'do not get it.'" When the intellectual holes they dug got too deep, they'd simply dig deeper. They became "prisoners of their preconceptions," trapped in cycles of self-congratulation. These played well as sound bites, but bore little relationship to what subsequently occurred.
 
-*  Little things add up in unpredictably big ways—and yet, leaders can't let uncertainties paralyze them. 
+*  Little things add up in unpredictably big ways—and yet, leaders can't let uncertainties paralyze them.
 
-*  [A] compass . . . [will] point you true north from where you're standing, but it's got no advice about the swamps and deserts and chasms that you'll encounter along the way. If in pursuit of your destination, you plunge ahead, heedless of obstacles, and achieve nothing more than to sink in a swamp . . . , [then] what's the use of knowing true north? 
+*  [A] compass . . . [will] point you true north from where you're standing, but it's got no advice about the swamps and deserts and chasms that you'll encounter along the way. If in pursuit of your destination, you plunge ahead, heedless of obstacles, and achieve nothing more than to sink in a swamp . . . , [then] what's the use of knowing true north?28
 
 *  Spielberg's Lincoln, therefore, shows actions taken across time (Berlin), the coexistence of opposites within a space (Fitzgerald), and a shifting of scale that echoes—why not Tolstoy? For both Lincolns, the one portrayed and the one who lived, grasped intuitively what Tolstoy tried to convey in his own colossal dramatization, War and Peace: that everything relates to everything else. Perhaps that's why the great novelist, who rarely saw "greatness" in any leader, accorded that accolade posthumously to the martyred president
 

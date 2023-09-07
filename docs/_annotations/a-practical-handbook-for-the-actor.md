@@ -10,7 +10,7 @@ slug: a-practical-handbook-for-the-actor
 
 *  Acting requires common sense, bravery, and a lot of will: the common sense to translate whatever you are given into simple actable terms; the bravery to throw yourself into the action of the play despite fear of failure, self-consciousness, and a thousand other obstacles; and the will to adhere to your ideals, even though it might not be the easiest thing to do.
 
-*  When truth and virtue are so rare in almost every area of our society the world needs theatre and the theatre needs actors who will bring the truth of the human soul to the stage. 
+*  When truth and virtue are so rare in almost every area of our society the world needs theatre and the theatre needs actors who will bring the truth of the human soul to the stage.
 
 ---
 

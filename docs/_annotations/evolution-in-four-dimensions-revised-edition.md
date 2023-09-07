@@ -10,7 +10,7 @@ slug: evolution-in-four-dimensions-revised-edition
 
 *  We see culture as a system of socially transmitted patterns of behavior, preferences, and products of animal activities that characterize a group of social animals. The transmitted behaviors can be skills, practices, habits, beliefs, and so on. Once we have defined culture in this way, "cultural evolution" can be defined as the change, through time, in the nature and frequency of socially transmitted preferences, patterns, or products of behavior in a population.
 
-*  What is true for rabbits also seems to be true for humans (figure 5.). It has been found that the six-month-old babies of women who had had a lot of carrot juice during the last three months of pregnancy preferred cereal made with carrot juice to that made with water
+*  What is true for rabbits also seems to be true for humans (figure 5.3). It has been found that the six-month-old babies of women who had had a lot of carrot juice during the last three months of pregnancy preferred cereal made with carrot juice to that made with water
 
 *  The amniotic fluid, placenta, and milk do more than provide food materials—they also transmit information in the form of traces of the substances that the mother has eaten. This information helps to determine the preferences that become evident in the eating habits and culinary culture of the next generation.
 

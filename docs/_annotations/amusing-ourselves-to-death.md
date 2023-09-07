@@ -28,7 +28,7 @@ slug: amusing-ourselves-to-death
 
 ---
 
-*  Alexis de Tocqueville took note of this fact in his Democracy in America, published in 15: "In America," he wrote, "parties do not write books to combat each other's opinions, but pamphlets, which are circulated for a day with incredible rapidity and then expire."
+*  Alexis de Tocqueville took note of this fact in his Democracy in America, published in 1835: "In America," he wrote, "parties do not write books to combat each other's opinions, but pamphlets, which are circulated for a day with incredible rapidity and then expire."
 
 ---
 
@@ -38,5 +38,5 @@ slug: amusing-ourselves-to-death
 
 *  For "showing of" and "talking about" are two very different kinds of processes. "Pictures," Gavriel Salomon has written, "need to be recognized, words need to be understood."
 
-*  The photograph also lacks a syntax, which deprives it of a capacity to argue with the world. As an "objective" slice of space-time, the photograph testifies that someone was there or something happened. Its testimony is powerful but it offers no opinions—no "should-have-beens" or "might-have-beens." Photography is preeminently a world of fact, not of dispute about facts or of conclusions to be drawn from them. 
+*  The photograph also lacks a syntax, which deprives it of a capacity to argue with the world. As an "objective" slice of space-time, the photograph testifies that someone was there or something happened. Its testimony is powerful but it offers no opinions—no "should-have-beens" or "might-have-beens." Photography is preeminently a world of fact, not of dispute about facts or of conclusions to be drawn from them.
 

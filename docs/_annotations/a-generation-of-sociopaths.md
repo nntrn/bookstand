@@ -9,5 +9,5 @@ slug: a-generation-of-sociopaths
 ---
 
 *  The difference between an American and any other kind of person is that an American lives in anticipation of the future because he knows it will be a great place.
-   —Ronald Reagan (7)
+   —Ronald Reagan (1979)
 

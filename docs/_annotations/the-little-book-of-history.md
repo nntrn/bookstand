@@ -8,5 +8,5 @@ tags: "world"
 slug: the-little-book-of-history
 ---
 
-*  The ultimate aim of history is human self-knowledge. In the words of 2th-century historian R. G. Collingwood: "The value of history is that it teaches us what man has done and thus what man is."
+*  The ultimate aim of history is human self-knowledge. In the words of 20th-century historian R. G. Collingwood: "The value of history is that it teaches us what man has done and thus what man is."
 

@@ -32,9 +32,9 @@ slug: fooled-by-randomness
 
 ---
 
-*  The wise man listens to meaning; the fool only gets the noise. The modern Greek poet C. P. Cavafy wrote a piece in 15 after Philostratus' adage "For the gods perceive things in the future, ordinary people things in the present, but the wise perceive things about to happen."
+*  The wise man listens to meaning; the fool only gets the noise. The modern Greek poet C. P. Cavafy wrote a piece in 1915 after Philostratus' adage "For the gods perceive things in the future, ordinary people things in the present, but the wise perceive things about to happen."
 
 *  The same methodology can explain why the news (the high scale) is full of noise and why history (the low scale) is largely stripped of it (though fraught with interpretation problems). This explains why I prefer not to read the newspaper (outside of the obituary), why I never chitchat about markets, and, when in a trading room, I frequent the mathematicians and the secretaries, not the traders. It explains why it is better to read The New Yorker on Mondays than The Wall Street Journal every morning (from the standpoint of frequency, aside from the massive gap in intellectual class between the two publications).
 
-*  is not offset by a positive one (some psychologists estimate the negative effect for an average loss to be up to 2. the magnitude of a positive one); it will lead to an emotional deficit.
+*  is not offset by a positive one (some psychologists estimate the negative effect for an average loss to be up to 2.5 the magnitude of a positive one); it will lead to an emotional deficit.
 

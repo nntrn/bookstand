@@ -8,11 +8,15 @@ tags: "philosophy"
 slug: an-illustrated-book-of-bad-arguments
 ---
 
-*  The first principle is that you must not fool yourself and you are the easiest person to fool. —Richard P. Feynman
+*  The first principle is that you must not fool yourself and you are the easiest person to fool.
+   
+     —Richard P. Feynman
 
 ---
 
-*  Affirming the consequent is a formal fallacy that takes this form: If A then C, C; hence A. The error lies in assuming that because the consequent is true, the antecedent must also be true, which in reality need not be the case. For example, "People who go to college are successful. John is successful, hence he must have gone to college." Clearly, John's success could be a result of schooling, but it could also be a result of his upbringing, or perhaps his eagerness to overcome difficult circumstances. Generally, because schooling is not the only path to success, one cannot say that a person who is successful must have received schooling.
+*  Affirming the consequent is a formal fallacy that takes this form: If A then C, C; hence A. The error lies in assuming that because the consequent is true, the antecedent must also be true, which in reality need not be the case.
+   
+     For example, "People who go to college are successful. John is successful, hence he must have gone to college." Clearly, John's success could be a result of schooling, but it could also be a result of his upbringing, or perhaps his eagerness to overcome difficult circumstances. Generally, because schooling is not the only path to success, one cannot say that a person who is successful must have received schooling.
 
 ---
 

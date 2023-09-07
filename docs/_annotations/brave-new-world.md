@@ -34,5 +34,8 @@ slug: brave-new-world
 
 *  'Degrade him from what position? As a happy, hard-working, goods-consuming citizen he's perfect. Of course, if you choose some other standard than ours, then perhaps you might say he was degraded. But you've got to stick to one set of postulates. You can't play Electro-magnetic Golf according to the rules of Centrifugal Bumble-puppy.'
 
-*  'But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.' 'In fact,' said Mustapha Mond, 'you're claiming the right to be unhappy.' 'All right, then,' said the Savage defiantly, 'I'm claiming the right to be unhappy.' 'Not to mention the right to grow old and ugly and impotent; the right to have syphilis and cancer; the right to have too little to eat; the right to be lousy; the right to live in constant apprehension of what may happen to-morrow; the right to catch typhoid; the right to be tortured by unspeakable pains of every kind.
+*  'But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.'
+         'In fact,' said Mustapha Mond, 'you're claiming the right to be unhappy.'
+         'All right, then,' said the Savage defiantly, 'I'm claiming the right to be unhappy.'
+         'Not to mention the right to grow old and ugly and impotent; the right to have syphilis and cancer; the right to have too little to eat; the right to be lousy; the right to live in constant apprehension of what may happen to-morrow; the right to catch typhoid; the right to be tortured by unspeakable pains of every kind.
 

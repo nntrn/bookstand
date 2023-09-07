@@ -9,12 +9,14 @@ slug: the-plot-machine
 ---
 
 *  A character or characters...
-   in a difficult situation...
+   in a  difficult situation...
    undertake an endeavor...
-   to reach a goal.
+   to reach a  goal.
    ––––––––
 
-*  THESE ELEMENTS ARE typically arranged into three main sections or acts. Act 1: introduces the characters and their situation.
+*  THESE ELEMENTS ARE typically arranged into three main sections or acts.
+   
+   Act 1: introduces the characters and their situation.
    Act 2: sets them on the endeavor.
    Act 3: depicts their success or failure to reach their goal.
 

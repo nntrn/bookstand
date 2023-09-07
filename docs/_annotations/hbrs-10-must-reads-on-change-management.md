@@ -36,7 +36,7 @@ slug: hbrs-10-must-reads-on-change-management
 
 ---
 
-*  The most effective way to change behavior, therefore, is to put people into a new organizational context, which imposes new roles, responsibilities, and relationships on them. This creates a situation that, in a sense, "forces" new attitudes and behaviors on people. 
+*  The most effective way to change behavior, therefore, is to put people into a new organizational context, which imposes new roles, responsibilities, and relationships on them. This creates a situation that, in a sense, "forces" new attitudes and behaviors on people.
 
 *  When one program doesn't work, senior managers, like the CEO at U.S. Financial, often try another, instituting a rapid progression of programs. But this only exacerbates the problem. Because they are designed to cover everyone and everything, programs end up covering nobody and nothing particularly well. They are so general and standardized that they don't speak to the day-to-day realities of particular units. Buzzwords like "quality," "participation," "excellence," "empowerment," and "leadership" become a substitute for a detailed understanding of the business.
 

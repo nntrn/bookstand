@@ -38,7 +38,6 @@ slug: the-negative-trait-thesaurus
 ---
 
 *  Due to their unconventionality, flaky characters add interest to a story. Their defining characteristics are usually ones that don't normally go together, making them truly unique. Because they're expected to be unpredictable, flaky characters can usually get away with things that regular people can't.
-   
 
 *  Flaky characters don't live by the same rules as everyone else, making them unpredictable and unreliable. They may be perfectly content with changeability, flitting from interest to interest, but their lack of structure frustrates others and makes cooperation difficult. The flaky character's idea of success may differ from that of her co-workers, causing strife at work. Even simple conversation might be hard, since she may not adhere to the accepted norms for common topics such as politics, entertainment, and current events. Relationships may struggle when the flaky character supports a friend one day but then disagrees the next, or her lack of filter and careless words cause offense
 

@@ -44,7 +44,11 @@ slug: screenplay
 
 *  Birth? Life? Death? Isn't that a beginning, middle, and end? Spring, summer, fall, and winter—isn't that a beginning, middle, and end? Morning, afternoon, evening—it's always the same, but different. Think about the rise and fall of great ancient civilizations—Egyptian, Greek, and Roman, each rising from the seed of a small community to the apex of power, then disintegrating and dying.
 
-*  Think about the birth and death of a star, or the beginning of the universe. If there's a beginning, like the Big Bang, is there going to be an end? Think about the cells in our bodies. How often are they replenished, restored, and re-created? Every seven years—within a seven-year cycle all the cells in our bodies are born, function, die, and are reborn again. Think about the first day of a new job, or a new school, or a new house or apartment; you'll meet new people, assume new responsibilities, create new friendships.
+*  Think about the birth and death of a star, or the beginning of the universe. If there's a beginning, like the Big Bang, is there going to be an end?
+   
+   Think about the cells in our bodies. How often are they replenished, restored, and re-created? Every seven years—within a seven-year cycle all the cells in our bodies are born, function, die, and are reborn again.
+   
+   Think about the first day of a new job, or a new school, or a new house or apartment; you'll meet new people, assume new responsibilities, create new friendships.
 
 ---
 
@@ -62,7 +66,7 @@ slug: screenplay
 
 *  When you can express your idea succinctly in terms of action and character—my story is about this person, in this place, doing his/her "thing"—you're beginning the preparation of your screenplay.
 
-*  By doing research—whether in written sources such as books, magazines, or newspapers or through personal interviews—you acquire information. The information you collect allows you to operate from the position of choice, confidence, and responsibility. You can choose to use some, or all, or none of the material you've gathered; that's your choice, dictated by the terms of the story. Not using it because you don't have it offers you no choice at all, and will always work against you and your story. 
+*  By doing research—whether in written sources such as books, magazines, or newspapers or through personal interviews—you acquire information. The information you collect allows you to operate from the position of choice, confidence, and responsibility. You can choose to use some, or all, or none of the material you've gathered; that's your choice, dictated by the terms of the story. Not using it because you don't have it offers you no choice at all, and will always work against you and your story.
 
 *  Remember: The more you know, the more you can communicate. And be in a position of choice and responsibility when making creative decisions.
 
@@ -72,11 +76,17 @@ slug: screenplay
 
 *  Sonny (Al Pacino) holds up the bank in Dog Day Afternoon to get money for a sex-change operation for his male lover. That is his need. If your character creates a system to beat the tables in Las Vegas, how much does he need to win before he knows if the system works or doesn't? The need of your character gives you a goal, a destination, an ending to your story. How your character achieves or does not achieve that goal becomes the action of your story.
 
-*  When you begin to explore your subject, you will see that all things are related in your screenplay. Nothing is thrown in by chance, or because it's cute or clever. "There's a special Providence in the fall of a sparrow," Shakespeare observed. "For every action there is an equal and opposite reaction" is Newton's Third Law of Motion, a natural law of the universe. The same principle applies to your story. It is the subject of your screenplay. KNOW YOUR SUBJECT! 
+*  When you begin to explore your subject, you will see that all things are related in your screenplay. Nothing is thrown in by chance, or because it's cute or clever. "There's a special Providence in the fall of a sparrow," Shakespeare observed. "For every action there is an equal and opposite reaction" is Newton's Third Law of Motion, a natural law of the universe. The same principle applies to your story. It is the subject of your screenplay.
+   
+   KNOW YOUR SUBJECT!
 
 ---
 
-*  "What is character but the determination of incident? And what is incident but the illumination of character?" —The Art of Fiction Henry James
+*  "What is character but the determination of incident? And what is incident but the illumination of character?"
+   
+   —The Art of Fiction
+   
+   Henry James
 
 *  Screenplays are usually about a key incident, and the story is the character acting and reacting to it. It is the major source of all action and all character. After twenty-five years of reading and analyzing screenplays and movies, I have only recently begun to understand the importance of the incident. All good movies, it seems, focus on the unfolding of a specific incident or event; and it is this incident that becomes the engine that powers the story to its completion.
 
@@ -108,7 +118,7 @@ slug: screenplay
 
 *  The way he's described in the stage directions tells us everything we need to know: "Opinionated, strong-willed, quick-tempered….An artist, perhaps a sculptor of battle, who knows that for him death is as close as the owl perched upon the thigh of night….He gives orders well and takes them badly….A wise man who can be a fool…who will go his own way come hell or high water…who so far has yet to fail."
 
-*  I saw four things, four essential qualities that seemed to go into the making of good characters: (), the characters have a strong and defined dramatic need; (), they have an individual point of view; (), they personify an attitude; and (), they go through some kind of change, or transformation.
+*  I saw four things, four essential qualities that seemed to go into the making of good characters: (1), the characters have a strong and defined dramatic need; (2), they have an individual point of view; (3), they personify an attitude; and (4), they go through some kind of change, or transformation.
 
 *  Dramatic need is defined as what your main characters want to win, gain, get, or achieve during the course of your screenplay. The dramatic need is what drives your characters through the story line. It is their purpose, their mission, their motivation, driving them through the narrative action of the story line.
 
@@ -148,5 +158,9 @@ slug: screenplay
 
 ---
 
-*  "Form follows structure; structure doesn't follow form." —I. M. Pei Architect 
+*  "Form follows structure; structure doesn't follow form."
+   
+   —I. M. Pei
+   
+   Architect
 

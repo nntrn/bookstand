@@ -10,13 +10,24 @@ slug: writing-to-be-understood
 
 ## 1. Who Are Your Readers?
 
-*  Readers? How
+*  Readers?
+             
+           
+         
+       
+       
+         
+           
+           How
 
-*  Your audience is never "everyone." Writing for everyone pleases no one. Having a specific audience makes your writing better. Personas, demographic classifications, and customer segments aren't people. Write for people.
+*  Your audience is never "everyone." Writing for everyone pleases no one.
+           Having a specific audience makes your writing better.
+           Personas, demographic classifications, and customer segments aren't people. Write for people.
 
 ## 3. How Much Do They Need to Know?
 
-*  She conducted an experiment in which half of the participants (the tappers) were asked to tap out the rhythms of common songs, while the other half (the listeners) guessed the songs. The tappers estimated how long it would take the listeners to name the right tune. The people tapping were inevitably surprised by the listeners' inability to hear the tune that matched the rhythm. It seemed obvious to the tappers. This study illustrates a phenomenon known as the curse of knowledge, or the challenge of getting out of our own heads.
+*  She conducted an experiment in which half of the participants (the tappers) were asked to tap out the rhythms of common songs, while the other half (the listeners) guessed the songs. The tappers estimated how long it would take the listeners to name the right tune.
+         The people tapping were inevitably surprised by the listeners' inability to hear the tune that matched the rhythm. It seemed obvious to the tappers. This study illustrates a phenomenon known as the curse of knowledge, or the challenge of getting out of our own heads.
 
 ---
 

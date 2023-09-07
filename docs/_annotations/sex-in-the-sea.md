@@ -8,7 +8,9 @@ tags: "biology"
 slug: sex-in-the-sea
 ---
 
-*  Just imagine spending your entire adult life in the big city, meeting tons of attractive fellow singles day in and day out, year after year, but having to wait until just before you kick the bucket to have sex. And if that is not torture enough, when you finally get to do it, your only option is to go back to your hometown and lose your virginity with someone from your high school. That's a salmon's sex life in a nutshell.
+*  Just imagine spending your entire adult life in the big city, meeting tons of attractive fellow singles day in and day out, year after year, but having to wait until just before you kick the bucket to have sex. And if that is not torture enough, when you finally get to do it, your only option is to go back to your hometown and lose your virginity with someone from your high school.
+   
+   That's a salmon's sex life in a nutshell.
 
 *  With a long time until they reach maturity (over a decade in some species) and relatively low reproductive rates (in part because females do not breed every year), sea turtles can't withstand intensive harvesting pressure on adults or their eggs. But harvesting is only one of the challenges faced by sea turtles today. Another, more subtle threat also looms—that of warming temperatures. Sea turtles plan their reproductive cycle to coincide with just the right temperature window within which to lay their eggs. This is because the temperature of the sand determines the sex of the hatchling. It's as if instead of X and Y chromosomes, our sex was dictated by the weather. Babies born in summer would be girls, those in winter, boys.
 
@@ -18,7 +20,13 @@ slug: sex-in-the-sea
 
 ---
 
-*  Pee can be a powerful love potion in the sea. Some male fish fake fatherhood to score more fertilizations. Cuttlefish are convincing cross-dressers. In some fish, the smaller the male, the bigger the cojones.
+*  Pee can be a powerful love potion in the sea.
+   
+   Some male fish fake fatherhood to score more fertilizations.
+   
+   Cuttlefish are convincing cross-dressers.
+   
+   In some fish, the smaller the male, the bigger the cojones.
 
 *  In the world of lobster sex, nothing says "let's get it on" like peeing in your lover's face. Males and females rely on the sultry scent of their urine to set the mood and, once engaged, keep potential rivals at bay until a couple has completed their crustacean consummation.
 

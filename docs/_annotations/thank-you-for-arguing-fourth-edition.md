@@ -8,7 +8,7 @@ tags: "language-arts"
 slug: thank-you-for-arguing-fourth-edition
 ---
 
-*  Truth springs from argument among friends. —DAVID HUME 
+*  Truth springs from argument among friends. —DAVID HUME
 
 *  Rhetoric is the art of influence, friendship, and eloquence, of ready wit and irrefutable logic. And it harnesses the most powerful of social forces, argument.
 
@@ -34,7 +34,11 @@ slug: thank-you-for-arguing-fourth-edition
 
 *  The examples I gave of the core issues—blame, values, and choice—show a certain pattern. The blame questions deal with the past. The values questions are in the present tense. And the choice questions have to do with the future.
 
-*  Present-tense (demonstrative) rhetoric tends to finish with people bonding or separating. Past-tense (forensic) rhetoric threatens punishment. Future-tense (deliberative) argument promises a payoff. You can see why Aristotle dedicated the rhetoric of decision-making to the future.
+*  Present-tense (demonstrative) rhetoric tends to finish with people bonding or separating.
+   
+   Past-tense (forensic) rhetoric threatens punishment.
+   
+   Future-tense (deliberative) argument promises a payoff. You can see why Aristotle dedicated the rhetoric of decision-making to the future.
 
 *  Practical concerns are open to deliberative debate. Because deliberation has to do with choices, everything about it depends—on the circumstances, the time, the people involved, and whatever "public" you mean when you talk about public opinion. Deliberative argument relies on public opinion, not a higher power, to resolve questions.
 

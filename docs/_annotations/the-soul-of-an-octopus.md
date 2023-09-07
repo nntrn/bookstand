@@ -16,11 +16,11 @@ slug: the-soul-of-an-octopus
 
 ---
 
-*  Humans have always exalted dreams. Pindar of Thebes, the Greek lyric poet, suggested that the soul is more active while dreaming than while awake. He believed that during a dream, the awakened soul may see the future, "an award of joy or sorrow drawing near." So it's no wonder that humans were quick to reserve dreams for people alone; researchers for many years claimed dreams were a property of "higher" minds. 
+*  Humans have always exalted dreams. Pindar of Thebes, the Greek lyric poet, suggested that the soul is more active while dreaming than while awake. He believed that during a dream, the awakened soul may see the future, "an award of joy or sorrow drawing near." So it's no wonder that humans were quick to reserve dreams for people alone; researchers for many years claimed dreams were a property of "higher" minds.
 
 *  The study was published in the Journal of Comparative Psychology. "It fit all the criteria for play behavior," Roland told me. "Only intelligent animals play," he stressed. "Birds like crows and parrots; primates like monkeys and chimps; dogs and humans."
 
-*  They also told us about Paul, the octopus from Sea Life Oberhausen, in Germany, who correctly predicted the outcomes of the 20 FIFA World Cup soccer matches seven times in a row. Before a match, Paul would be offered two boxes, each containing a mussel. Each was adorned with a different flag representing the two nations whose teams would face one another in the upcoming game. How did Paul make his selection? And how did he do so with such success? We considered the possibilities—including that the octopus was drawn to the aesthetic qualities of one flag over the other, and that he really did know which team would win.
+*  They also told us about Paul, the octopus from Sea Life Oberhausen, in Germany, who correctly predicted the outcomes of the 2010 FIFA World Cup soccer matches seven times in a row. Before a match, Paul would be offered two boxes, each containing a mussel. Each was adorned with a different flag representing the two nations whose teams would face one another in the upcoming game. How did Paul make his selection? And how did he do so with such success? We considered the possibilities—including that the octopus was drawn to the aesthetic qualities of one flag over the other, and that he really did know which team would win.
 
 ---
 

@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% assign pagetag = page.tags  %}
-{% assign books = site.data.books | where: 'tags', page.title  %}
+{% assign pagetag = page.tags |first %}
+{% assign books = site.data.books | where: 'tags', pagetag  %}
 <div class="page-content box">
-  <h2>#{{page.title}}</h2>
+  <h2>#{{pagetag}}</h2>
   <ul>
     {%- for book in books -%}
     <li><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}<br><span>last updated on {{book.modified|date_to_string: "ordinal", "US"}}</span></li>

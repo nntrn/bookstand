@@ -14,7 +14,7 @@ slug: alchemy
 
 *  Robert Zion, the social psychologist, once described cognitive psychology as 'social psychology with all the interesting variables set to zero'. The point he was making is that humans are a deeply social species (which may mean that research into human behaviour or choices in artificial experiments where there is no social context isn't really all that useful).
 
-*  The trick to being an alchemist lies not in understanding universal laws, but in spotting the many instances where those laws do not apply. 
+*  The trick to being an alchemist lies not in understanding universal laws, but in spotting the many instances where those laws do not apply.
 
 ---
 
@@ -47,7 +47,7 @@ slug: alchemy
    '. . . and so I confidently predict that the great enduring fashion of the next century will be a coarse, uncomfortable fabric which fades unpleasantly and which takes ages to dry. To date, it has been largely popular with indigent labourers.' (Jeans)
    '. . . and people will be forced to choose between three or four items.' (McDonald's)
    'And, best of all, the drink has a taste which consumers say they hate.' (Red Bull)
-   '. . . and just watch as perfectly sane people pay $ for a drink they can make at home for a few pence.' (Starbucks)*
+   '. . . and just watch as perfectly sane people pay $5 for a drink they can make at home for a few pence.' (Starbucks)*
 
 *  Our mantra is 'Test counterintuitive things, because no one else ever does.' Why is this necessary? In short, the world runs on two operating systems. The much smaller of them runs on conventional logic. If you are building a bridge or building a road, there is a definition of success that is independent of perception. Will it safely take the weight of X vehicles weighing Y kg and travelling at Z mph? Success can be defined entirely in terms of objective scientific units, with no allowance for human subjectivity.
 
@@ -100,7 +100,7 @@ slug: alchemy
 
 ---
 
-*  Metrics, and especially averages, encourage you to focus on the middle of a market, but innovation happens at the extremes. You are more likely to come up with a good idea focusing on one outlier than on ten average users. 
+*  Metrics, and especially averages, encourage you to focus on the middle of a market, but innovation happens at the extremes. You are more likely to come up with a good idea focusing on one outlier than on ten average users.
 
 *  Weird consumers drive more innovation than normal ones
 
@@ -124,7 +124,7 @@ slug: alchemy
 
 ---
 
-*  Firstly, it doesn't always pay to be logical if everyone else is also being logical. 
+*  Firstly, it doesn't always pay to be logical if everyone else is also being logical.
 
 ---
 
@@ -138,7 +138,7 @@ slug: alchemy
 
 ---
 
-*  The invention of the 'designated driver' was an even cleverer use of semantics and naming to create a social good. The phrase, meaning the person who is nominated to stay sober in order to drive his friends home safely, was a deliberate coinage that spread with the active support of Hollywood who agreed to use it in selected episodes of popular sitcoms and dramas. 
+*  The invention of the 'designated driver' was an even cleverer use of semantics and naming to create a social good. The phrase, meaning the person who is nominated to stay sober in order to drive his friends home safely, was a deliberate coinage that spread with the active support of Hollywood who agreed to use it in selected episodes of popular sitcoms and dramas.
 
 *  It is interesting to consider how many more benign behaviours might be made possible through semantic invention. I have always thought, for instance, that the word 'downsizing', which is used not only as a euphemism for redundancies, but in another sense refers to the voluntary decision by 'empty nesters' to move to a smaller and more manageable home, is a very useful coinage. It allows older people in needlessly large homes to portray their move to a smaller house as a choice born out of preference, rather than – as it may otherwise be assumed to be – a compromise born of financial necessity. Create a name, and you've created a norm.*
 
@@ -175,7 +175,7 @@ slug: alchemy
 
 ---
 
-*  In many ways, expensive advertising and brands arise as a solution to a problem identified by George Akerlof in his 10 paper 'The Market for Lemons' in the Quarterly Journal of Economics. The problem is known as 'information asymmetry', whereby the seller knows more about what he is selling than the buyer knows about what he is buying. This lesson was learned the hard way in Eastern Bloc countries under communism; brands were considered un-Marxist, so bread was simply labelled 'bread'. Customers had no idea who had made it or whom to blame if it arrived full of maggots, and couldn't avoid that make in future if it did, because all bread packaging looked the same. Unhappy customers had no threat of sanction; happy customers had no prospect of rewarding producers through repeat custom. And so the bread was rubbish.
+*  In many ways, expensive advertising and brands arise as a solution to a problem identified by George Akerlof in his 1970 paper 'The Market for Lemons' in the Quarterly Journal of Economics. The problem is known as 'information asymmetry', whereby the seller knows more about what he is selling than the buyer knows about what he is buying. This lesson was learned the hard way in Eastern Bloc countries under communism; brands were considered un-Marxist, so bread was simply labelled 'bread'. Customers had no idea who had made it or whom to blame if it arrived full of maggots, and couldn't avoid that make in future if it did, because all bread packaging looked the same. Unhappy customers had no threat of sanction; happy customers had no prospect of rewarding producers through repeat custom. And so the bread was rubbish.
 
 *  My analogy between signalling in the biological world and advertising in the commercial world may explain something I have noticed for years: if you talk to economists, they tend to hate advertising and barely understand it at all, while if you talk to biologists they understand it perfectly.
 
@@ -183,7 +183,7 @@ slug: alchemy
 
 *  The psychologist Nicholas Humphrey argues that placebos work by prompting the body to invest more resources in its recovery.* He believes that evolution has calibrated our immune system to suit a harsher environment than the current one, so we need to convince our unconscious that the conditions for recovery are especially favourable in order for our immune system to work at full tilt.
 
-*  The placebo effect, like many other forms of alchemy, is an attempt to influence the mind or body's automatic processes. Our unconscious, specifically our 'adaptive unconscious' as psychologist Timothy Wilson calls it in Strangers to Ourselves (0), does not notice or process information in the same way we do consciously, and does not speak the same language that our consciousness does, but it holds the reins when it comes to much of our behaviour. This means that we often cannot alter subconscious processes through a direct logical act of will – we instead have to tinker with those things we can control to influence those things we can't or manipulate our environment to create conditions conducive to an emotional state which we cannot will into being
+*  The placebo effect, like many other forms of alchemy, is an attempt to influence the mind or body's automatic processes. Our unconscious, specifically our 'adaptive unconscious' as psychologist Timothy Wilson calls it in Strangers to Ourselves (2002), does not notice or process information in the same way we do consciously, and does not speak the same language that our consciousness does, but it holds the reins when it comes to much of our behaviour. This means that we often cannot alter subconscious processes through a direct logical act of will – we instead have to tinker with those things we can control to influence those things we can't or manipulate our environment to create conditions conducive to an emotional state which we cannot will into being
 
 *  There is a good evolutionary reason why we are imbued with these strong, involuntary feelings: feelings can be inherited, whereas reasons have to be taught, which means that evolution can select for emotions much more reliably than for reasons.
 

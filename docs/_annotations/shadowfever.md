@@ -14,5 +14,7 @@ slug: shadowfever
 
 ---
 
-*  Some people bring out the worst in you, others bring out the best, and then there are those remarkably rare, addictive ones who just bring out the most. Of everything. They make you feel so alive that you'd follow them straight into hell, just to keep getting your fix.
+*  Some people bring out the worst in you, others bring out the best, and then there are those remarkably rare, addictive ones who just bring out the most. Of everything.
+   
+   They make you feel so alive that you'd follow them straight into hell, just to keep getting your fix.
 

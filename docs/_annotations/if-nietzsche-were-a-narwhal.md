@@ -9,5 +9,5 @@ slug: if-nietzsche-were-a-narwhal
 ---
 
 *  "Mere animals couldn't possibly manage to act like this. You need to be a human being to be really stupid."
-   Terry Pratchett, Pyramids (Discworld, #)
+   Terry Pratchett, Pyramids (Discworld, #7)
 

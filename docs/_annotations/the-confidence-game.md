@@ -10,7 +10,9 @@ slug: the-confidence-game
 
 ## CHAPTER 1: THE GRIFTER AND THE MARK
 
-*  Would you be a grifter—even a mild one—if given the chance? Try this short test. Take your index finger, raise it to your forehead, and draw the letter Q. Done? Which way is your Q facing—tail to the right, or tail to the left? The test, described in detail by Richard Wiseman, a psychologist and famed skeptic, is a way to gauge your "self-monitoring" tendency. If you drew the letter with the tail to the left, so that others could read it, you are a high self-monitor. That means you are more concerned with appearance and perception—how others see you. To achieve the desired effect, you are likely more willing to manipulate reality—even just a bit—to make a better impression.
+*  Would you be a grifter—even a mild one—if given the chance? Try this short test. Take your index finger, raise it to your forehead, and draw the letter Q.
+   
+   Done? Which way is your Q facing—tail to the right, or tail to the left? The test, described in detail by Richard Wiseman, a psychologist and famed skeptic, is a way to gauge your "self-monitoring" tendency. If you drew the letter with the tail to the left, so that others could read it, you are a high self-monitor. That means you are more concerned with appearance and perception—how others see you. To achieve the desired effect, you are likely more willing to manipulate reality—even just a bit—to make a better impression.
 
 *  It wasn't the people who saw the world most clearly who did best; it was, rather, those most skilled at the art of seeing the world as they wanted it to be. And the world-as-we-want-it-to-be is precisely what the con artist sells.
 

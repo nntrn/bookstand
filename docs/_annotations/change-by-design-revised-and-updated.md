@@ -10,7 +10,7 @@ slug: change-by-design-revised-and-updated
 
 *  The evolution from design to design thinking is the story of the evolution from the creation of products to the analysis of the relationship between people and products, and from there to the relationship between people and people.
 
-*  Genevieve Bell, a cultural anthropologist who founded Intel's first User Experience Group in 25, has traversed the globe observing people's interactions with technology in their cars, their kitchens, at sports events, and at religious observances—"bringing the outside in."
+*  Genevieve Bell, a cultural anthropologist who founded Intel's first User Experience Group in 2005, has traversed the globe observing people's interactions with technology in their cars, their kitchens, at sports events, and at religious observances—"bringing the outside in."
 
 ---
 
@@ -26,5 +26,5 @@ slug: change-by-design-revised-and-updated
 
 *  One way to get people to try something new is to build on behaviors that are familiar to them
 
-*  The result, after numerous iterations, validations, and prototypes, was a new service launched by Bank of America in October 25, called "Keep the Change." Keep the Change automatically rounds up debit card purchases to the nearest dollar and transfers the difference into the customer's savings account. Now when I buy my morning latte at Peet's and pay my $. with my debit card, the 5 cents change that I would have received if I had handed over $. in cash is deposited in my savings account. With all the coffee I drink, the savings add up pretty quickly
+*  The result, after numerous iterations, validations, and prototypes, was a new service launched by Bank of America in October 2005, called "Keep the Change." Keep the Change automatically rounds up debit card purchases to the nearest dollar and transfers the difference into the customer's savings account. Now when I buy my morning latte at Peet's and pay my $3.50 with my debit card, the 50 cents change that I would have received if I had handed over $4.00 in cash is deposited in my savings account. With all the coffee I drink, the savings add up pretty quickly
 

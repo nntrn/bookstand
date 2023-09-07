@@ -12,11 +12,15 @@ slug: taming-the-terminal
 
 *  You can use the terminal command traceroute (tracert on Windows) to see what routers a packet follows from your computer to my server as follows:
 
-*  In the first window, we'll use the tcpdump command to print out each packet that is sent from your computer to my server as follows: sudo tcpdump -nn host 4..0.5
+*  In the first window, we'll use the tcpdump command to print out each packet that is sent from your computer to my server as follows:
+   
+           sudo tcpdump -nn host 46.22.130.125
 
 ## TTT Part 26 of n — DHCP
 
-*  Finally, ipconfig can be used to show the DHCP ACK packet that was used to configure a network interface (again replacing enX with the actual interface you want to get the packet for): sudo ipconfig getpacket enX
+*  Finally, ipconfig can be used to show the DHCP ACK packet that was used to configure a network interface (again replacing enX with the actual interface you want to get the packet for):
+   
+           sudo ipconfig getpacket enX
 
 ## TTT Part 27 of n — DNS
 

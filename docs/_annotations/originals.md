@@ -8,9 +8,11 @@ tags: "management"
 slug: originals
 ---
 
-*  If you think like most people, you'll predict a clear advantage for the risk takers. Yet the study showed the exact opposite: Entrepreneurs who kept their day jobs had 3 percent lower odds of failure than those who quit. If you're risk averse and have some doubts about the feasibility of your ideas, it's likely that your business will be built to last. If you're a freewheeling gambler, your startup is far more fragile.
+*  If you think like most people, you'll predict a clear advantage for the risk takers. Yet the study showed the exact opposite: Entrepreneurs who kept their day jobs had 33 percent lower odds of failure than those who quit.
+   
+   If you're risk averse and have some doubts about the feasibility of your ideas, it's likely that your business will be built to last. If you're a freewheeling gambler, your startup is far more fragile.
 
-*  Like the Warby Parker crew, the entrepreneurs whose companies topped Fast Company's recent most innovative lists typically stayed in their day jobs even after they launched. Former track star Phil Knight started selling running shoes out of the trunk of his car in 14, yet kept working as an accountant until 19. After inventing the original Apple I computer, Steve Wozniak started the company with Steve Jobs in 16 but continued working full time in his engineering job at Hewlett-Packard until 17. And although Google founders Larry Page and Sergey Brin figured out how to dramatically improve internet searches in 16, they didn't go on leave from their graduate studies at Stanford until 18. "We almost didn't start Google," Page says, because we "were too worried about dropping out of our Ph.D. program."
+*  Like the Warby Parker crew, the entrepreneurs whose companies topped Fast Company's recent most innovative lists typically stayed in their day jobs even after they launched. Former track star Phil Knight started selling running shoes out of the trunk of his car in 1964, yet kept working as an accountant until 1969. After inventing the original Apple I computer, Steve Wozniak started the company with Steve Jobs in 1976 but continued working full time in his engineering job at Hewlett-Packard until 1977. And although Google founders Larry Page and Sergey Brin figured out how to dramatically improve internet searches in 1996, they didn't go on leave from their graduate studies at Stanford until 1998. "We almost didn't start Google," Page says, because we "were too worried about dropping out of our Ph.D. program."
 
 *  Coombs suggested that in their daily lives, successful people do the same thing with risks, balancing them out in a portfolio. When we embrace danger in one domain, we offset our overall level of risk by exercising caution in another domain
 
@@ -28,13 +30,15 @@ slug: originals
 
 ---
 
-*  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." Scott Adams
+*  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep."
+   
+   Scott Adams
 
 *  In Justin Berg's study of circus performances, although circus managers made more accurate forecasts than artists, they still weren't very good, especially regarding the most novel acts. Managers tend to be too risk averse: they focus on the costs of investing in bad ideas rather than the benefits of piloting good ones, which leads them to commit a large number of false negatives. The author of the initial report on the Seinfeld pilot felt it was on the border between "weak" and "moderate." He was leaning toward moderate, but his boss overruled him and rated it weak.
 
 *  In the face of uncertainty, our first instinct is often to reject novelty, looking for reasons why unfamiliar concepts might fail
 
-*  "If you're gonna make connections which are innovative," Steve Jobs said back in 12, "you have to not have the same bag of experience as everyone else does."
+*  "If you're gonna make connections which are innovative," Steve Jobs said back in 1982, "you have to not have the same bag of experience as everyone else does."
 
 ## 3: Out on a Limb (Speaking Truth to Power)
 

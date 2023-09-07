@@ -11,11 +11,10 @@ slug: wanting
 ## Introduction: Social Gravity
 
 *  It turns out the things we want matter far more than we know.
-   
 
 *  He uncovered something perplexing, something which seemed to be present in nearly all of the most compelling novels ever written: characters in these novels rely on other characters to show them what is worth wanting. They don't spontaneously desire anything. Instead, their desires are formed by interacting with other characters who alter their goals and their behavior—most of all, their desires.
 
-*  Thiel left the corporate world and co-founded Confinity with Max Levchin in 18. He began to use his knowledge of mimetic theory to help him manage both the business and his life. When competitive rivalries flared up within his company, he gave each employee clearly defined and independent tasks so they didn't compete with one another for the same responsibilities. This is important in a start-up environment where roles are often fluid. A company in which people are evaluated based on clear performance objectives—not their performance relative to one another—minimizes mimetic rivalries.
+*  Thiel left the corporate world and co-founded Confinity with Max Levchin in 1998. He began to use his knowledge of mimetic theory to help him manage both the business and his life. When competitive rivalries flared up within his company, he gave each employee clearly defined and independent tasks so they didn't compete with one another for the same responsibilities. This is important in a start-up environment where roles are often fluid. A company in which people are evaluated based on clear performance objectives—not their performance relative to one another—minimizes mimetic rivalries.
 
 *  When there was risk of an all-out war with Elon Musk's rival company, X.com, Thiel merged with him to form PayPal. He knew from Girard that when two people (or two companies) take each other as mimetic models, they enter into a rivalry for which there is no end but destruction—unless they are somehow able to see beyond the rivalry.
 
@@ -57,14 +56,14 @@ slug: wanting
 
 *  The pride that makes a person believe they are unaffected by or inoculated against biases, weaknesses, or mimesis blinds them to their complicity in the game.
 
-*  No one believed the stock's movement corresponded to "reality."
+*  No one believed the stock's movement corresponded to "reality."24
    But it did—just not the reality that most analysts accept. To paraphrase Shakespeare: there are more things in heaven and earth than are dreamt of in their investment philosophies.
 
 *  expectations," another hypothesis). Efficient market theory is the belief that asset prices are functions of all available information. Company news, investor expectations, current events, political news, and everything else that might affect a company's valuation are all assumed to be perfectly reflected in the stock price
 
 ---
 
-*  Jobs had not realized it, but at the moment he walked into that room in college, Friedland had become a model to him. Jobs would later come to see through Friedland, but Friedland's immediate impact on the young Jobs was formative. He taught Jobs that strange or shocking behavior mesmerizes people. People are drawn to others who seem to play by different rules. 
+*  Jobs had not realized it, but at the moment he walked into that room in college, Friedland had become a model to him. Jobs would later come to see through Friedland, but Friedland's immediate impact on the young Jobs was formative. He taught Jobs that strange or shocking behavior mesmerizes people. People are drawn to others who seem to play by different rules.
 
 *  We are generally fascinated with people who have a different relationship to desire, real or perceived
 
@@ -82,7 +81,7 @@ slug: wanting
 
 *  Desire is not of this world," Girard has said, "… it is in order to penetrate into another world that one desires, it is in order to be initiated into a radically foreign existence."
 
-*  So don't always try to pet a cat when you encounter one on the street, as popular psychologist Jordan Peterson advises in his 1 Rules for Life. Rather, make the cat want to get petted when it encounters you. Then you'll have really accomplished something special.
+*  So don't always try to pet a cat when you encounter one on the street, as popular psychologist Jordan Peterson advises in his 12 Rules for Life. Rather, make the cat want to get petted when it encounters you. Then you'll have really accomplished something special.
 
 *  Today value is largely mimetically driven rather than attached to fixed, stable points (like college degrees). This has created opportunities for anyone who can stand out from the crowd. This has positive and negative consequences.
 
@@ -98,7 +97,7 @@ slug: wanting
 
 *  When mimetic rivals are caught in a double bind, obsessed with each other, they go to any length to differentiate themselves. Their rival is a model for what not to desire. For a hipster, the rival is popular culture—he eschews anything popular and embraces what he believes to be eclectic, but he does so according to new models. According to Girard, "the effort to leave the beaten paths forces everyone into the same ditch."
 
-*  The act of winning paradoxically brings about defeat. It signals to us that we picked the wrong model in the first place. In the purported words of Groucho Marx: "I don't want to belong to any club that would accept me as one of its members." And neither do we.
+*  The act of winning paradoxically brings about defeat. It signals to us that we picked the wrong model in the first place. In the purported words of Groucho Marx: "I don't want to belong to any club that would accept me as one of its members."17 And neither do we.
    When one of the two parties to a rivalry renounces the rivalry, it defuses the other party's desire.
 
 *  Eight years have passed since they first struck out on their own. One day last year I ran across a news article profiling the rival and sent it to my friend. "Hey, look what Tony [not his real name] is up to," I wrote. To my surprise, my friend responded courteously: "Thanks for sending me this. I deleted it immediately. About a year ago, I completely untethered myself from Tony to the point where I no longer even know what he's up to, and I'd like to keep it that way. Someday, once my rivalry with him runs out of oxygen and dies, I might not mind. But for now, I'm starving it to death. Can you do me a favor and not send me stuff like this?"
@@ -127,7 +126,7 @@ slug: wanting
    In a bullfight, a bull is maneuvered into submission not by strength but by agility and psychology. The fight has three acts. In the first, the matador gets to know the behavior and quirks of the bull through a series of passes with a cape. In the second, the matador and his assistants stick sharp barbs in the bull's shoulders to wear him down. In the third act, called muerte (death), the matador kills the animal after bringing the bull to the point of physical and psychological exhaustion.
    Being in a mimetic rivalry is like being a bull in a bullfight. In a bullfight, the matador orchestrates the actions of the bull. He makes the bull charge at a waving red cape, only to pull it away at the last second—just when the bull thinks he's going in for the kill.
 
-*  Lamborghini didn't buy into the distortions caused by metaphysical desire, which leads people to seek satisfaction under a never-ending assortment of obstacles with no end. Girard explains the tragedy: "A man sets out to discover a treasure he believes is hidden under a stone," he writes in his first book, Deceit, Desire, and the Novel: Self and Other in Literary Structure. "He turns over stone after stone but finds nothing. He grows tired of such a futile undertaking but the treasure is too precious for him to give up. So he begins to look for a stone which is too heavy to lift—he places all his hopes in that stone and he will waste all his remaining strength on it." Lamborghini chose not to.
+*  Lamborghini didn't buy into the distortions caused by metaphysical desire, which leads people to seek satisfaction under a never-ending assortment of obstacles with no end. Girard explains the tragedy: "A man sets out to discover a treasure he believes is hidden under a stone," he writes in his first book, Deceit, Desire, and the Novel: Self and Other in Literary Structure. "He turns over stone after stone but finds nothing. He grows tired of such a futile undertaking but the treasure is too precious for him to give up. So he begins to look for a stone which is too heavy to lift—he places all his hopes in that stone and he will waste all his remaining strength on it."10 Lamborghini chose not to.
 
 *  Lamborghini took specific measures to mitigate the negative effects of rivalry. It saved him from the death of the bull.
 
@@ -143,7 +142,7 @@ slug: wanting
 
 *  The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom by social psychologist Jonathan Haidt
 
-*  He suggested that the illusion of freedom—the idea that every entrepreneur is a master of their own desire—is dangerous. 
+*  He suggested that the illusion of freedom—the idea that every entrepreneur is a master of their own desire—is dangerous.
 
 *  Desire is part of the web of connectivity. When people deny that they are affected by what other people around them want, they are most susceptible to getting drawn into an unhealthy cycle of desire that they don't even know to resist.
 
@@ -162,7 +161,7 @@ slug: wanting
    Tony Hsieh wanted to maximize positive collisions, but he didn't take into account the hidden collisions of desire that happen in the mimetic space between people, in the hidden recesses of the human heart.
 
 *  Do you want to know what the Egyptians did to their cats?
-   In 28, a sarcophagus from ancient Egypt was discovered with dozens of mummified kittens in it. Findings like this—which go back to at least 19—have dispelled the myth that the Egyptians were the ultimate cat lovers. The truth is darker.
+   In 2018, a sarcophagus from ancient Egypt was discovered with dozens of mummified kittens in it. Findings like this—which go back to at least 1799—have dispelled the myth that the Egyptians were the ultimate cat lovers. The truth is darker.
    The Egyptians used their cats for ritual offerings and sacrifice. That's why they were considered sacred. In mimetic theory, there is a near-indissoluble link between chaos and order, violence and the sacred. Sacrificial rites—whether sacrificing cats in ancient Egypt or the ritual firing of coaches and CEOs today—are the mechanism by which mimetic contagion is contained and controlled.
    The fourth and final stage of the mimetic cycle, which we turn to now, is the process by which chaotic desires become orderly desires in human societies: the scapegoat mechanism.
 
@@ -174,7 +173,7 @@ slug: wanting
 
 *  The new cancel culture is the product of a generation born into a world without obscuring myth, where the great abuses, once only hinted at, suspected or uttered on street corners, are now tweeted out in full color. Nothing is sacred anymore, and more important, nothing is legitimate—least of all those institutions charged with dispensing justice. And so, justice is seized by the crowd. This is suboptimal. The choice now would seem to be between building egalitarian institutions capable of withstanding public scrutiny, or further retreat into a dissembling fog.
 
-*  Anger metastasizes and spreads easily. In a study conducted in 23 and published in 24, researchers at the University of Beijing analyzed influence and contagion on Weibo, a popular social media app in China. They found that anger spreads faster than other emotions, such as joy, because anger spreads easily when there are weak ties between people—as there often are online.
+*  Anger metastasizes and spreads easily. In a study conducted in 2013 and published in 2014, researchers at the University of Beijing analyzed influence and contagion on Weibo, a popular social media app in China. They found that anger spreads faster than other emotions, such as joy, because anger spreads easily when there are weak ties between people—as there often are online.
 
 *  Caiaphas could not have known the full import of what he was saying. "A scapegoat remains effective as long as we believe in its guilt," wrote Girard in his final book, Battling to the End: Conversations with Benoît Chantre. "Having a scapegoat means not knowing that we have one."
 
@@ -202,7 +201,7 @@ slug: wanting
 
 ---
 
-*  Hope is the desire for something that is () in the future, () good, () difficult to achieve, and () possible
+*  Hope is the desire for something that is (1) in the future, (2) good, (3) difficult to achieve, and (4) possible
 
 *  Authoritarian regimes can only stay in existence so long as they can control what people want. We normally think of these regimes as controlling what people can and cannot do through laws, regulations, policing, and penalties. But their real victory comes not when they have authority over people's actions; rather, their victory comes when they have authority over their desires. They don't want to keep prisoners in cells; they want those prisoners to learn to love their cells. When there is no desire for change, their authority is complete.
 

@@ -40,7 +40,7 @@ slug: scripts-people-live
 
 *  A game is a behavioral sequence which 1) is an orderly series of transactions with a beginning and an end; 2) contains an ulterior motive, that is, a psychological level different from the social level; and 3) results in a payoff for both players.
 
-*  A stroke is a special form of stimulation one person gives to another. Because strokes are essential to a person's survival, the exchange of strokes is one of the most important activities people engage in. Strokes can vary from actual physical stroking to praise, or just recognition. To be effective, a stroke must be suited to its recipient. For example, Spitz has shown that a very young child needs actual physical stroking to survive. On the other hand, adults may require only occasional, symbolic strokes such as praise, or an expression of appreciation, to remain alive. However, while it is possible to survive on minimal strokes, stroke scarcity is unhealthy both physically and emotionally; thus stroke hunger is a major driving force in people.
+*  A stroke is a special form of stimulation one person gives to another. Because strokes are essential to a person's survival, the exchange of strokes is one of the most important activities people engage in. Strokes can vary from actual physical stroking to praise, or just recognition. To be effective, a stroke must be suited to its recipient. For example, Spitz1 has shown that a very young child needs actual physical stroking to survive. On the other hand, adults may require only occasional, symbolic strokes such as praise, or an expression of appreciation, to remain alive. However, while it is possible to survive on minimal strokes, stroke scarcity is unhealthy both physically and emotionally; thus stroke hunger is a major driving force in people.
 
 *  A game is transactionally more complex than the above ritual but it is still an exchange of strokes. It should be noted that "Go to hell!" is as much a stroke as "Hi" and people will settle for the former, negative strokes when they cannot obtain the latter positive ones.
 
@@ -54,7 +54,7 @@ slug: scripts-people-live
 
 *  The basic training of life includes a systematic attack on three primary human potentials: the potential for intimacy, namely the capacity for giving and receiving human love; the potential for awareness, namely the capacity to understand the world and its people; and the potential for spontaneity, which is the capacity of free and joyful expression of the Natural Child. I
 
-*  Capers and Holland point out that when peoples' stroke sources fall below a certain point which he calls the Survival Quotient, they become more and more willing to accept negative strokes because they need strokes, any strokes, for survival. Taking negative strokes is like drinking polluted water; extreme need will cause us to overlook the harmful qualities of what we require to survive.
+*  Capers and Holland1 point out that when peoples' stroke sources fall below a certain point which he calls the Survival Quotient, they become more and more willing to accept negative strokes because they need strokes, any strokes, for survival. Taking negative strokes is like drinking polluted water; extreme need will cause us to overlook the harmful qualities of what we require to survive.
 
 *  Reich concluded that repression existed not for the sake of moral edification (as traditional religions would have it), nor for the sake of cultural development (as Freud claimed), but simply in order to create the character structure necessary for the preservation of a repressive society.
 
@@ -70,7 +70,7 @@ slug: scripts-people-live
 
 *  answers with her Adult; she reports that she is afraid. Mother's answer, from her Parent, discounts the facts of the situation, namely that Mary is afraid. At this point Mary will probably get even more afraid and lose what little hold she has on her rationality. If she begins to cry, Mother may get angry or Mother may offer to let Mary come into bed with her. Whether Mother Nurtures or Persecutes Mary the effect of the discount is to diminish Mary's Adult thinking capacities.
 
-*  Discounts make people crazy. Ronald Laing, who has an intimate understanding of the discount transaction, gives several examples of discounts and their effect on people in his book Knots:
+*  Discounts make people crazy. Ronald Laing, who has an intimate understanding of the discount transaction, gives several examples of discounts and their effect on people in his book Knots:1
 
 *  The parent has information that the child wants. In order to be truthful, the parent has to either give the information or, without lying, explain why it isn't given. "I am embarrassed to tell you" is not a lie. "You are too young to know" is. "I am afraid you will get upset" isn't a lie; "I'll tell you when you are ready" is.
 
@@ -100,7 +100,7 @@ slug: scripts-people-live
 
 *  This is especially the case when a person who presents himself as needy or powerless (the Victim) ceases to put any effort into his situation as soon as another person who is the Rescuer begins to help
 
-*  Thus, any situation in which one person asks another for help and then proceeds to do less than 5% of the work constitutes a Rescue.
+*  Thus, any situation in which one person asks another for help and then proceeds to do less than 50% of the work constitutes a Rescue.
 
 ---
 
@@ -108,13 +108,13 @@ slug: scripts-people-live
 
 *  For instance, relating to a person who is an alcoholic and who almost constantly displays the role of Victim in search of a Rescuer may be impossible unless one is willing to play the role of Rescuer or Persecutor. That is to say, if one is not willing to Rescue or Persecute the alcoholic, the alcoholic will simply not be interested. The same is true of certain individuals who demand to be Rescued or who demand to be Rescuers in relationships.
 
-*  In every case in which one person Rescues another, whether by going along with something she doesn't want to do, by doing more than 5% of the work, or by not asking for what is wanted, there is always the assumption in the Rescuer that the person is in some way powerless, unable to take care of himself, or in some other way one-down. In every case, the act of Rescuing another person reaffirms and maintains the power imbalance between the Rescuer and the Victim and prevents the possibility of people becoming equals in the relationship. 
+*  In every case in which one person Rescues another, whether by going along with something she doesn't want to do, by doing more than 50% of the work, or by not asking for what is wanted, there is always the assumption in the Rescuer that the person is in some way powerless, unable to take care of himself, or in some other way one-down. In every case, the act of Rescuing another person reaffirms and maintains the power imbalance between the Rescuer and the Victim and prevents the possibility of people becoming equals in the relationship.
 
 *  The role of Rescuer is a role in which one person, in a one-up position, denies to or diminishes in another person, the Victim, the power of helping himself by accepting a request for help without making demands for equal participation or by imposing help without a request for it.
 
 *  A. Don't help without a contract.
    B. Don't ever believe that a person is helpless (unless he is unconscious).
    C. Help people who are feeling helpless to find the ways in which they can apply the power they have.
-   D. Don't do more than 5% of the work in therapy; demand that people do at least 5% of the work at all times.
+   D. Don't do more than 50% of the work in therapy; demand that people do at least 50% of the work at all times.
    E. Don't do anything you don't really want to do.
 

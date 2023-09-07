@@ -10,5 +10,5 @@ slug: how-to-be-miserable
 
 *  But what feels right when you're miserable is what feeds the misery, not what feeds you.
 
-*  A misery safari. Pith helmets are optional. 
+*  A misery safari. Pith helmets are optional.
 

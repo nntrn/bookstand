@@ -8,5 +8,5 @@ tags: "political-science"
 slug: a-libertarian-walks-into-a-bear
 ---
 
-*  Grafton has made national news just twice over the past twenty years. In 24, it received brief attention as the site of one of the most ambitious social experiments in modern American history, the so-called Free Town Project: freedom-focused libertarians from around the country announced that they would move to Grafton to "liberate" it from the strangling yokes of government. 
+*  Grafton has made national news just twice over the past twenty years. In 2004, it received brief attention as the site of one of the most ambitious social experiments in modern American history, the so-called Free Town Project: freedom-focused libertarians from around the country announced that they would move to Grafton to "liberate" it from the strangling yokes of government.
 

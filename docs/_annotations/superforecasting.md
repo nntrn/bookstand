@@ -14,10 +14,10 @@ slug: superforecasting
 
 *  It's human nature. We have all been too quick to make up our minds and too slow to change them
 
-*  Galen's writings were the indisputable source of medical authority for more than a thousand years. "It is I, and I alone, who has revealed the true path of medicine," Galen wrote with his usual modesty. And yet Galen never conducted anything resembling a modern experiment. Why should he? Experiments are what people do when they aren't sure what the truth is. And Galen was untroubled by doubt. Each outcome confirmed he was right, no matter how equivocal the evidence might look to someone less wise than the master. "All who drink of this treatment recover in a short time, except those whom it does not help, who all die," he wrote. "It is obvious, therefore, that it fails only in incurable cases."
+*  Galen's writings were the indisputable source of medical authority for more than a thousand years. "It is I, and I alone, who has revealed the true path of medicine," Galen wrote with his usual modesty. And yet Galen never conducted anything resembling a modern experiment. Why should he? Experiments are what people do when they aren't sure what the truth is. And Galen was untroubled by doubt. Each outcome confirmed he was right, no matter how equivocal the evidence might look to someone less wise than the master. "All who drink of this treatment recover in a short time, except those whom it does not help, who all die," he wrote. "It is obvious, therefore, that it fails only in incurable cases."5
    Galen is an extreme example but he is the sort of figure who pops up repeatedly in the history of medicine. They are men (always men) of strong conviction and a profound trust in their own judgment. They embrace treatments, develop bold theories for why they work, denounce rivals as quacks and charlatans, and spread their insights with evangelical passion
 
-*  It was cargo cult science, a term of mockery coined much later by the physicist Richard Feynman to describe what happened after American airbases from World War II were removed from remote South Pacific islands, ending the islanders' only contact with the outside world. 
+*  It was cargo cult science, a term of mockery coined much later by the physicist Richard Feynman to describe what happened after American airbases from World War II were removed from remote South Pacific islands, ending the islanders' only contact with the outside world.
 
 *  The rate of the development of science is not the rate at which you make observations alone but, much more important, the rate at which you create new things to test
 
@@ -45,11 +45,11 @@ slug: superforecasting
 
 *  As the legendary investor Charlie Munger sagely observed, "If you don't get this elementary, but mildly unnatural, mathematics of elementary probability into your repertoire, then you go through a long life like a one-legged man in an ass-kicking contest."
 
-*  Vonnegut drums this theme relentlessly. "Why me?" moans Billy Pilgrim when he is abducted by aliens. "That is a very Earthling question to ask, Mr. Pilgrim," the aliens respond. "Why you? Why us for that matter? Why anything?" Only the naive ask "Why?" Those who see reality more clearly don't bother.
+*  Vonnegut drums this theme relentlessly. "Why me?" moans Billy Pilgrim when he is abducted by aliens. "That is a very Earthling question to ask, Mr. Pilgrim," the aliens respond. "Why you? Why us for that matter? Why anything?"25 Only the naive ask "Why?" Those who see reality more clearly don't bother.
    It's a trenchant insight. When something unlikely and important happens it's deeply human to ask "Why?"
 
-*  Meaning is a basic human need. As much research shows, the ability to find it is a marker of a healthy, resilient mind. Among survivors of the 9/ attacks, for example, those who saw meaning in the atrocity were less likely to suffer post-traumatic stress responses.
-   But as psychologically beneficial as this thinking may be, it sits uneasily with a scientific worldview. Science doesn't tackle "why" questions about the purpose of life. It sticks to "how" questions that focus on causation and probabilities. 
+*  Meaning is a basic human need. As much research shows, the ability to find it is a marker of a healthy, resilient mind. Among survivors of the 9/11 attacks, for example, those who saw meaning in the atrocity were less likely to suffer post-traumatic stress responses.
+   But as psychologically beneficial as this thinking may be, it sits uneasily with a scientific worldview. Science doesn't tackle "why" questions about the purpose of life. It sticks to "how" questions that focus on causation and probabilities.
 
 *  probabilistic thinker will be less distracted by "why" questions and focus on "how." This is no semantic quibble. "Why?" directs us to metaphysics; "How?" sticks with physics. The probabilistic thinker would say, "Yes, it was extremely improbable that I would meet my partner that night, but I had to be somewhere and she had to be somewhere and happily for us our somewheres coincided."
 

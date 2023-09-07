@@ -20,7 +20,12 @@ slug: the-conflict-thesaurus-volume-2
 
 *  Not every match up ends in success, either, but failures are just as important to character development. A misstep can lead to complications and generate uncomfortable emotions like powerlessness, insecurity, and disappointment. These emotions are unpleasant, so the character becomes motivated to avoid them. To understand what went wrong, they'll take a hard look at their strengths and weaknesses, and analyze any beliefs, needs, fears, or biases that might have impaired their decision-making. If they identify something holding them back, they'll make changes so future outcomes are more favorable.
 
-*  CONFLICT ADDS TENSION It's common to confuse conflict and tension because they're often used together to deliver a one-two punch. The difference between them is subtle, but important: Conflict is a force that stands between your characters and what they want most. Tension is the feeling of anticipation surrounding what will happen next.
+*  CONFLICT ADDS TENSION 
+   It's common to confuse conflict and tension because they're often used together to deliver a one-two punch. The difference between them is subtle, but important: 
+    
+   Conflict is a force that stands between your characters and what they want most. 
+    
+   Tension is the feeling of anticipation surrounding what will happen next.
 
 *  Strong tension follows a pattern of pull-and-release—meaning, you let the tension build until it reaches its peak then resolve it by answering some of those unspoken questions.
 
@@ -38,5 +43,6 @@ slug: the-conflict-thesaurus-volume-2
 ---
 
 *  Avoidance
-   When it comes to dragging out conflict, we've saved the most obvious and realistic technique for last. Most people hate confrontation and seek ways to avoid it. And we know what happens when problems aren't dealt with: they fester, and complications multiply, making things even harder to fix. The act of avoidance itself can generate conflict as the character goes to great lengths to keep from facing the issue. This technique gets high points for both authenticity and its tendency to create more problems, so if avoidance fits your character's personality, be sure to take advantage of it.
+   When it comes to dragging out conflict, we've saved the most obvious and realistic technique for last. Most people hate confrontation and seek ways to avoid it. And we know what happens when problems aren't dealt with: they fester, and complications multiply, making things even harder to fix. 
+   The act of avoidance itself can generate conflict as the character goes to great lengths to keep from facing the issue. This technique gets high points for both authenticity and its tendency to create more problems, so if avoidance fits your character's personality, be sure to take advantage of it.
 

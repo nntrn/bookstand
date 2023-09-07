@@ -57,7 +57,9 @@ slug: what-got-you-here-wont-get-you-there
 
 *  change is not a one-way street. It involves two parties: the person who's changing and the people who notice it
 
-*  The questions are simple. Does the executive in question: • Clearly communicate a vision.
+*  The questions are simple. Does the executive in question:
+    
+   • Clearly communicate a vision.
    • Treat people with respect.
    • Solicit contrary opinions.
    • Encourage other people's ideas.
@@ -74,7 +76,7 @@ slug: what-got-you-here-wont-get-you-there
 
 *  As human beings we almost always suffer from the disconnect between the self we think we are and the self that the rest of the world sees in us
 
-*  I heard a creativity teacher give her class the following assignment. She sent them out in the street and for one hour had them write down everything they observed people doing in a busy public place. At the end of the hour, each student had compiled more than 1 observations. Then she had them do it again for an hour, except they were only allowed to write down observations that they found interesting. The lists were considerably shorter. Suddenly, a man walking across the street wasn't interesting, but a man tossing away a candy wrapper on the pavement—i.e., committing the crime of littering—was. She was trying to make the point that there's a difference between observing and observing with judgment.
+*  I heard a creativity teacher give her class the following assignment. She sent them out in the street and for one hour had them write down everything they observed people doing in a busy public place. At the end of the hour, each student had compiled more than 150 observations. Then she had them do it again for an hour, except they were only allowed to write down observations that they found interesting. The lists were considerably shorter. Suddenly, a man walking across the street wasn't interesting, but a man tossing away a candy wrapper on the pavement—i.e., committing the crime of littering—was. She was trying to make the point that there's a difference between observing and observing with judgment.
 
 *  What's interesting about the sentence completion exercise is that as you get deeper into it the answers become less corporately correct and more personal. You start off by saying, "If I become better organized, the company will make more money . . . , my team will become more productive . . . , other people will enjoy their jobs more . . . , and so on." By the end, however, you're saying, "If I become more organized, I'll be a better parent . . . , a better spouse . . . , a better person."
 
@@ -102,19 +104,18 @@ slug: what-got-you-here-wont-get-you-there
    To the first count of not calling you back, you are right, absolutely right. It is rude. It is not how a friend, or even a solid citizen, behaves. I should know better. It sends an unfortunate and incorrect message that I don't care about you. (If it makes you feel better, I am democratic about this particular failing. I don't call back my mother, my brother, and my in-laws. My wife says, "Me too." This is hardly something to brag about—just a minuscule point of honor on my part to assure you that you are not in the bottom half of some imaginary call-back priority list. Apparently, I don't have one. I treat everyone equally—which is to say, rudely.) For this I apologize to you. And I will change that.
    To the second count of being a poor host when you were at my house, I certainly did not intend to ignore you or leave you out of the conversation. That said, what I remember is not the point. It's what you felt that matters, and this is especially pertinent when the issue is hospitality extended or withheld. As Boston Celtics coach Red Auerbach used to say about coaching his players, "It's not what you say, it's what they hear." You obviously didn't enjoy the evening, and for that I apologize. I like to think of myself as a decent and caring and generous host, and I will take your comments as a signal to do better.
    To the third count of my never initiating a phone call to friends, again you are right, absolutely right. Some people, as you say, like to work at friendship. Others don't.
-   Of all the charges you level at me, the third is the one that pains me most—because it is true and because it is so easily fixed. You are not the first to point this out. I guess I could wander back into my childhood to figure out why I act this way, but looking backward, seeking out scapegoats, is a fool's errand. I'm 5 years old. I can't blame my mother or my upbringing or that lousy tuna sandwich in third grade. All I can do is promise to fix my behavior, one step at a time—by taking my cues from you, by doing the things you say a good friend does. Hopefully, my rehabilitation starts with you.
+   Of all the charges you level at me, the third is the one that pains me most—because it is true and because it is so easily fixed. You are not the first to point this out. I guess I could wander back into my childhood to figure out why I act this way, but looking backward, seeking out scapegoats, is a fool's errand. I'm 52 years old. I can't blame my mother or my upbringing or that lousy tuna sandwich in third grade. All I can do is promise to fix my behavior, one step at a time—by taking my cues from you, by doing the things you say a good friend does. Hopefully, my rehabilitation starts with you.
    The evidence notwithstanding, I do value our friendship. Tremendously. We have too many years of laughs and good times and neighboring and genuine caring for each other to let our friendship slip away because I am a schmuck in an area where you least value that kind of behavior. All I can ask is your forgiveness. If you can grant me that, I do not expect us to return to things the way they were. I think we should aim higher. I would want us to return to things as they should be, where I can aspire to the ideal of friendship that you have described in your honest, painfully honest, letter to me.
    Shall we discuss this over a bottle of red?
 
 ---
 
-*  "It's a lot harder to change people's perception of your behavior than it is to change your behavior. In fact, I calculate that you have to get 1% better in order to get 1% credit for it from your coworkers."
+*  "It's a lot harder to change people's perception of your behavior than it is to change your behavior. In fact, I calculate that you have to get 100% better in order to get 10% credit for it from your coworkers."
    The logic behind this is, as I've explained in Chapter 3, cognitive dissonance: To recap, we view people in a manner that is consistent with our previous existing stereotypes, whether it is positive or negative. If I think you're an arrogant jerk, everything you do will be filtered through that perception. If you do something wonderful and saintly, I will regard it as the exception to the rule; you're still an arrogant jerk. Within that framework it's almost impossible for us to be perceived as improving, no matter how hard we try.
    However, the odds improve considerably if you tell people that you are trying to change. Suddenly, your efforts are on their radar screen. You're beginning to chip away at their preconceptions.
    Your odds improve again if you tell everyone how hard you're trying, and repeat the message week after week.
    Your odds improve even more if you ask everyone for ideas to help you get better. Now your coworkers become invested in you; they pay attention to you to see if you're paying attention to their suggestions.
    Eventually the message sinks in and people start to accept the possibility of a new improved you. It's a little like the tree falling in the forest. If no one hears the thud, does it make a sound? The apology and the announcement that you're trying to change are your way of pointing everyone in the direction of the tree.
-   
 
 *  It's simple. You committed "one, two, three, seven."
    You failed to appreciate that every successful project goes through seven phases: The first is assessing the situation; the second is isolating the problem; the third is formulating. But there are three more phases before you get to the seventh, implementation.
@@ -136,11 +137,11 @@ slug: what-got-you-here-wont-get-you-there
 
 *  I ask them to close their eyes and count slowly to fifty with one simple goal: They cannot let another thought intrude into their mind. They must concentrate on maintaining the count.
 
-*  Active in the sense that there's a purpose to your listening. 
+*  Active in the sense that there's a purpose to your listening.
 
 ---
 
-*  The best thing about saying "Thank you" is that it creates closure in any potentially explosive discussion. What can you say after someone thanks you? You can't argue with them. You can't try to prove them wrong. You can't trump them or get angry or ignore them. The only response is to utter two of the most gracious, inviting, and sweet words in the language: "You're welcome." 
+*  The best thing about saying "Thank you" is that it creates closure in any potentially explosive discussion. What can you say after someone thanks you? You can't argue with them. You can't try to prove them wrong. You can't trump them or get angry or ignore them. The only response is to utter two of the most gracious, inviting, and sweet words in the language: "You're welcome."
 
 *  This isn't just an exercise in making yourself and other people feel good (although that's a worthwhile therapeutic). Writing a thank you note forces you to confront the humbling fact that you have not achieved your success alone. You had help along the way.
 
@@ -169,7 +170,7 @@ slug: what-got-you-here-wont-get-you-there
 
 ---
 
-*  In my scheme of things, feedforward is a dramatic improvement on what we traditionally think of as feedback. It grew out of a discussion I had with Jon Katzenbach in the early 10s. We were frustrated with the limitations of the usual corporate feedback mechanisms to find out areas of improvement in an organization, such as the questionnaires that forced people to relive the past over and over again—the discussions among colleagues that descended into nightmarish arguments about who did what to whom way back when. As I hope I made clear in my brief history of feedback in Chapter 6, feedback has its virtues. It's a great tool for determining what happened in the past and what's going on in an organization. It's no different than reading history, which teaches us how we all arrived here right now in this moment. Like reading history, it provides us with facts about the past but not necessarily ideas for the future
+*  In my scheme of things, feedforward is a dramatic improvement on what we traditionally think of as feedback. It grew out of a discussion I had with Jon Katzenbach in the early 1990s. We were frustrated with the limitations of the usual corporate feedback mechanisms to find out areas of improvement in an organization, such as the questionnaires that forced people to relive the past over and over again—the discussions among colleagues that descended into nightmarish arguments about who did what to whom way back when. As I hope I made clear in my brief history of feedback in Chapter 6, feedback has its virtues. It's a great tool for determining what happened in the past and what's going on in an organization. It's no different than reading history, which teaches us how we all arrived here right now in this moment. Like reading history, it provides us with facts about the past but not necessarily ideas for the future
 
 *  It works because helping people be "right" is more productive than proving them "wrong." Unlike feedback, which often introduces a discussion of mistakes and shortfalls, feedforward focuses on solutions, not problems.
 
@@ -183,20 +184,21 @@ slug: what-got-you-here-wont-get-you-there
 
 *  You have to be careful with feedback. Conducted properly, feedback is not deceptive. It reveals what's on people's minds. But it can be misinterpreted (you see only what you want to see) or misread (you see something that isn't there).
 
-*  Keep this in mind. Sometimes feedback reveals a symptom, not a disease. A symptom is a headache; give it time and it goes away. A brain tumor, on the other hand, can't be ignored. It needs treatment. 
+*  Keep this in mind. Sometimes feedback reveals a symptom, not a disease. A symptom is a headache; give it time and it goes away. A brain tumor, on the other hand, can't be ignored. It needs treatment.
 
 *  "If you want something done right, give it to a busy person."
 
-*  In golf, for example, it is common wisdom that 7 percent of all shots take place within 1 yards of the pin. It's called the short game, and it involves pitching, chipping, hitting out of sand traps, and putting. If you want to lower your score, focus on fixing your short game; it represents at least 7 percent of your score. Yet if you go to a golf course you'll see very few people practicing their short game. 
+*  In golf, for example, it is common wisdom that 70 percent of all shots take place within 100 yards of the pin. It's called the short game, and it involves pitching, chipping, hitting out of sand traps, and putting. If you want to lower your score, focus on fixing your short game; it represents at least 70 percent of your score. Yet if you go to a golf course you'll see very few people practicing their short game.
 
 *  The numbers don't lie, and yet even the most avid golfers hide from the truth and refuse to fix what really needs fixing. (My hunch is that hitting balls out of sand traps all day is simply not as much fun as taking big swipes at the ball off the tee. But who am I to judge?) If golfers really wanted to stack the deck in their favor, they'd spend three hours on their short game for every hour they spend trying to hit the ball a mile. Still few do. It would take a stern golf teacher standing over them every day to enforce the practice routines they know they should be pursuing.
 
-*  They mistakenly estimate: • Time: It takes a lot longer than they expected. They don't have time to do it.
+*  They mistakenly estimate:
+    
+   • Time: It takes a lot longer than they expected. They don't have time to do it.
    • Effort: It's harder than they expected. It's not worth all the effort.
    • Distractions: They do not expect a "crisis" to emerge that will prevent them from staying with the program.
    • Rewards: After they see some improvement, they don't get the response from others that they expected. People don't immediately love the new improved person they've become.
    • Maintenance: Once they hit their goal, people forget how hard it is to stay in shape. Not expecting that they'll have to stick with the program for life, they slowly backslide or give up completely.
-   
 
 *  People commonly fear that if they get better at X they'll get worse at Y—as if improvement is a zero-sum game. Not true
 
@@ -210,7 +212,7 @@ slug: what-got-you-here-wont-get-you-there
 
 *  Remember this the next time you find yourself trapped by a needy, demanding staff. If they need too much of your time, you can't just tell them to stop bothering you. You have to wean them away and make it seem like it's their idea. Let them figure out what they should be doing on their own. Let them tell you where you're not needed. There's a fine line between legitimate face time and get-out-of-my-face time. It's up to you as boss to make the troops face that.
 
-*  These transformations require time to take hold with the people assessing you. As I say, you have to change 1 percent to get 1 percent credit for it
+*  These transformations require time to take hold with the people assessing you. As I say, you have to change 100 percent to get 10 percent credit for it
 
 *  the failure of managers to see the enormous disconnect between understanding and doing
 

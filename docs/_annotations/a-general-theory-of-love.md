@@ -8,5 +8,5 @@ tags: "psychology"
 slug: a-general-theory-of-love
 ---
 
-*  with a poem, but the adventure itself demands it. Poetry transpires at the juncture between feeling and understanding—and so does the bulk of emotional life. More than three hundred years ago, the French mathematician Blaise Pascal wrote, The heart has its reasons whereof Reason knows nothing
+*  with a poem, but the adventure itself demands it. Poetry  transpires at the juncture between feeling and understanding—and  so does the bulk of emotional life. More than three hundred years  ago, the French mathematician Blaise Pascal wrote, The heart has its reasons whereof Reason knows nothing
 

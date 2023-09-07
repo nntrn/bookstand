@@ -10,7 +10,10 @@ slug: love-sense
 
 ## Chapter 2: Attachment: The Key to Love
 
-*  We seek out, monitor, and try to maintain emotional and physical connection with our loved ones. Throughout life, we rely on them to be emotionally accessible, responsive, and engaged with us. •We reach out for our loved ones particularly when we are uncertain, threatened, anxious, or upset. Contact with them gives us a sense of having a safe haven, where we will find comfort and emotional support; this sense of safety teaches us how to regulate our own emotions and how to connect with and trust others. •We miss our loved ones and become extremely upset when they are physically or emotionally remote; this separation anxiety can become intense and incapacitating. Isolation is inherently traumatizing for human beings. •We depend on our loved ones to support us emotionally and be a secure base as we venture into the world and learn and explore. The more we sense that we are effectively connected, the more autonomous and separate we can be.
+*  We seek out, monitor, and try to maintain emotional and physical connection with our loved ones. Throughout life, we rely on them to be emotionally accessible, responsive, and engaged with us. 
+               •We reach out for our loved ones particularly when we are uncertain, threatened, anxious, or upset. Contact with them gives us a sense of having a safe haven, where we will find comfort and emotional support; this sense of safety teaches us how to regulate our own emotions and how to connect with and trust others. 
+               •We miss our loved ones and become extremely upset when they are physically or emotionally remote; this separation anxiety can become intense and incapacitating. Isolation is inherently traumatizing for human beings. 
+               •We depend on our loved ones to support us emotionally and be a secure base as we venture into the world and learn and explore. The more we sense that we are effectively connected, the more autonomous and separate we can be.
 
 *  Bowlby did not. He maintained that the need to be close to a few precious others, to attach, persists through life and is the force that shapes our adult love relationships. As he wrote: "All of us, from cradle to grave, are happiest when life is organized as a series of excursions, long or short, from the secure base provided by our attachment figure(s)."
 
@@ -56,7 +59,8 @@ slug: love-sense
 
 *  Positive emotions turn on our curiosity and desire to engage and explore. They set us up for openness and learning. Joy, for example, invigorates us.
 
-*  Positive emotions remind us at such times that suffering and uncertainty are not the whole story in any human life. Positive emotions and beliefs fuel resilience and help us bounce back from adversity. They generate even more positive emotions in an upward spiral. This is surely part of the power of love. Love, at its best, brings a cornucopia of good things: joy and contentment, safety and trust, intense interest and involvement, curiosity and openness.
+*  Positive emotions remind us at such times that suffering and uncertainty are not the whole story in any human life. Positive emotions and beliefs fuel resilience and help us bounce back from adversity. They generate even more positive emotions in an upward spiral. 
+            This is surely part of the power of love. Love, at its best, brings a cornucopia of good things: joy and contentment, safety and trust, intense interest and involvement, curiosity and openness.
 
 ## Chapter 4: The Brain
 
@@ -106,7 +110,14 @@ slug: love-sense
 
 *  In one study, Paul Johnson and Paul Kenny, neuroscientists at the Scripps Research Institute in Jupiter, Florida, found that overeating by rats resulted in dopamine deficits in the their brains and further compulsive eating.
 
-*  On a scale of 1 to 1, where 1 is not true at all, 5 is moderately true, and 1 is completely true, rate the importance of these factors in your sex life: I want to get close to and feel connected to my lover. I want the turn-on, the thrill, and the pleasure of touch and sex. I want the tension release, and sex helps me to let go of stress. I want to feel special to my partner and cared for by him or her. I want to show my love and have my partner feel special and cared for. I want to feel good about myself and know that I am potent as a sexual person.
+*  On a scale of 1 to 10, where 1 is not true at all, 5 is moderately true, and 10 is completely true, rate the importance of these factors in your sex life: 
+            
+               I want to get close to and feel connected to my lover. 
+               I want the turn-on, the thrill, and the pleasure of touch and sex. 
+               I want the tension release, and sex helps me to let go of stress. 
+               I want to feel special to my partner and cared for by him or her. 
+               I want to show my love and have my partner feel special and cared for. 
+               I want to feel good about myself and know that I am potent as a sexual person.
 
 ## Chapter 6: Love across Time
 

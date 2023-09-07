@@ -12,11 +12,13 @@ slug: math-games-with-bad-drawings
 
 ---
 
-*  Humans are not, by nature, abstract thinkers. Quite the opposite. We are creatures of the concrete: animals who experience appetites, daydreams, and dizzy spells—sometimes all at once, if the Food Network is on. We think in particulars. That's why isomorphisms matter: They transport us from one set of particulars to another. An isomorphism is an abstract bridge between islands of experience.
+*  
+   
+   Humans are not, by nature, abstract thinkers. Quite the opposite. We are creatures of the concrete: animals who experience appetites, daydreams, and dizzy spells—sometimes all at once, if the Food Network is on. We think in particulars. That's why isomorphisms matter: They transport us from one set of particulars to another. An isomorphism is an abstract bridge between islands of experience.
 
-*  James Ernest created this matchmaking game at the request of "a middle school teacher who was looking for a good interactive classroom game on the subject of love and marriage." It requires at least 1 players, and is suitable for a nerdy party or partying classroom.
+*  James Ernest created this matchmaking game at the request of "a middle school teacher who was looking for a good interactive classroom game on the subject of love and marriage." It requires at least 15 players, and is suitable for a nerdy party or partying classroom.
 
-*  All at once, you want to marry fast, marry close, and marry up. These impulses pull against each other, raising tricky questions. 
+*  All at once, you want to marry fast, marry close, and marry up. These impulses pull against each other, raising tricky questions.
 
 ---
 
@@ -24,17 +26,29 @@ slug: math-games-with-bad-drawings
 
 *  Game
    What You're Combining
-   The , the Better Poker
+   The , the Better
+   
+   Poker
    Cards
-   More Aces Scrabble
+   More Aces
+   
+   Scrabble
    Letters
-   More Plausibly a Word Jenga
+   More Plausibly a Word
+   
+   Jenga
    Blocks
-   More Stable Twister
+   More Stable
+   
+   Twister
    Limbs
-   Fewer Displaced Internal Organs Dominos
+   Fewer Displaced Internal Organs
+   
    Dominos
-   More Dominos Cards Against Humanity
+   Dominos
+   More Dominos
+   
+   Cards Against Humanity
    Offensive Tropes
    Less You Play This Game
 

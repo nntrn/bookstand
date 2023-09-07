@@ -10,7 +10,7 @@ slug: the-spark-of-life
 
 ## 11: Mind Matters
 
-*  More prosaically, what all these experiences boil down to is changes in the electrical activity of the brain. LSD and other hallucinogens produce their 'magic' effects by binding very tightly to a specific subset of serotonin receptors at brain synapses, known as 5HT-A receptors
+*  More prosaically, what all these experiences boil down to is changes in the electrical activity of the brain. LSD and other hallucinogens produce their 'magic' effects by binding very tightly to a specific subset of serotonin receptors at brain synapses, known as 5HT-2A receptors
 
 *  Referring to the story, Quintilian recommends that when learning a long text you should break it up into shorter pieces. Then you should visualize a familiar place – your home, for example – and put different bits of the text in different rooms. To recall the text again, you just walk through the imaginary house, room by room, recollecting the text as you go. The place method, and continual repetition, are still the best ways to remember something and are often used by memory savants today.
 

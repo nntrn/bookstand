@@ -12,7 +12,7 @@ slug: 101-essays-that-will-change-the-way-you-think
 
 *  The objectivity required to see the effects of present monoculture is very difficult to develop. Once you have so deeply accepted an idea as "truth" it doesn't register as "cultural" or "subjective" anymore
 
-*  You believe that creating your best life is a matter of deciding what you want and then going after it, but in reality, you are psychologically incapable of being able to predict what will make you happy
+*  You believe that creating your best life is a matter of deciding what you want and then going after it, but in reality, you are psychologically incapable1 of being able to predict what will make you happy
 
 *  The pattern of unnecessarily creating crises in your life is actually an avoidance technique. It distracts you from actually having to be vulnerable or held accountable for whatever it is you're afraid of
 
@@ -91,7 +91,7 @@ slug: 101-essays-that-will-change-the-way-you-think
 
 ## the Happinessof Excellence
 
-*  Eric Greitens says that there are three primary forms of happiness: the happiness of pleasure, the happiness of grace, and the happiness of excellence
+*  Eric Greitens says that there are three primary forms of happiness: the happiness of pleasure, the happiness of grace, and the happiness of excellence5
 
 *  The happiness of pleasure is largely sensory. It's a good meal when you're hungry, the smell of air after it rains, waking up warm and cozy in your bed
 

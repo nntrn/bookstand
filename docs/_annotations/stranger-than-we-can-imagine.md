@@ -16,5 +16,5 @@ slug: stranger-than-we-can-imagine
 
 *  Cubist painters weren't radical in their choice of subject. Like the painters who came before them, they were more than happy to paint naked women and still-life groupings of fruit and wine. It was not their subjects that made them radical, but their attempt to create a new and more truthful way of seeing the familiar. As Picasso once said, "I paint objects as I think them, not as I see them."
 
-*  Without that central tone, which all the other notes are based on, we become adrift in what Professor Erik Levi called "the abyss of no tonal centre." 
+*  Without that central tone, which all the other notes are based on, we become adrift in what Professor Erik Levi called "the abyss of no tonal centre."
 

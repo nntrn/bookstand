@@ -12,9 +12,13 @@ slug: do-i-make-myself-clear
 
 *  Helen Sword, a professor at the University of Auckland, is the creator of the more vivid term, a scary noun we will want to treat with circumspection (sic). "I call them 'zombie nouns,'" she writes, "because they cannibalize active verbs, suck the lifeblood from adjectives and substitute abstract entities for human beings."
 
-*  The proliferation of nominalizations in a discursive formation may be an indication of a tendency toward pomposity and abstraction. Seven zombies inhabit that sentence, the offspring of five verbs and two adjectives. Ms. Sword eliminates or reanimates most of the zombie nouns, adds a human subject, and the sentence springs to life: Writers who overload their sentences with nominalizations tend to sound pompous and abstract
+*  The proliferation of nominalizations in a discursive formation may be an indication of a tendency toward pomposity and abstraction.
+   
+   Seven zombies inhabit that sentence, the offspring of five verbs and two adjectives. Ms. Sword eliminates or reanimates most of the zombie nouns, adds a human subject, and the sentence springs to life:
+   
+   Writers who overload their sentences with nominalizations tend to sound pompous and abstract
 
-*  When he wrote that essay, container shipping, leading to containerize and the zombie containerization, had not arrived, but Ms. Sword brings us grimly up to date with what happens when zombies "gather in jargon-generating packs and infect every noun, verb and adjective in sight." We began with globe (5) which became global (7), then globalize (5), and since 11 we've enjoyed globalization. The most scary combination is a sentence in the passive voice infiltrated by a zombie; the sentence can become two or three times as long.
+*  When he wrote that essay, container shipping, leading to containerize and the zombie containerization, had not arrived, but Ms. Sword brings us grimly up to date with what happens when zombies "gather in jargon-generating packs and infect every noun, verb and adjective in sight." We began with globe (1551) which became global (1676), then globalize (1953), and since 1961 we've enjoyed globalization. The most scary combination is a sentence in the passive voice infiltrated by a zombie; the sentence can become two or three times as long.
 
 *  Flesh-Eater: A man/woman by the name of
    Preferred: Named

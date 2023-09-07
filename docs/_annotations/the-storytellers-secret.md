@@ -26,7 +26,7 @@ slug: the-storytellers-secret
 
 ---
 
-*  "People with high assurance in their capabilities approach difficult tasks as challenges to be mastered rather than as threats to be avoided," says Bandura.
+*  "People with high assurance in their capabilities approach difficult tasks as challenges to be mastered rather than as threats to be avoided,"5 says Bandura.
 
 *  A person with high self-efficacy believes they can reach their goal and they take the steps required to make it happen. They work harder. They raise their hands more. They ask questions. They practice, get it wrong, and try it again. People with low self-efficacy don't need others to tear themselves down. They do it themselves. They quickly lose confidence. They avoid risk and challenges because, after all, they won't succeed anyway (or so they think). They are much more likely to give up when they hear negative comments.
 

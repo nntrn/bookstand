@@ -12,13 +12,17 @@ slug: give-and-take
 
 *  When our audiences are skeptical, the more we try to dominate them, the more they resist. Even with a receptive audience, dominance is a zero-sum game: the more power and authority I have, the less you have. When takers come across someone more dominant, they're at risk of losing their influence. Conversely, prestige isn't zero-sum; there's no limit to the amount of respect and admiration that we can dole out. This means that prestige usually has more lasting value, and it's worth examining how people earn it.
 
-*  As expected, audiences favored the expert. But an interesting wrinkle emerged when the tape included a clumsy behavior by the candidate. Dishes crashed, and the candidate said, "Oh, my goodness—I've spilled coffee all over my new suit." When the average candidate was clumsy, audiences liked him even less. But when the expert was clumsy, audiences liked him even more.
+*  As expected, audiences favored the expert. But an interesting wrinkle emerged when the tape included a clumsy behavior by the candidate. Dishes crashed, and the candidate said, "Oh, my goodness—I've spilled coffee all over my new suit."
+   
+   When the average candidate was clumsy, audiences liked him even less.
+   
+   But when the expert was clumsy, audiences liked him even more.
 
 *  Logically, learning about the people around you should depend on listening. The less you talk, the more you should discover about the group. But Pennebaker found the opposite: the more you talk, the more you think you've learned about the group. By talking like a taker and dominating the conversation, you believe you've actually come to know the people around you, even though they barely spoke. In Opening Up, Pennebaker muses, "Most of us find that communicating our thoughts is a supremely enjoyable learning experience."
 
 *  By speaking with greater speed, volume, assertiveness, and certainty, takers convince us that they know what they're talking about. In one study conducted by psychologists in California, takers were judged by group members as more competent, but in reality, they weren't more competent. Takers, the study's authors report, "attain influence because they behave in ways that make them appear competent—even when they actually lack competence."
 
-*  But when most employees are proactive, generating new ideas for cooking and delivering pizzas more efficiently, powerful speech backfires. When employees were proactive, managers who talked forcefully led their stores to 1 percent lower profits than managers who talked less assertively and more tentatively. By conveying dominance, the powerful speakers discouraged their proactive employees from contributing. When people use powerful communication, others perceive them as "preferring and pursuing individual accomplishments," Fragale writes, "at the expense of group accomplishments."
+*  But when most employees are proactive, generating new ideas for cooking and delivering pizzas more efficiently, powerful speech backfires. When employees were proactive, managers who talked forcefully led their stores to 14 percent lower profits than managers who talked less assertively and more tentatively. By conveying dominance, the powerful speakers discouraged their proactive employees from contributing. When people use powerful communication, others perceive them as "preferring and pursuing individual accomplishments," Fragale writes, "at the expense of group accomplishments."
 
 *  New research shows that advice seeking is a surprisingly effective strategy for exercising influence when we lack authority
 

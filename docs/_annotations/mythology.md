@@ -14,7 +14,7 @@ slug: mythology
 
 ---
 
-*  Saint Paul said the invisible must be understood by the visible. That was not a Hebrew idea, it was Greek. In Greece alone in the ancient world people were preoccupied with the visible; they were finding the satisfaction of their desires in what was actually in the world around them. 
+*  Saint Paul said the invisible must be understood by the visible. That was not a Hebrew idea, it was Greek. In Greece alone in the ancient world people were preoccupied with the visible; they were finding the satisfaction of their desires in what was actually in the world around them.
 
 *  The terrifying irrational has no place in classical mythology. Magic, so powerful in the world before and after Greece, is almost nonexistent
 
@@ -26,7 +26,7 @@ slug: mythology
 
 *  So, back of the stories of an amorous Zeus and a cowardly Zeus and a ridiculous Zeus, we can catch sight of another Zeus coming into being, as men grow continually more conscious of what life demanded of them and what human beings needed in the god they worshiped. Gradually this Zeus displaced the others, until he occupied the whole scene. At last he became, in the words of Dio Chrysostom, who wrote during the second century A.D.: "Our Zeus, the giver of every good gift, the common father and saviour and guardian of mankind."
 
-*  He says in effect to his reader, "Never mind how silly they are. I will dress them up so prettily for you that you will like them." 
+*  He says in effect to his reader, "Never mind how silly they are. I will dress them up so prettily for you that you will like them."
 
 ---
 

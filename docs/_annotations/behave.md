@@ -18,7 +18,9 @@ slug: behave
 
 *  Limbic function is now recognized as central to the emotions that fuel our best and worst behaviors, and extensive research has uncovered the functions of its structures (e.g., the amygdala, hippocampus, septum, habenula, and mammillary bodies).
 
-*  In another study subjects waited an unknown length of time to receive a shock. This lack of predictability and control was so aversive that many chose to receive a stronger shock immediately. And in the others the period of anticipatory dread increasingly activated the amygdala. Thus the human amygdala preferentially responds to fear-evoking stimuli, even stimuli so fleeting as to be below conscious detection.
+*  In another study subjects waited an unknown length of time to receive a shock. This lack of predictability and control was so aversive that many chose to receive a stronger shock immediately. And in the others the period of anticipatory dread increasingly activated the amygdala.
+   
+   Thus the human amygdala preferentially responds to fear-evoking stimuli, even stimuli so fleeting as to be below conscious detection.
 
 *  Where do these "Ohhh, the tone isn't scary anymore" neurons get inputs from? The frontal cortex. When we stop fearing something, it isn't because some amygdaloid neurons have lost their excitability. We don't passively forget that something is scary. We actively learn that it isn't anymore.*
 

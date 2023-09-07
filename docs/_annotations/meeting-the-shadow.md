@@ -14,7 +14,19 @@ slug: meeting-the-shadow
 
 *  It's usually the shadow self who laughs at jokes.
 
-*  English psychoanalyst Molly Tuby suggests six other ways in which, even unknowingly, we meet the shadow every day: In our exaggerated feelings about others ("I just can't believe he would do that!" "I don't know how she could wear that outfit!") In negative feedback from others who serve as our mirrors ("This is the third time you arrived late without calling me.") In those interactions in whch we continually have the same troubling effect on several different people ("Sam and I both feel that you have not been straightforward with us.") In our impulsive and inadvertent acts ("Oops, I didn't mean to say that.") In situations in which we are humiliated ("I'm so ashamed about how he treats me.") In our exaggerated anger about other people's faults ("She just can't seem to do her work on time!" "Boy, he really let his weight get out of control!")
+*  English psychoanalyst Molly Tuby suggests six other ways in which, even unknowingly, we meet the shadow every day:
+   
+   In our exaggerated feelings about others ("I just can't believe he would do that!" "I don't know how she could wear that outfit!")
+   
+   In negative feedback from others who serve as our mirrors ("This is the third time you arrived late without calling me.")
+   
+   In those interactions in whch we continually have the same troubling effect on several different people ("Sam and I both feel that you have not been straightforward with us.")
+   
+   In our impulsive and inadvertent acts ("Oops, I didn't mean to say that.")
+   
+   In situations in which we are humiliated ("I'm so ashamed about how he treats me.")
+   
+   In our exaggerated anger about other people's faults ("She just can't seem to do her work on time!" "Boy, he really let his weight get out of control!")
 
 *  As Nietzsche puts it: "We have art so that we shall not die of reality."
 

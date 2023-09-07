@@ -30,18 +30,6 @@ collections:
     output: true
     permalink: tags/:name
 
-# tag_archive:
-#   type: jekyll-archives
-#   path: /tags/
-
-# jekyll-archives:
-#   enabled:
-#     - tags
-#   layouts:
-#     tag: archive-tag
-#   permalinks:
-#     tag: /tags/:name/
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -64,3 +52,4 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - assets/artwork

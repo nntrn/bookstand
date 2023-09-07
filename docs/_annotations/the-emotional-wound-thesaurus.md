@@ -48,7 +48,10 @@ slug: the-emotional-wound-thesaurus
 
 *  This inner story, or character arc, comes in three forms.
 
-*  In most works of fiction, the same four dinner guests have a seat at the storytelling table: An unmet or missing need that creates a deep longing or sense of urgency (Inner Motivation)
+*  In most works of fiction, the same four dinner guests have a seat at the storytelling table:
+    
+   
+   An unmet or missing need that creates a deep longing or sense of urgency (Inner Motivation)
    A tangible goal that represents the fulfillment of this need (Outer Motivation)
    People or forces that oppose the character's mission (Outer Conflict)
    Any fears, flaws, wounds, or misbeliefs that block personal growth and diminish the character's self-worth (Inner Conflict)

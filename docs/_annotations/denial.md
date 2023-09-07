@@ -8,5 +8,6 @@ tags: "science"
 slug: denial
 ---
 
-*  We always deceive ourselves twice about the people we love—first to their advantage, then to their disadvantage. —Albert Camus, in A Happy Death
+*  We always deceive ourselves twice about the people we love—first to their advantage, then to their disadvantage.
+               —Albert Camus, in A Happy Death
 

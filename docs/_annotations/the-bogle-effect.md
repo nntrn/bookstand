@@ -18,11 +18,13 @@ slug: the-bogle-effect
 
 *  While Bogle relished the early years when he had to claw and scratch for the flows—"Honestly, I love the years of struggle," he said; "the years of momentum do very little for me"—he was nevertheless surprised at how long Vanguard struggled, given how good a deal it offered investors. "I'm disappointed by how long it took. Forty years is a long time."
 
-*  It is a textbook example of the Ernest Hemingway "gradually, then suddenly" line. 
+*  It is a textbook example of the Ernest Hemingway "gradually, then suddenly" line.
 
 *  And if our competitors will finally compete on lower price and higher value, rather than on higher spending on dubious marketing, they will make the mutual fund world even more competitive. Indeed, as I told the Harvard Business School class, the first sign that Vanguard's mission has created a better world for the investor will be when our market share begins to erode.
 
-*  Not spending on advertising is right in line with Bogle's Field of Dreamsesque "Build it and they will come" approach. As he told the crew in a 10 speech: "We are beholden to no army of outside sales staff. Rather, we depend on the investor to come directly to us." And they did. By waiting for people to come to it, Vanguard ended up attracting the best kind of "sticky" investors. In Character Counts, Bogle comments: We have always known that our typical Vanguard client is better educated and wealthier than the typical fund investor. We know that, in addition, he or she is more ready, willing, and able to move his or her assets among our funds. In short, our prototypical client is a financially astute investor who knows what he or she wants, when he or she wants it and how to get it.
+*  Not spending on advertising is right in line with Bogle's Field of Dreamsesque "Build it and they will come" approach. As he told the crew in a 1980 speech: "We are beholden to no army of outside sales staff. Rather, we depend on the investor to come directly to us." And they did. By waiting for people to come to it, Vanguard ended up attracting the best kind of "sticky" investors. In Character Counts, Bogle comments:
+   
+   We have always known that our typical Vanguard client is better educated and wealthier than the typical fund investor. We know that, in addition, he or she is more ready, willing, and able to move his or her assets among our funds. In short, our prototypical client is a financially astute investor who knows what he or she wants, when he or she wants it and how to get it.
 
 ---
 

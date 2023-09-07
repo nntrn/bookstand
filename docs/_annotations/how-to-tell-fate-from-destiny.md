@@ -11,7 +11,6 @@ slug: how-to-tell-fate-from-destiny
 *  The difference between these words is the difference between performance and potential, between doing something and doing something more.
 
 *  Concur implies agreement reached independently. When you concur with a statement, you agree on your own without pressure from the person or source that made it.
-   
 
 *  If you pronounce it as a word, it's an acronym: AIDS, PIN, NASA, SARS, NAFTA, OSHA, DARE, ZIP (code). If you pronounce the letters, it's an initialism: CD, FYI, LOL, SUV, DOA, HIV, UFO.
 
@@ -22,7 +21,6 @@ slug: how-to-tell-fate-from-destiny
 *  "If you affect something, there will be an effect."
 
 *  When something is effected, accomplished, brought about, people are affected, influenced, by it. One thing can affect (influence) another, and when it does there is an effect (result) that has been effected (brought about).
-   
 
 *  More specifically, an era is a time in history "marked by a new or distinct order of things" (Merriam-Webster's Collegiate Dictionary): the Precambrian era; the Christian era; the Renaissance era; an era of technological innovation. An
 

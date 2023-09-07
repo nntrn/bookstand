@@ -12,6 +12,8 @@ slug: the-legion-of-regrettable-supervillains
 
 *  Enemy of: Princesses, villagers
    Created by: Unknown
-   Debuted in: Feature Presentation # (Fox Publications, April 10)
-   Favorite hiding place: Behind a beautiful bunch a' ripe banana ILLAINS PLAY THE LONG GAME. Whether their goal is world domination, the death of their greatest enemy, or the destruction of the universe, one thing is true: they only need to win once. Thus, long-lived lowlifes and farsighted fiends have the luxury of letting their plans develop slowly over time. Sometimes, in fact, they set preparations in motion centuries before their endgame.
+   Debuted in: Feature Presentation #5 (Fox Publications, April 1950)
+   Favorite hiding place: Behind a beautiful bunch a' ripe banana
+   
+   ILLAINS PLAY THE LONG GAME. Whether their goal is world domination, the death of their greatest enemy, or the destruction of the universe, one thing is true: they only need to win once. Thus, long-lived lowlifes and farsighted fiends have the luxury of letting their plans develop slowly over time. Sometimes, in fact, they set preparations in motion centuries before their endgame.
 

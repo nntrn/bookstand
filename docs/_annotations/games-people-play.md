@@ -22,7 +22,7 @@ slug: games-people-play
    Person B responds to the hidden message.
    Person A then switches ego states and has a surprise bad feeling.
 
-*  The person who initiates a game does so with a discount. These come in one of four varieties: () a discount that there is a problem, () a discount of the significance of the problem, () a discount that the problem is solvable by the person and () a discount that the problem is solvable by anyone.
+*  The person who initiates a game does so with a discount. These come in one of four varieties: (1) a discount that there is a problem, (2) a discount of the significance of the problem, (3) a discount that the problem is solvable by the person and (4) a discount that the problem is solvable by anyone.
 
 *  She concluded that there are really only three major patterns: NIGYSOB, in which a person switches from helpless or defiant Child to Parent, Kick Me, in which a person switches from bossy or helpful Parent to Child, and Uproar, where both partners switch ego states simultaneously and march off
 

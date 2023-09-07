@@ -8,9 +8,9 @@ tags: "mathematics"
 slug: change-is-the-only-constant
 ---
 
-*  Philosophers in ancient China played similar mind games. "The dimensionless cannot be accumulated," one wrote. "Its size is a thousand miles." In the mathematical sense, a moment is dimensionless: It possesses no length, no duration. It's zero seconds long. But since two times zero is still zero, two moments will also amount to zero time. The same holds for 1 moments, or a thousand, or a million. In fact, any countable number of moments will still total up to zero seconds.
+*  Philosophers in ancient China played similar mind games. "The dimensionless cannot be accumulated," one wrote. "Its size is a thousand miles." In the mathematical sense, a moment is dimensionless: It possesses no length, no duration. It's zero seconds long. But since two times zero is still zero, two moments will also amount to zero time. The same holds for 10 moments, or a thousand, or a million. In fact, any countable number of moments will still total up to zero seconds.
 
-*  This bread-and-butter mathematical concept is oddly like a poet's fancy. The derivative is "instantaneous change": movement captured in a moment, like lightning in a bottle. It's the repudiation of Zeno, who said that nothing can happen in a single instant, and the vindication of Hladik, who believed that anything can. 
+*  This bread-and-butter mathematical concept is oddly like a poet's fancy. The derivative is "instantaneous change": movement captured in a moment, like lightning in a bottle. It's the repudiation of Zeno, who said that nothing can happen in a single instant, and the vindication of Hladik, who believed that anything can.
 
 ---
 
@@ -22,7 +22,9 @@ slug: change-is-the-only-constant
 
 ---
 
-*  Alas, this is yet another way in which Gottfried Leibniz's achievements exceed mine, because he gave to the mathematical lexicon words such as: • Constant, for a quantity that doesn't change;
+*  Alas, this is yet another way in which Gottfried Leibniz's achievements exceed mine, because he gave to the mathematical lexicon words such as:
+   
+   • Constant, for a quantity that doesn't change;
    • Variable, for a quantity that does;
    • Function, for a rule associating inputs to outputs;
    • Derivative, for an instantaneous rate of change; and
@@ -33,7 +35,7 @@ slug: change-is-the-only-constant
 ---
 
 *  Fads follow similar logic. The more people a fad recruits, the more people they recruit. A feedback loop leads to exponential growth—at least, for a little while. But sooner or later, the fad begins to exhaust its targets. Lots of recruiters, and no one left to recruit. A surplus of catalysts, and nothing left to catalyze.
-   You might say, if you're a fan of ostentatious chemistry jargon, that a viral fad is an autocatalytic reaction of humans. 
+   You might say, if you're a fan of ostentatious chemistry jargon, that a viral fad is an autocatalytic reaction of humans.
 
 ---
 
@@ -54,7 +56,7 @@ slug: change-is-the-only-constant
 
 ---
 
-*  "Elvis started off as a dog who was a really good friend," Pennings told me. "By the time he died, he was a good friend who just happened to be a dog." 
+*  "Elvis started off as a dog who was a really good friend," Pennings told me. "By the time he died, he was a good friend who just happened to be a dog."
 
 ---
 
@@ -68,7 +70,7 @@ slug: change-is-the-only-constant
 
 ---
 
-*  "Squares after squares of flame, set and cut into the ether," wrote poet Ezra Pound of a New York evening. "A city of geometric heights," wrote essayist Roland Barthes, "a petrified desert of grids and lattices." Just like a skyline, a Riemann sum is an aggregate, built of rectilinear units. 
+*  "Squares after squares of flame, set and cut into the ether," wrote poet Ezra Pound of a New York evening. "A city of geometric heights," wrote essayist Roland Barthes, "a petrified desert of grids and lattices." Just like a skyline, a Riemann sum is an aggregate, built of rectilinear units.
 
 ---
 
@@ -94,18 +96,18 @@ slug: change-is-the-only-constant
 
 ---
 
-*  In Jevons's model, a stellar two-minute back rub can somehow "equal" a pretty-good five-minute one. Two hours of kinda needing to pee might be "equal" in some sense to 3 minutes of desperately needing to go.
+*  In Jevons's model, a stellar two-minute back rub can somehow "equal" a pretty-good five-minute one. Two hours of kinda needing to pee might be "equal" in some sense to 30 minutes of desperately needing to go.
    Robert Frost wrote, in one poem's title, that "happiness makes up in height for what it lacks in length." Jevons makes that relation explicit, mathematical.
 
-*  A century after Jevons, a team of psychologists led by Daniel Kahneman set out to study a particular experience of pain: forcing people to hold their hands immersed in icy water. (Psychology: it's sociology for sociopaths.) One hand was submerged in 5°F water for a minute. At another time, the other hand underwent the same experience, followed by an additional 3 seconds in the water, during which the temperature gradually rose to 5°F.
-   Later, subjects were asked: Which trial would you rather repeat? 
+*  A century after Jevons, a team of psychologists led by Daniel Kahneman set out to study a particular experience of pain: forcing people to hold their hands immersed in icy water. (Psychology: it's sociology for sociopaths.) One hand was submerged in 57°F water for a minute. At another time, the other hand underwent the same experience, followed by an additional 30 seconds in the water, during which the temperature gradually rose to 59°F.
+   Later, subjects were asked: Which trial would you rather repeat?
 
 *  Jevons's theory tells us that nobody should choose the latter trial. It has all the chilly pain of the first, plus a little extra. Unless you're an Arctic mammal, a masochist, or both, bonus icy hand time should not appeal to you.
    And yet that's exactly what most subjects chose. Looking back on an experience, people tend to ignore how long it lasted. Instead, they focus on extremes and endings—the maximum of pain, and the final pain level. Because the second trial hits the same extreme and ends on a slightly less painful note, subjects recall it more fondly.
 
 *  Emotion, as retained in human memory, is not a Jevons-like integral. It overweighs finales. I'm reminded of Ray Bradbury's insight: "A bright film with a mediocre ending is a mediocre film. Conversely, a medium-good film with a terrific ending is a terrific film." What makes a story happy or sad, cynical or hopeful, tragic or comic? It's the ending, and nothing else. That's why we rush to visit deathbeds, why we dwell on final words, why the last minutes of a lifetime can redefine the eight decades prior.
 
-*  Even so, utilitarianism remains a booming and necessary voice in our moral sphere. Sure, we may debate what ranks as "the greatest good" ("better to be Socrates dissatisfied than a fool satisfied," said 1th-century economist John Stuart Mill), or who counts among that "greatest number" ("most human beings are speciesists," warns philosopher Peter Singer), or how to aggregate billions of subjective experiences into a single sum (maybe Tolstoy can help?). We probably reject the specifics of Jevons's moral calculus. But every time we posit a moral calculus of our own—a new model better matched to the complexities of emotional reality—we tread in Jevons's footsteps. Explicit or not, consistent or not, we live our lives by a kind of felicific calculus.
+*  Even so, utilitarianism remains a booming and necessary voice in our moral sphere. Sure, we may debate what ranks as "the greatest good" ("better to be Socrates dissatisfied than a fool satisfied," said 19th-century economist John Stuart Mill), or who counts among that "greatest number" ("most human beings are speciesists," warns philosopher Peter Singer), or how to aggregate billions of subjective experiences into a single sum (maybe Tolstoy can help?). We probably reject the specifics of Jevons's moral calculus. But every time we posit a moral calculus of our own—a new model better matched to the complexities of emotional reality—we tread in Jevons's footsteps. Explicit or not, consistent or not, we live our lives by a kind of felicific calculus.
 
 ---
 

@@ -22,7 +22,7 @@ slug: the-mastery-of-love
 
 *  You have a limit to the amount of abuse you will accept, but no one in the whole world abuses you more than you abuse yourself.
 
-*  The limit of your self-abuse is the limit you will tolerate from other people. If someone abuses you more than you abuse yourself, you walk away, you run, you escape. But if someone abuses you a little less than you abuse yourself, perhaps you stay longer. 
+*  The limit of your self-abuse is the limit you will tolerate from other people. If someone abuses you more than you abuse yourself, you walk away, you run, you escape. But if someone abuses you a little less than you abuse yourself, perhaps you stay longer.
 
 *  Love has no obligations. Fear is full of obligations. In the track of fear, whatever we do is because we have to do it, and we expect other people to do something because they have to do it. We have the obligation, and as soon we have to, we resist it. The more resistance we have, the more we suffer. Sooner or later, we try to escape our obligations. On the other hand, love has no resistance. Whatever we do is because we want to do it. It becomes a pleasure; it's like a game, and we have fun with it.
 
@@ -100,7 +100,7 @@ slug: the-mastery-of-love
 
 *  You are the victim, and if you judge yourself and find yourself guilty, for how many years will you punish yourself by not enjoying something that is one of the most beautiful things in the world?
 
-*  The truth is relative in this world; it's changing all the time because we live in a world of illusions. What is true right now is not true later. Then it could be true again. 
+*  The truth is relative in this world; it's changing all the time because we live in a world of illusions. What is true right now is not true later. Then it could be true again.
 
 *  Don't believe me. You don't have to believe me, but think, and make choices. Believe what you want to believe according to what I say, but only if it makes sense for you, if it makes you happy
 

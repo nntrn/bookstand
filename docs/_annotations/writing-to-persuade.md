@@ -18,9 +18,31 @@ slug: writing-to-persuade
 
 *  Don't tell people how to feel, or not feel, or whoever you're talking to will stop talking. Start by giving people a chance to explain their ideas and feelings, and you will seem agreeable and willing to listen. Cut them off, and you will never persuade them of anything.
 
-*  What liberals should read and watch to understand the other viewpoint: The Wall Street Journal editorial page The National Review The Federalist Drudge Fox News What conservatives should read to understand the other viewpoint: The New Yorker Slate The New York Times Politico The Washington Post
+*  What liberals should read and watch to understand the other viewpoint:
+   
+   The Wall Street Journal editorial page
+   
+   The National Review
+   
+   The Federalist 
+   
+   Drudge
+   
+   Fox News 
+   
+   What conservatives should read to understand the other viewpoint:
+   
+   The New Yorker
+   
+   Slate
+   
+   The New York Times
+   
+   Politico
+   
+   The Washington Post
 
-*  That is a classic approach: If you think this, why do you also think something that appears to be the opposite? Pointing out a contradiction might make your audience look at an issue differently. Sometimes showing that you understand your audience is simple. Just start your essay by telling them that you know what sorts of things they worry about, because you worry about the same things. 
+*  That is a classic approach: If you think this, why do you also think something that appears to be the opposite? Pointing out a contradiction might make your audience look at an issue differently. Sometimes showing that you understand your audience is simple. Just start your essay by telling them that you know what sorts of things they worry about, because you worry about the same things.
 
 ---
 

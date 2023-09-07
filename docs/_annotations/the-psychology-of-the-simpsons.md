@@ -12,7 +12,7 @@ slug: the-psychology-of-the-simpsons
 
 *  Interdependence Theory definition of relationship satisfaction says that you never really know how you feel about your own relationship until you compare it to your CL (comparison level), which is formed by observing everyone else's relationship
 
-*  Again, nicely summarized by Rusbult and Arriaga (9; 2), "Dependence level refers to the degree to which an individual relies on a partner for the fulfillment of important needs (i.e., the individual 'needs' a relationship)." So, how do you know if you're dependent on your relationship? According to Interdependence Theory, you must make another comparison. You must think to yourself, If I weren't in this particular relationship, could my needs be fulfilled elsewhere?
+*  Again, nicely summarized by Rusbult and Arriaga (1997; 225), "Dependence level refers to the degree to which an individual relies on a partner for the fulfillment of important needs (i.e., the individual 'needs' a relationship)." So, how do you know if you're dependent on your relationship? According to Interdependence Theory, you must make another comparison. You must think to yourself, If I weren't in this particular relationship, could my needs be fulfilled elsewhere?
 
 *  Would your next best option fulfill your needs? The theory says if the answer is "yes," then you are not really dependent on this relationship, and thus are likely to leave. If the answer is "no," then you are dependent, and will stay.
 
@@ -26,5 +26,5 @@ slug: the-psychology-of-the-simpsons
 
 ---
 
-*  At its most basic level, the ability to learn or to adapt to a changing environment is the foundation on which all other behaviors exist. If an organism cannot learn, it is doomed to repeat the same mistakes over and over again. 
+*  At its most basic level, the ability to learn or to adapt to a changing environment is the foundation on which all other behaviors exist. If an organism cannot learn, it is doomed to repeat the same mistakes over and over again.
 

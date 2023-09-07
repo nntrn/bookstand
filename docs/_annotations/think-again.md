@@ -18,7 +18,7 @@ slug: think-again
 
 *  As I've studied the process of rethinking, I've found that it often unfolds in a cycle. It starts with intellectual humility—knowing what we don't know. We should all be able to make a long list of areas where we're ignorant. Mine include art, financial markets, fashion, chemistry, food, why British accents turn American in songs, and why it's impossible to tickle yourself. Recognizing our shortcomings opens the door to doubt. As we question our current understanding, we become curious about what information we're missing. That search leads us to new discoveries, which in turn maintain our humility by reinforcing how much we still have to learn. If knowledge is power, knowing what we don't know is wisdom.
 
-*  Scientific thinking favors humility over pride, doubt over certainty, curiosity over closure. 
+*  Scientific thinking favors humility over pride, doubt over certainty, curiosity over closure.
 
 *  Research shows that when people are resistant to change, it helps to reinforce what will stay the same. Visions for change are more compelling when they include visions of continuity. Although our strategy might evolve, our identity will endure.
 
@@ -35,7 +35,6 @@ slug: think-again
 *  This might be one of the reasons that patient mortality rates in hospitals seem to spike in July, when new residents take over. It's not their lack of skill alone that proves hazardous; it's their overestimation of that skill.
 
 *  "Arrogance is ignorance plus conviction," blogger Tim Urban explains. "While humility is a permeable filter that absorbs life experience and converts it into knowledge and wisdom, arrogance is a rubber shield that life experience simply bounces off of."
-   
 
 *  Humility is often misunderstood. It's not a matter of having low self-confidence. One of the Latin roots of humility means "from the earth." It's about being grounded—recognizing that we're flawed and fallible.
 
@@ -82,7 +81,7 @@ slug: think-again
 *  The more the topic matters to them, the more the quality of reasons matters. It's when audiences are skeptical of our view, have a stake in the issue, and tend to be stubborn that piling on justifications is most likely to backfire. If they're resistant to rethinking, more reasons simply give them more ammunition to shoot our views down.
 
 *  My colleagues and I ran an experiment testing two different messages meant to convince thousands of resistant alumni to give. One message emphasized the opportunity to do good: donating would benefit students, faculty, and staff. The other emphasized the opportunity to feel good: donors would enjoy the warm glow of giving.
-   The two messages were equally effective: in both cases, 6. percent of the stingy alumni ended up donating. Then we combined them, because two reasons are better than one.
+   The two messages were equally effective: in both cases, 6.5 percent of the stingy alumni ended up donating. Then we combined them, because two reasons are better than one.
    Except they weren't. When we put the two reasons together, the giving rate dropped below 3 percent. Each reason alone was more than twice as effective as the two combined.
    The audience was already skeptical. When we gave them different kinds of reasons to donate, we triggered their awareness that someone was trying to persuade them—and they shielded themselves against it. A single line of argument feels like a conversation; multiple lines of argument can become an onslaught.
 
@@ -112,7 +111,7 @@ slug: think-again
 
 *  Psychologists find that many of our beliefs are cultural truisms: widely shared, but rarely questioned. If we take a closer look at them, we often discover that they rest on shaky foundations
 
-*  Daryl Davis 
+*  Daryl Davis
 
 *  As a general rule, it's those with greater power who need to do more of the rethinking, both because they're more likely to privilege their own perspectives and because their perspectives are more likely to go unquestioned. In most cases, the oppressed and marginalized have already done a great deal of contortion to fit in.
 
@@ -131,7 +130,6 @@ slug: think-again
 *  Amy Edmondson finds that when psychological safety exists without accountability, people tend to stay within their comfort zone, and when there's accountability but not safety, people tend to stay silent in an anxiety zone. When we combine the two, we create a learning zone. People feel free to experiment—and to poke holes in one another's experiments in service of making them better
 
 *  Requiring proof is an enemy of progress. This is why companies like Amazon use a principle of disagree and commit. As Jeff Bezos explained it in an annual shareholder letter, instead of demanding convincing results, experiments start with asking people to make bets. "Look, I know we disagree on this but will you gamble with me on it?" The goal in a learning culture is to welcome these kinds of experiments, to make rethinking so familiar that it becomes routine.
-   
 
 ## Chapter 11: Escaping Tunnel Vision
 

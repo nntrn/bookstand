@@ -10,5 +10,5 @@ slug: why-the-germans-do-it-better
 
 *  Germans stayed the same while others changed.
 
-*  The skills acquired are often disconnected from the immediate requirements of the employee. You rarely hear the term 'over-skilled' in Germany. There is a premium on the future, rather than the present – all based on the assumption that the employee is likely to stay for a while. 
+*  The skills acquired are often disconnected from the immediate requirements of the employee. You rarely hear the term 'over-skilled' in Germany. There is a premium on the future, rather than the present – all based on the assumption that the employee is likely to stay for a while.
 
