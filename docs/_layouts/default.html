@@ -14,7 +14,7 @@
     {% feed_meta %}
     {% seo %}
   </head>
-  <body>
+  <body data-layout="{{page.layout}}">
     <div class="site-container" data-type="{{page.layout}}">
       <header>
         <div class="flex column jc-center">
@@ -23,9 +23,7 @@
         </div>
       </header>
       <main>
-        <div class="{{page.layout}}-container">
-          {{ content }}
-        </div>
+        {{ content }}
       </main>
     </div>
   </body>

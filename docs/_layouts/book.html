@@ -4,32 +4,33 @@ layout: default
 {%- assign pagecreated = page.date |  date_to_string: "ordinal", "US" -%}
 {%- assign pagemodified = page.modified |  date_to_string: "ordinal", "US" -%}
 
-<div class="sidebar box pt-0 mt-3">
-  {%- include postlist.html -%}
-  <div class="mt-2">{%- include social.html -%}</div>
-</div>
-<div class="page-content box pt-0 mt-3">
-  <h2 class="book-title">{{ page.title }}</h2>
-  <h3 class="book-author">{{page.author}}</h3>
-  <p class="info">
-    <span>First annotation on <time datetime="{{page.date}}">{{pagecreated}}</time>.</span>
-    {%- if pagemodified != pagecreated %}
-    <span>Latest on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
-    {%- endif -%}
-  </p>
-  {% assign bookannotations = site.data.activity | where: 'assetid', page.assetid  %}
-  <div class="tag-list">
-    {%- for tag in page.tags -%}
-    <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>
-    {%- endfor -%}
+<div class="container">
+  <div class="sidebar box pt-0 mt-3">
+    {%- include postlist.html -%}
+    <div class="mt-2">{%- include social.html -%}</div>
   </div>
-  <ul class="annotations">
-    {%- for bookannotation in bookannotations -%}
-    <li id="{{bookannotation.cfi}}">{{bookannotation.text}}<a href="#{{bookannotation.cfi}}" class="loc">#</a></li>
-    {%- endfor -%}
-  </ul>
+  <div class="page-content box pt-0 mt-3">
+    <h2 class="book-title">{{ page.title }}</h2>
+    <h3 class="book-author">{{page.author}}</h3>
+    <p class="info">
+      <span>First annotation on <time datetime="{{page.date}}">{{pagecreated}}</time>.</span>
+      {%- if pagemodified != pagecreated %}
+      <span>Latest on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
+      {%- endif -%}
+    </p>
+    {% assign bookannotations = site.data.activity | where: 'assetid', page.assetid  | sort:"cfi"  %}
+    <div class="tag-list">
+      {%- for tag in page.tags -%}
+      <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>
+      {%- endfor -%}
+    </div>
+    <ul class="annotations flex-list">
+      {%- for bookannotation in bookannotations -%}
+      <li id="{{bookannotation.id}}"><span>{{bookannotation.text}}</span><a href="#{{bookannotation.id}}" class="loc">#</a></li>
+      {% endfor -%}
+    </ul>
+  </div>
 </div>
-
 <script>
   function highlightAnnotation() {
     Array.from(document.querySelectorAll('.highlighted')).forEach(e => e.classList.remove('highlighted'))
