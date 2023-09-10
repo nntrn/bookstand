@@ -6,6 +6,7 @@ date: 2023-05-14T16:27:34Z
 modified: 2023-05-14T16:30:38Z
 tags: "writing"
 slug: the-conflict-thesaurus-volume-1
+description: "Book annotations for The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles (Volume 1) by Becca Puglisi"
 ---
 
 *  A fatal flaw is the character's blind spot. He doesn't see the damage it does, only the benefit of it stopping a problem before it can start. In the story, the fatal flaw will stand in the character's way of what he wants most. Until he realizes how his dysfunctional behavior and attitudes are limiting him and adopts a healthier approach, he will continue to fail to achieve his heart's desire. Ironically, failure aids in this process by shining a light on the character's flaw and making it harder and harder to ignore.

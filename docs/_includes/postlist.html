@@ -5,7 +5,7 @@
 <ul class="related-posts">
   {%- for book in books -%}
   {%- if book.slug == page.slug -%}
-  <li><strong>{{book.title}}</strong></li>
+  <li><u>{{book.title}}</u></li>
   {%- else -%}
   <li><a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a></li>
   {%- endif -%}

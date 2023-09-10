@@ -6,6 +6,7 @@ date: 2023-02-11T04:33:59Z
 modified: 2023-06-22T19:35:30Z
 tags: "social-science"
 slug: amusing-ourselves-to-death
+description: "Book annotations for Amusing Ourselves to Death by Neil Postman & Andrew Postman"
 ---
 
 *  Even the Japanese, who are said to make better cars than the Americans, know that economics is less a science than a performing art, as Toyota's yearly advertising budget confirms.

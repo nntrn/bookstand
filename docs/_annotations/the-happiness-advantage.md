@@ -6,6 +6,7 @@ date: 2014-03-05T18:39:33Z
 modified: 2014-10-25T19:15:19Z
 tags: "self-improvement"
 slug: the-happiness-advantage
+description: "Book annotations for The Happiness Advantage by Shawn Achor"
 ---
 
 ## Introduction

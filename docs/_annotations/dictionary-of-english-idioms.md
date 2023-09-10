@@ -6,6 +6,7 @@ date: 2022-03-05T16:03:57Z
 modified: 2022-03-05T16:12:13Z
 tags: "education"
 slug: dictionary-of-english-idioms
+description: "Book annotations for Dictionary of English Idioms: Vocabulary Building by Manik Joshi"
 ---
 
 ## Useful English Idioms -- B

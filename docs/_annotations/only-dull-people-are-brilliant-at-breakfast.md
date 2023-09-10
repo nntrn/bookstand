@@ -6,6 +6,7 @@ date: 2023-05-14T16:19:32Z
 modified: 2023-05-14T16:20:49Z
 tags: "quotations"
 slug: only-dull-people-are-brilliant-at-breakfast
+description: "Book annotations for Only Dull People Are Brilliant at Breakfast by Oscar Wilde"
 ---
 
 *  The old believe everything: the middle-aged suspect everything: the young know everything.

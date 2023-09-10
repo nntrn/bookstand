@@ -6,6 +6,7 @@ date: 2022-04-28T21:24:32Z
 modified: 2022-04-28T21:28:01Z
 tags: "system-administration"
 slug: taming-the-terminal
+description: "Book annotations for Taming the Terminal by Bart Busschots"
 ---
 
 ## TTT Part 23 of n — Networking Intro

@@ -1,11 +1,12 @@
 ---
-title: Thank You for Arguing, Fourth Edition (Revised and Updated)
+title: Thank You for Arguing, Fourth Edition 
 author: Jay Heinrichs
 assetid: 1499290635
 date: 2023-02-24T16:52:41Z
-modified: 2023-02-24T17:13:58Z
+modified: 2023-09-07T09:16:58Z
 tags: "language-arts"
 slug: thank-you-for-arguing-fourth-edition
+description: "Book annotations for Thank You for Arguing, Fourth Edition  by Jay Heinrichs"
 ---
 
 *  Truth springs from argument among friends. —DAVID HUME
@@ -41,4 +42,12 @@ slug: thank-you-for-arguing-fourth-edition
    Future-tense (deliberative) argument promises a payoff. You can see why Aristotle dedicated the rhetoric of decision-making to the future.
 
 *  Practical concerns are open to deliberative debate. Because deliberation has to do with choices, everything about it depends—on the circumstances, the time, the people involved, and whatever "public" you mean when you talk about public opinion. Deliberative argument relies on public opinion, not a higher power, to resolve questions.
+
+---
+
+*  Logos is argument by logic. If arguments were children, logos would be the brainy one, the big sister who gets top grades in high school. Logos isn't just about following rules of logic; it's a set of techniques that use what the audience is thinking.
+
+*  Ethos, or argument by character, employs the persuader's personality, reputation, and ability to look trustworthy. (While logos sweats over its GPA, ethos gets elected class president.) In rhetoric, a sterling reputation is more than just good; it's persuasive.
+
+*  Logos, ethos, and pathos appeal to the brain, gut, and heart of your audience. While our brain tries to sort the facts, our gut tells us whether we can trust the other person, and our heart makes us want to do something about it
 

@@ -6,6 +6,7 @@ date: 2022-09-07T03:02:48Z
 modified: 2023-08-19T13:43:49Z
 tags: "language-arts"
 slug: do-i-make-myself-clear
+description: "Book annotations for Do I Make Myself Clear? by Harold Evans"
 ---
 
 *  The zombie is a noun that's devoured a verb: implementation, assessment, authorization, documentation, participation, transmittal, realization… all zombies

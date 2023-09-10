@@ -6,6 +6,7 @@ date: 2022-09-28T21:36:27Z
 modified: 2022-11-29T08:53:06Z
 tags: "anthropology"
 slug: cracking-complexity-now
+description: "Book annotations for Cracking Complexity Now by David Komlos & David Benjamin"
 ---
 
 *  What makes a system complex is not the presence of many agents, but the fact that these agents adapt to and interact with one another in a way that creates unpredictable consequences.

@@ -6,6 +6,7 @@ date: 2023-01-12T12:13:09Z
 modified: 2023-03-25T22:59:45Z
 tags: "design"
 slug: dark-matter-and-trojan-horses-a-strategic-design-vocabulary
+description: "Book annotations for Dark Matter and Trojan Horses. A Strategic Design Vocabulary. by Dan Hill"
 ---
 
 *  There is good failure and bad failure. The former is failure that enables a system to learn, becoming more resilient, more adept. The latter is exhibited within a non-learning system. Are these non-learning systems due to their fundamentally out-of-control characteristics, systems whose complexity has grown beyond our comprehension and capability? Or is it simply that policy is too dislocated from its realisation?

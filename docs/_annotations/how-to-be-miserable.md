@@ -6,6 +6,7 @@ date: 2023-09-01T06:06:06Z
 modified: 2023-09-01T06:06:40Z
 tags: "self-improvement"
 slug: how-to-be-miserable
+description: "Book annotations for How to Be Miserable by Randy J. Paterson"
 ---
 
 *  But what feels right when you're miserable is what feeds the misery, not what feeds you.

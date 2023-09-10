@@ -6,6 +6,7 @@ date: 2022-09-07T04:33:08Z
 modified: 2023-01-16T05:06:53Z
 tags: "management"
 slug: originals
+description: "Book annotations for Originals by Adam Grant"
 ---
 
 *  If you think like most people, you'll predict a clear advantage for the risk takers. Yet the study showed the exact opposite: Entrepreneurs who kept their day jobs had 33 percent lower odds of failure than those who quit.

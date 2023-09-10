@@ -6,6 +6,7 @@ date: 2022-05-23T18:32:02Z
 modified: 2023-04-08T21:07:17Z
 tags: "psychology"
 slug: stumbling-on-happiness
+description: "Book annotations for Stumbling on Happiness by Daniel Gilbert"
 ---
 
 ## PART I

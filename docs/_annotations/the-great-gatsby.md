@@ -6,6 +6,7 @@ date: 2021-10-20T23:26:06Z
 modified: 2021-10-20T23:26:06Z
 tags: "classics"
 slug: the-great-gatsby
+description: "Book annotations for The Great Gatsby by F. Scott Fitzgerald"
 ---
 
 ## Chapter 8

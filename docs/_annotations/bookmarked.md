@@ -6,6 +6,7 @@ date: 2022-12-07T01:21:11Z
 modified: 2022-12-07T01:21:11Z
 tags: "biographies"
 slug: bookmarked
+description: "Book annotations for Bookmarked by Wendy W. Fairey"
 ---
 
 *  But I am Nick Carraway as well, awed by Gatsby but able to judge him; the level-headed spectator, who ultimately turns away from a gaudy world to seek something else, a more solid if more ordinary existence

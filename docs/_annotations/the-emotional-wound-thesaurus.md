@@ -6,6 +6,7 @@ date: 2022-08-19T04:38:06Z
 modified: 2022-08-22T11:17:56Z
 tags: "language-arts"
 slug: the-emotional-wound-thesaurus
+description: "Book annotations for The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma by Becca Puglisi & Angela Ackerman"
 ---
 
 ## The Mirror of Fiction: a Reflection of Life and Our Deeper Selves

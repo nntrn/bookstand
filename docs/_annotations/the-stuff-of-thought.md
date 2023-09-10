@@ -6,6 +6,7 @@ date: 2023-07-01T02:53:30Z
 modified: 2023-07-01T22:54:27Z
 tags: "psychology"
 slug: the-stuff-of-thought
+description: "Book annotations for The Stuff of Thought by Steven Pinker"
 ---
 
 *  There is a theory of space and time embedded in the way we use words. There is a theory of matter and a theory of causality, too. Our language has a model of sex in it (actually, two models), and conceptions of intimacy and power and fairness. Divinity, degradation, and danger are also ingrained in our mother tongue, together with a conception of well-being and a philosophy of free will. These conceptions vary in their details from language to language, but their overall logic is the same. They add up to a distinctively human model of reality, which differs in major ways from the objective understanding of reality eked out by our best science and logic. Though these ideas are woven into language, their roots are deeper than language itself. They lay out the ground rules for how we understand our surroundings, how we assign credit and blame to our fellows, and how we negotiate our relationships with them. A close look at our speech—our conversations, our jokes, our curses, our legal disputes, the names we give our babies—can therefore give us insight into who we are.

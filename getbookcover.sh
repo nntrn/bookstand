@@ -137,7 +137,7 @@ bcmanager() {
     [[ ! -f $ASSETOUTPUT ]] && get_local $ASSETID "$ASSETOUTPUT"
     [[ ! -f $ASSETOUTPUT ]] && _log $ASSETID "Cannot find book cover url" 32
   else
-    _log SKIP "$ASSETOUTPUT already exists. Delete or rerun with --force to overwrite" 33
+    _log SKIP "$ASSETOUTPUT already exists. Rerun with --force to overwrite" 33
   fi
 }
 
@@ -173,5 +173,4 @@ if [[ $# -gt 0 ]]; then
     [0-9][0-9][0-9][0-9][0-9]*) bcmanager ${ARGS[$i]} ;;
     esac
   done
-  echo "Saved to $OUTDIR"
 fi

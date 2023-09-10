@@ -6,6 +6,7 @@ date: 2022-03-31T00:48:18Z
 modified: 2022-03-31T00:48:18Z
 tags: "political-science"
 slug: how-to-win-friends-and-influence-enemies
+description: "Book annotations for How to Win Friends and Influence Enemies by Will Witt"
 ---
 
 ## CHAPTER 11: CLIMATE CHANGE

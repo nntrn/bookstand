@@ -6,6 +6,7 @@ date: 2022-03-08T17:59:33Z
 modified: 2022-03-08T17:59:33Z
 tags: "biographies"
 slug: yearbook
+description: "Book annotations for Yearbook by Seth Rogen"
 ---
 
 ## Bubby and Zaidy

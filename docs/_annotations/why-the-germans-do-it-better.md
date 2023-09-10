@@ -6,6 +6,7 @@ date: 2023-06-29T03:23:06Z
 modified: 2023-06-29T03:25:31Z
 tags: "world-affairs"
 slug: why-the-germans-do-it-better
+description: "Book annotations for Why the Germans Do it Better by John Kampfner"
 ---
 
 *  Germans stayed the same while others changed.

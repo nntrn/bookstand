@@ -6,6 +6,7 @@ date: 2022-03-05T17:04:06Z
 modified: 2022-03-05T17:14:57Z
 tags: "diet"
 slug: blood-type-o-food-beverage-and-supplement-lists
+description: "Book annotations for Blood Type O Food, Beverage and Supplement Lists by Dr. Peter J. D'Adamo & Catherine Whitney"
 ---
 
 ## CHAPTER ONE | Meats and Poultry

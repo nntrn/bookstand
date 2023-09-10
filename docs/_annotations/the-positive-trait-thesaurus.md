@@ -6,6 +6,7 @@ date: 2023-02-02T01:05:04Z
 modified: 2023-02-14T22:28:30Z
 tags: "language-arts"
 slug: the-positive-trait-thesaurus
+description: "Book annotations for The Positive Trait Thesaurus: A Writer's Guide to Character Attributes by Angela Ackerman & Becca Puglisi"
 ---
 
 *  Character strengths aid us in fulfilling our needs and desires and encouraging self-growth, while weaknesses often hold us back. In some situations, it can be difficult to tell a weakness from a strength, especially since flaws may form out of an understandable desire to keep us from being hurt.

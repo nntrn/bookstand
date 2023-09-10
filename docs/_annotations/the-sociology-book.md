@@ -6,6 +6,7 @@ date: 2023-04-17T03:54:17Z
 modified: 2023-04-29T09:35:24Z
 tags: "sociology"
 slug: the-sociology-book
+description: "Book annotations for The Sociology Book by Sarah Tomley, Mitchell Hobbs, Megan Todd, Marcus Weeks & DK"
 ---
 
 *  Foucault challenged the idea that "knowledge is power," saying

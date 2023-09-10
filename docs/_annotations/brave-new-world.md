@@ -6,6 +6,7 @@ date: 2023-02-12T11:01:12Z
 modified: 2023-02-12T12:55:28Z
 tags: "classics"
 slug: brave-new-world
+description: "Book annotations for Brave New World by Aldous Huxley"
 ---
 
 *  Because our world is not the same as Othello's world. You can't make flivvers without steel--and you can't make tragedies without social instability. The world's stable now. People are happy; they get what they want, and they never want what they can't get. They're well off; they're safe; they're never ill; they're not afraid of death; they're blissfully ignorant of passion and old age; they're plagued with no mothers or fathers; they've got no wives, or children, or lovers to feel strongly about; they're so conditioned that they practically can't help behaving as they ought to behave. And if anything should go wrong, there's soma. Which you go and chuck out of the window in the name of liberty, Mr. Savage. Liberty!' He laughed. 'Expecting Deltas to know what liberty is! And now expecting them to understand Othello! My good boy!

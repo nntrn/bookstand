@@ -6,6 +6,7 @@ date: 2023-09-05T21:12:36Z
 modified: 2023-09-06T01:52:50Z
 tags: "social-science"
 slug: fame
+description: "Book annotations for Fame by Tom Payne"
 ---
 
 *  The result is myth. But we have to ask ourselves what myth is. Myths, after all, tell us little about anything that really happened in the universe ever, and yet they do tell us almost everything about ourselves. They tell us the grim truths about humanity that we would struggle to express otherwise—those desires so unspeakable that we have to evolve a kind of code.

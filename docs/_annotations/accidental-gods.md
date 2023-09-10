@@ -6,6 +6,7 @@ date: 2023-07-08T10:33:12Z
 modified: 2023-07-08T10:33:42Z
 tags: "world"
 slug: accidental-gods
+description: "Book annotations for Accidental Gods by Anna Della Subin"
 ---
 
 *  Gods are born ex nihilo and out of lotuses, from the white blood of the sea-foam, or the earwax of a bigger god. They are also birthed on dining room tables and when spectacles of power are taken too far. They are born when men find themselves at the wrong place at the wrong time. Gods are made in sudden deaths, violent accidents; they ascend in the smoke of a pyre, or wait, in their tombs, for offerings of cigars.

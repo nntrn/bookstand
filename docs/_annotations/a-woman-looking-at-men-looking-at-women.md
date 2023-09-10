@@ -6,6 +6,7 @@ date: 2023-08-31T17:40:09Z
 modified: 2023-08-31T21:05:35Z
 tags: "social-science"
 slug: a-woman-looking-at-men-looking-at-women
+description: "Book annotations for A Woman Looking at Men Looking at Women by Siri Hustvedt"
 ---
 
 *  In a letter to a friend, Henry James wrote, "In the arts feeling is always meaning."

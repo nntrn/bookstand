@@ -6,6 +6,7 @@ date: 2021-12-03T19:45:38Z
 modified: 2021-12-06T12:15:55Z
 tags: "family"
 slug: creating-emotional-attraction
+description: "Book annotations for Creating Emotional Attraction by Alex Altman"
 ---
 
 ## 2. Where To Begin?

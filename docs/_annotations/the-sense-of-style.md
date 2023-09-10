@@ -6,6 +6,7 @@ date: 2023-08-19T13:50:30Z
 modified: 2023-08-29T02:11:58Z
 tags: "language-arts"
 slug: the-sense-of-style
+description: "Book annotations for The Sense of Style by Steven Pinker"
 ---
 
 *  Style still matters, for at least three reasons. First, it ensures that writers will get their messages across, sparing readers from squandering their precious moments on earth deciphering opaque prose. When the effort fails, the result can be calamitous—as Strunk and White put it, "death on the highway caused by a badly worded road sign, heartbreak among lovers caused by a misplaced phrase in a well-intentioned letter, anguish of a traveler expecting to be met at a railroad station and not being met because of a slipshod telegram." Governments and corporations have found that small improvements in clarity can prevent vast amounts of error, frustration, and waste,9 and many countries have recently made clear language the law of the land.

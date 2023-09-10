@@ -6,6 +6,7 @@ date: 2022-12-28T16:48:48Z
 modified: 2023-01-01T09:18:25Z
 tags: "social-science"
 slug: mythology
+description: "Book annotations for Mythology by Edith Hamilton, Aphrodite Trust & Apollo Trust"
 ---
 
 *  GREEK and Roman mythology is quite generally supposed to show us the way the human race thought and felt untold ages ago. Through it, according to this view, we can retrace the path from civilized man who lives so far from nature, to man who lived in close companionship with nature; and the real interest of the myths is that they lead us back to a time when the world was young and people had a connection with the earth, with trees and seas and flowers and hills, unlike anything we ourselves can feel

@@ -6,9 +6,9 @@ layout: default
 {% assign books = site.data.books | where: 'tags', pagetag  %}
 <div class="page-content box">
   <h2>#{{pagetag}}</h2>
-  <ul>
-    {%- for book in books -%}
-    <li><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}<br><span>last updated on {{book.modified|date_to_string: "ordinal", "US"}}</span></li>
-    {%- endfor -%}
+  <ul class="flex-list">
+    {%- for book in books %}
+    <li><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}<br><span class="last-update">last updated on {{book.modified|date_to_string: "ordinal", "US"}}</span></li>
+    {%- endfor %}
   </ul>
 </div>

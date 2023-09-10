@@ -6,6 +6,7 @@ date: 2023-03-15T23:15:08Z
 modified: 2023-05-16T01:34:12Z
 tags: "marketing"
 slug: alchemy
+description: "Book annotations for Alchemy by Rory Sutherland"
 ---
 
 *  If you want to look like a scientist, it pays to cultivate an air of certainty, but the problem with attachment to certainty is that it causes people completely to misrepresent the nature of the problem being examined, as if it were a simple physics problem rather than a psychological one. There is hence an ever-present temptation to pretend things are more 'logical' than they really are.

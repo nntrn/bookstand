@@ -6,6 +6,7 @@ date: 2022-09-10T16:37:58Z
 modified: 2022-09-27T13:40:13Z
 tags: "management"
 slug: nudge
+description: "Book annotations for Nudge by Richard H. Thaler & Cass R. Sunstein"
 ---
 
 ## Introduction

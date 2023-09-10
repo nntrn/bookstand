@@ -6,6 +6,7 @@ date: 2023-02-08T16:08:19Z
 modified: 2023-02-08T16:08:19Z
 tags: "history"
 slug: the-address-book
+description: "Book annotations for The Address Book by Deirdre Mask"
 ---
 
 *  Addresses aren't just for emergency services. They also exist so people can find you, police you, tax you, and try to sell you things you don't need through the mail.

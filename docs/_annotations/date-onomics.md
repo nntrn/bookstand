@@ -6,6 +6,7 @@ date: 2022-03-23T19:21:58Z
 modified: 2023-02-17T23:41:41Z
 tags: "family"
 slug: date-onomics
+description: "Book annotations for Date-onomics by Jon Birger"
 ---
 
 ## 1 The Man Deficit

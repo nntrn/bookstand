@@ -6,6 +6,7 @@ date: 2023-01-05T13:14:34Z
 modified: 2023-01-05T13:18:22Z
 tags: "science"
 slug: the-expectation-effect
+description: "Book annotations for The Expectation Effect by David Robson"
 ---
 
 *  Helmholtz's theories of optics influenced postimpressionist artists like Georges Seurat,4 but it was only in the 1990s that the idea really started to take off in neuroscience—with signs that the brain's predictions influence every stage of visual processing

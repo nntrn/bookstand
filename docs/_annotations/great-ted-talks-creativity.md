@@ -6,6 +6,7 @@ date: 2023-02-14T22:17:38Z
 modified: 2023-06-17T19:45:15Z
 tags: "self-improvement"
 slug: great-ted-talks-creativity
+description: "Book annotations for Great TED Talks: Creativity by Tom May"
 ---
 
 *  "Creativity often comes when you take an idea from its original context and you move it somewhere else," he reasons. "It's easier to think outside the box if you spend your time clambering from one box into another."

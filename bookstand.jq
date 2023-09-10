@@ -29,7 +29,7 @@ def get_author: get_author(.);
 
 def remove_citations($text):
   $text
-  | gsub("(?<period>[;\\.\",\\”])[0-9]{1,2}$";.period+""; "x")
+  | gsub("(?<period>[;\\.\",\\”\\”])[0-9]{1,2}$";.period+""; "x")
   | gsub("(?<notnumber>[^0-9])\\.[0-9]+(?<whitespace>[\\s\\n]+)";.notnumber+"."+.whitespace;"x");
 
 def remove_citations: remove_citations(.);
@@ -79,22 +79,15 @@ def markdown_tmpl:
     "modified: \(.modified)",
     "tags: \(.tags|@json)",
     "slug: \(.slug)",
-    "description: \(dquote("Book annotations for "+.title+" by "+.author))"
+    "description: \(dquote("Book annotations for "+.title+" by "+.author))",
     "---",
-    # "",
-    # .text,
+    "",
+    .text,
     ""
   ] | join("\n");
 
 def heading($text;$index):
   if ($text|length)>0 then "\n## \($text)\n" elif ($index|tonumber) > 0 then "\n---\n" else "" end;
-
-# def format_text:
-#   gsub("[\\t]{2,}";"\t";"x")
-#   | gsub("^[\\t\\n]+";"";"gx")
-#   | split("[\\n]";"x")
-#   | join("\n")
-#   ;
 
 def format_text:
   split("[\\n\\t]";"x")
@@ -116,7 +109,7 @@ def group_by_chapter:
 
 def annotation_base:
   map( select((.ZTITLE) and (.ZANNOTATIONSELECTEDTEXT|length) >10) |
-    . + {booklocation: epublocation(.ZANNOTATIONLOCATION) })
+    . + { booklocation: epublocation(.ZANNOTATIONLOCATION), ZTITLE: (.ZTITLE|gsub("\"";"") | gsub("\\([^0-9]+\\)"; "";"x"))})
   | group_by(.ZASSETID)
   | map({
       assetid: .[0].ZASSETID,
@@ -154,14 +147,21 @@ def book_list:
   annotation_base
   | map(del(.text) | . + {cover: "/assets/artwork/\(.assetid).jpg"} );
 
+def chaptername($location):
+  $location
+  | capture("\\[(?<chapter>[^\\]]+)\\]").chapter
+  | gsub("([^a-z]x?html)|epub|ebook";"";"xi")
+  | gsub("[_-]+";" ");
 
-def annotation_list:
+def activity_list:
   sort_by(.ZANNOTATIONCREATIONDATE)
   | map({
+    id: .Z_PK,
     assetid: .ZASSETID,
     text: (.ZANNOTATIONSELECTEDTEXT|remove_citations|format_text),
     created: .ZANNOTATIONCREATIONDATE,
-    cfi: (epublocation(.ZANNOTATIONLOCATION)|join("-"))
+    cfi: (epublocation(.ZANNOTATIONLOCATION)|join("-")),
+    chapter: (.ZFUTUREPROOFING5? // chaptername(.ZANNOTATIONLOCATION))
   });
 
 def annotation_tags:
@@ -208,3 +208,9 @@ def create_tag_markdown($out):
   | "mkdir -p \($out)\n" + . ;
 
 def create_tag_markdown: . | create_tag_markdown("docs/_tags");
+
+def scale_coverart($scale;$url):
+ $url|gsub(
+  "(?<w>[0-9]+)x(?<h>[0-9]+)bb.jpg";
+  ([((.w|tonumber)/$scale|ceil),"x",((.h|tonumber)/$scale|ceil),"bb.jpg"]|join(""));
+  "x");

@@ -6,6 +6,7 @@ date: 2023-04-17T03:24:49Z
 modified: 2023-08-29T23:57:53Z
 tags: "biology"
 slug: behave
+description: "Book annotations for Behave by Robert M. Sapolsky"
 ---
 
 *  We activate the classical physiology of vigilance while watching a scary movie. We activate a stress response when thinking about mortality. We secrete hormones related to nurturing and social bonding, but in response to an adorable baby panda. And this certainly applies to aggression—we use the same muscles as does a male chimp attacking a sexual competitor, but we use them to harm someone because of their ideology.

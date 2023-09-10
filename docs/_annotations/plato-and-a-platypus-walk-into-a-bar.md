@@ -6,6 +6,7 @@ date: 2023-06-06T23:01:02Z
 modified: 2023-06-14T22:36:20Z
 tags: "philosophy"
 slug: plato-and-a-platypus-walk-into-a-bar
+description: "Book annotations for Plato and a Platypus Walk into a Bar . . . by Thomas Cathcart & Daniel Klein"
 ---
 
 *  If you find that infinite regress is getting you nowhere fast, you might consider the doctrine of creatio ex  nihilo—creation out of nothing—or, as John Lennon  put it in a slightly different context, "Before Elvis, there  was nothing."

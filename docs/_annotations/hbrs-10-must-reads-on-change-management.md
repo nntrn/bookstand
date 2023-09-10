@@ -1,11 +1,12 @@
 ---
-title: HBR's 10 Must Reads on Change Management (including featured article "Leading Change," by John P. Kotter)
+title: HBR's 10 Must Reads on Change Management 
 author: Harvard Business Review, John P. Kotter, W. Chan Kim & Renée A. Mauborgne
 assetid: 419952696
 date: 2023-02-09T01:54:03Z
 modified: 2023-02-13T04:11:37Z
 tags: "management"
 slug: hbrs-10-must-reads-on-change-management
+description: "Book annotations for HBR's 10 Must Reads on Change Management  by Harvard Business Review, John P. Kotter, W. Chan Kim & Renée A. Mauborgne"
 ---
 
 *  The most general lesson to be learned from the more successful cases is that the change process goes through a series of phases that, in total, usually require a considerable length of time. Skipping steps creates only the illusion of speed and never produces a satisfying result. A second very general lesson is that critical mistakes in any of the phases can have a devastating impact, slowing momentum and negating hard-won gains. Perhaps because we have relatively little experience in renewing organizations, even very capable people often make at least one big error.

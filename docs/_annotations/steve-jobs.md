@@ -6,6 +6,7 @@ date: 2022-12-12T16:29:50Z
 modified: 2023-05-25T17:45:37Z
 tags: "biographies"
 slug: steve-jobs
+description: "Book annotations for Steve Jobs by Walter Isaacson"
 ---
 
 *  "I always thought of myself as a humanities person as a kid, but I liked electronics," he said. "Then I read something that one of my heroes, Edwin Land of Polaroid, said about the importance of people who could stand at the intersection of humanities and sciences, and I decided that's what I wanted to do." It was as if he were suggesting themes for his biography (and in this instance, at least, the theme turned out to be valid). The creativity that can occur when a feel for both the humanities and the sciences combine in one strong personality was the topic that most interested me in my biographies of Franklin and Einstein, and I believe that it will be a key to creating innovative economies in the twenty-first century.

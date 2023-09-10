@@ -6,6 +6,7 @@ date: 2023-01-17T00:50:03Z
 modified: 2023-05-23T08:12:19Z
 tags: "business"
 slug: superforecasting
+description: "Book annotations for Superforecasting by Philip E. Tetlock & Dan Gardner"
 ---
 
 *  Machines may get better at "mimicking human meaning," and thereby better at predicting human behavior, but "there's a difference between mimicking and reflecting meaning and originating meaning," Ferrucci said. That's a space human judgment will always occupy.

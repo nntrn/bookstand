@@ -6,6 +6,7 @@ date: 2022-03-17T06:12:04Z
 modified: 2022-03-22T16:55:21Z
 tags: "science"
 slug: algorithms-to-live-by
+description: "Book annotations for Algorithms to Live By by Brian Christian & Tom Griffiths"
 ---
 
 ## 1. Optimal Stopping: When to Stop Looking

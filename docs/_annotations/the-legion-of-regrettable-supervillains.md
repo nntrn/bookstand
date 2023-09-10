@@ -6,6 +6,7 @@ date: 2023-08-29T23:31:30Z
 modified: 2023-08-29T23:32:41Z
 tags: "comics"
 slug: the-legion-of-regrettable-supervillains
+description: "Book annotations for The Legion of Regrettable Supervillains by Jon Morris"
 ---
 
 *  CTS OF VILLAINY OFTEN hide behind acts of charity, and sometimes behind a bunch of bandages and a derby. That's the story behind Baby Face and Brother, a mismatched pair of apparent philanthropists whose freewheeling ways with fat wads of cash hide their sinister agenda.

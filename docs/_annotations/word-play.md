@@ -6,6 +6,7 @@ date: 2023-08-07T02:00:30Z
 modified: 2023-08-07T04:56:29Z
 tags: "language-arts"
 slug: word-play
+description: "Book annotations for Word Play by Peter Farb"
 ---
 
 *  It tormented the ancient logicians and was the delight of the satirists, such as Lucian, who wrote: "I will say in advance this one true thing, to wit, I am going to tell you lies."

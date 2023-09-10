@@ -6,6 +6,7 @@ date: 2022-06-08T04:38:14Z
 modified: 2023-05-17T23:54:03Z
 tags: "language-arts"
 slug: writing-to-be-understood
+description: "Book annotations for Writing to Be Understood by Anne Janzer"
 ---
 
 ## 1. Who Are Your Readers?

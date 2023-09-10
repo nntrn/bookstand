@@ -6,6 +6,7 @@ date: 2012-10-26T01:30:03Z
 modified: 2023-02-23T06:02:39Z
 tags: "history"
 slug: monoculture
+description: "Book annotations for Monoculture by F.S. Michaels"
 ---
 
 *  If you look at any civilization, Berlin said, you will find a particular pattern of life that shows up again and again, that rules the age. Because of that pattern, certain ideas become popular and others fall out of favor. If you can isolate the governing pattern that a culture obeys, he believed, you can explain and understand the world that shapes how people think, feel and act at a distinct time in history.

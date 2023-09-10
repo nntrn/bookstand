@@ -6,6 +6,7 @@ date: 2014-01-10T14:32:12Z
 modified: 2014-01-10T14:49:26Z
 tags: "self-improvement"
 slug: the-seven-spiritual-laws-of-success
+description: "Book annotations for The Seven Spiritual Laws of Success by Deepak Chopra"
 ---
 
 ## Chapter 1 - The Law of Pure Potentiality

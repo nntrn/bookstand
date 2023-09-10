@@ -6,6 +6,7 @@ date: 2023-03-10T00:48:18Z
 modified: 2023-03-10T04:21:40Z
 tags: "careers"
 slug: what-got-you-here-wont-get-you-there
+description: "Book annotations for What Got You Here Won't Get You There by Marshall Goldsmith & Mark Reiter"
 ---
 
 *  The simple answer is: We can't see in ourselves what we can see so clearly in others.

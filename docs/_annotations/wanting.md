@@ -6,6 +6,7 @@ date: 2021-11-25T09:52:00Z
 modified: 2023-05-10T22:10:11Z
 tags: "marketing"
 slug: wanting
+description: "Book annotations for Wanting by Luke Burgis"
 ---
 
 ## Introduction: Social Gravity

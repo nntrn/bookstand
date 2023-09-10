@@ -6,6 +6,7 @@ date: 2023-01-06T22:10:57Z
 modified: 2023-02-22T22:07:15Z
 tags: "management"
 slug: talent
+description: "Book annotations for Talent by Tyler Cowen & Daniel Gross"
 ---
 
 *  It is the people who work intently on pleasing a narrow fan base, but pleasing them intensely, who end up with the skills and networks to market the product to broader audiences. So very often, if you are looking for a start-up that will hit it big, do something counterintuitive by seeking out people aiming, at least at first, to please smaller and weirder audiences.

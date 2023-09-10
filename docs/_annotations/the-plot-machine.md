@@ -6,6 +6,7 @@ date: 2023-07-25T20:11:27Z
 modified: 2023-08-19T14:26:04Z
 tags: "language-arts"
 slug: the-plot-machine
+description: "Book annotations for The Plot Machine by Dale Kutzera"
 ---
 
 *  A character or characters...

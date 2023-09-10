@@ -6,6 +6,7 @@ date: 2023-08-31T14:56:11Z
 modified: 2023-09-01T05:02:24Z
 tags: "language-arts"
 slug: story-or-die
+description: "Book annotations for Story or Die by Lisa Cron"
 ---
 
 *  The ferocity of political debate makes it abundantly clear that each of us sees a very different so-called objective reality. But since our biology blinds us to our own subjectivity—it's the water we swim in—when we smack up against someone who disagrees with our interpretation of the facts, we sagely think: If only I could get them to understand what's really happening here, we'd all agree. So I'll just explain it to them one more time.

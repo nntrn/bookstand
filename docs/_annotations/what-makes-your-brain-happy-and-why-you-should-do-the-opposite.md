@@ -6,6 +6,7 @@ date: 2022-12-11T20:12:05Z
 modified: 2022-12-11T21:22:18Z
 tags: "psychology"
 slug: what-makes-your-brain-happy-and-why-you-should-do-the-opposite
+description: "Book annotations for What Makes Your Brain Happy and Why You Should Do the Opposite by David DiSalvo"
 ---
 
 *  Neuroscience research is revealing that the state of not being certain is an extremely uncomfortable place for our brains to live: The greater the uncertainty, the worse the discomfort.

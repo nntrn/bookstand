@@ -6,6 +6,7 @@ date: 2023-06-29T23:32:17Z
 modified: 2023-06-29T23:48:18Z
 tags: "language-arts"
 slug: writing-to-persuade
+description: "Book annotations for Writing to Persuade: How to Bring People Over to Your Side by Trish Hall"
 ---
 
 *  A former hedge-fund trader named Sam Polk once sent a draft of an article dealing with his wealth addiction

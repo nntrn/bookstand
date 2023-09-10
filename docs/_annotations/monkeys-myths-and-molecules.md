@@ -6,6 +6,7 @@ date: 2022-10-11T07:04:06Z
 modified: 2022-10-11T07:17:51Z
 tags: "essays"
 slug: monkeys-myths-and-molecules
+description: "Book annotations for Monkeys, Myths, and Molecules by Joe Schwarcz"
 ---
 
 *  "Part of the secret of success in life is to eat what you like and let the food fight it out inside."

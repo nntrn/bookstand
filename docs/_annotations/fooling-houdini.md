@@ -6,6 +6,7 @@ date: 2022-04-01T12:37:25Z
 modified: 2022-04-01T12:46:14Z
 tags: "biographies"
 slug: fooling-houdini
+description: "Book annotations for Fooling Houdini by Alex Stone"
 ---
 
 ## Chapter 8 - How to Steal a Watch

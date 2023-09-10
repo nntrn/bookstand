@@ -6,6 +6,7 @@ date: 2021-12-05T06:14:03Z
 modified: 2021-12-05T10:06:24Z
 tags: "self-improvement"
 slug: its-called-a-breakup-because-its-broken
+description: "Book annotations for It's Called a Breakup Because It's Broken by Greg Behrendt & Amiira Ruotola-Behrendt"
 ---
 
 ## WHAT LIES AHEAD

@@ -6,6 +6,7 @@ date: 2022-07-27T16:50:45Z
 modified: 2022-07-27T16:52:02Z
 tags: "words"
 slug: the-dictionary-of-clich-s
+description: "Book annotations for The Dictionary of Clichés by Christine Ammer"
 ---
 
 ## b

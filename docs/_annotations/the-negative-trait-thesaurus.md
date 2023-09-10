@@ -6,6 +6,7 @@ date: 2022-07-15T17:44:33Z
 modified: 2023-02-02T01:58:58Z
 tags: "language-arts"
 slug: the-negative-trait-thesaurus
+description: "Book annotations for The Negative Trait Thesaurus: A Writer's Guide to Character Flaws by Angela Ackerman & Becca Puglisi"
 ---
 
 ## What Is a Flaw?

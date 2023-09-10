@@ -6,6 +6,7 @@ date: 2023-03-28T02:13:54Z
 modified: 2023-03-28T02:14:49Z
 tags: "life-sciences"
 slug: mousy-cats-and-sheepish-coyotes
+description: "Book annotations for Mousy Cats and Sheepish Coyotes by John Shivik"
 ---
 
 *  The parable of the superchicken is not lost on those who have found themselves in the maw of an overbuilt team of top performers. Infighting and aggression will actually slow down innovation. Besides, there isn't only one best type of person or personality. One useful variation that is neutral under most circumstances can become the savior of a species when conditions change. Humanity has been nearly wiped out after environmental perturbations in the past. The rise of a new disease, such as smallpox, provides but one example.

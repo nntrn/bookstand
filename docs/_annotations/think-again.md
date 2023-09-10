@@ -6,6 +6,7 @@ date: 2022-02-16T06:02:29Z
 modified: 2022-10-21T20:50:10Z
 tags: "management"
 slug: think-again
+description: "Book annotations for Think Again by Adam Grant"
 ---
 
 ## Chapter 1: A Preacher, a Prosecutor, a Politician, and a Scientist Walk into Your Mind

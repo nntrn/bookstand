@@ -6,6 +6,7 @@ date: 2023-02-02T12:58:28Z
 modified: 2023-02-07T23:11:17Z
 tags: "self-improvement"
 slug: good-self-bad-self
+description: "Book annotations for Good Self, Bad Self by Judy Smith"
 ---
 
 *  That freaked-out CEO on the phone? His management style—letting each division head have a great deal of freedom—encouraged the creativity and flexibility that allowed his many companies to soar, but his lack of direct engagement also led to his cluelessness about the possible bad behavior of one honcho. That's just one example of how what makes people successful in life and in business can be the same trait that gets them into trouble.

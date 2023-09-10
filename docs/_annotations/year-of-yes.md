@@ -6,6 +6,7 @@ date: 2022-02-22T16:00:29Z
 modified: 2022-02-22T16:00:29Z
 tags: "biographies"
 slug: year-of-yes
+description: "Book annotations for Year of Yes by Shonda Rhimes"
 ---
 
 ## Chapter 1. No

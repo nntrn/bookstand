@@ -6,6 +6,7 @@ date: 2022-09-16T03:10:05Z
 modified: 2022-09-19T20:09:55Z
 tags: "psychology"
 slug: the-confidence-game
+description: "Book annotations for The Confidence Game by Maria Konnikova"
 ---
 
 ## CHAPTER 1: THE GRIFTER AND THE MARK

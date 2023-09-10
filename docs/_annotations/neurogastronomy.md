@@ -6,6 +6,7 @@ date: 2022-03-17T00:46:28Z
 modified: 2022-03-17T00:51:21Z
 tags: "life-sciences"
 slug: neurogastronomy
+description: "Book annotations for Neurogastronomy by Gordon M. Shepherd"
 ---
 
 ## Introduction Retronasal Smell and the New Age of Flavor

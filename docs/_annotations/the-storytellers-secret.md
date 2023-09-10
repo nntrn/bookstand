@@ -6,6 +6,7 @@ date: 2022-12-12T15:52:05Z
 modified: 2023-02-13T21:28:31Z
 tags: "business"
 slug: the-storytellers-secret
+description: "Book annotations for The Storyteller's Secret by Carmine Gallo"
 ---
 
 *  The Kalahari storytellers learned that they had to deliver information, convey experiences, inspire, and entertain. If people aren't entertained, they stop listening and go to sleep, not unlike what happens in millions of business presentations given every day. Humans evolved to perceive stories as entertaining because if they didn't pay attention, they might be a lion's lunch.

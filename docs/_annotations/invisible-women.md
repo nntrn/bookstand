@@ -6,6 +6,7 @@ date: 2022-02-28T23:15:39Z
 modified: 2022-10-31T11:13:22Z
 tags: "social-science"
 slug: invisible-women
+description: "Book annotations for Invisible Women by Caroline Criado Perez"
 ---
 
 ## Introduction: The Default Male

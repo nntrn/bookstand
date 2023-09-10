@@ -6,6 +6,7 @@ date: 2022-09-22T22:40:47Z
 modified: 2022-09-23T09:44:10Z
 tags: "life-sciences"
 slug: the-spark-of-life
+description: "Book annotations for The Spark of Life: Electricity in the Human Body by Frances Ashcroft"
 ---
 
 ## 11: Mind Matters

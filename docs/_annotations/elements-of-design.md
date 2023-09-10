@@ -6,6 +6,7 @@ date: 2023-08-31T18:01:59Z
 modified: 2023-08-31T18:03:05Z
 tags: "design"
 slug: elements-of-design
+description: "Book annotations for Elements of Design by Gail Greet Hannah"
 ---
 
 *  "In the beginning it was so great because we all spoke the same language," Rowena recalled. "It was awfully exciting. We were young and inconsiderate—the only way to get things done."

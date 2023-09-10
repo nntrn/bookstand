@@ -6,6 +6,7 @@ date: 2022-10-30T11:56:41Z
 modified: 2022-10-30T11:57:44Z
 tags: "history"
 slug: how-to-speak-science
+description: "Book annotations for How to Speak Science by Bruce Benamran"
 ---
 
 *  And that's the beauty of science. It is not a tool for discovering truth; it's a method for reducing uncertainty.

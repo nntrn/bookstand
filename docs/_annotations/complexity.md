@@ -6,6 +6,7 @@ date: 2023-06-29T01:27:46Z
 modified: 2023-06-29T01:42:36Z
 tags: "physics"
 slug: complexity
+description: "Book annotations for Complexity by M. Mitchell Waldrop"
 ---
 
 *  This balance point—often called the edge of chaos—is were the components of a system never quite lock into place, and yet never quite dissolve into turbulence, either.
