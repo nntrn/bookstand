@@ -309,7 +309,7 @@
   },
   {
     "assetid": "1214634413",
-    "title": "Happiness (HBR Emotional Intelligence Series)",
+    "title": "Happiness ",
     "author": "Harvard Business Review, Daniel Gilbert, Annie McKee, Gretchen Spreitzer & Teresa Amabile",
     "created": "2023-02-09T01:45:11Z",
     "modified": "2023-02-09T01:45:11Z",
@@ -528,6 +528,17 @@
     "cover": "/assets/artwork/1441865214.jpg"
   },
   {
+    "assetid": "1443703243",
+    "title": "Forensics",
+    "author": "Val McDermid",
+    "created": "2023-09-08T11:12:24Z",
+    "modified": "2023-09-08T11:14:20Z",
+    "tags": "true-crime",
+    "slug": "forensics",
+    "count": 2,
+    "cover": "/assets/artwork/1443703243.jpg"
+  },
+  {
     "assetid": "1443705633",
     "title": "Scripts People Live",
     "author": "Claude Steiner",
@@ -694,13 +705,13 @@
   },
   {
     "assetid": "1499290635",
-    "title": "Thank You for Arguing, Fourth Edition (Revised and Updated)",
+    "title": "Thank You for Arguing, Fourth Edition ",
     "author": "Jay Heinrichs",
     "created": "2023-02-24T16:52:41Z",
-    "modified": "2023-02-24T17:13:58Z",
+    "modified": "2023-09-07T09:16:58Z",
     "tags": "language-arts",
     "slug": "thank-you-for-arguing-fourth-edition",
-    "count": 13,
+    "count": 16,
     "cover": "/assets/artwork/1499290635.jpg"
   },
   {
@@ -1254,6 +1265,17 @@
     "cover": "/assets/artwork/360625422.jpg"
   },
   {
+    "assetid": "360635459",
+    "title": "Biomimicry",
+    "author": "Janine M Benyus",
+    "created": "2023-09-09T13:07:01Z",
+    "modified": "2023-09-09T16:22:04Z",
+    "tags": "ecology",
+    "slug": "biomimicry",
+    "count": 17,
+    "cover": "/assets/artwork/360635459.jpg"
+  },
+  {
     "assetid": "360638697",
     "title": "Predictably Irrational, Revised and Expanded Edition",
     "author": "Dr. Dan Ariely",
@@ -1442,7 +1464,7 @@
   },
   {
     "assetid": "419952696",
-    "title": "HBR's 10 Must Reads on Change Management (including featured article \"Leading Change,\" by John P. Kotter)",
+    "title": "HBR's 10 Must Reads on Change Management ",
     "author": "Harvard Business Review, John P. Kotter, W. Chan Kim & Renée A. Mauborgne",
     "created": "2023-02-09T01:54:03Z",
     "modified": "2023-02-13T04:11:37Z",
@@ -1626,6 +1648,17 @@
     "slug": "essays-and-lectures",
     "count": 3,
     "cover": "/assets/artwork/498732329.jpg"
+  },
+  {
+    "assetid": "499569517",
+    "title": "The Social Conquest of Earth",
+    "author": "Edward O. Wilson",
+    "created": "2023-09-09T16:24:26Z",
+    "modified": "2023-09-09T16:25:21Z",
+    "tags": "life-sciences",
+    "slug": "the-social-conquest-of-earth",
+    "count": 3,
+    "cover": "/assets/artwork/499569517.jpg"
   },
   {
     "assetid": "527294303",

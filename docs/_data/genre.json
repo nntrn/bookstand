@@ -248,6 +248,17 @@
     ]
   },
   {
+    "name": "ecology",
+    "count": 1,
+    "books": [
+      {
+        "title": "Biomimicry",
+        "assetid": "360635459",
+        "slug": "biomimicry"
+      }
+    ]
+  },
+  {
     "name": "economics",
     "count": 1,
     "books": [
@@ -492,7 +503,7 @@
         "slug": "the-emotion-thesaurus"
       },
       {
-        "title": "Thank You for Arguing, Fourth Edition (Revised and Updated)",
+        "title": "Thank You for Arguing, Fourth Edition ",
         "assetid": "1499290635",
         "slug": "thank-you-for-arguing-fourth-edition"
       },
@@ -535,7 +546,7 @@
   },
   {
     "name": "life-sciences",
-    "count": 8,
+    "count": 9,
     "books": [
       {
         "title": "Mousy Cats and Sheepish Coyotes",
@@ -561,6 +572,11 @@
         "title": "Sleights of Mind",
         "assetid": "387160942",
         "slug": "sleights-of-mind"
+      },
+      {
+        "title": "The Social Conquest of Earth",
+        "assetid": "499569517",
+        "slug": "the-social-conquest-of-earth"
       },
       {
         "title": "The Spark of Life: Electricity in the Human Body",
@@ -609,7 +625,7 @@
         "slug": "blink"
       },
       {
-        "title": "HBR's 10 Must Reads on Change Management (including featured article \"Leading Change,\" by John P. Kotter)",
+        "title": "HBR's 10 Must Reads on Change Management ",
         "assetid": "419952696",
         "slug": "hbrs-10-must-reads-on-change-management"
       },
@@ -1014,7 +1030,7 @@
         "slug": "fck-love"
       },
       {
-        "title": "Happiness (HBR Emotional Intelligence Series)",
+        "title": "Happiness ",
         "assetid": "1214634413",
         "slug": "happiness"
       },
@@ -1173,8 +1189,13 @@
   },
   {
     "name": "true-crime",
-    "count": 1,
+    "count": 2,
     "books": [
+      {
+        "title": "Forensics",
+        "assetid": "1443703243",
+        "slug": "forensics"
+      },
       {
         "title": "The Anatomy Of Motive",
         "assetid": "381461943",
