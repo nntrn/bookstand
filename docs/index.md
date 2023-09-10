@@ -16,7 +16,7 @@ layout: home
     </div>
     <a href="{{ site.baseurl }}/{{ book.slug }}">
       {% if jekyll.environment == "production" %}
-      <img src="https://raw.githubusercontent.com/nntrn/bookstand/main/docs/assets/artwork/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}"">
+      <img src="https://raw.githubusercontent.com/nntrn/bookstand/main/docs/assets/artwork/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}">
       {% else %}
       <img src=" {% link {{ book.cover }} %}" title="{{title}} by {{book.author}}">
       {% endif %}
