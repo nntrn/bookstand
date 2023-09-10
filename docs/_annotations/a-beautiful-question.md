@@ -6,6 +6,7 @@ date: 2022-11-24T01:51:26Z
 modified: 2022-11-24T01:51:26Z
 tags: "physics"
 slug: a-beautiful-question
+description: "Book annotations for A Beautiful Question by Frank Wilczek"
 ---
 
 *  Two obsessions are the hallmarks of Nature's artistic style:

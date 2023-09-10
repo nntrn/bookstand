@@ -1,11 +1,12 @@
 ---
-title: Happiness (HBR Emotional Intelligence Series)
+title: Happiness 
 author: Harvard Business Review, Daniel Gilbert, Annie McKee, Gretchen Spreitzer & Teresa Amabile
 assetid: 1214634413
 date: 2023-02-09T01:45:11Z
 modified: 2023-02-09T01:45:11Z
 tags: "self-improvement"
 slug: happiness
+description: "Book annotations for Happiness  by Harvard Business Review, Daniel Gilbert, Annie McKee, Gretchen Spreitzer & Teresa Amabile"
 ---
 
 *  One of those early books that influenced Jim was Seligman's Flourish. A psychologist and former president of the American Psychology Association, Seligman was responsible for defining the term "PERMA," the root of many positive psychology research projects around the world. The acronym stands for the five elements essential to lasting contentment:

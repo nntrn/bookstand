@@ -6,6 +6,7 @@ date: 2023-08-17T01:13:41Z
 modified: 2023-09-05T15:24:09Z
 tags: "life-sciences"
 slug: sleights-of-mind
+description: "Book annotations for Sleights of Mind by Stephen Macknik, Susana Martinez-Conde & Sandra Blakeslee"
 ---
 
 *  Cognitive neuroscience experiments are strongly susceptible to the state of the observer. If the experimental subject knows what the experiment is about, or is able to guess it, or sometimes even if she incorrectly thinks she has figured it out, the data are often corrupted or impossible to analyze. Such experiments are fragile and clunky. Extraordinary control measures must be put in place to keep the experimental data pure.

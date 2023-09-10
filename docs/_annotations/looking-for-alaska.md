@@ -6,6 +6,7 @@ date: 2021-12-16T17:10:50Z
 modified: 2022-03-20T23:20:12Z
 tags: "coming-of-age"
 slug: looking-for-alaska
+description: "Book annotations for Looking For Alaska  by John Green"
 ---
 
 ## introduction

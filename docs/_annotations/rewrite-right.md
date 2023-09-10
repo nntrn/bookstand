@@ -6,6 +6,7 @@ date: 2023-05-22T11:46:53Z
 modified: 2023-07-27T08:11:41Z
 tags: "language-arts"
 slug: rewrite-right
+description: "Book annotations for Rewrite Right! by Jan Venolia & Ellen Sasaki"
 ---
 
 *  Good writing is good manners. You can both please and help your public only when you learn how to be the first victim of your writing, how to anticipate a reader's difficulties, and to hear yourself as others hear you.—Ritchie R. Ward

@@ -6,6 +6,7 @@ date: 2022-06-08T00:43:48Z
 modified: 2022-06-08T00:43:48Z
 tags: "industries"
 slug: high-impact-interview-questions
+description: "Book annotations for High-Impact Interview Questions by Victoria Hoevemeyer"
 ---
 
 ## Chapter 10: CBBI Advice for Job Seekers

@@ -6,6 +6,7 @@ date: 2022-03-17T00:54:01Z
 modified: 2022-03-17T00:56:45Z
 tags: "self-improvement"
 slug: remembering-the-presidents-of-the-usa
+description: "Book annotations for Remembering the Presidents of the USA by Kevin Horsley, Eloise Cooper & Sophie Pretorius"
 ---
 
 ## Memory Fundamentals

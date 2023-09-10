@@ -6,6 +6,7 @@ date: 2022-11-23T02:40:28Z
 modified: 2022-11-23T02:40:28Z
 tags: "political-science"
 slug: the-candidates-7-deadly-sins
+description: "Book annotations for The Candidate's 7 Deadly Sins by Dr. Peter A. Wish"
 ---
 
 *  Cultivating Strength and Warmth

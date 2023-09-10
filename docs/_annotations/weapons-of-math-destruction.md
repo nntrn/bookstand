@@ -6,6 +6,7 @@ date: 2023-09-01T02:07:09Z
 modified: 2023-09-01T02:08:50Z
 tags: "public-administration"
 slug: weapons-of-math-destruction
+description: "Book annotations for Weapons of Math Destruction by Cathy O'Neil"
 ---
 
 *  If the purpose of the models is to prevent serious crimes, you might ask why nuisance crimes are tracked at all. The answer is that the link between antisocial behavior and crime has been an article of faith since 1982, when a criminologist named George Kelling teamed up with a public policy expert, James Q. Wilson, to write a seminal article in the Atlantic Monthly on so-called broken-windows policing. The idea was that low-level crimes and misdemeanors created an atmosphere of disorder in a neighborhood. This scared law-abiding citizens away. The dark and empty streets they left behind were breeding grounds for serious crime. The antidote was for society to resist the spread of disorder. This included fixing broken windows, cleaning up graffiti-covered subway cars, and taking steps to discourage nuisance crimes.

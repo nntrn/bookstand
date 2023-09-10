@@ -6,6 +6,7 @@ date: 2023-01-05T20:24:48Z
 modified: 2023-09-07T02:59:37Z
 tags: "psychology"
 slug: rationality
+description: "Book annotations for Rationality by Steven Pinker"
 ---
 
 *  It has become commonplace to conclude that humans are simply irrational—more Homer Simpson than Mr. Spock, more Alfred E. Neuman than John von Neumann

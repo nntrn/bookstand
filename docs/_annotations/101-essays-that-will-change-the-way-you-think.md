@@ -6,6 +6,7 @@ date: 2021-07-30T10:34:43Z
 modified: 2021-08-04T08:28:52Z
 tags: "spirituality"
 slug: 101-essays-that-will-change-the-way-you-think
+description: "Book annotations for 101 Essays That Will Change the Way You Think by Brianna Wiest"
 ---
 
 ## Subconscious Behaviors that are Keeping You from Having The Life You Want

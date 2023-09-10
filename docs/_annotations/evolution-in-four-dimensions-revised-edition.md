@@ -6,6 +6,7 @@ date: 2023-08-15T09:22:21Z
 modified: 2023-08-15T09:26:30Z
 tags: "life-sciences"
 slug: evolution-in-four-dimensions-revised-edition
+description: "Book annotations for Evolution in Four Dimensions, revised edition by Eva Jablonka, Marion J. Lamb & Anna Zeligowski"
 ---
 
 *  We see culture as a system of socially transmitted patterns of behavior, preferences, and products of animal activities that characterize a group of social animals. The transmitted behaviors can be skills, practices, habits, beliefs, and so on. Once we have defined culture in this way, "cultural evolution" can be defined as the change, through time, in the nature and frequency of socially transmitted preferences, patterns, or products of behavior in a population.

@@ -6,6 +6,7 @@ date: 2022-03-05T16:46:56Z
 modified: 2022-03-05T22:46:24Z
 tags: "self-improvement"
 slug: fck-love
+description: "Book annotations for F*ck Love by Michael Bennett, MD & Sarah Bennett"
 ---
 
 ## Chapter 1: F*ck Charisma

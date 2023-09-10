@@ -6,6 +6,7 @@ date: 2022-03-17T02:25:13Z
 modified: 2022-03-28T03:15:40Z
 tags: "family"
 slug: models-attract-women-through-honesty
+description: "Book annotations for Models: Attract Women Through Honesty by Mark Manson"
 ---
 
 ## Chapter 1: Non-Neediness

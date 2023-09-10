@@ -6,6 +6,7 @@ date: 2023-09-06T13:23:18Z
 modified: 2023-09-07T02:29:57Z
 tags: "public-administration"
 slug: biopiracy
+description: "Book annotations for Biopiracy by Vandana Shiva"
 ---
 
 *  Over the past decade, corporations have gained control over the diversity of life on earth and people's indigenous knowledge through new property rights. There is no innovation involved in these cases; they are instruments of monopoly control over life itself. Patents on living resources and indigenous knowledge are

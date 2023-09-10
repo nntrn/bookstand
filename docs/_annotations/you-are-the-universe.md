@@ -6,6 +6,7 @@ date: 2022-06-08T04:32:49Z
 modified: 2022-06-08T04:32:49Z
 tags: "astronomy"
 slug: you-are-the-universe
+description: "Book annotations for You Are the Universe by Deepak Chopra & Menas C. Kafatos, Ph.D."
 ---
 
 ## Preface: You and the Universe Are One

@@ -6,6 +6,7 @@ date: 2022-08-04T11:20:37Z
 modified: 2023-03-29T02:35:16Z
 tags: "dictionaries"
 slug: the-well-spoken-thesaurus
+description: "Book annotations for The Well-Spoken Thesaurus by Tom Heehler"
 ---
 
 ## Lesson  3: Ernest Hemingway

@@ -6,6 +6,7 @@ date: 2023-01-16T04:52:40Z
 modified: 2023-01-16T04:57:31Z
 tags: "psychology"
 slug: meeting-the-shadow
+description: "Book annotations for Meeting the Shadow by Connie Zweig & Jeremiah Abrams"
 ---
 
 *  As Jungian analyst John Sanford points out, when a story like this one touches the chord of our humanity in such a way that it rings true for many people, it must have an archetypal quality—it must speak to a place in us that is universal.

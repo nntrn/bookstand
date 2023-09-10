@@ -6,6 +6,7 @@ date: 2023-07-11T22:42:48Z
 modified: 2023-07-12T02:10:50Z
 tags: "life-sciences"
 slug: the-liars-of-nature-and-the-nature-of-liars
+description: "Book annotations for The Liars of Nature and the Nature of Liars by Lixing Sun"
 ---
 
 *  Cheaters are everywhere in the biological world, according to our broadened definition of cheating. Monkeys sneak around for sex; possums, well, play "possum," as they are famous for when pursued by a predator; birds scare rivals away from contested food by crying wolf—emitting alarm calls that are normally used to warn others about an approaching predator; amphibians and reptiles are master impostors, altering their body color to blend into their backgrounds; stickleback fish protect their eggs and babies by misdirecting their cannibal peers away from their nests; defenseless caterpillars ward off predators by masquerading as dangerous animals such as snakes with big false eyes (see color plate 1); squids escape from predators by ejecting ink to create a "smoke screen" in the water. Examples of lying and deceiving behavior in animals can go on and on.

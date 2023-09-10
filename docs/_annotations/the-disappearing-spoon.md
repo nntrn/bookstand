@@ -6,6 +6,7 @@ date: 2023-08-29T23:17:37Z
 modified: 2023-08-29T23:21:36Z
 tags: "history"
 slug: the-disappearing-spoon
+description: "Book annotations for The Disappearing Spoon by Sam Kean"
 ---
 
 *  Shakespeare had a go at it with "honorificabilitudinitatibus"—which, depending on whom you ask, either means "the state of

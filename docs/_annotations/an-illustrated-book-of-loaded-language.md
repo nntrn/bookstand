@@ -6,6 +6,7 @@ date: 2023-07-11T22:37:03Z
 modified: 2023-07-11T22:37:27Z
 tags: "language-arts"
 slug: an-illustrated-book-of-loaded-language
+description: "Book annotations for An Illustrated Book of Loaded Language by Ali Almossawi & Alejandro Giraldo"
 ---
 
 *  Rhetoric—how someone says something—can offer useful insight into their underlying assumptions

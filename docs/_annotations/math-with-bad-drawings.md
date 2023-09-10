@@ -6,6 +6,7 @@ date: 2023-02-13T09:45:56Z
 modified: 2023-05-16T09:57:08Z
 tags: "mathematics"
 slug: math-with-bad-drawings
+description: "Book annotations for Math with Bad Drawings by Ben Orlin"
 ---
 
 *  Creativity is what happens when a mind encounters an obstacle. It's the human process of finding a way through, over, around, or beneath. No obstacle, no creativity.

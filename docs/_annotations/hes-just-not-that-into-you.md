@@ -6,6 +6,7 @@ date: 2022-03-04T14:33:07Z
 modified: 2022-03-05T17:21:13Z
 tags: "family"
 slug: hes-just-not-that-into-you
+description: "Book annotations for He's Just Not That Into You by Greg Behrendt & Liz Tuccillo"
 ---
 
 ## 1 He’s Just Not That Into You If He’s Not Asking You Out

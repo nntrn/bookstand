@@ -6,6 +6,7 @@ date: 2017-03-31T00:02:03Z
 modified: 2021-04-13T15:46:39Z
 tags: "self-improvement"
 slug: the-mastery-of-love
+description: "Book annotations for The Mastery of Love by Don Miguel Ruiz"
 ---
 
 ## 3… The Man Who Didn’t Believe in Love

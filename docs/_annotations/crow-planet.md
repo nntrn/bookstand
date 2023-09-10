@@ -6,6 +6,7 @@ date: 2023-07-26T11:50:37Z
 modified: 2023-08-02T14:46:41Z
 tags: "nature"
 slug: crow-planet
+description: "Book annotations for Crow Planet by Lyanda Lynn Haupt"
 ---
 
 *  Still, familiarity breeds naming, and I have been watching this crow every day for months, learning her individual

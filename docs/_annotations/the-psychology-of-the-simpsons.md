@@ -6,6 +6,7 @@ date: 2022-09-10T15:09:52Z
 modified: 2022-11-30T01:36:50Z
 tags: "psychology"
 slug: the-psychology-of-the-simpsons
+description: "Book annotations for The Psychology of the Simpsons by Alan S. Brown & Chris Logan"
 ---
 
 ## Homer and Marge: Satisfied?

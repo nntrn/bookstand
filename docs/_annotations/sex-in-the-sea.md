@@ -6,6 +6,7 @@ date: 2023-08-31T17:12:56Z
 modified: 2023-08-31T17:28:02Z
 tags: "biology"
 slug: sex-in-the-sea
+description: "Book annotations for Sex in the Sea by Marah J. Hardt"
 ---
 
 *  Just imagine spending your entire adult life in the big city, meeting tons of attractive fellow singles day in and day out, year after year, but having to wait until just before you kick the bucket to have sex. And if that is not torture enough, when you finally get to do it, your only option is to go back to your hometown and lose your virginity with someone from your high school.

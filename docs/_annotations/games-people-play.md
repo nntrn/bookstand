@@ -6,6 +6,7 @@ date: 2022-03-07T01:50:10Z
 modified: 2022-05-25T12:00:31Z
 tags: "psychology"
 slug: games-people-play
+description: "Book annotations for Games People Play by Eric Berne"
 ---
 
 ## New Introduction: As If Suddenly A Door

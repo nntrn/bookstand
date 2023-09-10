@@ -6,6 +6,7 @@ date: 2022-12-26T20:25:25Z
 modified: 2022-12-26T20:29:28Z
 tags: "self-improvement"
 slug: the-subtle-art-of-not-giving-a-fck
+description: "Book annotations for The Subtle Art of Not Giving a F*ck by Mark Manson"
 ---
 
 *  It's what the philosopher Alan Watts used to refer to as "the backwards law"—the idea that the more you pursue feeling better all the time, the less satisfied you become, as pursuing something only reinforces the fact that you lack it in the first place

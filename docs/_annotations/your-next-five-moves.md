@@ -6,6 +6,7 @@ date: 2023-06-29T01:50:09Z
 modified: 2023-06-29T01:54:29Z
 tags: "small-business"
 slug: your-next-five-moves
+description: "Book annotations for Your Next Five Moves by Patrick Bet-David"
 ---
 
 *  Twenty years later, I can tell you that clarity comes from making decisions that are aligned with your core beliefs and values.

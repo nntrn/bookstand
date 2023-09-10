@@ -6,6 +6,7 @@ date: 2022-04-13T12:10:37Z
 modified: 2022-04-13T12:29:16Z
 tags: "language-arts"
 slug: dreyers-english
+description: "Book annotations for Dreyer's English by Benjamin Dreyer"
 ---
 
 ## Chapter 1: The Life-Changing Magic of Tidying Up (Your Prose)

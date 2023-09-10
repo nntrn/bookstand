@@ -6,6 +6,7 @@ date: 2021-07-28T22:51:33Z
 modified: 2021-07-28T22:51:48Z
 tags: "military"
 slug: the-art-of-war
+description: "Book annotations for The Art of War by Sun Tzu"
 ---
 
 ## I. Laying Plans

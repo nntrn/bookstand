@@ -6,6 +6,7 @@ date: 2022-11-30T01:39:19Z
 modified: 2023-09-06T14:57:12Z
 tags: "biographies"
 slug: maybe-you-should-talk-to-someone
+description: "Book annotations for Maybe You Should Talk to Someone by Lori Gottlieb"
 ---
 
 *  Above all, I didn't want to fall into the trap that Buddhists call idiot compassion—an apt phrase, given John's worldview. In idiot compassion, you avoid rocking the boat to spare people's feelings, even though the boat needs rocking and your compassion ends up being more harmful than your honesty. People do this with teenagers, spouses, addicts, even themselves. Its opposite is wise compassion, which means caring about the person but also giving him or her a loving truth bomb when needed.

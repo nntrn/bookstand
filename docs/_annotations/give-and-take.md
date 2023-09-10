@@ -6,6 +6,7 @@ date: 2022-08-23T05:54:00Z
 modified: 2022-08-25T08:17:07Z
 tags: "management"
 slug: give-and-take
+description: "Book annotations for Give and Take by Adam Grant"
 ---
 
 ## 5 — The Power of Powerless Communication

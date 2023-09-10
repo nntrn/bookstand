@@ -6,6 +6,7 @@ date: 2023-03-27T10:51:51Z
 modified: 2023-03-27T17:04:24Z
 tags: "reference"
 slug: its-raining-cats-and-dogs-and-other-beastly-expressions
+description: "Book annotations for It's Raining Cats and Dogs and Other Beastly Expressions by Christine Ammer"
 ---
 
 *  The less polite chicken shit originated in the military, probably during World War I; during World War II it was widely used in complaint against petty, disagreeable military rules.

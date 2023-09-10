@@ -6,6 +6,7 @@ date: 2022-06-01T11:24:34Z
 modified: 2023-06-17T19:07:40Z
 tags: "psychology"
 slug: scripts-people-live
+description: "Book annotations for Scripts People Live by Claude Steiner"
 ---
 
 ## Scripts

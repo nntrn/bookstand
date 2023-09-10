@@ -6,6 +6,7 @@ date: 2022-04-12T18:42:34Z
 modified: 2023-08-05T23:28:01Z
 tags: "biographies"
 slug: genius
+description: "Book annotations for Genius by James Gleick"
 ---
 
 ## Prologue

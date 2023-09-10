@@ -6,6 +6,7 @@ date: 2023-03-27T17:23:30Z
 modified: 2023-06-24T03:28:35Z
 tags: "management"
 slug: change-by-design-revised-and-updated
+description: "Book annotations for Change by Design, Revised and Updated by Tim Brown"
 ---
 
 *  The evolution from design to design thinking is the story of the evolution from the creation of products to the analysis of the relationship between people and products, and from there to the relationship between people and people.

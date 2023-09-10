@@ -6,6 +6,7 @@ date: 2022-09-07T04:20:56Z
 modified: 2022-09-07T04:20:56Z
 tags: "reference"
 slug: a-stubbornly-persistent-illusion
+description: "Book annotations for A Stubbornly Persistent Illusion by Stephen Hawking"
 ---
 
 ## INTRODUCTION BY STEPHEN HAWKING

@@ -6,6 +6,7 @@ date: 2023-01-02T00:27:07Z
 modified: 2023-01-02T00:33:55Z
 tags: "biographies"
 slug: the-code-breaker
+description: "Book annotations for The Code Breaker by Walter Isaacson"
 ---
 
 *  Her work also illustrates, as Leonardo da Vinci's did, that the key to innovation is connecting a curiosity about basic science to the practical work of devising tools that can be applied to our lives—moving discoveries from lab bench to bedside.

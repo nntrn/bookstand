@@ -6,6 +6,7 @@ date: 2023-07-08T10:29:05Z
 modified: 2023-07-08T10:29:17Z
 tags: "computers"
 slug: you-look-like-a-thing-and-i-love-you
+description: "Book annotations for You Look Like a Thing and I Love You by Janelle Shane"
 ---
 
 *  If you've ever done basic programming, or even used HTML to design a website, you've used a rules-based program. You create a list of commands, or rules, in a language the computer can understand, and the computer does exactly what you say. To solve a problem with a rules-based program, you have to know every step required to complete the program's task and how to describe each one of those steps.

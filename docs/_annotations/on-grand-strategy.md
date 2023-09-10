@@ -6,6 +6,7 @@ date: 2023-02-23T05:02:39Z
 modified: 2023-02-24T01:54:27Z
 tags: "history"
 slug: on-grand-strategy
+description: "Book annotations for On Grand Strategy by John Lewis Gaddis"
 ---
 
 *  Hedgehogs, Berlin explained, "relate everything to a single central vision" through which "all that they say and do has significance." Foxes, in contrast, "pursue many ends, often unrelated and even contradictory, connected, if at all, only in some de facto way."

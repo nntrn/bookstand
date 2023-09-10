@@ -6,6 +6,7 @@ date: 2023-02-08T20:40:48Z
 modified: 2023-02-22T21:16:11Z
 tags: "finance"
 slug: the-bogle-effect
+description: "Book annotations for The Bogle Effect by Eric Balchunas"
 ---
 
 *  We have tried to avoid, with some degree of success, the curse of the mutual fund industry: huge cash flows from investors after spectacular performance gains have been achieved and huge outflows after commensurate losses have occurred … This has always been a cyclical, market-sensitive business; it remains so today. But sooner or later, the investment pendulum, having swung to the speculative extreme, swings back to the defensive extreme, finally coming to repose in the conservative center, before repeating the cycle again.

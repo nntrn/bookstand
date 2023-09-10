@@ -6,6 +6,7 @@ date: 2023-01-21T13:57:54Z
 modified: 2023-02-14T22:37:39Z
 tags: "dictionaries"
 slug: how-to-tell-fate-from-destiny
+description: "Book annotations for How to Tell Fate from Destiny by Charles Harrington Elster"
 ---
 
 *  The difference between these words is the difference between performance and potential, between doing something and doing something more.

@@ -6,6 +6,7 @@ date: 2023-07-01T11:10:58Z
 modified: 2023-07-01T14:39:03Z
 tags: "paranormal"
 slug: shadowfever
+description: "Book annotations for Shadowfever by Karen Marie Moning"
 ---
 
 *  Every time I think I'm getting wiser, more in control of my actions, I go slamming into a situation that makes me excruciatingly aware that all I've succeeded in doing is swapping one set of delusions for a more elaborate, attractive set of delusions—that's me, the Queen of Self-Deception.

@@ -6,6 +6,7 @@ date: 2022-11-28T17:18:41Z
 modified: 2022-11-28T17:23:11Z
 tags: "mathematics"
 slug: shape
+description: "Book annotations for Shape by Jordan Ellenberg"
 ---
 
 *  Good luck for shipwreck guy: depressed and hungry though he is, he consoles himself by working his way through Euclid's demonstrations one by one, tracing out the diagrams in the sand with a stick. That's just what it was like to be young, sensitive, poetic Wordsworth, writes middle-aged Wordsworth! Or to let the poet speak:

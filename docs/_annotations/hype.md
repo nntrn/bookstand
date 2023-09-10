@@ -6,6 +6,7 @@ date: 2023-08-31T14:08:33Z
 modified: 2023-08-31T14:52:57Z
 tags: "biographies"
 slug: hype
+description: "Book annotations for Hype by Gabrielle Bluestone"
 ---
 
 *  There had always been pressure to overshare and keep up with appearances on sites like Facebook, but it took the ubiquity and ease of the Instagram app to turn sharing a photo of your lunch into a monetizable activity. Filled with people pretending to be brands and brands pretending to be people, social media, now easily accessible by smartphone, had become by the mid-2010s a showcase in performative signaling.

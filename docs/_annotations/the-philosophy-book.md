@@ -6,6 +6,7 @@ date: 2023-03-03T03:07:58Z
 modified: 2023-03-26T16:03:32Z
 tags: "philosophy"
 slug: the-philosophy-book
+description: "Book annotations for The Philosophy Book by DK"
 ---
 
 *  Pythagoras had now proved not only that the structure of the universe can be

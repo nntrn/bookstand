@@ -6,6 +6,7 @@ date: 2022-09-06T23:28:25Z
 modified: 2022-09-06T23:28:25Z
 tags: "life-sciences"
 slug: blueprint
+description: "Book annotations for Blueprint by Nicholas A. Christakis"
 ---
 
 ## Chapter 12 Natural and Social Laws

@@ -6,6 +6,7 @@ date: 2022-05-26T08:37:45Z
 modified: 2022-05-26T08:38:57Z
 tags: "economics"
 slug: the-data-detective
+description: "Book annotations for The Data Detective by Tim Harford"
 ---
 
 ## Introduction: How to Lie with Statistics

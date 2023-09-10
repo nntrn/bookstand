@@ -6,6 +6,7 @@ date: 2022-12-05T14:07:07Z
 modified: 2023-06-09T01:54:26Z
 tags: "mathematics"
 slug: change-is-the-only-constant
+description: "Book annotations for Change Is the Only Constant by Ben Orlin"
 ---
 
 *  Philosophers in ancient China played similar mind games. "The dimensionless cannot be accumulated," one wrote. "Its size is a thousand miles." In the mathematical sense, a moment is dimensionless: It possesses no length, no duration. It's zero seconds long. But since two times zero is still zero, two moments will also amount to zero time. The same holds for 10 moments, or a thousand, or a million. In fact, any countable number of moments will still total up to zero seconds.

@@ -6,6 +6,7 @@ date: 2023-05-09T22:11:53Z
 modified: 2023-05-09T22:24:40Z
 tags: "biographies"
 slug: the-story-of-alice
+description: "Book annotations for The Story of Alice by Robert Douglas-Fairhurst"
 ---
 
 *  As many writers have pointed out, narrative provides an attractive set of models to follow when we want to make sense of life's uncertainties. The narrator of Julian Barnes's novel Flaubert's Parrot explains why: 'Books say: she did this because. Life says: she did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.' A story reflects life but also redeems it: assembled on the page, even unpredictable events can be plotted, their random scatter made part of a meaningful design.

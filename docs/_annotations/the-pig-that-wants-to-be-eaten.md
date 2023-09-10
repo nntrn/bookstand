@@ -6,6 +6,7 @@ date: 2023-03-08T11:22:03Z
 modified: 2023-03-08T11:23:10Z
 tags: "philosophy"
 slug: the-pig-that-wants-to-be-eaten
+description: "Book annotations for The Pig That Wants to Be Eaten by Julian Baggini"
 ---
 
 *  Science is objective, experimental, quantitative; sense experience—indeed all mental experience—is subjective, experiential and qualitative. What this seems to show is that no physical description of the world, however complete, can capture what goes on in our minds. As philosophers put it, the mental is irreducible to the physical

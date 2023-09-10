@@ -6,6 +6,7 @@ date: 2022-09-06T22:02:49Z
 modified: 2022-11-18T19:30:06Z
 tags: "psychology"
 slug: connected
+description: "Book annotations for Connected by Nicholas A. Christakis & James H. Fowler"
 ---
 
 ## CHAPTER 1: In the Thick of It

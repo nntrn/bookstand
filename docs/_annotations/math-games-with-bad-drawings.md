@@ -6,6 +6,7 @@ date: 2023-02-13T04:21:52Z
 modified: 2023-06-29T03:15:11Z
 tags: "mathematics"
 slug: math-games-with-bad-drawings
+description: "Book annotations for Math Games with Bad Drawings by Ben Orlin"
 ---
 
 *  "All good thinking is play," writes Mason Hartman. She means that our best thoughts explore ideas the way a baby chimp explores the forest, with a kind of freedom and abandon. It's not a game of Parcheesi, with every move geared toward victory; rather, it's a game of make-believe, a game of "yes, and…," a game passed from generation to generation, a torch that never goes dark. "A finite game is played for the purpose of winning," wrote James Carse, "an infinite game for the purpose of continuing to play."

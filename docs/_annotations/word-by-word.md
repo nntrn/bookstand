@@ -6,6 +6,7 @@ date: 2023-03-26T15:49:24Z
 modified: 2023-07-01T02:47:37Z
 tags: "dictionaries"
 slug: word-by-word
+description: "Book annotations for Word by Word by Kory Stamper"
 ---
 
 *  The distinction between real defining and lexical defining often sounds like some ass-covering hairsplitting. Lexicographers aren't saying that the essential nature of love is affection; we're saying that's how the word is used. But the speaking, writing public chooses to use the word "love" over "affection" because love signifies something more than affection, doesn't it? Love has to be different from mere affection.

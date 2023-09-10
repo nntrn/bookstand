@@ -6,6 +6,7 @@ date: 2022-02-18T01:54:27Z
 modified: 2022-03-05T14:58:17Z
 tags: "biographies"
 slug: option-b
+description: "Book annotations for Option B by Sheryl Sandberg & Adam Grant"
 ---
 
 ## 10. To Love and Laugh Again

@@ -6,6 +6,7 @@ date: 2023-05-27T21:19:35Z
 modified: 2023-06-19T23:09:37Z
 tags: "reference"
 slug: screenplay
+description: "Book annotations for Screenplay by Syd Field"
 ---
 
 *  Movies are a combination of art and science; the technological revolution has literally changed the way we see movies and therefore, by necessity, has changed the way we write movies. But no matter what changes are made in the execution of the material, the nature of the screenplay is the same as it has always been: A screenplay is a story told with pictures, in dialogue and description, and placed within the context of dramatic structure. That's what it is; that is its nature. It is the art of visual storytelling.

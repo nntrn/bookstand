@@ -6,6 +6,7 @@ date: 2022-08-17T09:38:01Z
 modified: 2022-08-17T09:38:01Z
 tags: "language-arts"
 slug: endangered-phrases
+description: "Book annotations for Endangered Phrases by Steven D. Price"
 ---
 
 ## A-Z

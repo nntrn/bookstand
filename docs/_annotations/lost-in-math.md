@@ -6,6 +6,7 @@ date: 2022-09-07T03:46:50Z
 modified: 2022-09-07T03:48:06Z
 tags: "history"
 slug: lost-in-math
+description: "Book annotations for Lost in Math by Sabine Hossenfelder"
 ---
 
 ## Chapter 1: The Hidden Rules of Physics

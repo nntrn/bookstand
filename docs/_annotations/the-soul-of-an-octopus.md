@@ -6,6 +6,7 @@ date: 2023-07-26T12:39:06Z
 modified: 2023-08-05T23:05:24Z
 tags: "nature"
 slug: the-soul-of-an-octopus
+description: "Book annotations for The Soul of an Octopus by Sy Montgomery"
 ---
 
 *  But what I did know intrigued me. Here is an animal with venom like a snake, a beak like a parrot, and ink like an old-fashioned pen. It can weigh as much as a man and stretch as long as a car, yet it can pour its baggy, boneless body through an opening the size of an orange. It can change color and shape. It can taste with its skin. Most fascinating of all, I had read that octopuses are smart. This bore out what scant experience I had already had; like many who visit octopuses in public aquariums, I've often had the feeling that the octopus I was watching was watching me back, with an interest as keen as my own.

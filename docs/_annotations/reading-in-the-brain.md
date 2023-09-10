@@ -6,6 +6,7 @@ date: 2022-09-06T23:10:29Z
 modified: 2022-09-06T23:10:29Z
 tags: "science"
 slug: reading-in-the-brain
+description: "Book annotations for Reading in the Brain by Stanislas Dehaene"
 ---
 
 ## Every Word Is a Tree

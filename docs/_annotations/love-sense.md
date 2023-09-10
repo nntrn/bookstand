@@ -6,6 +6,7 @@ date: 2022-05-25T15:01:34Z
 modified: 2022-08-02T00:11:27Z
 tags: "family"
 slug: love-sense
+description: "Book annotations for Love Sense by Dr. Sue Johnson"
 ---
 
 ## Chapter 2: Attachment: The Key to Love

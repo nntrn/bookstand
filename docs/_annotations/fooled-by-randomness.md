@@ -6,6 +6,7 @@ date: 2023-03-13T00:10:28Z
 modified: 2023-09-01T02:02:45Z
 tags: "finance"
 slug: fooled-by-randomness
+description: "Book annotations for Fooled by Randomness by Nassim Nicholas Taleb"
 ---
 
 *  It is a mistake to use, as journalists and some economists do, statistics without logic, but the reverse does not hold: It is not a mistake to use logic without statistics).

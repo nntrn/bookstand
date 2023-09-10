@@ -6,6 +6,7 @@ date: 2023-03-28T01:53:51Z
 modified: 2023-03-28T02:08:25Z
 tags: "writing"
 slug: the-conflict-thesaurus-volume-2
+description: "Book annotations for The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles (Volume 2) by Becca Puglisi"
 ---
 
 *  Ego-related conflict, such as suffering a humiliation, strikes deep. It's an attack on one of the character's most important basic needs. In response, the character may lash out (fight), go silent (freeze), or cut her visit short (flight)—whatever response fits her personality, emotional range, and way of coping with being made vulnerable. Regardless of her reaction, readers will connect to the pain she feels because no one is immune to ego-based hurts.

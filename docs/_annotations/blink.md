@@ -6,6 +6,7 @@ date: 2022-08-31T01:31:55Z
 modified: 2022-10-15T01:47:17Z
 tags: "management"
 slug: blink
+description: "Book annotations for Blink by Malcolm Gladwell"
 ---
 
 ## ONE: The Theory of Thin Slices: How a Little Bit of Knowledge Goes a Long Way

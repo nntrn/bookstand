@@ -6,6 +6,7 @@ date: 2023-07-08T10:36:06Z
 modified: 2023-07-10T19:50:32Z
 tags: "philosophy"
 slug: an-illustrated-book-of-bad-arguments
+description: "Book annotations for An Illustrated Book of Bad Arguments by Ali Almossawi & Alejandro Giraldo"
 ---
 
 *  The first principle is that you must not fool yourself and you are the easiest person to fool.

@@ -6,6 +6,7 @@ date: 2023-08-31T17:34:29Z
 modified: 2023-09-06T13:15:16Z
 tags: "fiction"
 slug: essays-and-lectures
+description: "Book annotations for Essays and Lectures by Oscar Wilde"
 ---
 
 *  Having done this, you must place your workman in the midst of

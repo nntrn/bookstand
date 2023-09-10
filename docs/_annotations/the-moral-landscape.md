@@ -6,6 +6,7 @@ date: 2022-05-04T11:40:02Z
 modified: 2022-05-04T11:40:02Z
 tags: "science"
 slug: the-moral-landscape
+description: "Book annotations for The Moral Landscape by Sam Harris"
 ---
 
 ## Introduction: The Moral Landscape

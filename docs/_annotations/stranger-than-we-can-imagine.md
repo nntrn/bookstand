@@ -6,6 +6,7 @@ date: 2023-01-02T02:58:17Z
 modified: 2023-01-02T03:03:17Z
 tags: "history"
 slug: stranger-than-we-can-imagine
+description: "Book annotations for Stranger Than We Can Imagine by John Higgs"
 ---
 
 *  He wouldn't be deleting "space" itself. He would be removing the frame of reference that we were using to define space. He would do this because it was not a feature of the real world

@@ -6,6 +6,7 @@ date: 2022-11-29T06:16:51Z
 modified: 2022-11-29T06:50:00Z
 tags: "biology"
 slug: the-red-queen
+description: "Book annotations for The Red Queen by Matt Ridley"
 ---
 
 *  One of the peculiar features of history is that time always erodes advantage. Every invention sooner or later leads to a counterinvention. Every success contains the seeds of its own overthrow. Every hegemony comes to an end. Evolutionary history is no different. Progress and success are always relative. When the land was unoccupied by animals, the first amphibian to emerge from the sea could get away with being slow, lumbering, and fishlike, for it had no enemies and no competitors. But if a fish were to take to the land today, it would be gobbled up by a passing fox as surely as a Mongol horde would be wiped out by machine guns. In history and in evolution, progress is always a futile, Sisyphean struggle to stay in the same relative place by getting ever better at things. Cars move through the congested streets of London no faster than horse-drawn carriages did a century ago. Computers have no effect on productivity because people learn to complicate and repeat tasks that have been made easier.

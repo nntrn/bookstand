@@ -6,6 +6,7 @@ date: 2022-09-11T03:00:34Z
 modified: 2022-09-11T03:00:34Z
 tags: "management"
 slug: smarter-faster-better
+description: "Book annotations for Smarter Faster Better by Charles Duhigg"
 ---
 
 ## 6. Decision Making: Forecasting the Future (and Winning at Poker) with Bayesian Psychology
