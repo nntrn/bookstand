@@ -1,0 +1,67 @@
+{
+  "id": "6443726476",
+  "title": "The Liars of Nature and the Nature of Liars",
+  "subtitle": "Cheating and Deception in the Living World",
+  "author": "Lixing Sun",
+  "isbn": "9780691245737",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Biology",
+    "Ecology",
+    "Nature"
+  ],
+  "seller": "Princeton University Press",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=20990&salableAdamId=6443726476&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$20.99",
+      "price": 20.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 27520172
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2023-04-04",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A natural history of cheating from selfish genes to lying politicians</b><br /><br />Nature is rife with cheating. Possums play possum, feigning death to cheat predators. Crows cry wolf to scare off rivals. Amphibians and reptiles are inveterate impostors. Even genes and cells cheat. <i>The Liars of Nature and the Nature of Liars</i> explores the evolution of cheating in the natural world, revealing how dishonesty has given rise to wondrous diversity.<br /><br />Blending cutting-edge science with a wealth of illuminating examples—from microscopic organisms to highly intelligent birds and mammals—Lixing Sun shows how cheating in nature relies on two basic rules. One is lying, by which cheaters exploit honest messages in communication signals and use them to serve their own interests. The other is deceiving, by which cheaters exploit the biases and loopholes in the sensory systems of other creatures. Sun demonstrates that cheating serves as a potent catalyst in the evolutionary arms race between the cheating and the cheated, resulting in a biological world teeming with complexity and beauty.<br /><br />Brimming with insight and humor, <i>The Liars of Nature and the Nature of Liars</i> also looks at the prevalence of cheating in human society, identifying the kinds of cheating that spur innovation and cultural vitality and laying down a blueprint for combatting malicious cheating such as fake news and disinformation."
+  },
+  "artwork": {
+    "width": 1838,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/8b/1d/82/8b1d826e-b4b3-fff2-ea9d-34c9c5e04f92/9780691245737.jpg/{w}x{h}bb.{f}",
+    "height": 2775,
+    "textColor3": "393a37",
+    "textColor2": "422a13",
+    "textColor4": "675442",
+    "textColor1": "070905",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-liars-of-nature-and-the-nature-of-liars/id6443726476",
+  "userRating": {
+    "value": 2,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "2.0 stars"
+  },
+  "name": "The Liars of Nature and the Nature of Liars",
+  "publisher": "Princeton University Press",
+  "isPreorder": false,
+  "artistName": "Lixing Sun",
+  "primaryLocale": "en-US"
+}

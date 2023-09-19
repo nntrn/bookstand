@@ -1,0 +1,66 @@
+{
+  "id": "1023327825",
+  "title": "The Storyteller's Secret",
+  "subtitle": "From TED Speakers to Business Legends, Why Some Ideas Catch On and Others Don't",
+  "author": "Carmine Gallo",
+  "isbn": "9781466882690",
+  "genreNames": [
+    "Business & Personal Finance",
+    "Books",
+    "Management & Leadership",
+    "Careers"
+  ],
+  "seller": "Macmillan",
+  "description": {
+    "standard": "How did a Venice Beach T-shirt vendor become television's most successful producer? How did an entrepreneur who started in a garage create the most iconic product launches in business history? How did a timid pastor's son overcome a paralyzing fear of public speaking to captivate sold-out crowds at Yankee Stadium, twice? How did a human rights attorney earn TED's longest standing ovation, and how did a Facebook executive launch a movement to encourage millions of women to \"lean in\"?<br /><br />They told brilliant stories.<br /><br />In <i>The Storyteller's Secret: From TED Speakers to Business Legends, Why Some Ideas Catch on and Others Don't</i>, keynote speaker, bestselling author, and communication expert Carmine Gallo reveals the keys to telling powerful stories that inspire, motivate, educate, build brands, launch movements, and change lives. The <i>New York Times</i> has called a well-told story \"a strategic tool with irresistible power\" - the proof lies in the success stories of 50 icons, leaders, and legends featured in <i>The Storyteller's Secret:</i> entrepreneurs like Richard Branson, Sara Blakely, Elon Musk, Steve Jobs, and Sheryl Sandberg; spellbinding speakers like Dr. Martin Luther King, Jr., Bryan Stevenson, and Malala Yousafzai; and business leaders behind famous brands such as Starbucks, Southwest Airlines, Wynn Resorts, Whole Foods, and Pixar. Whether your goal is to educate, fundraise, inspire teams, build an award-winning culture, or to deliver memorable presentations, a story is your most valuable asset and your competitive advantage. <br /><br />In <i>The Storyteller's Secret</i>, Gallo explains why the brain is hardwired to love stories - especially rags-to-riches stories - and how the latest science can help you craft a persuasive narrative that wins hearts and minds. \"The art of storytelling can be used to drive change,\" says billionaire entrepreneur Richard Branson. And since the next decade will see the most change our civilization has ever known, your story will radically transform your business, your life, and the lives of those you touch. Ideas that catch on are wrapped in story. Your story can change the world. Isn't it time you shared yours?"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1023327825&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2168281
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2016-02-23",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1875,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication82/v4/32/1b/e3/321be31a-89ba-c810-74f2-0d5489e70290/9781466882690.jpg/{w}x{h}bb.{f}",
+    "height": 2850,
+    "textColor3": "39455f",
+    "textColor2": "4e0c10",
+    "textColor4": "723d3f",
+    "textColor1": "081637",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-storytellers-secret/id1023327825",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 29,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      8,
+      19
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "The Storyteller's Secret",
+  "isPreorder": false,
+  "publisher": "St. Martin's Publishing Group",
+  "artistName": "Carmine Gallo",
+  "primaryLocale": "en-US"
+}

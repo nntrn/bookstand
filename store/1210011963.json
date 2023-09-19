@@ -1,0 +1,63 @@
+{
+  "id": "1210011963",
+  "title": "A Stubbornly Persistent Illusion",
+  "subtitle": "The Essential Scientific Works of Albert Einstein",
+  "author": "Stephen Hawking",
+  "isbn": "9780762439225",
+  "genreNames": [
+    "Reference",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1210011963&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 11747598
+        }
+      ]
+    }
+  ],
+  "pageCount": 480,
+  "releaseDate": "2009-07-17",
+  "isIBook": false,
+  "description": {
+    "standard": "With commentary by the greatest physicist of our time, Stephen Hawking, this anthology has garnered impressive reviews. PW has called it \"a gem of a collection\" while <i>New Scientist</i> magazine notes the \"thrill of reading Einstein's own words.\" From the writings that revealed the famous Theory of Relativity, to other papers that shook the scientific world of the 20th century, <i>A Stubbornly Persistent Illusion</i> belongs in every science fan's library."
+  },
+  "artwork": {
+    "width": 1632,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication117/v4/81/19/2f/81192fac-1e12-7def-8e9a-8eab94f38dca/9780762439225.jpg/{w}x{h}bb.{f}",
+    "height": 2500,
+    "textColor3": "cdae23",
+    "textColor2": "c4bfd2",
+    "textColor4": "9f9eae",
+    "textColor1": "fed224",
+    "bgColor": "0c1e20",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/a-stubbornly-persistent-illusion/id1210011963",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "A Stubbornly Persistent Illusion",
+  "publisher": "Running Press",
+  "isPreorder": false,
+  "artistName": "Stephen Hawking",
+  "primaryLocale": "en-US"
+}

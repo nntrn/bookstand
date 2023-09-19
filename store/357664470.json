@@ -1,0 +1,69 @@
+{
+  "id": "357664470",
+  "title": "Blink",
+  "subtitle": "The Power of Thinking Without Thinking",
+  "author": "Malcolm Gladwell",
+  "isbn": "9780316005043",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Psychology"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=357664470&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1422714
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2007-04-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the #1 bestselling author of <i>The Bomber Mafia, </i>the landmark book that has revolutionized the way we understand leadership and decision making.</b>&#xa0;In his breakthrough bestseller <i>The Tipping Point</i>, Malcolm Gladwell redefined how we understand the world around us. Now, in <i>Blink</i>, he revolutionizes the way we understand the world within.&#xa0;<i>Blink</i> is a book about how we think without thinking, about choices that seem to be made in an instant--in the blink of an eye--that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work--in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others?&#xa0;In <i>Blink</i> we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of \"blink\": the election of Warren Harding; \"New Coke\"; and the shooting of Amadou Diallo by police.&#xa0;<i>Blink</i> reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of \"thin-slicing\"--filtering the very few factors that matter from an overwhelming number of variables."
+  },
+  "artwork": {
+    "width": 1733,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/41/68/a2/4168a210-75da-1538-125f-a2a48d658cf5/9780316005043.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "19313a",
+    "textColor2": "172b30",
+    "textColor4": "274c56",
+    "textColor1": "060a0e",
+    "bgColor": "66cfed",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/blink/id357664470",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 906,
+    "ratingCountList": [
+      47,
+      37,
+      90,
+      228,
+      504
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "Blink",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Malcolm Gladwell",
+  "editorialNotes": {
+    "standard": "According to journalist Malcolm Gladwell, snap judgments aren’t necessarily a bad thing. In fact, sometimes they’re more trustworthy than a long, detailed analysis. The trick is in knowing when to trust your instincts—and Gladwell offers pointers by walking us through the brain’s ability to make predictions and pick up patterns from small slivers of evidence. He uses provocative and entertaining examples from political history, sports, psychology, and even speed dating to reveal how uncanny quick judgments can be—and how dangerous they are in the wrong circumstances. As always, Gladwell hits the sweet spot between hard science and easy reading. We felt like we were learning without being lectured."
+  },
+  "primaryLocale": "en-US"
+}

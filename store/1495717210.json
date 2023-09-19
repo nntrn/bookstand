@@ -1,0 +1,68 @@
+{
+  "id": "1495717210",
+  "title": "Your Next Five Moves",
+  "subtitle": "Master the Art of Business Strategy",
+  "author": "Patrick Bet-David",
+  "isbn": "9781982154820",
+  "genreNames": [
+    "Small Business & Entrepreneurship",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1495717210&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9647991
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2020-08-18",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the creator of Valuetainment, the #1 YouTube channel for entrepreneurs, and “one of the most exciting thinkers” (Ray Dalio, author of </b><i><b>Principles</b></i><b>) in business today, comes a practical and effective guide for thinking more clearly and achieving your most audacious professional goals.</b><br /><br />Both successful entrepreneurs and chess grandmasters have the vision to look at the pieces in front of them and anticipate their next five moves. In this book, Patrick Bet-David “helps entrepreneurs understand exactly what they need to do next” (Brian Tracy, author of<i> Eat That Frog!</i>) by translating this skill into a valuable methodology. Whether you feel like you’ve hit a wall, lost your fire, or are looking for innovative strategies to take your business to the next level, <i>Your Next Five Moves</i> has the answers.<br /><br />You will gain:<br /> <b>CLARITY</b> on what you want and who you want to be.<br /> <b>STRATEGY</b> to help you reason in the war room and the board room.<br /> <b>GROWTH TACTICS</b> for good times and bad.<br /> <b>SKILLS</b> for building the right team based on strong values.<br /> <b>INSIGHT</b> on power plays and the art of applying leverage.<br /><br />Combining these principles and revelations drawn from Patrick’s own rise to successful CEO, <i>Your Next Five Moves </i>is a must-read for any serious executive, strategist, or entrepreneur."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/71/80/38/718038a6-de2c-d5c4-d2bc-428ca734d71d/9781982154820.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "00222f",
+    "textColor2": "002823",
+    "textColor4": "00434c",
+    "textColor1": "000000",
+    "bgColor": "00acee",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/your-next-five-moves/id1495717210",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 150,
+    "ratingCountList": [
+      3,
+      4,
+      16,
+      17,
+      110
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Your Next Five Moves",
+  "isPreorder": false,
+  "publisher": "Gallery Books",
+  "artistName": "Patrick Bet-David",
+  "editorialNotes": {
+    "standard": "Unleashing your inner entrepreneur takes a delicate balance of information and inspiration—and this book has both. A CEO who never attended college, mogul Patrick Bet-David went straight from the army to the business world. He argues that the most important factor when you’re starting your own business isn’t economics or marketing, but knowing what makes people tick. His personal stories reveal how he used that talent on his own climb to success, and he provides step-by-step advice on decision-making, team building, planning for growth, and handling curveballs—all delivered with candor and humor that kept us totally engaged. It’s fascinating when Bet-David analyzes the exceptional traits of his personal heroes, from Einstein to Tupac Shakur, and we tore through the worksheets he includes, which are full of questions for identifying your own business goals and needs. We never would have guessed that a primer on success in business could be this much fun."
+  },
+  "primaryLocale": "en-US"
+}

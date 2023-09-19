@@ -1,0 +1,65 @@
+{
+  "id": "1477281185",
+  "title": "Complexity",
+  "subtitle": "The Emerging Science at the Edge of Order and Chaos",
+  "author": "M. Mitchell Waldrop",
+  "isbn": "9781504059145",
+  "genreNames": [
+    "Physics",
+    "Books",
+    "Science & Nature",
+    "History"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1477281185&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6099750
+        }
+      ]
+    }
+  ],
+  "pageCount": 380,
+  "releaseDate": "2019-10-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“If you liked <i>Chaos</i>, you’ll love <i>Complexity</i>. Waldrop creates the most exciting intellectual adventure story of the year” (<i>The Washington Post</i>).</b><br /> &#xa0;<br /> In a rarified world of scientific research, a revolution has been brewing. Its activists are not anarchists, but rather Nobel Laureates in physics and economics and pony-tailed graduates, mathematicians, and computer scientists from all over the world. They have formed an iconoclastic think-tank and their radical idea is to create a new science: complexity. They want to know how a primordial soup of simple molecules managed to turn itself into the first living cell—and what the origin of life some four billion years ago can tell us about the process of technological innovation today.<br /> &#xa0;<br /> This book is their story—the story of how they have tried to forge what they like to call the science of the twenty-first century.<br /> &#xa0;<br /> “Lucidly shows physicists, biologists, computer scientists and economists swapping metaphors and reveling in the sense that epochal discoveries are just around the corner . . . [Waldrop] has a special talent for relaying the exhilaration of moments of intellectual insight.” —<i>The New York Times Book Review&#xa0;</i><br /> &#xa0;<br /> “Where I enjoyed the book was when it dove into the actual question of complexity, talking about complex systems in economics, biology, genetics, computer modeling, and so on. Snippets of rare beauty here and there almost took your breath away.” —<i>Medium</i><br /> &#xa0;<br /> “[Waldrop] provides a good grounding of what may indeed be the first flowering of a new science.” —<i>Publishers Weekly</i><br /> &#xa0;"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/ac/da/9d/acda9d85-10db-6fa2-b81a-a9bebc911cf4/9781504059145.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "d7d0cf",
+    "textColor2": "fef2e1",
+    "textColor4": "d6c6b8",
+    "textColor1": "ffffff",
+    "bgColor": "391612",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/complexity/id1477281185",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 12,
+    "ratingCountList": [
+      0,
+      2,
+      1,
+      1,
+      8
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Complexity",
+  "publisher": "Open Road Media",
+  "isPreorder": false,
+  "artistName": "M. Mitchell Waldrop",
+  "primaryLocale": "en-US"
+}

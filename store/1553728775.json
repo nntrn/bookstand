@@ -1,0 +1,65 @@
+{
+  "id": "1553728775",
+  "title": "How to Win Friends and Influence Enemies",
+  "subtitle": "Taking On Liberal Arguments with Logic and Humor",
+  "author": "Will Witt",
+  "isbn": "9781546000273",
+  "genreNames": [
+    "Political Science",
+    "Books",
+    "Politics & Current Events"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1553728775&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1427002
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2021-09-21",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Political commentator and media personality Will Witt gives young conservatives the ammunition they need to fight back against the liberal media in this instant national bestseller.</b><br /><br /> Popular culture in America today is dominated by the left. Most young people have never even heard of conservative values from someone their age, and if they do, the message is often bland and outdated. Almost every Hollywood actor, musician, media personality, and role model for young people in America rejects conservative values, and Gen Zs and millennials are quick to regurgitate these viewpoints without developing their own opinions on issues.&#xa0; <br /><br /> So many young conservatives in America want to stand up for their beliefs in their classrooms, at their jobs, with their friends, or on social media, but they don't have the tools to do so. In <i>How to Win Friends and Influence Enemies</i>, Will Witt arms Gen Zs and millennials with the knowledge and skills to combat the leftist narrative they hear every day. <br /><br /> Instant National Bestseller!"
+  },
+  "artwork": {
+    "width": 1733,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/29/5f/a9/295fa9a1-2f0a-5c52-8450-e13425890999/9781546000273.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "444544",
+    "textColor2": "0f1f37",
+    "textColor4": "3f4c5e",
+    "textColor1": "161616",
+    "bgColor": "fdfffa",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/how-to-win-friends-and-influence-enemies/id1553728775",
+  "userRating": {
+    "value": 4.8,
+    "ratingCount": 6,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      5
+    ],
+    "ariaLabelForRatings": "4.8 stars"
+  },
+  "name": "How to Win Friends and Influence Enemies",
+  "isPreorder": false,
+  "publisher": "Center Street",
+  "artistName": "Will Witt",
+  "primaryLocale": "en-US"
+}

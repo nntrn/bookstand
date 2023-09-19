@@ -1,0 +1,64 @@
+{
+  "id": "360638697",
+  "title": "Predictably Irrational, Revised and Expanded Edition",
+  "subtitle": "The Hidden Forces That Shape Our Decisions",
+  "author": "Dr. Dan Ariely",
+  "isbn": "9780061958724",
+  "genreNames": [
+    "Marketing & Sales",
+    "Books",
+    "Business & Personal Finance",
+    "Nonfiction",
+    "Social Science",
+    "Management & Leadership",
+    "Society",
+    "Economics"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=360638697&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2529691
+        }
+      ]
+    }
+  ],
+  "pageCount": 409,
+  "releaseDate": "2009-06-23",
+  "isIBook": false,
+  "description": {
+    "standard": "The groundbreaking bestseller from iconic behavioral psychologist Dan Ariely, now the inspiration for the Fall 2023 NBC show&#xa0;The Irrational<br /><br />“A marvelous book that is both thought provoking and highly entertaining, ranging from the power of placebos to the pleasures of Pepsi. Ariely unmasks the subtle but powerful tricks that our minds play on us, and shows us how we can prevent being fooled.”&#xa0;—&#xa0;Jerome Groopman, New York Times bestselling author of&#xa0;How Doctors Think<br /><br />“Ariely is a genius at understanding human behavior: no economist does a better job of uncovering and explaining the hidden reasons for the weird ways we act, in the marketplace and out. Predictably Irrational will reshape the way you see the world, and yourself, for good.” —&#xa0;James Surowiecki, author of&#xa0;The Wisdom of Crowds<br /><br />Why do our headaches persist after we take a one-cent aspirin but disappear when we take a fifty-cent aspirin? Why do we splurge on a lavish meal but cut coupons to save twenty-five cents on a can of soup?<br /><br />When it comes to making decisions in our lives, we think we're making smart, rational choices. But are we? In this revised and expanded edition of the groundbreaking&#xa0;New York Times&#xa0;bestseller, Dan Ariely refutes the common assumption that we behave in fundamentally rational ways. From drinking coffee to losing weight, from buying a car to choosing a romantic partner, we consistently overpay, underestimate, and procrastinate. Yet these misguided behaviors are neither random nor senseless. They're systematic and predictable—making us predictably irrational."
+  },
+  "artwork": {
+    "width": 1600,
+    "height": 2413,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/a0/07/46/a007468b-7aa7-71ff-93ab-e740a4762544/cover.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/predictably-irrational-revised-and-expanded-edition/id360638697",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 244,
+    "ratingCountList": [
+      14,
+      10,
+      16,
+      54,
+      150
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Predictably Irrational, Revised and Expanded Edition",
+  "isPreorder": false,
+  "publisher": "HarperCollins e-books",
+  "artistName": "Dr. Dan Ariely",
+  "primaryLocale": "en-US"
+}

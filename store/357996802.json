@@ -1,0 +1,63 @@
+{
+  "id": "357996802",
+  "title": "The Pig That Wants to Be Eaten",
+  "subtitle": "100 Experiments for the Armchair Philosopher",
+  "author": "Julian Baggini",
+  "isbn": "9781101098073",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=357996802&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 881375
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2006-06-27",
+  "isIBook": false,
+  "description": {
+    "standard": "Perfect for gifting to lovers of philosophy or mining intelligent ice-breaker topics for your next party, <b>The Pig That Wants to Be Eaten</b> offers one hundred philosophical puzzles that stimulate thought on a host of moral, social, and personal dilemmas. Taking examples from sources as diverse as Plato and Steven Spielberg, author Julian Baggini presents abstract philosophical issues in concrete terms, suggesting possible solutions while encouraging readers to draw their own conclusions:<br />Lively, clever, and thought-provoking, <b>The Pig That Wants to Be Eaten</b> is a portable feast for the mind that is sure to satisfy any intellectual appetite."
+  },
+  "artwork": {
+    "width": 1597,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/24/3c/af/243cafae-cf76-b8a4-3f5c-d3350569b611/9781101098073.d.jpg/{w}x{h}bb.{f}",
+    "height": 2402,
+    "textColor3": "363422",
+    "textColor2": "06090d",
+    "textColor4": "383328",
+    "textColor1": "040a06",
+    "bgColor": "fddb94",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-pig-that-wants-to-be-eaten/id357996802",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 14,
+    "ratingCountList": [
+      0,
+      0,
+      3,
+      2,
+      9
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "The Pig That Wants to Be Eaten",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Julian Baggini",
+  "primaryLocale": "en-US"
+}

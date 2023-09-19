@@ -1,0 +1,69 @@
+{
+  "id": "6445207982",
+  "title": "How Animals Grieve",
+  "subtitle": null,
+  "author": "Barbara J. King",
+  "isbn": "9780226043722",
+  "genreNames": [
+    "Nature",
+    "Books",
+    "Science & Nature",
+    "Lifestyle & Home",
+    "Pets",
+    "Nonfiction",
+    "Social Science",
+    "Anthropology",
+    "Life Sciences"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6445207982&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2632976
+        }
+      ]
+    }
+  ],
+  "pageCount": 202,
+  "releaseDate": "2013-03-28",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“A touching and provocative exploration of the latest research on animal minds and animal emotions” from the renowned anthropologist and author (<i>The Washington Post</i>).</b><br /><br />Scientists have long cautioned against anthropomorphizing animals, arguing that it limits our ability to truly comprehend the lives of other creatures. Recently, however, things have begun to shift in the other direction, and anthropologist Barbara J. King is at the forefront of that movement, arguing strenuously that we can—and should—attend to animal emotions. <br /><br /><i>With How Animals Grieve</i>, she draws our attention to the specific case of grief, and relates story after story—from fieldsites, farms, homes, and more—of animals mourning lost companions, mates, or friends. King tells of elephants surrounding their matriarch as she weakens and dies, and, in the following days, attending to her corpse as if holding a vigil. A housecat loses her sister, from whom she’s never before been parted, and spends weeks pacing the apartment, wailing plaintively. A baboon loses her daughter to a predator and sinks into grief. In each case, King uses her anthropological training to interpret and try to explain what we see—to help us understand this animal grief properly, as something neither the same as nor wholly different from the human experience of loss. <br /><br />The resulting book is both daring and down-to-earth, strikingly ambitious even as it’s careful to acknowledge the limits of our understanding. Through the moving stories she chronicles and analyzes so beautifully, King brings us closer to the animals with whom we share a planet, and helps us see our own experiences, attachments, and emotions as part of a larger web of life, death, love, and loss."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/fe/09/ae/fe09ae3d-1deb-11c1-5c14-d0de620dc1ae/9780226043722.jpg/{w}x{h}bb.{f}",
+    "height": 2363,
+    "textColor3": "282321",
+    "textColor2": "1b170b",
+    "textColor4": "322e23",
+    "textColor1": "0e0909",
+    "bgColor": "8e8983",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/how-animals-grieve/id6445207982",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "How Animals Grieve",
+  "publisher": "The University of Chicago Press",
+  "isPreorder": false,
+  "artistName": "Barbara J. King",
+  "primaryLocale": "en-US"
+}

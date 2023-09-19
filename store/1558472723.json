@@ -1,0 +1,68 @@
+{
+  "id": "1558472723",
+  "title": "Spark",
+  "subtitle": "How Genius Ignites, From Child Prodigies to Late Bloomers",
+  "author": "Claudia Kalb",
+  "isbn": "9781426220944",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Science & Nature",
+    "Life Sciences",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "Disney Electronic Content, Inc.",
+  "description": {
+    "standard": "Yo-Yo Ma’s ear for music emerged not long after he learned to walk. By the age of seven, he was performing for President Kennedy; by fifteen he debuted at Carnegie Hall. Maya Angelou, by contrast, didn't write her iconic memoir, I Know Why the Cage Bird Sings, until she was 40. What propels some individuals to reach extraordinary creative heights in the earliest years of life while others discover their passions decades later? Are prodigies imbued with innate talent? How often are midlife inspirations triggered by propitious events, like Julia Child's first French meal at the age of 36? Do late bloomers reveal their talents because their skills require life experience and contemplation? Through engaging storytelling and intriguing historical and cutting-edge scientific research, best-selling author and acclaimed journalist Claudia Kalb explores these questions to uncover what makes a prodigy and what drives a late bloomer. In this series of linked biographies, Kalb follows the journeys of thirteen remarkable individuals--from Shirley Temple to Alexander Fleming to Eleanor Roosevelt to Bill Gates--to discover the secrets behind their talents. Each possessed a unique arc of inspiration. Each--through science, art, music, theater, and politics--reached extraordinary success at different stages of life. And each offers us a chance to explore the genesis--and experience--of genius."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1558472723&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4046802
+        }
+      ]
+    }
+  ],
+  "pageCount": 435,
+  "releaseDate": "2021-04-27",
+  "isIBook": false,
+  "iOSVersion": "5.0",
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/32/0c/4d/320c4d5c-f358-08e2-06f3-d20c38be2d0b/9781426220944.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "3c3d3e",
+    "textColor2": "5a0f12",
+    "textColor4": "7b3f41",
+    "textColor1": "0b0d0e",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "uncertain",
+  "url": "https://books.apple.com/us/book/spark/id1558472723",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Spark",
+  "publisher": "Disney Book Group",
+  "isPreorder": false,
+  "artistName": "Claudia Kalb",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1543106278",
+  "title": "Shape",
+  "subtitle": "The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else",
+  "author": "Jordan Ellenberg",
+  "isbn": "9781984879066",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature",
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=1543106278&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 40391677
+        }
+      ]
+    }
+  ],
+  "pageCount": 480,
+  "releaseDate": "2021-05-25",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An instant <i>New York Times</i> Bestseller!<br /><br />“Unreasonably entertaining . . . reveals how geometric thinking can allow for everything from fairer American elections to better pandemic planning.” <b><i>—</i></b><i>The New York Times</i> &#xa0;<br /><br />From the <i>New York Times</i>-bestselling author of <i>How Not to Be Wrong—</i>himself a world-class geometer—a far-ranging exploration of the power of geometry, which turns out to help us think better about practically everything.</b><br /><br />How should a democracy choose its representatives?  How can you stop a pandemic from sweeping the world?  How do computers learn to play Go, and why is learning Go so much easier for them than learning to read a sentence? Can ancient Greek proportions predict the stock market? (Sorry, no.) What should your kids learn in school if they really want to learn to think?  All these are questions about geometry. For real.<br /><br />If you're like most people, geometry is a sterile and dimly remembered exercise you gladly left behind in the dust of ninth grade, along with your braces and active romantic interest in pop singers. If you recall any of it, it's plodding through a series of miniscule steps only to prove some fact about triangles that was obvious to you in the first place. That's not geometry. Okay, it <i>is</i> geometry, but only a tiny part, which has as much to do with geometry in all its flush modern richness as conjugating a verb has to do with a great novel. <br /><br /><i>Shape</i> reveals the geometry underneath some of the most important scientific, political, and philosophical problems we face. Geometry asks: Where are things? Which things are near each other?  How can you get from one thing to another thing? Those are important questions. The word \"geometry\"comes from the Greek for \"measuring the world.\" If anything, that's an undersell. Geometry doesn't just measure the world—it explains it. <i>Shape</i> shows us how."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/b8/13/77/b81377eb-70db-3343-2214-56edb5c11430/9781984879066.d.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "3d3c37",
+    "textColor2": "1e1d1b",
+    "textColor4": "4b4945",
+    "textColor1": "0c0d0a",
+    "bgColor": "fff9eb",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/shape/id1543106278",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 17,
+    "ratingCountList": [
+      0,
+      0,
+      5,
+      6,
+      6
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "Shape",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Jordan Ellenberg",
+  "primaryLocale": "en-US"
+}

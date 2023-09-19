@@ -1,0 +1,68 @@
+{
+  "id": "1131161557",
+  "title": "A Generation of Sociopaths",
+  "subtitle": "How the Baby Boomers Betrayed America",
+  "author": "Bruce Cannon Gibney",
+  "isbn": "9780316395809",
+  "genreNames": [
+    "Political Science",
+    "Books",
+    "Politics & Current Events",
+    "History",
+    "United States",
+    "Public Administration"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1131161557&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7226442
+        }
+      ]
+    }
+  ],
+  "pageCount": 464,
+  "releaseDate": "2017-03-07",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>In his \"remarkable\" (<i>Men's Journal</i>) and \"controversial\" (<i>Fortune</i>) book -- written in a \"wry, amusing style\" (<i>The Guardian</i>) -- Bruce Cannon Gibney shows how America was hijacked by the Boomers, a generation whose reckless self-indulgence degraded the foundations of American prosperity.</b><br /><br /> In <i>A Generation of Sociopaths</i>, Gibney examines the disastrous policies of the most powerful generation in modern history, showing how the Boomers ruthlessly enriched themselves at the expense of future generations.<br /><br />Acting without empathy, prudence, or respect for facts--acting, in other words, as sociopaths--the Boomers turned American dynamism into stagnation, inequality, and bipartisan fiasco. The Boomers have set a time bomb for the 2030s, when damage to Social Security, public finances, and the environment will become catastrophic and possibly irreversible--and when, not coincidentally, Boomers will be dying off. <br /><br />Gibney argues that younger generations have a fleeting window to hold the Boomers accountable and begin restoring America."
+  },
+  "artwork": {
+    "width": 1722,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/f5/03/b1/f503b178-0d1b-2818-2e30-ce0f79a94330/9780316395809.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "363636",
+    "textColor2": "550c15",
+    "textColor4": "71363d",
+    "textColor1": "0c0c0c",
+    "bgColor": "dfdfdf",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/a-generation-of-sociopaths/id1131161557",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 31,
+    "ratingCountList": [
+      2,
+      3,
+      4,
+      6,
+      16
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "A Generation of Sociopaths",
+  "isPreorder": false,
+  "publisher": "Hachette Books",
+  "artistName": "Bruce Cannon Gibney",
+  "primaryLocale": "en-US"
+}

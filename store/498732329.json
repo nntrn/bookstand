@@ -1,0 +1,57 @@
+{
+  "id": "498732329",
+  "title": "Essays and Lectures",
+  "subtitle": null,
+  "author": "Oscar Wilde",
+  "isbn": null,
+  "genreNames": [
+    "Fiction & Literature",
+    "Books"
+  ],
+  "seller": "Public Domain",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=498732329&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 131631
+        }
+      ]
+    }
+  ],
+  "pageCount": 206,
+  "releaseDate": "1900-11-30",
+  "isIBook": false,
+  "description": {
+    "standard": "It is merely one facet of that speculative spirit of an innovation, which in the sphere of action produces democracy and revolution, and in that of thought is the parent of philosophy and physical science; and its importance as a factor of progress is based not so much on the results it attains, as on the tone of thought which it represents, and the method by which it works."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2100,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/49/19/5e/49195ea3-a5fd-76d3-289c-8d4fc51dd37f/cover.png/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/essays-and-lectures/id498732329",
+  "userRating": {
+    "value": 3.7,
+    "ratingCount": 20,
+    "ratingCountList": [
+      2,
+      4,
+      0,
+      6,
+      8
+    ],
+    "ariaLabelForRatings": "3.7 stars"
+  },
+  "name": "Essays and Lectures",
+  "isPreorder": false,
+  "publisher": "Public Domain",
+  "artistName": "Oscar Wilde",
+  "primaryLocale": "en-US"
+}

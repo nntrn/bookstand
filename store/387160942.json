@@ -1,0 +1,60 @@
+{
+  "id": "387160942",
+  "title": "Sleights of Mind",
+  "subtitle": "What the Neuroscience of Magic Reveals about Our Everyday Deceptions",
+  "author": "Stephen Macknik, Susana Martinez-Conde & Sandra Blakeslee",
+  "isbn": "9781429951081",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Arts & Entertainment",
+    "Games"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=387160942&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1395181
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2010-11-09",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>\"This book doesn't just promise to change the way you think about sleight of hand and David Copperfield—it will also change the way you think about the mind.\" —Jonah Lehrer, author of <i>How We Decide</i> and <i>Proust Was A Neuroscientist </i></b><br /><br />Stephen Macknik and Susana Martinez-Conde, the founders of the exciting new discipline of neuromagic, have convinced some of the world's greatest magicians to allow scientists to study their techniques for tricking the brain. This book is the result of the authors' yearlong, world-wide exploration of magic and how its principles apply to our behavior. Magic tricks fool us because humans have hardwired processes of attention and awareness that are hackable—a good magician uses your mind's own intrinsic properties against you in a form of mental jujitsu. <br /><br />Now magic can reveal how our brains work in everyday situations. For instance, if you've ever bought an expensive item you'd sworn you'd never buy, the salesperson was probably a master at creating the \"illusion of choice,\" a core technique of magic. The implications of neuromagic go beyond illuminating our behavior; early research points to new approaches for everything from the diagnosis of autism to marketing techniques and education. <i>Sleights of Mind</i> makes neuroscience fun and accessible by unveiling the key connections between magic and the mind."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2114,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication2/v4/3b/f7/48/3bf7484a-004b-f9e5-f521-487cb9bc43dd/9781429951081.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/sleights-of-mind/id387160942",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 16,
+    "ratingCountList": [
+      3,
+      0,
+      2,
+      4,
+      7
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "Sleights of Mind",
+  "publisher": "Henry Holt and Co.",
+  "isPreorder": false,
+  "artistName": "Stephen Macknik, Susana Martinez-Conde & Sandra Blakeslee",
+  "primaryLocale": "en-US"
+}

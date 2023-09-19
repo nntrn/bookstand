@@ -1,0 +1,71 @@
+{
+  "id": "1067627008",
+  "title": "Weapons of Math Destruction",
+  "subtitle": "How Big Data Increases Inequality and Threatens Democracy",
+  "author": "Cathy O'Neil",
+  "isbn": "9780553418828",
+  "genreNames": [
+    "Public Administration",
+    "Books",
+    "Politics & Current Events",
+    "Nonfiction",
+    "Social Science",
+    "Business & Personal Finance",
+    "Economics"
+  ],
+  "seller": "Penguin Random House LLC",
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES&#xa0;</i>BESTSELLER&#xa0;</b>•&#xa0;<b>A former Wall Street quant sounds the alarm on Big Data and the mathematical models that&#xa0;threaten to rip apart our social fabric—with a new afterword</b><br />&#xa0;<br /><b>“A manual for the twenty-first-century citizen . . . relevant and urgent.”—<i>Financial Times</i></b><br />&#xa0;<br /><b>NATIONAL BOOK AWARD LONGLIST •&#xa0;NAMED ONE OF THE BEST BOOKS OF THE YEAR BY&#xa0;<i>The New York Times Book Review&#xa0;</i>• <i>The&#xa0;Boston Globe</i> • <i>Wired&#xa0;</i>•&#xa0;<i>Fortune&#xa0;</i>•&#xa0;<i>Kirkus Reviews&#xa0;</i>•&#xa0;<i>The Guardian&#xa0;</i>•&#xa0;<i>Nature&#xa0;</i>•&#xa0;<i>On Point</i></b><br /><b><i>&#xa0;</i></b><br />We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we can get a job or a loan, how much we pay for health insurance—are being made not by humans, but by machines. In theory, this should lead to greater fairness: Everyone is judged according to the same rules.<br />&#xa0;<br />But as mathematician and data scientist Cathy O’Neil reveals, the mathematical models being used today are unregulated and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination—propping up the lucky, punishing the downtrodden, and undermining our democracy in the process. Welcome to the dark side of Big Data."
+  },
+  "editorialNotes": {
+    "tagline": "In this fascinating and deeply disturbing book, O’Neil explains how authority is shifting from humans to Big Data algorithms, which decide whether to give you a loan, offer you a job, or even lock you in jail.”"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1067627008&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3005605
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2016-09-06",
+  "isIBook": false,
+  "artwork": {
+    "width": 1688,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/b8/be/d0/b8bed095-7b16-1e10-1e4e-9d92c8f49f2d/9780553418828.jpg/{w}x{h}bb.{f}",
+    "height": 2550,
+    "textColor3": "3e350a",
+    "textColor2": "630016",
+    "textColor4": "822c13",
+    "textColor1": "0d0b0b",
+    "bgColor": "ffdc06",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/weapons-of-math-destruction/id1067627008",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 74,
+    "ratingCountList": [
+      3,
+      0,
+      6,
+      27,
+      38
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Weapons of Math Destruction",
+  "publisher": "Crown",
+  "isPreorder": false,
+  "artistName": "Cathy O'Neil",
+  "primaryLocale": "en-US"
+}

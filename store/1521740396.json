@@ -1,0 +1,66 @@
+{
+  "id": "1521740396",
+  "title": "Evolution in Four Dimensions, revised edition",
+  "subtitle": "Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life",
+  "author": "Eva Jablonka, Marion J. Lamb & Anna Zeligowski",
+  "isbn": "9780262322690",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=25990&salableAdamId=1521740396&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$25.99",
+      "price": 25.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 10287270
+        }
+      ]
+    }
+  ],
+  "pageCount": 576,
+  "releaseDate": "2014-03-21",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Life and Mind: Philosophical Issues in Biology and Psychology"
+  },
+  "description": {
+    "standard": "<b>A pioneering proposal for a pluralistic extension of evolutionary theory, now updated to reflect the most recent research<br /><br /></b>This updated edition of the widely read <i>Evolution in Four Dimensions</i> has been revised to reflect the spate of new discoveries in biology since the book was first published in 2005, offering corrections, an updated bibliography, and a substantial new chapter. Eva Jablonka and Marion Lamb's pioneering argument proposes that there is more to heredity than genes. <br /><br />They describe 4 “dimensions” in heredity—4 inheritance systems that play a role in evolution which,&#xa0;&#xa0;they argue, can all provide variations on which natural selection can act:<br /><br />• genetic<br />•&#xa0;epigenetic (or non-DNA cellular transmission of traits)<br />•&#xa0;behavioral<br />•&#xa0;symbolic (transmission through language and other forms of symbolic communication)<br /><br />Jablonka and Lamb present a richer, more complex view of evolution than that offered by the gene-based Modern Synthesis, arguing that induced and acquired changes also play a role. Their lucid and accessible text is accompanied by artist-physician Anna Zeligowski's lively drawings, which humorously and effectively illustrate the authors' points. <br /><br />Each chapter ends with a dialogue in which the authors refine their arguments against the vigorous skepticism of the fictional “I.M.” (for Ipcha Mistabra—Aramaic for “the opposite conjecture”). The extensive new chapter, presented engagingly as a dialogue with I.M., updates the information on each of the 4 dimensions—with special attention to the epigenetic, where there has been an explosion of new research."
+  },
+  "artwork": {
+    "width": 1536,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/2b/0e/ad/2b0eadbd-3102-601c-4211-2540c2d6e71b/9780262322690.d.jpg/{w}x{h}bb.{f}",
+    "height": 2273,
+    "textColor3": "333333",
+    "textColor2": "5e0f12",
+    "textColor4": "7e3f42",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/evolution-in-four-dimensions-revised-edition/id1521740396",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Evolution in Four Dimensions, revised edition",
+  "isPreorder": false,
+  "publisher": "MIT Press",
+  "artistName": "Eva Jablonka, Marion J. Lamb & Anna Zeligowski",
+  "primaryLocale": "en-US"
+}

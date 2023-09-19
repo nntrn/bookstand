@@ -1,0 +1,68 @@
+{
+  "id": "527294303",
+  "title": "Mythology",
+  "subtitle": null,
+  "author": "Edith Hamilton, Aphrodite Trust & Apollo Trust",
+  "isbn": "9780316032162",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Fiction & Literature",
+    "Literary Criticism",
+    "History",
+    "Ancient"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=527294303&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9555397
+        }
+      ]
+    }
+  ],
+  "pageCount": 512,
+  "audience": "Grades 7-17",
+  "releaseDate": "2012-06-25",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Dive into the timeless tales of gods and heroes in this bestselling A-to-Z encyclopedia detailing classic myths and legends—perfect for curious readers and academics alike.</b><br /> Edith Hamilton's mythology succeeds like no other book in bringing to life for the modern reader the Greek, Roman and Norse myths that are the keystone of Western culture—the stories of gods and heroes that have inspired human creativity from antiquity to the present.<br /><br /> We follow the drama of the Trojan War and the wanderings of Odysseus. We hear the tales of Jason and the Golden Fleece, Cupid and Psyche, and mighty King Midas. We discover the origins of the names of the constellations. And we recognize reference points for countless works for art, literature and culture inquiry-from Freud's Oedipus complex to Wagner's Ring Cycle of operas to Eugene O'Neill's <i>Mourning Becomes Electra</i><br /><br /> Both a reference text for scholars of all ages and a book to simply enjoy, <i>Mythology </i>is a classic not to be missed.<br /> &#xa0;"
+  },
+  "artwork": {
+    "width": 1729,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication49/v4/8b/c5/86/8bc5864e-5913-d07d-6e3d-ad12eddf6acd/9780316032162.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "cccccc",
+    "textColor2": "ebc22f",
+    "textColor4": "be9d28",
+    "textColor1": "fdfdfd",
+    "bgColor": "0a0809",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/mythology/id527294303",
+  "userRating": {
+    "value": 3.6,
+    "ratingCount": 252,
+    "ratingCountList": [
+      53,
+      21,
+      26,
+      37,
+      115
+    ],
+    "ariaLabelForRatings": "3.6 stars"
+  },
+  "name": "Mythology",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Edith Hamilton, Aphrodite Trust & Apollo Trust",
+  "primaryLocale": "en-US"
+}

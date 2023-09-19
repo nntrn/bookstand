@@ -1,0 +1,62 @@
+{
+  "id": "441381484",
+  "title": "Monoculture",
+  "subtitle": "How One Story is Changing Everything",
+  "author": "F.S. Michaels",
+  "isbn": "9780986853814",
+  "genreNames": [
+    "History",
+    "Books",
+    "Health, Mind & Body",
+    "Psychology",
+    "Nonfiction",
+    "Social Science",
+    "Business & Personal Finance"
+  ],
+  "seller": "Red Clover Press Corp",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=441381484&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 486404
+        }
+      ]
+    }
+  ],
+  "pageCount": 202,
+  "releaseDate": "2011-05-31",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Winner of the George Orwell Award. One of <i>The Atlantic's</i> best books of the year.</b><br /><br />\r\nAs human beings, we've always told stories: stories about who we are, where\r\nwe come from, and where we're going. Now imagine that one of those stories\r\nis taking over the others, narrowing our diversity and creating a\r\nmonoculture. Because of the rise of the economic story, six areas of your\r\nworld - your work, your relationships with others and the environment, your\r\ncommunity, your physical and spiritual health, your education, and your\r\ncreativity - are changing, or have already changed, in subtle and\r\nnot-so-subtle ways. And because how you think shapes how you act, the\r\nmonoculture isn't just changing your mind - it's changing your life.<br /><br />\r\n\r\n\"A smart and realistic guide to first recognizing the monoculture and the challenges of transcending its limitations.\" - Maria Popova, BrainPickings.org <br /><br />\r\n\r\n\"A thin, enrapturing gem. It's accessible, sensible - exactly the sort of book that should have (and still could + should!) take off and create a tiny little dent in books.\" - Kenyon Review <br /><br />\r\n\r\n“I found myself reading non-stop, underlining like crazy…an astute\r\nexplanation about what I’ve been feeling recently, something I couldn’t put\r\nmy finger on. [Michaels] writes in clear, energetic prose that’s\r\nthoughtful, engaging and unforced. She defines and analyzes without\r\njudgment or insistence…a breath of fresh air…” - <i>NPR</i><br /><br />\r\n\r\n“…a singularly brilliant and accessible analysis of some of the fundamental\r\nassumptions and driving principles of our time.” <i>- Comment Magazine\r\n</i><br /><br />\r\n\r\n“Neither a dreary observation of all the ways in which our economic\r\nmonoculture has thwarted our ability to live life fully and authentically\r\nnor a blindly optimistic sticking-it-to-the-man kumbaya, Michaels offers a\r\nsmart and realistic guide to first recognizing the monoculture and the\r\nchallenges of transcending its limitations, then considering ways in which\r\nwe, as sentient and autonomous individuals, can move past its confines to\r\nlive a more authentic life within a broader spectrum of human values.” -\r\n<i>The Atlantic </i><br /><br />\r\n\r\n“5 stars: The cause and effect of our world is more surprising than you’d\r\nthink. With intriguing notions about the driving ideas of stories in every\r\nshape of our life, “Monoculture” is an incredibly fascinating way about how\r\nthe mind works and today’s consumer culture.” - <i>Midwest Book Review\r\n</i><br /><br />\r\n\r\n“If you just read one book this year, read this one…You won’t just be\r\nconsidering the narrative of the culture in which you live, you’ll be\r\nconsidering the everyday choices you make in your life. But the best part\r\nof the story is that the author affords you the opportunity to pick up your\r\npen and demand a rewrite…A mind-altering work.” <i>- BuriedInPrint.com\r\n</i>"
+  },
+  "artwork": {
+    "width": 839,
+    "height": 1280,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/9d/9e/67/mzi.mfbashpd.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/monoculture/id441381484",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      3
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Monoculture",
+  "publisher": "Red Clover Press",
+  "isPreorder": false,
+  "artistName": "F.S. Michaels",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1128643437",
+  "title": "F*ck Love",
+  "subtitle": "One Shrink's Sensible Advice for Finding a Lasting Relationship",
+  "author": "Michael Bennett, MD & Sarah Bennett",
+  "isbn": "9781501140570",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=1128643437&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5488985
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2017-01-31",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the brilliant <i>New York Times</i> bestselling authors of the “refreshingly blunt” (<i>Harper’s Bazaar</i>) <i>F*ck Feelings</i>—this seriously irreverent roadmap reveals the essentials to look for when you're done being suckered by the promise of true love and want help seeking a real, lasting relationship.</b><br /><br />Many people have opinions on the subject of romantic relationships—why they’re so hard to find, so difficult to maintain, so easily analogized to planets and pets—but the real source of trouble isn’t too complicated: it’s that we are choosing our partners based on love, excitement, lust, attraction, neediness…on <i>feelings</i>.<br /><br />Instead of helping readers find true love (also known as “total b******t”), Dr. Michael Bennett and his comedy-writing daughter Sarah reveal the practical, commonsense criteria for good partnerships that will allow real love to develop, even after the romance has died down or been buried completely. Finding a good partner involves losing preconceived notions about who your dream date might be, so the Bennetts helpfully appraise the pros and cons of eight traits people most commonly seek: charisma, beauty, chemistry, communication, sense of humor, family stability, intelligence, and wealth. They suggest you’ll have better luck finding a partner in a bar, online, or on a date arranged by your chiropractor if you focus on ideas like mutual attraction and respect and common interests and common goals. With helpful quizzes, case studies inspired by Dr. Bennett’s practice, and unscientific flow charts, <i>F*ck Love</i> is packed with enough advice and wisdom to help you avoid the relationship nightmares that led you to this book in the first place."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/a2/0f/ae/a20fae4b-52fc-d8b2-4589-335f3e4fb1d7/9781501140570.jpg/{w}x{h}bb.{f}",
+    "height": 2266,
+    "textColor3": "efcbcd",
+    "textColor2": "fed6d4",
+    "textColor4": "eeacab",
+    "textColor1": "fffdff",
+    "bgColor": "b00309",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/f-ck-love/id1128643437",
+  "userRating": {
+    "value": 3.7,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "ariaLabelForRatings": "3.7 stars"
+  },
+  "name": "F*ck Love",
+  "publisher": "Atria Books",
+  "isPreorder": false,
+  "artistName": "Michael Bennett, MD & Sarah Bennett",
+  "primaryLocale": "en-US"
+}

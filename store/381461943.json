@@ -1,0 +1,66 @@
+{
+  "id": "381461943",
+  "title": "The Anatomy Of Motive",
+  "subtitle": "The Fbis Legendary Mindhunter Explores The Key To Understanding And Catching Vi",
+  "author": "John E. Douglas",
+  "isbn": "9780684857794",
+  "genreNames": [
+    "True Crime",
+    "Books",
+    "Nonfiction",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=381461943&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4820067
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "1999-08-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Why?</b> <br /> In this eagerly anticipated new book from the international bestselling authors of <i>Mindhunter, Journey into Darkness,</i> and <i>Obsession,</i> legendary crime fighter John Douglas explores the root of all crime -- <i>motive.</i> <br /> Every crime is a mystery story with a motive at its heart. Understand the motive and you can solve the mystery. <i>The Anatomy of Motive</i> offers a dramatic, insightful look at the development and evolution of the criminal mind. The famed former chief of the FBI's Investigative Support Unit, Douglas was the pioneer of modern behavioral profiling of serial criminals. Working again with acclaimed novelist, journalist, and filmmaker Mark Olshaker, the collaborator on his previous three bestsellers, and using cases from his own fabled career as examples, Douglas takes us further than ever before into the dark corners of the minds of arsonists, hijackers, bombers, poisoners, serial and spree killers, and mass murderers. <br /> From seemingly ordinary men who suddenly kill their families or go on a rampage in the workplace to dedicated murderers who embark on the kind of spree that resulted in the death of fashion designer Gianni Versace, John Douglas helps us understand what causes violent sociopathic behavior. In chapters such as \"Playing with Fire,\" \"Name Your Poison,\" and \"Guys Who Snap,\" he shows how criminals use and react to the media and how the motives behind hijacking and terrorism have evolved through recent history. <br /> For the first time, Douglas identifies the common building blocks contributing to the violently antisocial personality, showing the surprising similarities and equally surprising differences between various types of offenders. Douglas profiles notorious assassins, examining that particular personality and how it applies to other types of crimes. Drawing on cases from today's headlines, he looks at recent sniper incidents at schools and other public places to penetrate the minds and motivations of mass killers. As Douglas tracks the progressive escalation of these criminals' sociopathic behavior, he also shows the common elements in many of their pasts that link them together. <br /> Through riveting profiles and a narrative that reads like the best mystery fiction, <i>The Anatomy of Motive</i> analyzes such diverse killers as Lee Harvey Oswald, Theodore Kaczynski, and Timothy McVeigh, and helps us learn how to anticipate potential violent behavior before it's too late."
+  },
+  "artwork": {
+    "width": 1399,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication49/v4/c0/51/d7/c051d791-0e49-acd3-b1ad-f5ab9e7bdbf4/9780684857794.jpg/{w}x{h}bb.{f}",
+    "height": 2005,
+    "textColor3": "edc4c9",
+    "textColor2": "ffe3e4",
+    "textColor4": "f4b5b7",
+    "textColor1": "f6f5fa",
+    "bgColor": "c90003",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-anatomy-of-motive/id381461943",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 47,
+    "ratingCountList": [
+      0,
+      0,
+      7,
+      7,
+      33
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "The Anatomy Of Motive",
+  "isPreorder": false,
+  "publisher": "Scribner",
+  "artistName": "John E. Douglas",
+  "primaryLocale": "en-US"
+}

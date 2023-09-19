@@ -1,0 +1,67 @@
+{
+  "id": "929407783",
+  "title": "Looking For Alaska ",
+  "subtitle": "Special 10th Anniversary Edition",
+  "author": "John Green",
+  "isbn": "9780698405875",
+  "genreNames": [
+    "Coming of Age",
+    "Books",
+    "Young Adult"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "description": {
+    "standard": "To commemorate 10 years in print, John Green’s Printz Award-winning debut novel is being reissued in hardcover with a stunning new jacket by Rodrigo Corral and 50 pages of all-new content, including:<br /><br />\t- An introduction by John Green<br />\t- Updated backmatter and extensive Q&amp;A with John Green<br />\t- Deleted scenes from the original manuscript<br /><br />\tWinner of the 2006 Michael L. Printz Award<br />\t<i>Los Angeles Times</i> Book Prize Finalist, 2005<br />\tTop Ten, NPR’s 100 Best-Ever Teen Novels<br /><br />\tMiles Halter is fascinated by famous last words—and tired of his safe life at home. He leaves for boarding school to seek what the dying poet Francois Rabelais called “The Great Perhaps.” Much awaits Miles at Culver Creek, including Alaska Young, who will pull Miles inter her labyrinth and catapult him into the Great Perhaps.<br /><br />\t<i>Looking for Alaska</i> brilliantly chronicles the indelible impact one life can have on another. Winner of multiple awards including the Printz Medal, this stunning debut marked #1 bestselling author John Green’s arrival as a groundbreaking new voice in contemporary fiction."
+  },
+  "editorialNotes": {
+    "standard": "Like his runaway bestseller <i>The Fault in Our Stars</i>, American author John Green’s first novel is an off-kilter love story driven by fantastically vivid characters and smart humor. A bookish teen named Miles—whose special talent is memorizing the last words of famous people throughout history—convinces his parents to let him attend boarding school in Alabama. There, he meets the mercurial and beautiful Alaska Young. <i>Looking for Alaska</i> is a celebration of teenage friendship, intellectual awakening, and the delicious heartache of infatuation.\n"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=929407783&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2951101
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2015-01-13",
+  "isIBook": false,
+  "artwork": {
+    "width": 3375,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/79/bd/0c/79bd0c72-6e12-ff57-3d2f-7c40dd33a95e/9780698405875.d.jpg/{w}x{h}bb.{f}",
+    "height": 5100,
+    "textColor3": "cbcbcb",
+    "textColor2": "ffd911",
+    "textColor4": "cbad0e",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/looking-for-alaska/id929407783",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 244,
+    "ratingCountList": [
+      8,
+      11,
+      11,
+      43,
+      171
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Looking For Alaska ",
+  "isPreorder": false,
+  "publisher": "Penguin Young Readers Group",
+  "artistName": "John Green",
+  "primaryLocale": "en-US"
+}

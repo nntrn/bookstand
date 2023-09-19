@@ -1,0 +1,69 @@
+{
+  "id": "1148726874",
+  "title": "101 Essays That Will Change the Way You Think",
+  "subtitle": null,
+  "author": "Brianna Wiest",
+  "isbn": null,
+  "genreNames": [
+    "Spirituality",
+    "Books",
+    "Health, Mind & Body",
+    "Fiction & Literature",
+    "Essays"
+  ],
+  "seller": "The Thought & Expression Co Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1148726874&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1187927
+        }
+      ]
+    }
+  ],
+  "pageCount": 361,
+  "releaseDate": "2016-11-11",
+  "isIBook": false,
+  "description": {
+    "standard": "101 Essays That Will Change The Way You Think, the global bestseller and social media phenomenon, is a collection of author Brianna Wiest's most beloved pieces of writing. Her meditations include why you should pursue purpose over passion, embrace negative thinking, see the wisdom in daily routine, and become aware of the cognitive biases that are creating the way you see your life. Some of these pieces have never been seen; others have been read by millions of people around the world. Regardless, each will leave you thinking: this idea changed my life."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/6a/9e/ac/6a9eac06-f838-9296-efc8-8eb9af4d20e6/e-book_cover_1600x2400.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "403f40",
+    "textColor2": "101010",
+    "textColor4": "404040",
+    "textColor1": "111010",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/101-essays-that-will-change-the-way-you-think/id1148726874",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 492,
+    "ratingCountList": [
+      27,
+      23,
+      37,
+      75,
+      330
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "101 Essays That Will Change the Way You Think",
+  "publisher": "Thought Catalog Books",
+  "isPreorder": false,
+  "artistName": "Brianna Wiest",
+  "editorialNotes": {
+    "standard": "Brianna Wiest was just 24 when <i>101 Essays That Will Change the Way You Think</i> was published, proving that wisdom doesn’t <i>only</i> come with age. Wiest’s endgame is happiness. To get you there, she tackles big questions in the vein of “What’s the meaning of life?”—but she discusses them with a light touch, in relatable, everyday language. (In other words, you don’t need a philosophy degree to read this!) One recurring idea that really resonates is Wiest’s reframing of the past not as a fixed, unchangeable reality, but as an ever-shifting variety of experiences and memories. She explains how this helps us stop seeing painful or traumatic events in our lives as impediments to our current happiness. Wiest makes the path to enlightenment easier by breaking down her advice into bite-size bullet points that are as wise as they are Instagram-ready. If you’re inspired by the work of Brené Brown and Don Miguel Ruiz, Brianna Wiest might just become your new favorite self-help author.&#xa0;"
+  },
+  "primaryLocale": "en-US"
+}

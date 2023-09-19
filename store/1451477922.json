@@ -1,0 +1,65 @@
+{
+  "id": "1451477922",
+  "title": "Change Is the Only Constant",
+  "subtitle": "The Wisdom of Calculus in a Madcap World",
+  "author": "Ben Orlin",
+  "isbn": "9780316509060",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1451477922&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 37139934
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2019-10-08",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The next book from Ben Orlin, the popular math blogger and author of the underground bestseller <i>Math With Bad Drawings.</i><i>Change Is The Only Constant </i>is an engaging and eloquent exploration of the intersection between calculus and daily life, complete with Orlin's sly humor and wonderfully bad drawings. </b><br /><i>Change is the Only Constant</i> is an engaging and eloquent exploration of the intersection between calculus and daily life, complete with Orlin's sly humor and memorably bad drawings. By spinning 28 engaging mathematical tales, Orlin shows us that calculus is simply another language to express the very things we humans grapple with every day -- love, risk, time, and most importantly, change. Divided into two parts, \"Moments\" and \"Eternities,\" and drawing on everyone from Sherlock Holmes to Mark Twain to David Foster Wallace, <i>Change is the Only Constant</i> unearths connections between calculus, art, literature, and a beloved dog named Elvis. This is not just math for math's sake; it's math for the sake of becoming a wiser and more thoughtful human."
+  },
+  "artwork": {
+    "width": 1999,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/71/24/5f/71245f8f-9c8f-da9a-1d36-3af1830150b0/9780316509060.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "f0cdc9",
+    "textColor2": "fff2dc",
+    "textColor4": "f0cab7",
+    "textColor1": "fff6f3",
+    "bgColor": "b62b23",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/change-is-the-only-constant/id1451477922",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      4
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Change Is the Only Constant",
+  "isPreorder": false,
+  "publisher": "Running Press",
+  "artistName": "Ben Orlin",
+  "primaryLocale": "en-US"
+}

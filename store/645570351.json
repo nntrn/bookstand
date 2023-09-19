@@ -1,0 +1,70 @@
+{
+  "id": "645570351",
+  "title": "Love Sense",
+  "subtitle": "The Revolutionary New Science of Romantic Relationships",
+  "author": "Dr. Sue Johnson",
+  "isbn": "9780316251082",
+  "genreNames": [
+    "Family & Relationships",
+    "Books",
+    "Nonfiction",
+    "Science & Nature",
+    "Chemistry",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>The bestselling author of <i>Hold Me Tight</i> presents a revolutionary new understanding of why and how we love, based on cutting-edge research.</b><br /><br />Every day, we hear of relationships failing and questions of whether humans are meant to be monogamous. <i>Love Sense</i> presents new scientific evidence that tells us that humans are meant to mate for life. Dr. Johnson explains that romantic love is an attachment bond, just like that between mother and child, and shows us how to develop our \"love sense\" -- our ability to develop long-lasting relationships.<br /><br />Love is not the least bit illogical or random, but actually an ordered and wise recipe for survival. <i>Love Sense</i> covers the three stages of a relationship and how to best weather them; the intelligence of emotions and the logic of love; the physical and psychological benefits of secure love; and much more. Based on groundbreaking research, <i>Love Sense</i> will change the way we think about love."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=645570351&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1689989
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2013-12-31",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1677,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/3a/85/17/3a85173c-4a28-a8e4-caed-96b2d002d39f/9780316251082.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "eed3d0",
+    "textColor2": "f8cac5",
+    "textColor4": "e9a9a2",
+    "textColor1": "ffffff",
+    "bgColor": "ad2618",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/love-sense/id645570351",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 16,
+    "ratingCountList": [
+      1,
+      0,
+      1,
+      3,
+      11
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Love Sense",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "contentRating": "explicit",
+  "artistName": "Dr. Sue Johnson",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1094553836",
+  "title": "How to Be Miserable",
+  "subtitle": "40 Strategies You Already Use",
+  "author": "Randy J. Paterson",
+  "isbn": "9781626254084",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Humor",
+    "Psychology"
+  ],
+  "seller": "New Harbinger Publications, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=1094553836&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 966844
+        }
+      ]
+    }
+  ],
+  "pageCount": 232,
+  "releaseDate": "2016-05-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>In <i>How to Be Miserable</i>, psychologist Randy Paterson outlines 40 specific behaviors and habits, which—if followed—are sure to lead to a lifetime of unhappiness. On the other hand, if you do the opposite, you may yet join the ranks of happy people everywhere!</b><br /><br />There are stacks upon stacks of self-help books that will promise you love, happiness, and a fabulous life. But how can you pinpoint the exact behaviors that cause you to be miserable in the first place? Sometimes when we’re depressed, or just sad or unhappy, our instincts tell us to do the opposite of what we should—such as focusing on the negative, dwelling on what we can’t change, isolating ourselves from friends and loved ones, eating junk food, or overindulging in alcohol. Sound familiar?<br /><br />This tongue-in-cheek guide will help you identify the behaviors that make you unhappy and discover how you—and only <i>you</i>—are holding yourself back from a life of contentment. You’ll learn to spot the tried-and-true traps that increase feelings of dissatisfaction, foster a lack of motivation, and detract from our quality of life—as well as ways to avoid them.<br /><br />So, get ready to live the life you want (or not?) This fun, irreverent guide will light the way."
+  },
+  "artwork": {
+    "width": 1000,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication49/v4/e8/e7/bc/e8e7bcb4-331b-ad9c-5ebf-b8ae2edfd9a3/9781626254084.jpg/{w}x{h}bb.{f}",
+    "height": 1400,
+    "textColor3": "2f383f",
+    "textColor2": "001119",
+    "textColor4": "2b3c42",
+    "textColor1": "040c16",
+    "bgColor": "d9e8e5",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/how-to-be-miserable/id1094553836",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 6,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      0,
+      5
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "How to Be Miserable",
+  "isPreorder": false,
+  "publisher": "New Harbinger Publications",
+  "artistName": "Randy J. Paterson",
+  "primaryLocale": "en-US"
+}

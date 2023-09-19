@@ -1,0 +1,68 @@
+{
+  "id": "1214634413",
+  "title": "Happiness (HBR Emotional Intelligence Series)",
+  "subtitle": null,
+  "author": "Harvard Business Review, Daniel Gilbert, Annie McKee, Gretchen Spreitzer & Teresa Amabile",
+  "isbn": "9781633693227",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "Perseus Books, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=19990&salableAdamId=1214634413&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$19.99",
+      "price": 19.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2799461
+        }
+      ]
+    }
+  ],
+  "pageCount": 176,
+  "releaseDate": "2017-04-18",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "HBR Emotional Intelligence Series"
+  },
+  "description": {
+    "standard": "<b>Achieving happiness while excelling at your career.</b><br /><br />What is the nature of human happiness, and how do we achieve it in the course of our professional lives? And is it even worth pursuing?<br /><br />This book explores answers to these questions with research into how happiness is measured, frameworks for personal behaviors, management techniques that build happiness in the workplace—and warnings that highlight where the happiness hype has been overblown.<br /><br />This volume includes the work of:<br />Daniel GilbertAnnie McKeeGretchen SpreitzerTeresa M. Amabile<br />This collection of articles includes “Happiness Isn’t the Absence of Negative Feelings” by Jennifer Moss; “Being Happy at Work Matters” by Annie McKee; “The Science Behind the Smile” an interview with Daniel Gilbert by Gardiner Morse; “The Power of Small Wins” by Teresa M. Amabile and Steven J. Kramer; “Creating Sustainable Performance” by Gretchen Spreitzer and Christine Porath; “The Research We’ve Ignored About Happiness at Work” by André Spice and Carl Cedarström; and “The Happiness Backlash” by Alison Beard.<br /><br /><b>How to be human at work. The HBR Emotional Intelligence Series</b> features smart, essential reading on the human side of professional life from the pages of <i>Harvard Business Review</i>. Each book in the series offers proven research showing how our emotions impact our work lives, practical advice for managing difficult people and situations, and inspiring essays on what it means to tend to our emotional well-being at work. Uplifting and practical, these books describe the social skills that are critical for ambitious professionals to master."
+  },
+  "artwork": {
+    "width": 2000,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/13/43/75/134375e6-7c01-fdb5-b50a-420f12df4702/9781633693227.jpg/{w}x{h}bb.{f}",
+    "height": 2762,
+    "textColor3": "413a36",
+    "textColor2": "0f0d0e",
+    "textColor4": "3f3e3e",
+    "textColor1": "120903",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/happiness-hbr-emotional-intelligence-series/id1214634413",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Happiness (HBR Emotional Intelligence Series)",
+  "publisher": "Harvard Business Review Press",
+  "isPreorder": false,
+  "artistName": "Harvard Business Review, Daniel Gilbert, Annie McKee, Gretchen Spreitzer & Teresa Amabile",
+  "primaryLocale": "en-US"
+}

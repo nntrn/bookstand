@@ -1,0 +1,63 @@
+{
+  "id": "1504160299",
+  "title": "Graphic Design Rules",
+  "subtitle": "365 Essential Design Dos and Don'ts",
+  "author": "Tony Seddon, Sean Adams, Peter Dawson & John Foster",
+  "isbn": "9781616899233",
+  "genreNames": [
+    "Design",
+    "Books",
+    "Professional & Technical"
+  ],
+  "seller": "Chronicle Books LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1504160299&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 28627206
+        }
+      ]
+    }
+  ],
+  "pageCount": 249,
+  "releaseDate": "2020-04-07",
+  "isIBook": false,
+  "description": {
+    "standard": "DON'T use comic sans (except ironically!) but DO worship the classic typefaces like Helvetica and Garamond. <i>Graphic Design Rules</i> is a handy guide for professional graphic designers, students, and laymen who incorporate graphic design into their job or small business. Packed with practical advice, this spirited collection of design dos and don'ts takes readers through 365 rules like knowing when to use a modular grid—and when to throw the grid out the window. All designers will appreciate tips and lessons from these highly accomplished authors, who draw on years of experience to help you create good design."
+  },
+  "artwork": {
+    "width": 1830,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/3f/f6/db/3ff6dbe0-2b9c-a99d-50dd-7841b0dd69b3/9781616899233.jpg/{w}x{h}bb.{f}",
+    "height": 2457,
+    "textColor3": "0aaf4a",
+    "textColor2": "f81826",
+    "textColor4": "c6131e",
+    "textColor1": "0ddb5d",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/graphic-design-rules/id1504160299",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      4
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Graphic Design Rules",
+  "isPreorder": false,
+  "publisher": "Princeton Architectural Press",
+  "artistName": "Tony Seddon, Sean Adams, Peter Dawson & John Foster",
+  "primaryLocale": "en-US"
+}

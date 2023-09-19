@@ -1,0 +1,71 @@
+{
+  "id": "1529794256",
+  "title": "Think Again",
+  "subtitle": "The Power of Knowing What You Don't Know",
+  "author": "Adam Grant",
+  "isbn": "9781984878113",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Psychology"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "description": {
+    "standard": "<b>#1 <i>New York Times</i> Bestseller<br /><br />“THIS. This is the right book for right now. Yes, learning requires focus. But, unlearning and relearning requires much more—it requires choosing courage over comfort. In <i>Think Again</i>, Adam Grant&#xa0;weaves together research and storytelling to help us build the intellectual and emotional muscle we need to stay curious enough about the world to actually change it.&#xa0;I’ve never felt so hopeful about what I don’t know.”<br />—Brené Brown, Ph.D., #1 <i>New York Times </i>bestselling author of <i>Dare to Lead</i><br /><br />The #1 <i>New York Times</i> bestselling author of <i>Originals</i>,<i> Give and Take</i>,<i> </i>and the forthcoming <i>Hidden Potential</i> examines the critical art of rethinking: learning to question your opinions and open other people's minds, which can position you for excellence at work and wisdom in life</b><br /><br />Intelligence is usually seen as the ability to think and learn, but in a rapidly changing world, there's another set of cognitive skills that might matter more: the ability to rethink and unlearn. In our daily lives, too many of us favor the comfort of conviction over the discomfort of doubt. We listen to opinions that make us feel good, instead of ideas that make us think hard. We see disagreement as a threat to our egos, rather than an opportunity to learn. We surround ourselves with people who agree with our conclusions, when we should be gravitating toward those who challenge our thought process. The result is that our beliefs get brittle long before our bones. We think too much like preachers defending our sacred beliefs, prosecutors proving the other side wrong, and politicians campaigning for approval--and too little like scientists searching for truth. Intelligence is no cure, and it can even be a curse: being good at thinking can make us worse at rethinking. The brighter we are, the blinder to our own limitations we can become.<br /><br />Organizational psychologist Adam Grant is an expert on opening other people's minds--and our own. As Wharton's top-rated professor and the bestselling author of <i>Originals</i> and <i>Give and Take</i>, he makes it one of his guiding principles to argue like he's right but listen like he's wrong. With bold ideas and rigorous evidence, he investigates how we can embrace the joy of being wrong, bring nuance to charged conversations, and build schools, workplaces, and communities of lifelong learners. You'll learn how an international debate champion wins arguments, a Black musician persuades white supremacists to abandon hate, a vaccine whisperer convinces concerned parents to immunize their children, and Adam has coaxed Yankees fans to root for the Red Sox. <i>Think Again</i> reveals that we don't have to believe everything we think or internalize everything we feel. It's an invitation to let go of views that are no longer serving us well and prize mental flexibility over foolish consistency. If knowledge is power, knowing what we don't know is wisdom."
+  },
+  "editorialNotes": {
+    "standard": "We’ve often heard the saying that you should go with your first instinct, whether you’re picking out a paint color or answering an SAT question. But organizational psychologist Adam Grant is here to prove that this kind of thinking may be wrong. Using case studies about the decline of Blackberry and a tragic string of accidents at NASA, he reveals how disastrous it can be to simply make the choice that “feels right” or “has always been done this way.” The data proves that snap decisions don’t come from some sort of unconscious brilliance—more like bias and overconfidence. But there’s hope! Grant offers suggestions on learning to use critical thinking instead of instinct, and we particularly loved his advice on creating a psychological safety zone where questions are encouraged and failure isn’t the end of the world. It turns out changing your mind doesn’t make you indecisive—it makes you smart.",
+    "short": "Hone your critical-thinking skills with help from this insightful bestseller."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=16990&salableAdamId=1529794256&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$16.99",
+      "price": 16.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 42114050
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2021-02-02",
+  "isIBook": false,
+  "artwork": {
+    "width": 3675,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/73/72/06/73720656-257c-7ef2-b883-64bce79f3c0c/9781984878113.d.jpg/{w}x{h}bb.{f}",
+    "height": 5550,
+    "textColor3": "393938",
+    "textColor2": "343434",
+    "textColor4": "5c5c5c",
+    "textColor1": "080807",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/think-again/id1529794256",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 705,
+    "ratingCountList": [
+      14,
+      19,
+      43,
+      179,
+      450
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Think Again",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Adam Grant",
+  "primaryLocale": "en-US"
+}

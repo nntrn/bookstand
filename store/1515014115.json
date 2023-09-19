@@ -1,0 +1,67 @@
+{
+  "id": "1515014115",
+  "title": "The Data Detective",
+  "subtitle": "Ten Easy Rules to Make Sense of Statistics",
+  "author": "Tim Harford",
+  "isbn": "9780593084670",
+  "genreNames": [
+    "Economics",
+    "Books",
+    "Business & Personal Finance",
+    "Marketing & Sales",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1515014115&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4479500
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2021-02-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From “one of the great (greatest?) contemporary popular writers on economics” (Tyler Cowen) comes a smart, lively, and encouraging rethinking of how to use statistics<i>.</i></b><br /><br /> Today we think statistics are the enemy, numbers used to mislead and confuse us. That’s a mistake, Tim Harford says in <i>The Data Detective</i>. We shouldn’t be suspicious of statistics—we need to understand what they mean and how they can improve our lives: they are, at heart, human behavior seen through the prism of numbers and are often “the only way of grasping much of what is going on around us.” If we can toss aside our fears and learn to approach them clearly—understanding how our own preconceptions lead us astray—statistics can point to ways we can live better and work smarter.<br /><br /> As “perhaps the best popular economics writer in the world” (<i>New Statesman</i>), Tim Harford is an expert at taking complicated ideas and untangling them for millions of readers. In <i>The Data Detective</i>, he uses new research in science and psychology to set out ten strategies for using statistics to erase our biases and replace them with new ideas that use virtues like patience, curiosity, and good sense to better understand ourselves and the world. As a result, <i>The Data Detective</i> is a big-idea book about statistics and human behavior that is fresh, unexpected, and insightful."
+  },
+  "artwork": {
+    "width": 1838,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/4f/1d/39/4f1d3970-815e-3ff0-5dc2-2ffc2c40d92a/9780593084670.d.jpg/{w}x{h}bb.{f}",
+    "height": 2775,
+    "textColor3": "363534",
+    "textColor2": "222221",
+    "textColor4": "4a4848",
+    "textColor1": "0a0a09",
+    "bgColor": "e8e4e3",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-data-detective/id1515014115",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 36,
+    "ratingCountList": [
+      1,
+      1,
+      2,
+      6,
+      26
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "The Data Detective",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Tim Harford",
+  "primaryLocale": "en-US"
+}

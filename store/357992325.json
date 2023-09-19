@@ -1,0 +1,65 @@
+{
+  "id": "357992325",
+  "title": "Plato and a Platypus Walk into a Bar . . .",
+  "subtitle": "Understanding Philosophy Through Jokes",
+  "author": "Thomas Cathcart & Daniel Klein",
+  "isbn": "9781440634239",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction",
+    "Humor"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=357992325&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2017571
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2008-06-24",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>This <i>New York Times </i>bestseller is the hilarious philosophy course everyone wishes they’d had in school.</b><br />Outrageously funny, <i>Plato and a Platypus Walk into a Bar</i>... has been a breakout bestseller ever since authors—and born vaudevillians—Thomas Cathcart and Daniel Klein did their schtick on NPR’s <i>Weekend Edition</i>. Lively, original, and powerfully informative, <i>Plato and a Platypus Walk Into a Bar</i>... is a not-so-reverent crash course through the great philosophical thinkers and traditions, from Existentialism (<i>What do Hegel and Bette Midler have in common?</i>) to Logic (<i>Sherlock Holmes never deduced anything</i>). Philosophy 101 for those who like to take the heavy stuff lightly, this is a joy to read—and finally, it all makes sense!<br /><br />And now, you can read Daniel Klein's further musings on life and philosophy in <i>Travels with Epicurus</i>&#xa0;and <i>Every Time I Find the Meaning of Life, They Change it</i>.&#xa0;"
+  },
+  "artwork": {
+    "width": 1491,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/26/8f/ea/268fea9e-02d3-4a17-34a7-df172a1d3308/9781440634239.d.jpg/{w}x{h}bb.{f}",
+    "height": 2103,
+    "textColor3": "391f0d",
+    "textColor2": "24211b",
+    "textColor4": "4f311a",
+    "textColor1": "090a0a",
+    "bgColor": "fb7118",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/plato-and-a-platypus-walk-into-a-bar/id357992325",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 33,
+    "ratingCountList": [
+      1,
+      2,
+      1,
+      5,
+      24
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Plato and a Platypus Walk into a Bar . . .",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Thomas Cathcart & Daniel Klein",
+  "primaryLocale": "en-US"
+}

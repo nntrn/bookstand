@@ -1,0 +1,63 @@
+{
+  "id": "419979120",
+  "title": "Fooled by Randomness",
+  "subtitle": "The Hidden Role of Chance in Life and in the Markets",
+  "author": "Nassim Nicholas Taleb",
+  "isbn": "9781588367679",
+  "genreNames": [
+    "Finance",
+    "Books",
+    "Business & Personal Finance",
+    "Economics"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=419979120&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2525602
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2005-08-23",
+  "seriesInfo": {
+    "seriesName": "Incerto"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>Fooled by Randomness </i>is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are <i>The Black Swan, Antifragile, Skin in the Game,&#xa0;</i>and <i>The Bed of Procrustes</i>.</b><br /><br /><i>Fooled by Randomness</i> is the word-of-mouth  sensation that will change the way you think about business and the world. Nassim  Nicholas Taleb–veteran trader, renowned risk expert, polymathic scholar, erudite  raconteur, and <i>New York Times</i> bestselling author of <i>The Black Swan</i>–has written a  modern classic that turns on its head what we believe about luck and skill.<br /><br /> This  book is about luck–or more precisely, about how we perceive and deal with luck in  life and business. Set against the backdrop of the most conspicuous forum in which  luck is mistaken for skill–the world of trading–<i>Fooled by Randomness</i> provides captivating  insight into one of the least understood factors in all our lives. Writing in an  entertaining narrative style, the author tackles major intellectual issues related  to the underestimation of the influence of happenstance on our lives.<br /><br /> The book is  populated with an array of characters, some of whom have grasped, in their own way,  the significance of chance: the baseball legend Yogi Berra; the philosopher of knowledge  Karl Popper; the ancient world’s wisest man, Solon; the modern financier George Soros;  and the Greek voyager Odysseus. We also meet the fictional Nero, who seems to understand  the role of randomness in his professional life but falls victim to his own superstitious  foolishness.<br /><br /> However, the most recognizable character of all remains unnamed–the  lucky fool who happens to be in the right place at the right time–he embodies the  “survival of the least fit.” Such individuals attract devoted followers who believe  in their guru’s insights and methods. But no one can replicate what is obtained by  chance.<br /><br /> Are we capable of distinguishing the fortunate charlatan from the genuine  visionary? Must we always try to uncover nonexistent messages in random events? It  may be impossible to guard ourselves against the vagaries of the goddess Fortuna,  but after reading <i>Fooled by Randomness</i> we can be a little better prepared.<br /><br /> <b>Named by Fortune One of the Smartest Books of All Time<br /><br /> A Financial Times Best Business Book of the Year</b>"
+  },
+  "artwork": {
+    "width": 473,
+    "height": 720,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/ed/db/91/mzi.upbeuyjp.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/fooled-by-randomness/id419979120",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 132,
+    "ratingCountList": [
+      6,
+      6,
+      13,
+      32,
+      75
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "Fooled by Randomness",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Nassim Nicholas Taleb",
+  "primaryLocale": "en-US"
+}

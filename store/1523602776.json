@@ -1,0 +1,63 @@
+{
+  "id": "1523602776",
+  "title": "What Is Relativity?",
+  "subtitle": "An Intuitive Introduction to Einstein's Ideas, and Why They Matter",
+  "author": "Jeffrey Bennett",
+  "isbn": "9780231537032",
+  "genreNames": [
+    "Physics",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1523602776&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5291365
+        }
+      ]
+    }
+  ],
+  "pageCount": 204,
+  "releaseDate": "2014-03-04",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A renowned astrophysicist’s approachable introduction to Albert Einstein’s theory of relativity and its application in our daily lives.</b><br /> &#xa0;<br /> It is commonly assumed that if the Sun suddenly turned into a black hole, it would suck Earth and the rest of the planets into oblivion. Yet, as prominent author and astrophysicist Jeffrey Bennett points out, black holes don't suck. With that simple idea in mind, Bennett begins an entertaining introduction to Einstein's theories of relativity, describing the amazing phenomena readers would actually experience if they took a trip to a black hole.<br /> &#xa0;<br /> The theory of relativity reveals the speed of light as the cosmic speed limit, the mind-bending ideas of time dilation and curvature of spacetime, and what may be the most famous equation in history: E = mc2. Indeed, the theory of relativity shapes much of our modern understanding of the universe. It is not “just a theory”―every major prediction of relativity has been tested to exquisite precision, and its practical applications include the Global Positioning System (GPS).<br /> &#xa0;<br /> Amply illustrated and written in clear, accessible prose, Bennett's book proves anyone can grasp the basics of Einstein's ideas. His intuitive, nonmathematical approach gives a wide audience its first real taste of how relativity works and why it is so important to science and the way we view ourselves as human beings.<br /> &#xa0;<br /><b>“Well-written and uniquely readable&#xa0;.&#xa0;.&#xa0;. Bennett carefully avoids bombastic statements and “spectacularization” of the subject.” —Alberto Nicolis, Columbia University</b><br /> &#xa0;<br /><b>“I have read lots of introductions to relativity, but none is as clear and compelling as this one.” —Seth Shostak, Senior Astronomer, SETI Institute</b>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/cd/bb/e3/cdbbe32b-ce88-c8c7-d9cd-dfdbce0d1489/9780231537032.jpg/{w}x{h}bb.{f}",
+    "height": 2378,
+    "textColor3": "c3bfbc",
+    "textColor2": "ead1c5",
+    "textColor4": "c4b0a6",
+    "textColor1": "e9e4e0",
+    "bgColor": "2c2c2c",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/what-is-relativity/id1523602776",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "What Is Relativity?",
+  "isPreorder": false,
+  "publisher": "Columbia University Press",
+  "artistName": "Jeffrey Bennett",
+  "primaryLocale": "en-US"
+}

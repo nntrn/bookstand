@@ -1,0 +1,58 @@
+{
+  "id": "395546791",
+  "title": "The Importance of Being Earnest",
+  "subtitle": null,
+  "author": "Oscar Wilde",
+  "isbn": null,
+  "genreNames": [
+    "Fiction",
+    "Books",
+    "Young Adult"
+  ],
+  "seller": "Public Domain",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=395546791&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 1125718
+        }
+      ]
+    }
+  ],
+  "pageCount": 92,
+  "releaseDate": "2010-10-04",
+  "isIBook": false,
+  "description": {
+    "standard": "\" The Importance of Being Earnest\" is celebrated not only for the lighthearted ingenuity of its plot, but for its inspired dialogue, rich with scintillating epigrams still savored by all who enjoy artful conversation. From the play's effervescent beginnings in Algernon Moncrieff's London flat to its hilarious denouement in the drawing room of Jack Worthing's country manor in Hertfordshire, this comic masterpiece keeps audiences breathlessly anticipating a new bon mot or a fresh twist of plot moment to moment. A selection of the Common Core State Standards Initiative."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2100,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/17/a4/0a/17a40acf-4b03-d304-d74f-3d7d98f7c611/cover.png/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-importance-of-being-earnest/id395546791",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 2995,
+    "ratingCountList": [
+      92,
+      87,
+      233,
+      642,
+      1941
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "The Importance of Being Earnest",
+  "isPreorder": false,
+  "publisher": "Public Domain",
+  "artistName": "Oscar Wilde",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1479146544",
+  "title": "Monkeys, Myths, and Molecules",
+  "subtitle": "Separating Fact from Fiction in the Science of Everyday Life",
+  "author": "Joe Schwarcz",
+  "isbn": "9781770907010",
+  "genreNames": [
+    "Essays",
+    "Books",
+    "Science & Nature",
+    "Health, Mind & Body",
+    "Health & Fitness",
+    "Chemistry"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1479146544&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2746709
+        }
+      ]
+    }
+  ],
+  "pageCount": 280,
+  "releaseDate": "2015-05-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The bestselling popular science author “</b><b>has made it his mission to tackle myths about science and the so-called experts who spread them” (</b><b>CBC Radio).</b><br /> &#xa0;<br /> The internet is a powerful beast when it comes to science; the answer to any query you may have is just a few keystrokes away. But when there are multiple answers from various sources, how do we know what information is reliable? In <i>Monkeys, Myths, and Molecules, </i>bestselling author Dr. Joe Schwarcz takes a critical look at how facts are misconstrued in the media. He debunks the myths surrounding canned food, artificial dyes, SPF, homeopathy, cancer, chemicals, and much more.<br /> &#xa0;<br /> Unafraid to expose the sheer nonsense people are led to believe about health, food, drugs, and our environment, Dr. Joe confronts pseudoscience and convincingly and entertainingly advocates for a scientific approach to everyday life.<br /> &#xa0;<br /> “A compendium of short articles on a variety of subjects, written in a humorous, accessible style, and larded with intriguing trivia&#xa0;.&#xa0;.&#xa0;. Dr. Joe skewers food myths, opposition to GMOs, Dr. Oz, and Vani Hari, aka the Food Babe.” —Science-Based Medicine<br /> &#xa0;<br /> “Ultimately, the author successfully demonstrates how claims should be queried and analyzed before they are accepted&#xa0;.&#xa0;.&#xa0;. Recommended for readers of health, nutrition, and popular science.” —<i>Library Journal</i><br /> &#xa0;<br /> “The book is chock-full of captivating anecdotes&#xa0;.&#xa0;.&#xa0;. The author engages readers with his wit and wisdom.” —<i>The Canadian Jewish News</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/fa/df/37/fadf37ee-851d-03b8-1437-2556036acc78/9781770907010.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "f0cab0",
+    "textColor2": "fab79d",
+    "textColor4": "ee9880",
+    "textColor1": "fdf6d8",
+    "bgColor": "be190c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/monkeys-myths-and-molecules/id1479146544",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Monkeys, Myths, and Molecules",
+  "isPreorder": false,
+  "publisher": "ECW Press",
+  "artistName": "Joe Schwarcz",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "364297516",
+  "title": "The Mastery of Love",
+  "subtitle": "A Practical Guide to the Art of Relationship",
+  "author": "Don Miguel Ruiz",
+  "isbn": "9781934408032",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body"
+  ],
+  "seller": "Amber-Allen Publishing, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=7990&salableAdamId=364297516&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$7.99",
+      "price": 7.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6941072
+        }
+      ]
+    }
+  ],
+  "pageCount": 154,
+  "releaseDate": "2010-01-18",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "A  Toltec Wisdom Book"
+  },
+  "description": {
+    "standard": "In The Mastery of Love, don Miguel Ruiz illuminates the fear-based beliefs and assumptions that undermine love and lead to suffering and drama in our relationships. Using insightful stories to bring his message to life, Ruiz shows us how to heal our emotional wounds, recover the freedom and joy that are our birthright, and restore the spirit of playfulness that is vital to loving relationships.<br/>\n<br/>\nThe Mastery of Love includes:<br/>\n<br/>\n• Why “domestication” and the “image of perfection” lead to self-rejection<br/>\n• The war of control that slowly destroys most relationships<br/>\n• Why we hunt for love in others, and how to capture the love inside us<br/>\n• How to finally accept and forgive ourselves and others<br/>\n<br/>\n“Happiness can only come from inside of you and is the result of your love. When you are aware that no one else can make you happy, and that happiness is the result of your love, this becomes the greatest mastery of the Toltec: the Mastery of Love.”  — don Miguel Ruiz<br/>\n<br/>\nAbout the Authors<br/>\n<br/>\nDon Miguel Ruiz is the bestselling author of The Four Agreements (a New York Times bestseller for over a decade), The Four Agreements Companion Book, The Mastery of Love, The Voice of Knowledge, The Circle of Fire, and The Fifth Agreement. The teachings of Ruiz are best known for transforming complex human issues into simple common sense — a talent that has earned him millions of fans and international acclaim. <br/>\n<br/>\nJanet Mills is the founder and president of Amber-Allen publishing. She is also the co-author, with don Miguel Ruiz, of six books in The Toltec Wisdom Series, creator of “The Four Agreements for a Better Life” online course, and editor of Deepak Chopra’s bestselling title, The Seven Spiritual Laws of Success. Her life’s mission is to publish books of enduring beauty, integrity, and wisdom, and to inspire others to fulfill their most cherished dreams."
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/f2/71/f2/f271f244-64aa-120e-9774-cf68990e0d70/8a11e56a-8213-43e5-8860-2b0ce5431c0e_cover_image.jpg/{w}x{h}bb.{f}",
+    "height": 2175,
+    "textColor3": "382925",
+    "textColor2": "3d2510",
+    "textColor4": "62411c",
+    "textColor1": "08071b",
+    "bgColor": "f9af4e",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-mastery-of-love/id364297516",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 1580,
+    "ratingCountList": [
+      52,
+      50,
+      71,
+      170,
+      1237
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "The Mastery of Love",
+  "publisher": "Amber-Allen Publishing, Inc.",
+  "isPreorder": false,
+  "artistName": "Don Miguel Ruiz",
+  "primaryLocale": "en-US"
+}

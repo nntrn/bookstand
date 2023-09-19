@@ -1,0 +1,64 @@
+{
+  "id": "1227281901",
+  "title": "Mousy Cats and Sheepish Coyotes",
+  "subtitle": "The Science of Animal Personalities",
+  "author": "John Shivik",
+  "isbn": "9780807071526",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Nature"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1227281901&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1000167
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2017-11-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An eye-opening celebration of the unique personalities found within the animal kingdom—and of the special links between us and our non-human friends.</b><br /> <b><br />Blending cutting-edge science with personal anecdotes, a wildlife expert explores the mysteries of animal behavior in this “thoroughly enjoyable and informative read” for animal and nature lovers (<i>Booklist</i>).</b><br /><br />Why are some cats outgoing and others standoffish? Why are some dogs adventuresome and others homebodies? As any pet owner can attest, we feel that the animals we've formed bonds with are unique—as particular (and peculiar) as any friend or loved one. But is there any scientific basis for this feeling, or are we just projecting our complicated human ideas onto the animal world? <br /><br />It turns out that science has been reluctant to even broach the subject of individuality in the animal kingdom. But now, a fundamental shift in scientific understanding is underway as mainstream scientists begin to accept the notion that animals of all kinds—from apes and birds to crabs and spiders—do indeed have individual personalities.<br /><br /> In <i>Mousy Cats and Sheepish Coyotes</i>, veteran wildlife expert Dr. John Shivik brings us stories from the frontlines of this exciting new research. Researchers are finding that each wolf, bear, and coyote has a different tendency to follow its predatory nature or to shyly avoid conflicts. Some bluebirds are lovers, others are fighters. Some water striders are passive, others bellicose. Unique personalities can be discovered in every corner of the animal kingdom. Even microscopic organisms can exhibit unique tendencies. The array of personality types among all species is only beginning to be described and understood. As Shivik argues, individuality in animals is important not only for the human-animal bond, but also for evolution, adaption, and species diversity in the wild."
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/2c/30/a5/2c30a562-1c6f-2342-1546-0e411cbf9fca/9780807071526.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "353534",
+    "textColor2": "4e1d0f",
+    "textColor4": "714a3f",
+    "textColor1": "030201",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/mousy-cats-and-sheepish-coyotes/id1227281901",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Mousy Cats and Sheepish Coyotes",
+  "isPreorder": false,
+  "publisher": "Beacon Press",
+  "artistName": "John Shivik",
+  "primaryLocale": "en-US"
+}

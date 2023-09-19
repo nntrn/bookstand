@@ -1,0 +1,65 @@
+{
+  "id": "1339027747",
+  "title": "Change by Design, Revised and Updated",
+  "subtitle": "How Design Thinking Transforms Organizations and Inspires Innovation",
+  "author": "Tim Brown",
+  "isbn": "9780062856715",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Small Business & Entrepreneurship"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=20990&salableAdamId=1339027747&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$20.99",
+      "price": 20.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4149518
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2019-03-05",
+  "isIBook": false,
+  "description": {
+    "standard": "The subject of “design thinking” is the rage at business schools, throughout corporations, and increasingly in the popular press—due in large part to the work of IDEO, a leading design firm, and its celebrated CEO, Tim Brown, who uses this book to show how the techniques and strategies of design belong at every level of business.<br /><br />The myth of innovation is that brilliant ideas leap fully formed from the minds of geniuses. The reality is that most innovations come from a process of rigorous examination through which great ideas are identified and developed before being realized as new offerings and capabilities. <br /><br />Change by Design explains design thinking, the collaborative process by which the designer’s sensibilities and methods are employed to match people’s needs, not only with what is technically feasible, but what is viable to the bottom line. Design thinking converts need into demand. It’s a human-centered approach to problem solving that helps people and organizations become more innovative and more creative. <br /><br />Introduced a decade ago, the concept of design thinking remains popular at business schools, throughout corporations, and increasingly in the popular press—due in large part to work of IDEO, the undisputed world leading strategy, innovation, and design firm headed by Tim Brown. As he makes clear in this visionary guide—now updated with addition material, including new case studies, and a new introduction—design thinking is not just applicable to so-called creative industries or people who work in the design field. It’s a methodology that has been used by organizations such as Kaiser Permanente, to increase the quality of patient care by re-examining the ways that their nurses manage shift change, or Kraft, to rethink supply chain management. <br /><br />Change by Design is not a book by designers for designers; it is a book for creative leaders seeking to infuse design thinking into every level of an organization, product, or service to drive new alternatives for business and society."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/dc/69/fa/dc69fad9-4539-397d-a866-ce6b27705bd5/9780062856715.jpg/{w}x{h}bb.{f}",
+    "height": 2429,
+    "textColor3": "edcbd5",
+    "textColor2": "f9f147",
+    "textColor4": "eac143",
+    "textColor1": "fcfefd",
+    "bgColor": "b20033",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/change-by-design-revised-and-updated/id1339027747",
+  "userRating": {
+    "value": 3.6,
+    "ratingCount": 12,
+    "ratingCountList": [
+      0,
+      2,
+      3,
+      5,
+      2
+    ],
+    "ariaLabelForRatings": "3.6 stars"
+  },
+  "name": "Change by Design, Revised and Updated",
+  "isPreorder": false,
+  "publisher": "Harper Business",
+  "artistName": "Tim Brown",
+  "primaryLocale": "en-US"
+}

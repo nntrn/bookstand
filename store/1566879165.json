@@ -1,0 +1,70 @@
+{
+  "id": "1566879165",
+  "title": "The Expectation Effect",
+  "subtitle": "How Your Mindset Can Change Your World",
+  "author": "David Robson",
+  "isbn": "9781250827647",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Health, Mind & Body",
+    "Psychology",
+    "Self-Improvement"
+  ],
+  "seller": "Macmillan",
+  "description": {
+    "standard": "<b>“As David Robson makes plain in this compelling book, the way we think about the world can profoundly shape how we navigate it. Based in science and packed with smart advice, <i>The Expectation Effect</i> will expand your mind—and maybe even extend your life.”<br />—Daniel Pink, <i>New York Times</i> bestselling author of <i>When</i>, <i>Drive</i>, and <i>To Sell Is Human</i></b><br /><b><br />A journey through the cutting-edge science of how our mindset shapes every facet of our lives, revealing how your brain holds the keys to unlocking a better you<br /><br /></b><b>What you believe can make it so.</b><br /><br />You’ve heard of the placebo effect and how sugar pills can accelerate healing. But did you know that sham heart surgeries often work just as well as placing real stents? Or that people who think they’re particularly prone to cardiovascular disease are four times as likely to die from cardiac arrest? Such is the power and deadly importance of the expectation effect—how what we <i>think will happen</i> changes what <i>does happen</i>.<br /><br />Melding neuroscience with narrative, science journalist David Robson takes readers on a deep dive into the many life zones the expectation effect permeates. We see how people who believe stress is beneficial become more creative when placed under strain. We see how associating aging with wisdom can add seven plus years to your life. People say seeing is believing but, over and over, Robson proves that the converse is truer: believing is seeing.<br /><br /><i>The Expectation Effect</i> is not woo-woo. You cannot think your way into a pile of money or out of a cancer diagnosis. But just because magical thinking is nonsense doesn’t mean rational magic doesn’t exist. Pointing to accepted psychology and objective physiology, Robson gives us the practical takeaways we need to improve our fitness, productivity, intelligence, and happiness. Any reader who wants to take their fate into their own hands need only pick up this book."
+  },
+  "editorialNotes": {
+    "standard": "You don’t need a superpower to reshape your reality. As this invaluable self-help guide explains, the power is already right there—in your brain. David Robson draws on peer-reviewed scientific research that shows that expecting an outcome can set off a chain of events that make that very outcome occur. In one study Robson cites, people who anticipated that an object would be heavy and difficult to pick up displayed an 11 percent increase in strength. In another, researchers discovered that elderly people who expect to remain viable members of society lived an average of seven and a half years longer. Best of all, we loved reading Robson’s practical advice on how we can all utilize these principles to improve our own lives. Check out <i>The Expectation Effect</i> and see what happens when you expect great things."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1566879165&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4518325
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2022-02-15",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1613,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/24/37/b7/2437b740-19f9-be9b-6337-9b09019ef35d/9781250827647.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "edcbce",
+    "textColor2": "ffc523",
+    "textColor4": "f1a123",
+    "textColor1": "fafafa",
+    "bgColor": "ba1220",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-expectation-effect/id1566879165",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 8,
+    "ratingCountList": [
+      1,
+      0,
+      0,
+      2,
+      5
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Expectation Effect",
+  "isPreorder": false,
+  "publisher": "Henry Holt and Co.",
+  "artistName": "David Robson",
+  "primaryLocale": "en-US"
+}

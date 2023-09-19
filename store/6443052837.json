@@ -1,0 +1,66 @@
+{
+  "id": "6443052837",
+  "title": "The Field Guide to Citizen Science",
+  "subtitle": "How You Can Contribute to Scientific Research and Make a Difference",
+  "author": "Darlene Cavalier, Catherine Hoffman & Caren Cooper",
+  "isbn": "9781604699807",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Nature",
+    "Professional & Technical",
+    "Engineering"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=6443052837&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5772476
+        }
+      ]
+    }
+  ],
+  "pageCount": 188,
+  "releaseDate": "2020-02-04",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Learn how monitoring the night sky, mapping trees, photographing dragonflies, and identifying mushrooms can help save the world.</b><br /><br /> Citizen science is the public involvement in the discovery of new scientific knowledge. A citizen science project can involve one person or millions of people collaborating towards a common goal. It is an excellent option for anyone looking for ways to get involved and make a difference. <i>The Field Guide to Citizen Science</i>, from the expert team at SciStarter, provides everything you need to get started. You’ll learn what citizen science is, how to succeed and stay motivated when you’re participating in a project, and how the data is used. The fifty included projects, ranging from climate change to Alzheimer’s disease, endangered species to space exploration, mean sure-fire matches for your interests and time. Join the citizen science brigade now and start making a real difference!<br /> &#xa0;"
+  },
+  "artwork": {
+    "width": 1809,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/d2/47/fd/d247fd0b-94c8-dc8d-1b02-840415c63075/9781604699807.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "cb973b",
+    "textColor2": "1fb2f0",
+    "textColor4": "1994c7",
+    "textColor1": "ffb641",
+    "bgColor": "001e24",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-field-guide-to-citizen-science/id6443052837",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Field Guide to Citizen Science",
+  "isPreorder": false,
+  "publisher": "Timber Press",
+  "artistName": "Darlene Cavalier, Catherine Hoffman & Caren Cooper",
+  "primaryLocale": "en-US"
+}

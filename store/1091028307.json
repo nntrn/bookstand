@@ -1,0 +1,66 @@
+{
+  "id": "1091028307",
+  "title": "A Woman Looking at Men Looking at Women",
+  "subtitle": "Essays on Art, Sex, and the Mind",
+  "author": "Siri Hustvedt",
+  "isbn": "9781501141119",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Philosophy",
+    "Arts & Entertainment",
+    "Art & Architecture"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1091028307&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6277952
+        }
+      ]
+    }
+  ],
+  "pageCount": 576,
+  "releaseDate": "2016-12-06",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A compelling, radical, “richly explored” (<i>The New York Times Book Review</i>), and “insightful” (<i>Vanity Fair</i>) collection of essays on art, feminism, neuroscience, psychology, and philosophy from prize-winning novelist Siri Hustvedt, the acclaimed author of <i>The Blazing World</i> and <i>What I Loved</i>.</b><br /><br />In a trilogy of works brought together in a single volume, Siri Hustvedt demonstrates the striking range and depth of her knowledge in both the humanities and the sciences. Armed with passionate curiosity, a sense of humor, and insights from many disciplines she repeatedly upends received ideas and cultural truisms.<br /><br />“A Woman Looking at Men Looking at Women” (which provided the title of this book) examines particular artworks but also human perception itself, including the biases that influence how we judge art, literature, and the world. Picasso, de Kooning, Louise Bourgeois, Anselm Kiefer, Susan Sontag, Robert Mapplethorpe, and Karl Ove Knausgaard all come under Hustvedt’s intense scrutiny. “The Delusions of Certainty” exposes how the age-old, unresolved mind-body problem has shaped and often distorted and confused contemporary thought in neuroscience, psychiatry, genetics, artificial intelligence, and evolutionary psychology. “What Are We? Lectures on the Human Condition” includes a powerful reading of Kierkegaard, a trenchant analysis of suicide, and penetrating reflections on the mysteries of hysteria, synesthesia, memory and space, and the philosophical dilemmas of fiction.<br /><br /><i>A Woman Looking at Men Looking at Women</i> is an “erudite” (<i>Booklist),</i> “wide-ranging, irreverent, and absorbing meditation on thinking, knowing, and being” (<i>Kirkus Reviews</i>, starred review)."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/9f/19/63/9f19636e-a2e7-2585-125d-aa41522f9fa9/9781501141119.jpg/{w}x{h}bb.{f}",
+    "height": 2127,
+    "textColor3": "363636",
+    "textColor2": "4d0b15",
+    "textColor4": "6f3a42",
+    "textColor1": "070707",
+    "bgColor": "f6f6f6",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/a-woman-looking-at-men-looking-at-women/id1091028307",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "A Woman Looking at Men Looking at Women",
+  "isPreorder": false,
+  "publisher": "Simon & Schuster",
+  "artistName": "Siri Hustvedt",
+  "primaryLocale": "en-US"
+}

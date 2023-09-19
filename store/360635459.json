@@ -1,0 +1,64 @@
+{
+  "id": "360635459",
+  "title": "Biomimicry",
+  "subtitle": "Innovation Inspired by Nature",
+  "author": "Janine M Benyus",
+  "isbn": "9780061958922",
+  "genreNames": [
+    "Ecology",
+    "Books",
+    "Science & Nature",
+    "Biology",
+    "Nature",
+    "Business & Personal Finance",
+    "Biographies & Memoirs",
+    "Life Sciences",
+    "Science & Technology"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=360635459&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1198748
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2009-08-11",
+  "isIBook": false,
+  "description": {
+    "standard": "Repackaged with a new afterword, this \"valuable and entertaining\" (New York Times Book Review) book explores how scientists are adapting nature's best ideas to solve tough 21st century problems.<br /><br />Biomimicry is rapidly transforming life on earth. Biomimics study nature's most successful ideas over the past 3.5 million years, and adapt them for human use. The results are revolutionizing how materials are invented and how we compute, heal ourselves, repair the environment, and feed the world.<br /><br /> Janine Benyus takes readers into the lab and in the field with maverick thinkers as they: discover miracle drugs by watching what chimps eat when they're sick; learn how to create by watching spiders weave fibers; harness energy by examining how a leaf converts sunlight into fuel in trillionths of a second; and many more examples.<br /><br /> Composed of stories of vision and invention, personalities and pipe dreams, Biomimicry is must reading for anyone interested in the shape of our future."
+  },
+  "artwork": {
+    "width": 423,
+    "height": 648,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/f3/b9/23/mzi.wajnizvr.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/biomimicry/id360635459",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 25,
+    "ratingCountList": [
+      1,
+      2,
+      2,
+      2,
+      18
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Biomimicry",
+  "publisher": "Mariner Books",
+  "isPreorder": false,
+  "artistName": "Janine M Benyus",
+  "primaryLocale": "en-US"
+}

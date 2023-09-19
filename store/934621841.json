@@ -1,0 +1,65 @@
+{
+  "id": "934621841",
+  "title": "A Beautiful Question",
+  "subtitle": "Finding Nature's Deep Design",
+  "author": "Frank Wilczek",
+  "isbn": "9780698195622",
+  "genreNames": [
+    "Physics",
+    "Books",
+    "Science & Nature",
+    "History"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=934621841&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 32844926
+        }
+      ]
+    }
+  ],
+  "pageCount": 448,
+  "releaseDate": "2015-07-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Does the universe embody beautiful ideas?</b><br /><br />Artists as well as scientists throughout human&#xa0;history have pondered this “beautiful question.”&#xa0;With Nobel laureate Frank Wilczek as your guide,&#xa0;embark on a voyage of related discoveries, from&#xa0;Plato and Pythagoras up to the present. Wilczek’s&#xa0;groundbreaking work in quantum physics was&#xa0;inspired by his intuition to look for a deeper order&#xa0;of beauty in nature. In fact, every major advance&#xa0;in his career came from this intuition: to assume&#xa0;that the universe embodies beautiful forms, forms&#xa0;whose hallmarks are symmetry—harmony,&#xa0;balance, proportion—and economy. There are&#xa0;other meanings of “beauty,” but this is the deep&#xa0;logic of the universe—and it is no accident that&#xa0;it is also at the heart of what we find aesthetically&#xa0;pleasing and inspiring.<br /><br />Wilczek is hardly alone among great scientists&#xa0;in charting his course using beauty as his compass.&#xa0;As he reveals in <i>A Beautiful Question</i>, this has been&#xa0;the heart of scientific pursuit from Pythagoras, the&#xa0;ancient Greek who was the first to argue that “all&#xa0;things are number,” to Galileo, Newton, Maxwell,&#xa0;Einstein, and into the deep waters of twentiethcentury&#xa0;physics. Though the ancients weren’t&#xa0;right about everything, their ardent belief in the&#xa0;music of the spheres has proved true down to the&#xa0;quantum level. Indeed, Wilczek explores just how&#xa0;intertwined our ideas about beauty and art are with&#xa0;our scientific understanding of the cosmos.<br /><br />Wilczek brings us right to the edge of knowledge&#xa0;today, where the core insights of even the craziest&#xa0;quantum ideas apply principles we all understand.&#xa0;The equations for atoms and light are almost&#xa0;literally the same equations that govern musical&#xa0;instruments and sound; the subatomic particles&#xa0;that are responsible for most of our mass are&#xa0;determined by simple geometric symmetries. The&#xa0;universe itself, suggests Wilczek, seems to want to&#xa0;embody beautiful and elegant forms. Perhaps this&#xa0;force is the pure elegance of numbers, perhaps the&#xa0;work of a higher being, or somewhere between.&#xa0;Either way, we don’t depart from the infinite and&#xa0;infinitesimal after all; we’re profoundly connected&#xa0;to them, and we connect them. When we find that&#xa0;our sense of beauty is realized in the physical world,&#xa0;we are discovering something about the world, but&#xa0;also something about ourselves.<br /><br />Gorgeously illustrated, <i>A Beautiful Question</i> is a&#xa0;mind-shifting book that braids the age-old quest&#xa0;for beauty and the age-old quest for truth into a&#xa0;thrilling synthesis. It is a dazzling and important&#xa0;work from one of our best thinkers, whose humor&#xa0;and infectious sense of wonder animate every page.&#xa0;Yes: The world is a work of art, and its deepest&#xa0;truths are ones we already feel, as if they were&#xa0;somehow written in our souls."
+  },
+  "artwork": {
+    "width": 1651,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication60/v4/81/23/68/81236810-fda2-7da9-ffd3-ded6aaa23cb8/9780698195622.jpg/{w}x{h}bb.{f}",
+    "height": 2532,
+    "textColor3": "333333",
+    "textColor2": "351414",
+    "textColor4": "5d4343",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/a-beautiful-question/id934621841",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 7,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      1,
+      5
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "A Beautiful Question",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Frank Wilczek",
+  "primaryLocale": "en-US"
+}

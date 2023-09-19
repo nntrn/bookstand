@@ -1,0 +1,61 @@
+{
+  "id": "419952696",
+  "title": "HBR's 10 Must Reads on Change Management (including featured article \"Leading Change,\" by John P. Kotter)",
+  "subtitle": null,
+  "author": "Harvard Business Review, John P. Kotter, W. Chan Kim & Renée A. Mauborgne",
+  "isbn": "9781422172063",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance"
+  ],
+  "seller": "Perseus Books, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=24990&salableAdamId=419952696&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$24.99",
+      "price": 24.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9829890
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2011-02-24",
+  "seriesInfo": {
+    "seriesName": "HBR's 10 Must Reads"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Most company's change initiatives fail. Yours don't have to.</b><br /><br />If you read nothing else on change management, read these 10 articles (<b>featuring “Leading Change,” by John P. Kotter</b>). We've combed through hundreds of <i>Harvard Business Review</i> articles and selected the most important ones to help you spearhead change in your organization.<br /><br /><i>HBR's 10 Must Reads on Change Management</i> will inspire you to:<br />Lead change through eight critical stagesEstablish a sense of urgencyOvercome addiction to the status quoMobilize commitmentSilence naysayersMinimize the pain of changeConcentrate resourcesMotivate change when business is good<br />This collection of best-selling articles includes: <b>featured article \"Leading Change: Why Transformation Efforts Fail\" by John P. Kotter</b>, \"Change Through Persuasion,\" \"Leading Change When Business Is Good: An Interview with Samuel J. Palmisano,\" \"Radical Change, the Quiet Way,\" \"Tipping Point Leadership,\" \"A Survival Guide for Leaders,\" \"The Real Reason People Won't Change,\" \"Cracking the Code of Change,\" \"The Hard Side of Change Management,\" and \"Why Change Programs Don't Produce Change.\""
+  },
+  "artwork": {
+    "width": 2000,
+    "height": 2899,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/e8/69/4f/e8694f22-8a92-18c5-e0d5-267bc0b3421b/9781422172063-frontcover.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/hbrs-10-must-reads-on-change-management-including-featured/id419952696",
+  "userRating": {
+    "value": 3.1,
+    "ratingCount": 52,
+    "ratingCountList": [
+      16,
+      6,
+      5,
+      6,
+      19
+    ],
+    "ariaLabelForRatings": "3.1 stars"
+  },
+  "name": "HBR's 10 Must Reads on Change Management (including featured article \"Leading Change,\" by John P. Kotter)",
+  "isPreorder": false,
+  "publisher": "Harvard Business Review Press",
+  "artistName": "Harvard Business Review, John P. Kotter, W. Chan Kim & Renée A. Mauborgne",
+  "primaryLocale": "en-US"
+}

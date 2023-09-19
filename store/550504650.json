@@ -1,0 +1,59 @@
+{
+  "id": "550504650",
+  "title": "The Spark of Life: Electricity in the Human Body",
+  "subtitle": null,
+  "author": "Frances Ashcroft",
+  "isbn": "9780393089547",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Physics"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=550504650&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5284629
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2012-09-24",
+  "isIBook": false,
+  "description": {
+    "standard": "\"This is a wonderful book. Frances Ashcroft has a rare gift for making difficult subjects accessible and fascinating.\" —Bill Bryson, author of The Body: A Guide for Occupants<br /><br />What happens during a heart attack? Can someone really die of fright? What is death, anyway? How does electroshock treatment affect the brain? What is consciousness? The answers to these questions lie in the electrical signals constantly traveling through our bodies, driving our thoughts, our movements, and even the beating of our hearts.<br /><br />The history of how scientists discovered the role of electricity in the human body is a colorful one, filled with extraordinary personalities, fierce debates, and brilliant experiments. Moreover, present-day research on electricity and ion channels has created one of the most exciting fields in science, shedding light on conditions ranging from diabetes and allergies to cystic fibrosis, migraines, and male infertility. With inimitable wit and a clear, fresh voice, award-winning researcher Frances Ashcroft weaves together compelling real-life stories with the latest scientific findings, giving us a spectacular account of the body electric."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2085,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/a2/80/36/a280364f-f2f6-f8ec-3d93-fb6814d6beef/9780393089547.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-spark-of-life-electricity-in-the-human-body/id550504650",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 9,
+    "ratingCountList": [
+      1,
+      0,
+      0,
+      3,
+      5
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "The Spark of Life: Electricity in the Human Body",
+  "publisher": "W. W. Norton & Company",
+  "isPreorder": false,
+  "artistName": "Frances Ashcroft",
+  "primaryLocale": "en-US"
+}

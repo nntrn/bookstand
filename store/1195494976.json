@@ -1,0 +1,63 @@
+{
+  "id": "1195494976",
+  "title": "50 Psychology Classics Second Edition",
+  "subtitle": "Your shortcut to the most important ideas on the mind, personality, and human nature",
+  "author": "Tom Butler-Bowdon",
+  "isbn": "9781473645332",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1195494976&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2357447
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2017-05-30",
+  "isIBook": false,
+  "description": {
+    "standard": "Explore the human condition through the great thinkers in psychology.<br /><br />This brand new edition of the bestselling <i>50 Psychology Classics</i> includes new classics like <i>Thinking, Fast and Slow</i>; <i>Quiet</i> and <i>The Marshmallow Test</i>. <br /><br />In a journey spanning 50 books, hundreds of ideas and over a century, <i>50 Psychology Classics</i> looks at some of the most intriguing questions relating to what motivates us, what makes us feel and act in certain ways, how our brains work, and how we create a sense of self. <br /><br /><i>50 Psychology Classics</i> explores writings from some iconic figures such as Freud, Adler, Jung, Skinner, James, Piaget and Pavlov, but also highlights the work of contemporary thinkers such as Gardner, Gilbert, Goleman and Seligman. <br /><br /><i>50 Psychology Classics</i> will further your understanding of human nature and yourself."
+  },
+  "artwork": {
+    "width": 1593,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication127/v4/74/ba/38/74ba38ea-4a6e-368e-ecbf-1e409f5a975f/9781473645332.jpg/{w}x{h}bb.{f}",
+    "height": 2560,
+    "textColor3": "3e3b36",
+    "textColor2": "090c0d",
+    "textColor4": "3a3c3d",
+    "textColor1": "0e0a04",
+    "bgColor": "fffffd",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/50-psychology-classics-second-edition/id1195494976",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "50 Psychology Classics Second Edition",
+  "publisher": "Quercus",
+  "isPreorder": false,
+  "artistName": "Tom Butler-Bowdon",
+  "primaryLocale": "en-US"
+}

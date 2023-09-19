@@ -1,0 +1,62 @@
+{
+  "id": "357927096",
+  "title": "Amusing Ourselves to Death",
+  "subtitle": "Public Discourse in the Age of Show Business",
+  "author": "Neil Postman & Andrew Postman",
+  "isbn": "9781101042625",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Arts & Entertainment",
+    "Performing Arts",
+    "Politics & Current Events"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=357927096&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1559512
+        }
+      ]
+    }
+  ],
+  "pageCount": 192,
+  "releaseDate": "1985-11-29",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>What happens when media and politics become forms of entertainment? As our world begins to look more and more like Orwell's <i>1984</i>, Neil's Postman's essential guide to the modern media is more relevant than ever.<br /><br /></b>\"It's unlikely that Trump has ever read&#xa0;<i>Amusing Ourselves to Death</i>, but his ascent would not have surprised Postman.” -<i>CNN</i><br /><br />Originally published in 1985, Neil Postman’s groundbreaking polemic about the corrosive effects of television on our politics and public discourse has been hailed as a twenty-first-century book published in the twentieth century. Now, with television joined by more sophisticated electronic media—from the Internet to cell phones to DVDs—it has taken on even greater significance. <i>Amusing Ourselves to Death</i> is a prophetic look at what happens when politics, journalism, education, and even religion become subject to the demands of&#xa0; entertainment. It is also a blueprint for regaining control of our media, so that they can serve our highest goals.<br /><br />“A brilliant, powerful, and important book. This is an indictment that Postman has laid down and, so far as I can see, an irrefutable one.” –Jonathan Yardley,&#xa0;<i>The Washington Post Book World</i>"
+  },
+  "artwork": {
+    "width": 1516,
+    "height": 2324,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication6/v4/80/99/98/80999828-ec37-1523-978a-f7badbfe0e48/9781101042625.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/amusing-ourselves-to-death/id357927096",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 140,
+    "ratingCountList": [
+      8,
+      4,
+      6,
+      26,
+      96
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Amusing Ourselves to Death",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Neil Postman & Andrew Postman",
+  "primaryLocale": "en-US"
+}

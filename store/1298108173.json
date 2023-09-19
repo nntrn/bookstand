@@ -1,0 +1,72 @@
+{
+  "id": "1298108173",
+  "title": "The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma",
+  "subtitle": null,
+  "author": "Becca Puglisi & Angela Ackerman",
+  "isbn": "9780999296301",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Reference",
+    "Dictionaries & Thesauruses",
+    "Writing"
+  ],
+  "seller": "JADD Publishing",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=1298108173&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2109154
+        }
+      ]
+    }
+  ],
+  "pageCount": 325,
+  "releaseDate": "2017-10-25",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Writers Helping Writers Series",
+    "sequenceNumber": "6",
+    "sequenceDisplayLabel": "Book 6"
+  },
+  "description": {
+    "standard": "Readers connect to characters with depth, ones who have experienced life’s ups and downs. To deliver key players that are both realistic and compelling, writers must know them intimately—not only who they are in the present story, but also what made them that way. Of all the formative experiences in a character’s past, none are more destructive than emotional wounds. The aftershocks of trauma can change who they are, alter what they believe, and sabotage their ability to achieve meaningful goals, all of which will affect the trajectory of your story.<br /><br />\nDIG DEEP TO UNCOVER YOUR CHARACTER’S PAST<br /><br />\nIdentifying the backstory wound is crucial to understanding how it will shape your character’s behavior, and <i>The Emotional Wound Thesaurus</i> can help. Inside, you’ll find:<br /><br />\n\t•A database of traumatic situations common to the human experience<br />\n\t•An in-depth study on a wound’s impact, including the fears, lies, personality shifts, and dysfunctional behaviors that can arise from different painful events<br />\n\t•An extensive analysis of character arc and how the wound and any resulting unmet needs fit into it<br />\n\t•Techniques on how to show the past experience to readers in a way that is both engaging and revelatory while avoiding the pitfalls of info dumps and telling<br />\n\t•A showcase of popular characters and how their traumatic experiences reshaped them, leading to very specific story goals<br />\n\t•A Backstory Wound Profile tool that will enable you to document your characters’ negative past experiences and the aftereffects &#xa0;<br /><br />\nRoot your characters in reality by giving them an authentic wound that causes difficulties and prompts them to strive for inner growth to overcome it. With its easy-to-read format and over 100 entries packed with information, <i>The Emotional Wound Thesaurus</i> is a crash course in psychology for creating characters that feel incredibly real to readers."
+  },
+  "artwork": {
+    "width": 2096,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/cc/69/fb/cc69fb72-b9a1-19c9-0759-9572797c299b/emotionalwounds_thesaurus_ebook_final.jpg/{w}x{h}bb.{f}",
+    "height": 3089,
+    "textColor3": "c4c4c2",
+    "textColor2": "d6d6d6",
+    "textColor4": "b0b0b0",
+    "textColor1": "efefed",
+    "bgColor": "161616",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-emotional-wound-thesaurus-a-writers-guide/id1298108173",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 10,
+    "ratingCountList": [
+      1,
+      0,
+      0,
+      2,
+      7
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma",
+  "publisher": "JADD Publishing",
+  "isPreorder": false,
+  "artistName": "Becca Puglisi & Angela Ackerman",
+  "primaryLocale": "en-US"
+}

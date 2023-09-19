@@ -1,0 +1,66 @@
+{
+  "id": "1210012069",
+  "title": "Empire of Illusion",
+  "subtitle": "The End of Literacy and the Triumph of Spectacle",
+  "author": "Chris Hedges",
+  "isbn": "9780786749553",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Politics & Current Events"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1210012069&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1273656
+        }
+      ]
+    }
+  ],
+  "audience": "Grades 8-17",
+  "pageCount": 240,
+  "releaseDate": "2009-07-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A prescient book that forecast the culture that gave rise to Trump -- a society beholden to empty spectacle and obsession with image at the expense of reality, reason, and truth.</b><br /><br /> An instant bestseller, <i>Empire of Illusion</i> is a striking and unsettling exploration of illusion and fantasy in contemporary American culture. Traveling to the ringside of professional wrestling bouts at Madison Square Garden, to Las Vegas to write about the pornographic film industry, and to academic conferences held by positive psychologists who claim to be able to engineer happiness, Hedges chronicles our flight from an ever-worsening reality. <br /><br /> The cultural embrace of illusion and celebrity culture have accompanied a growing system of casino capitalism, which creates vast wealth for elites. Corporations have ruthlessly dismantled and destroyed our manufacturing base and impoverished our working class. Hedges exposes the mechanisms that undermine our democracy and divert us from the economic, environmental, political, and moral collapse around us. A culture that cannot distinguish between reality and illusion dies, Hedges argues, and we are dying now."
+  },
+  "artwork": {
+    "width": 680,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/7d/dd/0e/7ddd0e04-aa33-25cf-233e-10bfbe83d2cd/9780786749553.jpg/{w}x{h}bb.{f}",
+    "height": 1017,
+    "textColor3": "3f3e3f",
+    "textColor2": "442f22",
+    "textColor4": "6a584e",
+    "textColor1": "0f0e0f",
+    "bgColor": "fffeff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/empire-of-illusion/id1210012069",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 10,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      4,
+      6
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Empire of Illusion",
+  "publisher": "PublicAffairs",
+  "isPreorder": false,
+  "artistName": "Chris Hedges",
+  "primaryLocale": "en-US"
+}

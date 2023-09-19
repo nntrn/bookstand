@@ -1,0 +1,63 @@
+{
+  "id": "1053260612",
+  "title": "The Conquest of Happiness",
+  "subtitle": null,
+  "author": "Bertrand Russell",
+  "isbn": "9781631491481",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=1053260612&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 552076
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2013-08-05",
+  "isIBook": false,
+  "description": {
+    "standard": "“Should be read by every parent, teacher, minister, and Congressman in the land.”—The Atlantic<br />\nIn The Conquest of Happiness, first published by Liveright in 1930, iconoclastic philosopher Bertrand Russell attempted to diagnose the myriad causes of unhappiness in modern life and chart a path out of the seemingly inescapable malaise so prevalent even in safe and prosperous Western societies. More than eighty years later, Russell’s wisdom remains as true as it was on its initial release. Eschewing guilt-based morality, Russell lays out a rationalist prescription for living a happy life, including the importance of cultivating interests outside oneself and the dangers of passive pleasure. In this new edition, best-selling philosopher Daniel C. Dennett reintroduces Russell to a new generation, stating that Conquest is both “a fascinating time capsule” and “a prototype of the flood of self-help books that have more recently been published, few of them as well worth reading today as Russell’s little book.”"
+  },
+  "artwork": {
+    "width": 3200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/1e/37/e0/1e37e077-e1a5-8b74-8170-397ea0fd1817/mzm.yreevaed.jpg/{w}x{h}bb.{f}",
+    "height": 4799,
+    "textColor3": "3b3708",
+    "textColor2": "0e0b0e",
+    "textColor4": "3e370b",
+    "textColor1": "0a0a0a",
+    "bgColor": "fee800",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-conquest-of-happiness/id1053260612",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 18,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      4,
+      12
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "The Conquest of Happiness",
+  "publisher": "Liveright",
+  "isPreorder": false,
+  "artistName": "Bertrand Russell",
+  "primaryLocale": "en-US"
+}

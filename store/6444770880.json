@@ -1,0 +1,65 @@
+{
+  "id": "6444770880",
+  "title": "Lady Windermere’s Fan",
+  "subtitle": "A Play About a Good Woman",
+  "author": "Oscar Wilde",
+  "isbn": null,
+  "genreNames": [
+    "Theater",
+    "Books",
+    "Arts & Entertainment",
+    "Humor"
+  ],
+  "seller": "Standard Ebooks L3C",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=6444770880&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 479842
+        }
+      ]
+    }
+  ],
+  "pageCount": 117,
+  "releaseDate": "2022-03-28",
+  "isIBook": false,
+  "description": {
+    "standard": "Lady Windermere, who suspects that her husband is having an affair, decides to leave him. Her erstwhile rival, Mrs. Erlynne, comes to her rescue, and convinces her to return to Lord Windermere before the situation becomes a scandal. In so doing, Mrs. Erlynne exposes herself to scandal, and must choose between her own reputation and saving the Windermeres’ relationship.<br /><br /><i>Lady Windermere’s Fan</i> was Oscar Wilde’s first hit play, and the first of his enormously popular comedies of society, which culminated with <i>The Importance of Being Earnest</i>. It opened on February 20, 1892 at the St. James’s Theatre in London, and went on to tour the country for months."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/a8/ea/47/a8ea4712-16c7-39db-bce2-6a1f4d667d6e/cover.jpg/{w}x{h}bb.{f}",
+    "height": 2100,
+    "textColor3": "c2a5a5",
+    "textColor2": "d09c59",
+    "textColor4": "ae814a",
+    "textColor1": "e9c8ca",
+    "bgColor": "251810",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/lady-windermeres-fan/id6444770880",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Lady Windermere’s Fan",
+  "publisher": "Standard Ebooks",
+  "isPreorder": false,
+  "artistName": "Oscar Wilde",
+  "primaryLocale": "en-US"
+}

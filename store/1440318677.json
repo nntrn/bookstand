@@ -1,0 +1,65 @@
+{
+  "id": "1440318677",
+  "title": "Writing to Persuade: How to Bring People Over to Your Side",
+  "subtitle": null,
+  "author": "Trish Hall",
+  "isbn": "9781631493065",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1440318677&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 10798404
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2019-06-11",
+  "isIBook": false,
+  "description": {
+    "standard": "From the former New York Times Op-Ed page editor, a definitive and entertaining resource for writers of every stripe on the neglected art of persuasion.<br />\nIn the tradition of The Elements of Style comes Trish Hall’s essential new work on writing well—a sparkling instructional guide to persuading (almost) anyone, on (nearly) anything. As the person in charge of the Op-Ed page for the New York Times, Hall spent years immersed in argument, passion, and trendsetting ideas—but also in tangled sentences, migraine-inducing jargon, and dull-as-dishwater writing. Drawing on her vast experience editing everyone from Nobel Prize winners and global strongmen (Putin) to first-time pundits (Angelina Jolie), Hall presents the ultimate guide to writing persuasively for students, job applicants, and rookie authors looking to get published. She sets out the core principles for connecting with readers—laid out in illuminating chapters such as “Cultivate Empathy,” “Abandon Jargon,” and “Prune Ruthlessly.” Combining boisterous anecdotes with practical advice (relayed in “tracked changes” bubbles), Hall offers an infinitely accessible primer on the art of effectively communicating above the digital noise of the twenty-first century."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/bf/12/7b/bf127bf3-463e-2a01-7648-6cf961f3aa6a/9781631493065.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "333231",
+    "textColor2": "121210",
+    "textColor4": "41403d",
+    "textColor1": "000000",
+    "bgColor": "fffbf2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/writing-to-persuade-how-to-bring-people-over-to-your-side/id1440318677",
+  "userRating": {
+    "value": 3.5,
+    "ratingCount": 6,
+    "ratingCountList": [
+      1,
+      0,
+      2,
+      1,
+      2
+    ],
+    "ariaLabelForRatings": "3.5 stars"
+  },
+  "name": "Writing to Persuade: How to Bring People Over to Your Side",
+  "publisher": "Liveright",
+  "isPreorder": false,
+  "artistName": "Trish Hall",
+  "primaryLocale": "en-US"
+}

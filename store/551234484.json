@@ -1,0 +1,57 @@
+{
+  "id": "551234484",
+  "title": "It's Raining Cats and Dogs and Other Beastly Expressions",
+  "subtitle": null,
+  "author": "Christine Ammer",
+  "isbn": "9781623095925",
+  "genreNames": [
+    "Reference",
+    "Books"
+  ],
+  "seller": "DIY Media Group DBA BookBaby",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=551234484&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 708732
+        }
+      ]
+    }
+  ],
+  "pageCount": 250,
+  "releaseDate": "2012-08-15",
+  "isIBook": false,
+  "description": {
+    "standard": "This book consists of more than 1,000 animal expressions in everyday language and where they came from.  Do you have \"an eagle eye\" for a bargain? Have you ever been \"hounded\" by a \"loan shark\" or hustled by a \"pool shark?\" Here you can get the lowdown on the fox trot, puppy love, monkeyshines, cowlicks, Cub Scouts, bulls and bears, jaywalkers, gift horses, white elephants, and jailbirds.  You may never let \"sleeping dogs lie\" again."
+  },
+  "artwork": {
+    "width": 1719,
+    "height": 2532,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/a1/76/04/a1760422-239e-8749-f71e-e944304813a9/9781623095925.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/its-raining-cats-and-dogs-and-other-beastly-expressions/id551234484",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "It's Raining Cats and Dogs and Other Beastly Expressions",
+  "publisher": "BookBaby",
+  "isPreorder": false,
+  "artistName": "Christine Ammer",
+  "primaryLocale": "en-US"
+}

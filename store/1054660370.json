@@ -1,0 +1,68 @@
+{
+  "id": "1054660370",
+  "title": "Only Dull People Are Brilliant at Breakfast",
+  "subtitle": null,
+  "author": "Oscar Wilde",
+  "isbn": "9780241251812",
+  "genreNames": [
+    "Quotations",
+    "Books",
+    "Reference",
+    "Fiction & Literature",
+    "Essays",
+    "Humor"
+  ],
+  "seller": "Penguin Books Limited",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1054660370&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 776055
+        }
+      ]
+    }
+  ],
+  "pageCount": 96,
+  "releaseDate": "2016-03-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<i>'It would be unfair to expect other people to be as remarkable as oneself'</i><br /><br />Wilde's celebrated witticisms on the dangers of sincerity, duplicitous biographers, the stupidity of the English - and his own genius. <br /><br />One of 46 new books in the bestselling Little Black Classics series, to celebrate the first ever Penguin Classic in 1946. Each book gives readers a taste of the Classics' huge range and diversity, with works from around the world and across the centuries - including fables, decadence, heartbreak, tall tales, satire, ghosts, battles and elephants."
+  },
+  "artwork": {
+    "width": 1312,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/a2/7d/48/a27d48a8-8a82-7d7e-706d-fc4b54e55d43/mzm.vxdzdixh.jpg/{w}x{h}bb.{f}",
+    "height": 1902,
+    "textColor3": "cbcbcb",
+    "textColor2": "c6c6c6",
+    "textColor4": "9e9e9e",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "version": "1.0.1",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/only-dull-people-are-brilliant-at-breakfast/id1054660370",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 11,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      4,
+      6
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Only Dull People Are Brilliant at Breakfast",
+  "isPreorder": false,
+  "publisher": "Penguin Books Ltd",
+  "artistName": "Oscar Wilde",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1565484317",
+  "title": "How to Speak Science",
+  "subtitle": "Gravity, Relativity, and Other Ideas That Were Crazy Until Proven Brilliant",
+  "author": "Bruce Benamran",
+  "isbn": "9781615194209",
+  "genreNames": [
+    "History",
+    "Books",
+    "Science & Nature",
+    "Professional & Technical",
+    "Engineering"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1565484317&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3394999
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2018-09-04",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A math-free introduction to the greatest scientific ideas of the last 2,000 years: “This is the book for the wannabe science nerd.” —<i>The Toronto Star</i></b><br /><br />As smartphones, supercomputers, supercolliders, and AI propel us into an ever more unfamiliar future,&#xa0;<i>How to Speak Science</i>&#xa0;takes us on a rollicking historical tour of the greatest discoveries and ideas that make today’s cutting–edge technologies possible.<br /><br />Wanting everyone to be able to “speak” science, YouTube science guru Bruce Benamran explains, accessibly and wittily, the fundamental ideas of the physical world: matter, life, the solar system, light, electromagnetism, thermodynamics, special and general relativity, and much more.<br /><br />Along the way, Benamran guides us through the wildest hypotheses and most ingenious ideas of Galileo, Newton, Curie, Einstein, and science’s other great minds, reminding us that while they weren’t always exactly right, they were&#xa0;<i>always</i>&#xa0;curious.&#xa0;<i>How to Speak Science</i>&#xa0;acquaints us not only with what scientists know, but how they think—so that each of us can reason like a physicist and appreciate the world in all its beautiful chaos.<br /><br />“The perfect example of a geeky text that is neither condescending nor highfalutin. It has sufficient genuine scientific content to keep the techies interested, while being fast-paced enough (and at times genuinely funny) to keep the neophyte on board.” —<i>E&amp;T Magazine</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/a2/36/91/a23691ac-e048-2c1c-baf4-d32623cbffd8/9781615194209.jpg/{w}x{h}bb.{f}",
+    "height": 2363,
+    "textColor3": "cbd2d9",
+    "textColor2": "faef17",
+    "textColor4": "c8c620",
+    "textColor1": "ffffff",
+    "bgColor": "002245",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/how-to-speak-science/id1565484317",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "How to Speak Science",
+  "isPreorder": false,
+  "publisher": "The Experiment",
+  "artistName": "Bruce Benamran",
+  "primaryLocale": "en-US"
+}

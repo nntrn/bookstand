@@ -1,0 +1,71 @@
+{
+  "id": "1406238772",
+  "title": "Blueprint",
+  "subtitle": "The Evolutionary Origins of a Good Society",
+  "author": "Nicholas A. Christakis",
+  "isbn": "9780316230056",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Nonfiction",
+    "Social Science",
+    "Sociology"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>\"A dazzlingly erudite synthesis of history, philosophy, anthropology, genetics, sociology, economics, epidemiology, statistics, and more\" (Frank Bruni, <i>The New York Times</i>), <i>Blueprint</i> shows why evolution has placed us on a humane path -- and how we are united by our common humanity.</b><br />For too long, scientists have focused on the dark side of our biological heritage: our capacity for aggression, cruelty, prejudice, and self-interest. But natural selection has given us a suite of beneficial social features, including our capacity for love, friendship, cooperation, and learning. Beneath all of our inventions -- our tools, farms, machines, cities, nations -- we carry with us innate proclivities to make a good society.<br />In <i>Blueprint</i>, Nicholas A. Christakis introduces the compelling idea that our genes affect not only our bodies and behaviors, but also the ways in which we make societies, ones that are surprisingly similar worldwide.<br />With many vivid examples -- including diverse historical and contemporary cultures, communities formed in the wake of shipwrecks, commune dwellers seeking utopia, online groups thrown together by design or involving artificially intelligent bots, and even the tender and complex social arrangements of elephants and dolphins that so resemble our own -- Christakis shows that, despite a human history replete with violence, we cannot escape our social blueprint for goodness.<br />In a world of increasing political and economic polarization, it's tempting to ignore the positive role of our evolutionary past. But by exploring the ancient roots of goodness in civilization, <i>Blueprint </i>shows that our genes have shaped societies for our welfare and that, in a feedback loop stretching back many thousands of years, societies are still shaping our genes today."
+  },
+  "editorialNotes": {
+    "short": "We were heartened by this book’s thesis that humans are designed to create community."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1406238772&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 41215108
+        }
+      ]
+    }
+  ],
+  "pageCount": 544,
+  "releaseDate": "2019-03-26",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1613,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/0e/f2/0d/0ef20d0b-bda5-d12e-c4c0-fad678aa9989/9780316230056.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "c3cbd4",
+    "textColor2": "f18635",
+    "textColor4": "ca7743",
+    "textColor1": "e9efeb",
+    "bgColor": "2c3a7a",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/blueprint/id1406238772",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 15,
+    "ratingCountList": [
+      2,
+      0,
+      2,
+      5,
+      6
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "name": "Blueprint",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Nicholas A. Christakis",
+  "primaryLocale": "en-US"
+}

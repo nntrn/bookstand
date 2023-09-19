@@ -1,0 +1,66 @@
+{
+  "id": "419934997",
+  "title": "Shadowfever",
+  "subtitle": "Fever Series Book 5",
+  "author": "Karen Marie Moning",
+  "isbn": "9780440339748",
+  "genreNames": [
+    "Paranormal",
+    "Books",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Fantasy",
+    "Paranormal"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=419934997&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9486820
+        }
+      ]
+    }
+  ],
+  "pageCount": 608,
+  "releaseDate": "2011-01-18",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Fever",
+    "sequenceNumber": "5",
+    "sequenceDisplayLabel": "Book 5"
+  },
+  "description": {
+    "standard": "<b><b>#1&#xa0;<i>NEW YORK TIMES</i>&#xa0;BESTSELLER<br /><br />“Evil is a completely different creature, Mac. Evil is bad that believes it’s&#xa0;<i>good</i>.”</b><br />&#xa0;<br /></b>MacKayla Lane was just a child when she and her sister, Alina, were given up for adoption and banished from Ireland forever.&#xa0;<br /><br />Twenty years later, Alina is dead and Mac has returned to the country that expelled them to hunt her sister’s murderer. But after discovering that she descends from a bloodline both gifted and cursed, Mac is plunged into a secret history: an ancient conflict between humans and immortals who have lived concealed among us for thousands of years.&#xa0;<br /><br />What follows is a shocking chain of events with devastating consequences, and now Mac struggles to cope with grief while continuing her mission to acquire and control the&#xa0;<i>Sinsar Dubh</i>—a book of dark, forbidden magic scribed by the mythical Unseelie King, containing the power to create and destroy worlds.&#xa0;<br /><br />In an epic battle between humans and Fae, the hunter becomes the hunted when the&#xa0;<i>Sinsar Dubh</i>&#xa0;turns on Mac and begins mowing a deadly path through those she loves.&#xa0;<br />Who can she turn to? Who can she trust? Who is the woman haunting her dreams? More important, who is Mac herself and what is the destiny she glimpses in the black and crimson designs of an ancient tarot card?&#xa0;<br /><br />From the luxury of the Lord Master’s penthouse to the sordid depths of an Unseelie nightclub, from the erotic bed of her lover to the terrifying bed of the Unseelie King, Mac’s journey will force her to face the truth of her exile, and to make a choice that will either save the world . . . or destroy it.<b><br /></b><br />BONUS: This edition contains a deleted scene from <i>Shadowfever </i>and an excerpt from Karen Marie Moning's <i>Iced.<br /><br /></i><b>Look for all of Karen Marie Moning’s sensational Fever novels:</b><br /> <b>DARKFEVER | BLOODFEVER | FAEFEVER | DREAMFEVER | SHADOWFEVER | ICED | BURNED | FEVERBORN | FEVERSONG</b>"
+  },
+  "artwork": {
+    "width": 1420,
+    "height": 2404,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/92/65/d7/9265d74d-bdfc-c85e-4ff7-1ff06d369ca6/9780440339748.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/shadowfever/id419934997",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 746,
+    "ratingCountList": [
+      17,
+      17,
+      32,
+      106,
+      574
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Shadowfever",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "Karen Marie Moning",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1552718709",
+  "title": "Talent",
+  "subtitle": "How to Identify Energizers, Creatives, and Winners Around the World",
+  "author": "Tyler Cowen & Daniel Gross",
+  "isbn": "9781250275820",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Industries & Professions",
+    "Careers"
+  ],
+  "seller": "Macmillan",
+  "description": {
+    "standard": "<b>The art and science of talent search: how to spot, assess, woo, and retain highly talented people.</b><br /><br />How do you find talent with a creative spark? To what extent can you predict human creativity, or is human creativity something irreducible before our eyes, perhaps to be spotted or glimpsed by intuition, but unique each time it appears?<br /><br />Obsessed with these questions, renowned economist Tyler Cowen and venture capitalist and entrepreneur Daniel Gross set out to study the art and science of finding talent at the highest level: the people with the creativity, drive, and insight to transform an organization and make everyone around them better.<br /><br />Cowen and Gross guide the reader through the major scientific research areas relevant for talent search, including how to conduct an interview, how much to weight intelligence, how to judge personality and match personality traits to jobs, how to evaluate talent in online interactions such as Zoom calls, why talented women are still undervalued and how to spot them, how to understand the special talents in people who have disabilities or supposed disabilities, and how to use delegated scouts to find talent. Talent appreciation is an art, but it is an art you can improve through study and experience.<br /><br />Identifying underrated, brilliant individuals is one of the simplest ways to give yourself an organizational edge, and this is the book that will show you how to do that. <i>Talent</i> is both for people searching for talent and for those who wish to be searched for, found, and discovered."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1552718709&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2959475
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2022-05-17",
+  "isIBook": false,
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/7e/9a/7b/7e9a7b09-693e-a80a-d0b1-f023bf35255b/9781250275820.jpg/{w}x{h}bb.{f}",
+    "height": 2550,
+    "textColor3": "335261",
+    "textColor2": "4f0e0c",
+    "textColor4": "723e3c",
+    "textColor1": "002739",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/talent/id1552718709",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 10,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      4,
+      3
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "name": "Talent",
+  "isPreorder": false,
+  "publisher": "St. Martin's Publishing Group",
+  "artistName": "Tyler Cowen & Daniel Gross",
+  "primaryLocale": "en-US"
+}

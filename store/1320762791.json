@@ -1,0 +1,65 @@
+{
+  "id": "1320762791",
+  "title": "Math with Bad Drawings",
+  "subtitle": "Illuminating the Ideas That Shape Our Reality",
+  "author": "Ben Orlin",
+  "isbn": "9780316509022",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1320762791&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 261548075
+        }
+      ]
+    }
+  ],
+  "pageCount": 376,
+  "releaseDate": "2018-09-18",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A hilarious reeducation in mathematics-full of joy, jokes, and stick figures-that sheds light on the countless practical and wonderful ways that math structures and shapes our world. </b><br /><br /> In<i> Math With Bad Drawings,</i> Ben Orlin reveals to us what math actually is; its myriad uses, its strange symbols, and the wild leaps of logic and faith that define the usually impenetrable work of the mathematician. <br /><br /> Truth and knowledge come in multiple forms: colorful drawings, encouraging jokes, and the stories and insights of an empathetic teacher who believes that math should belong to everyone. Orlin shows us how to think like a mathematician by teaching us a brand-new game of tic-tac-toe, how to understand an economic crises by rolling a pair of dice, and the mathematical headache that ensues when attempting to build a spherical Death Star. <br /><br /> Every discussion in the book is illustrated with Orlin's trademark \"bad drawings,\" which convey his message and insights with perfect pitch and clarity. With 24 chapters covering topics from the electoral college to human genetics to the reasons not to trust statistics, <i>Math with Bad Drawings</i> is a life-changing book for the math-estranged and math-enamored alike."
+  },
+  "artwork": {
+    "width": 2008,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/49/04/1c/49041ca7-ee72-0fdd-bb97-d104b12a781b/9780316509022.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "0b2c3d",
+    "textColor2": "062a34",
+    "textColor4": "0a4657",
+    "textColor1": "070913",
+    "bgColor": "1bb9e4",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/math-with-bad-drawings/id1320762791",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 8,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      3,
+      5
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Math with Bad Drawings",
+  "publisher": "Running Press",
+  "isPreorder": false,
+  "artistName": "Ben Orlin",
+  "primaryLocale": "en-US"
+}

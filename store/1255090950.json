@@ -1,0 +1,65 @@
+{
+  "id": "1255090950",
+  "title": "On Grand Strategy",
+  "subtitle": null,
+  "author": "John Lewis Gaddis",
+  "isbn": "9780525557296",
+  "genreNames": [
+    "History",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1255090950&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1728486
+        }
+      ]
+    }
+  ],
+  "pageCount": 384,
+  "releaseDate": "2018-04-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“The best education in grand strategy available in a single volume . . . a book that should be read by every American leader or would-be leader.”—<i>The Wall Street Journal</i><br /><br />A master class in strategic thinking, distilled from the legendary program the author has co-taught at Yale for decades</b><br /><br />John Lewis Gaddis, the distinguished historian of the Cold War, has for almost two decades co-taught grand strategy at Yale University with his colleagues Charles Hill and Paul Kennedy.&#xa0; Now, in <i>On Grand Strategy</i>, Gaddis reflects on what he has learned.&#xa0; In chapters extending from the ancient world through World War II, Gaddis assesses grand strategic theory and practice in Herodotus, Thucydides, Sun Tzu, Octavian/Augustus, St. Augustine, Machiavelli, Elizabeth I, Philip II, the American Founding Fathers, Clausewitz, Tolstoy, Lincoln, Wilson, Franklin D. Roosevelt, and Isaiah Berlin.&#xa0; <i>On Grand Strategy</i> applies the sharp insights and wit readers have come to expect from Gaddis to times, places, and people he’s never written about before.&#xa0; For anyone interested in the art of leadership, <i>On Grand Strategy</i> is, in every way, a master class."
+  },
+  "artwork": {
+    "width": 1594,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/6d/d7/05/6dd705d3-e4c0-e9ab-c6c9-a2ed365b74c1/9780525557296.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "2d393d",
+    "textColor2": "00151f",
+    "textColor4": "2b3a40",
+    "textColor1": "03131b",
+    "bgColor": "d9cfc5",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/on-grand-strategy/id1255090950",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 46,
+    "ratingCountList": [
+      3,
+      2,
+      5,
+      9,
+      27
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "On Grand Strategy",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "John Lewis Gaddis",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1516422589",
+  "title": "The Dictionary of Clichés",
+  "subtitle": "A Word Lover's Guide to 4,000 Overused Phrases and Almost-Pleasing Platitudes",
+  "author": "Christine Ammer",
+  "isbn": "9781628734591",
+  "genreNames": [
+    "Words & Language",
+    "Books",
+    "Reference",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines",
+    "Dictionaries & Thesauruses",
+    "Humor"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1516422589&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2835003
+        }
+      ]
+    }
+  ],
+  "pageCount": 544,
+  "releaseDate": "2013-11-05",
+  "isIBook": false,
+  "description": {
+    "standard": "The largest, most comprehensive, and most entertaining reference of its kind, The Dictionary of Clichés features more than four thousand unique clichés and common expressions. Author Christine Ammer explores the phrases and terms that enliven our language and uncovers expressions that have long been considered dead. With each entry, she includes a thorough definition, origin of the term, and an insightful example.<br /><br />Some of the clichés brought into the limelight include:<br /><br />• Blood is thicker than water<br />• Monkey see, monkey do<br />• Brass tacks<br />• Burn the midnight oil<br />• Change of heart<br />• Moral fiber<br />• By the book<br /><br />Whether clichés get under your skin or make you happy as a clam, The Dictionary of Clichés goes the extra mile to provide an essential resource for students, teachers, writers, and anyone with a keen interest in language. And that’s food for thought."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/1d/61/73/1d6173ec-9737-23c6-206b-c6a64c5b9117/9781628734591.jpg/{w}x{h}bb.{f}",
+    "height": 2240,
+    "textColor3": "333333",
+    "textColor2": "2a1840",
+    "textColor4": "544666",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-dictionary-of-clich%C3%A9s/id1516422589",
+  "userRating": {
+    "value": 3,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "3.0 stars"
+  },
+  "name": "The Dictionary of Clichés",
+  "publisher": "Skyhorse",
+  "isPreorder": false,
+  "artistName": "Christine Ammer",
+  "primaryLocale": "en-US"
+}

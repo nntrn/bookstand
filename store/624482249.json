@@ -1,0 +1,59 @@
+{
+  "id": "624482249",
+  "title": "Dark Matter and Trojan Horses. A Strategic Design Vocabulary.",
+  "subtitle": null,
+  "author": "Dan Hill",
+  "isbn": "9785990336438",
+  "genreNames": [
+    "Design",
+    "Books",
+    "Professional & Technical"
+  ],
+  "seller": "Bookwire Gesellschaft zum Vertrieb digitaler Medien mbH",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=624482249&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1989585
+        }
+      ]
+    }
+  ],
+  "pageCount": 114,
+  "releaseDate": "2012-02-24",
+  "isIBook": false,
+  "description": {
+    "standard": "Strategic design is about applying the principles of traditional design to \"big picture\" systemic challenges such as healthcare, education and climate change. It redefines how problems are approached and aims to deliver more resilient solutions.<br />\nIn this short book, Dan Hill outlines a new vocabulary of design, one that needs to be smuggled into the upper echelons of power. He asserts that, increasingly, effective design means engaging with the messy politics - the dark matter - taking place above the designer's head. And that may mean redesigning the organisation that hires you."
+  },
+  "artwork": {
+    "width": 1512,
+    "height": 2339,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/e2/f4/bb/e2f4bba1-ae75-7c2e-38c4-1834e43634fa/9700118621647.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/dark-matter-and-trojan-horses-a-strategic/id624482249",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 6,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      2,
+      3
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Dark Matter and Trojan Horses. A Strategic Design Vocabulary.",
+  "publisher": "Strelka Press",
+  "isPreorder": false,
+  "artistName": "Dan Hill",
+  "primaryLocale": "en-US"
+}

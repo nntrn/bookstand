@@ -1,0 +1,65 @@
+{
+  "id": "1375105063",
+  "title": "High-Impact Interview Questions",
+  "subtitle": "701 Behavior-Based Questions to Find the Right Person for Every Job",
+  "author": "Victoria Hoevemeyer",
+  "isbn": "9780814438831",
+  "genreNames": [
+    "Industries & Professions",
+    "Books",
+    "Business & Personal Finance",
+    "Careers"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1375105063&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2696825
+        }
+      ]
+    }
+  ],
+  "pageCount": 227,
+  "releaseDate": "2017-10-15",
+  "isIBook": false,
+  "description": {
+    "standard": "When most prospective hires come well prepared for interview questions we all expect, how do you distinguish their answers from any other applicant?<br /><br />With this book by your side, you will no longer have to do your best guess work on what answers are genuine, which are rehearsed, and which will end up not reflecting the employee in the least. This invaluable resource shows you how to dig deeper using competency-based behavioral interviewing methods to uncover truly relevant and useful information.<br /><br />Complete with advice on evaluating answers and assessing cultural fit, the second edition of&#xa0;High-Impact Interview Questions&#xa0;features dozens of all-new questions designed to gauge:<br />accountability,assertiveness,attention to detail,judgment,follow-through,risk-taking, and more.<br />When the candidate is asked to describe specific, job-related situations, you will gain a clearer picture of past behaviors--and more accurately predict future performance. By the end of an interview, the real person behind the résumé will be revealed and you will be able to make an offer based on accurate findings, not hopeful hunches."
+  },
+  "artwork": {
+    "width": 1598,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/cb/1e/32/cb1e32a3-08e8-8313-f91c-0f9509a7afd1/9780814438831.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "efcbcd",
+    "textColor2": "fff0eb",
+    "textColor4": "efbfc1",
+    "textColor1": "fffefa",
+    "bgColor": "b0001c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/high-impact-interview-questions/id1375105063",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "High-Impact Interview Questions",
+  "publisher": "AMACOM",
+  "isPreorder": false,
+  "artistName": "Victoria Hoevemeyer",
+  "primaryLocale": "en-US"
+}

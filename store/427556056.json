@@ -1,0 +1,65 @@
+{
+  "id": "427556056",
+  "title": "Good Self, Bad Self",
+  "subtitle": "How to Bounce Back from a Personal Crisis",
+  "author": "Judy Smith",
+  "isbn": "9781451650013",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Nonfiction",
+    "Family & Relationships"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=427556056&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4651971
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2012-04-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the real-life crisis expert who inspired ABC’s <i>Scandal</i>.</b><br /><br />Everyone must learn to live with personal missteps. Whether you’ve put yourself in an awkward situation, or you find that you’ve unwittingly created a full-blown crisis, Judy Smith is here to teach you how to look within to diffuse, mitigate, and resolve issues at their root.<br /><br /><i>Good Self, Bad Self</i> will teach you how to face and overcome potential problems before they send your life spinning out of control. Using the straightforward and incredibly effective POWER model—which incorporates the same strategies Judy uses with her high-profile clients—you can learn to master and expertly handle any sticky situation in your own life. Smith distills years of experience, sharing tools we all need to face our mistakes and overcome them."
+  },
+  "artwork": {
+    "width": 1399,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/8a/ae/ad/8aaead1f-b542-28ec-5e3f-93b595028e54/9781451650013.jpg/{w}x{h}bb.{f}",
+    "height": 2128,
+    "textColor3": "cdc9c4",
+    "textColor2": "ee7710",
+    "textColor4": "c1610e",
+    "textColor1": "fdfaf3",
+    "bgColor": "0d0908",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/good-self-bad-self/id427556056",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 52,
+    "ratingCountList": [
+      7,
+      5,
+      4,
+      3,
+      33
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Good Self, Bad Self",
+  "isPreorder": false,
+  "publisher": "Free Press",
+  "artistName": "Judy Smith",
+  "primaryLocale": "en-US"
+}

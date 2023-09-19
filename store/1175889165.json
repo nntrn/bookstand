@@ -1,0 +1,70 @@
+{
+  "id": "1175889165",
+  "title": "Option B",
+  "subtitle": "Facing Adversity, Building Resilience, and Finding Joy",
+  "author": "Sheryl Sandberg & Adam Grant",
+  "isbn": "9781524732691",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership",
+    "Nonfiction",
+    "Family & Relationships"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1175889165&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5781802
+        }
+      ]
+    }
+  ],
+  "pageCount": 240,
+  "releaseDate": "2017-04-24",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><b>#1 <i>NEW YORK TIMES</i> BEST SELLER </b>•</b> <b>From authors of <i>Lean In</i> and <i>Originals:</i> a powerful, inspiring, and practical book about building resilience and moving forward after life’s inevitable setbacks</b><br /> &#xa0;<br /> After the sudden death of her husband, Sheryl Sandberg felt certain that she and her children would never feel pure joy again. “I was in ‘the void,’” she writes, “a vast emptiness that fills your heart and lungs and restricts your ability to think or even breathe.” Her friend Adam Grant, a psychologist at Wharton, told her there are concrete steps people can take to recover and rebound from life-shattering experiences. We are not born with a fixed amount of resilience. It is a muscle that everyone can build. <br /> <i> <br />Option B </i>combines Sheryl’s personal insights with Adam’s eye-opening research on finding strength in the face of adversity. Beginning with the gut-wrenching moment when she finds her husband, Dave Goldberg, collapsed on a gym floor, Sheryl opens up her heart—and her journal—to describe the acute grief and isolation she felt in the wake of his death. But <i>Option B </i>goes beyond Sheryl’s loss to explore how a broad range of people have overcome hardships including illness, job loss, sexual assault, natural disasters, and the violence of war. Their stories reveal the capacity of the human spirit to persevere . . . and to rediscover joy.<br /><br />Resilience comes from deep within us and from support outside us. Even after the most devastating events, it is possible to grow by finding deeper meaning and gaining greater appreciation in our lives. <i>Option B </i>illuminates how to help others in crisis, develop compassion for ourselves, raise strong children, and create resilient families, communities, and workplaces. Many of these lessons can be applied to everyday struggles, allowing us to brave whatever lies ahead. Two weeks after losing her husband, Sheryl was preparing for a father-child activity. “I want Dave,” she cried. Her friend replied, “Option A is not available,” and then promised to help her make the most of Option B.<br /><br />We all live some form of Option B. This book will help us all make the most of it."
+  },
+  "artwork": {
+    "width": 1682,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/d1/01/c9/d101c9ff-8302-2e1b-6ff8-87585a2819a9/9781524732691.d.jpg/{w}x{h}bb.{f}",
+    "height": 2850,
+    "textColor3": "3b3b39",
+    "textColor2": "5e120a",
+    "textColor4": "7e423b",
+    "textColor1": "0a0a08",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/option-b/id1175889165",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 243,
+    "ratingCountList": [
+      15,
+      19,
+      31,
+      36,
+      142
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "Option B",
+  "isPreorder": false,
+  "publisher": "Knopf Doubleday Publishing Group",
+  "artistName": "Sheryl Sandberg & Adam Grant",
+  "editorialNotes": {
+    "standard": "Life’s tragedies can yield profound lessons—and this couldn’t be more true for Sheryl Sandberg, a woman known mostly for her towering professional status. After her husband's sudden death, Sandberg was faced with the prospect of rebuilding her life while coping with overwhelming grief. In this slim but powerful book, Sandberg and Wharton psychologist Adam Grant weave raw, heartbreaking anecdotes with practical advice and scientific research to provide strategies for overcoming trauma. Passionate and beautifully sensitive, <i>Option B</i> is a beacon of hope and strength.&#xa0;\n"
+  },
+  "primaryLocale": "en-US"
+}

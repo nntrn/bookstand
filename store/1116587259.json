@@ -1,0 +1,66 @@
+{
+  "id": "1116587259",
+  "title": "Do I Make Myself Clear?",
+  "subtitle": "Why Writing Well Matters",
+  "author": "Harold Evans",
+  "isbn": "9780316432306",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1116587259&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8413097
+        }
+      ]
+    }
+  ],
+  "pageCount": 416,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2017-05-16",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A wise and entertaining guide to writing English the proper way by one of the greatest newspaper editors of our time.</b><br /><br /> Harry Evans has edited everything from the urgent files of battlefield reporters to the complex thought processes of Henry Kissinger. He's even been knighted for his services to journalism. In Do I Make Myself Clear?, he brings his indispensable insight to us all in his definite guide to writing well. <br /><br /> The right words are oxygen to our ideas, but the digital era, with all of its TTYL, LMK, and WTF, has been cutting off that oxygen flow. The compulsion to be precise has vanished from our culture, and in writing of every kind we see a trend towards more -- more speed and more information but far less clarity.  <br /><br /> Evans provides practical examples of how editing and rewriting can make for better communication, even in the digital age. <i>Do I Make Myself Clear?</i> is an essential text, and one that will provide every writer an editor at his shoulder."
+  },
+  "artwork": {
+    "width": 1733,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/cd/5b/64/cd5b64a4-292c-9de4-8fa9-fdd50de829dc/9780316432306.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "373634",
+    "textColor2": "2e2c29",
+    "textColor4": "55524e",
+    "textColor1": "090909",
+    "bgColor": "f0ece3",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/do-i-make-myself-clear/id1116587259",
+  "userRating": {
+    "value": 4.8,
+    "ratingCount": 8,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      6
+    ],
+    "ariaLabelForRatings": "4.8 stars"
+  },
+  "name": "Do I Make Myself Clear?",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Harold Evans",
+  "primaryLocale": "en-US"
+}

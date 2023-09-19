@@ -1,0 +1,65 @@
+{
+  "id": "1619640100",
+  "title": "What Makes Your Brain Happy and Why You Should Do the Opposite",
+  "subtitle": "Updated and Revised",
+  "author": "David DiSalvo",
+  "isbn": "9781633883505",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature"
+  ],
+  "seller": "The Rowman & Littlefield Publishing Group",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=17990&salableAdamId=1619640100&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$17.99",
+      "price": 17.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 906199
+        }
+      ]
+    }
+  ],
+  "pageCount": 335,
+  "releaseDate": "2018-02-13",
+  "isIBook": false,
+  "description": {
+    "standard": "This book reveals a remarkable paradox: what your brain wants is frequently not what your brain needs. In fact, much of what makes our brains &#34;happy&#34; leads to errors, biases, and distortions, which cloud our judgment and muddle our decision making.Science writer David DiSalvo presents evidence from evolutionary and social psychology, cognitive science, neurology, and even marketing and economics. And he interviews many of the top thinkers in psychology and neuroscience today. From this research-based platform, DiSalvo draws out insights that we can use to identify our brains&#39; foibles and turn our awareness into edifying action. Ultimately, he argues, the research does not serve up ready-made answers, but provides us with actionable clues for overcoming the plight of our advanced brains and, consequently, living more fulfilled lives.Newly revised to include the latest research on the workings of the brain,What Makes Your Brain Happyis an essential tool for understanding yourself."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/02/4f/08/024f0873-417d-59b0-cc7d-f730686f04ee/9781633883505.jpg/{w}x{h}bb.{f}",
+    "height": 2100,
+    "textColor3": "55514d",
+    "textColor2": "292623",
+    "textColor4": "54514f",
+    "textColor1": "2b2620",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/what-makes-your-brain-happy-and-why-you-should-do/id1619640100",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "What Makes Your Brain Happy and Why You Should Do the Opposite",
+  "isPreorder": false,
+  "publisher": "Prometheus",
+  "artistName": "David DiSalvo",
+  "primaryLocale": "en-US"
+}

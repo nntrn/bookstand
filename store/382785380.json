@@ -1,0 +1,60 @@
+{
+  "id": "382785380",
+  "title": "The Moral Landscape",
+  "subtitle": "How Science Can Determine Human Values",
+  "author": "Sam Harris",
+  "isbn": "9781439171233",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Nonfiction",
+    "Philosophy",
+    "Social Science"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=382785380&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1434490
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2010-10-05",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>New York Times </i>bestselling author Sam Harris’s first book, <i>The End of Faith</i>, ignited a worldwide debate about the validity of religion. In the aftermath, Harris discovered that most people—from religious fundamentalists to non-believing scientists—agree on one point: science has nothing to say on the subject of human values. Indeed, our failure to address questions of meaning and morality through science has now become the primary justification for religious faith.</b><br /><br />In this highly controversial book, Sam Harris seeks to link morality to the rest of human knowledge. Defining morality in terms of human and animal well-being, Harris argues that science can do more than tell how we are; it can, in principle, tell us how we ought to be. In his view, moral relativism is simply false—and comes at an increasing cost to humanity. And the intrusions of religion into the sphere of human values can be finally repelled: for just as there is no such thing as Christian physics or Muslim algebra, there can be no Christian or Muslim morality. Using his expertise in philosophy and neuroscience, along with his experience on the front lines of our “culture wars,” Harris delivers a game-changing book about the future of science and about the real basis of human cooperation."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2158,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/71/fb/b8/71fbb8b8-4690-1bc9-40fe-23d26f7ec483/9781439171233.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-moral-landscape/id382785380",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 151,
+    "ratingCountList": [
+      10,
+      8,
+      8,
+      23,
+      102
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Moral Landscape",
+  "isPreorder": false,
+  "publisher": "Free Press",
+  "artistName": "Sam Harris",
+  "primaryLocale": "en-US"
+}

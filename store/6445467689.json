@@ -1,0 +1,67 @@
+{
+  "id": "6445467689",
+  "title": "The Story of Alice",
+  "subtitle": "Lewis Carroll and the Secret History of Wonderland",
+  "author": "Robert Douglas-Fairhurst",
+  "isbn": "9780674287129",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Fiction & Literature",
+    "Literary Criticism",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=21990&salableAdamId=6445467689&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$21.99",
+      "price": 21.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 34673949
+        }
+      ]
+    }
+  ],
+  "pageCount": 481,
+  "releaseDate": "2015-06-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An examination of the lives of author Lewis Carroll &amp; Alice Liddell and the creation of the “Alice” stories &amp; their ongoing popularity.</b><br /><br />Following his acclaimed&#xa0;life of Dickens,&#xa0;Robert Douglas-Fairhurst&#xa0;illuminates the tangled history of two lives and two books. Drawing on numerous unpublished sources, he examines in detail the peculiar friendship between the Oxford mathematician Charles Dodgson (Lewis Carroll) and Alice Liddell, the child for whom he invented the Alice stories, and analyzes how this relationship stirred Carroll’s imagination and influenced the creation of Wonderland. It also explains why&#xa0;<i>Alice in Wonderland</i>&#xa0;(1865) and its sequel,&#xa0;<i>Through the Looking-Glass</i>&#xa0;(1871), took on an unstoppable cultural momentum in the Victorian era and why, a century and a half later, they continue to enthrall and delight readers of all ages.<br /><br /><i>The Story of Alice</i>&#xa0;reveals Carroll as both an innovator and a stodgy traditionalist, entrenched in habits and routines. He had a keen double interest in keeping things moving and keeping them just as they are. (In Looking-Glass Land, Alice must run faster and faster just to stay in one place.) Tracing the development of the Alice books from their inception in 1862 to Liddell’s death in 1934, Douglas-Fairhurst also provides a keyhole through which to observe a larger, shifting cultural landscape: the birth of photography, changing definitions of childhood, murky questions about sex and sexuality, and the relationship between Carroll’s books and other works of Victorian literature.<br /><br />In the stormy transition from the Victorian to the modern era, Douglas-Fairhurst shows, Wonderland became a sheltered world apart, where the line between the actual and the possible was continually blurred.<br /><br /><b>Praise for <i>The Story of Alice</i></b><br /><br /><b>“Offer[s] a thoughtful, far-reaching narrative, the story of three very different lives: those of Lewis Carroll, Alice Hargreaves, née Liddell, and the literary creation they both had a part in&#xa0;.&#xa0;.&#xa0;. Douglas-Fairhurst’s ability to make room for&#xa0;.&#xa0;.&#xa0;. doubts without giving in to them is one of his book’s great attractions.” —Michael Wood,&#xa0;<i>The New York Times Book Review</i></b><br /><br /><b>“Douglas-Fairhurst’s&#xa0;<i>The Story of Alice</i>&#xa0;belongs with the best books ever written in the field of Carrollian studies&#xa0;.&#xa0;.&#xa0;. For a total work of criticism&#xa0;.&#xa0;.&#xa0;. <i>The Story of Alice</i>&#xa0;can’t be beat. In it, Douglas-Fairhurst examines the tangled lives of Carroll and Alice Liddell (later Alice Hargreaves) up until the latter’s death in 1934, while also tracking the publication history of the ‘Alice’ books, their popularity and their ongoing cultural influence. The Oxford don’s own prose is, moreover, a delight to read: fact-filled, nicely balanced between exposition and quotation, confiding and witty. In fact, high among the pleasures of&#xa0;<i>The Story of Alice</i>&#xa0;is its willingness to amuse as well as instruct.” —Michael Dirda,&#xa0;<i>The Washington Post</i></b>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/22/99/f6/2299f6e4-5cf4-e65b-6d12-0324d7bcd523/9780674287129.jpg/{w}x{h}bb.{f}",
+    "height": 2394,
+    "textColor3": "c4ca9a",
+    "textColor2": "f4e5be",
+    "textColor4": "c8c4af",
+    "textColor1": "eeeda4",
+    "bgColor": "1a3f74",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-story-of-alice/id6445467689",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Story of Alice",
+  "publisher": "Harvard University Press",
+  "isPreorder": false,
+  "artistName": "Robert Douglas-Fairhurst",
+  "primaryLocale": "en-US"
+}

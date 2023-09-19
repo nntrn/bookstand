@@ -1,0 +1,59 @@
+{
+  "id": "499569517",
+  "title": "The Social Conquest of Earth",
+  "subtitle": null,
+  "author": "Edward O. Wilson",
+  "isbn": "9780871403308",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Biology"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=499569517&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8420774
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2012-04-09",
+  "isIBook": false,
+  "description": {
+    "standard": "New York Times Bestseller and Notable Book of the Year<br />\nA Kirkus Reviews Book of the Year (Nonfiction)<br />\nLonglisted for the Andrew Carnegie Medal for Excellence (Nonfiction)<br /><br />From the most celebrated heir to Darwin comes a groundbreaking book on evolution, the summa work of Edward O. Wilson's legendary career.<br />\nSparking vigorous debate in the sciences, The Social Conquest of Earth upends “the famous theory that evolution naturally encourages creatures to put family first” (Discover). Refashioning the story of human evolution, Wilson draws on his remarkable knowledge of biology and social behavior to demonstrate that group selection, not kin selection, is the premier driving force of human evolution. In a work that James D. Watson calls “a monumental exploration of the biological origins of the human condition,” Wilson explains how our innate drive to belong to a group is both a “great blessing and a terrible curse” (Smithsonian). Demonstrating that the sources of morality, religion, and the creative arts are fundamentally biological in nature, the renowned Harvard University biologist presents us with the clearest explanation ever produced as to the origin of the human condition and why it resulted in our domination of the Earth’s biosphere."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2104,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/39/70/dd/3970dda6-b0b1-2972-4788-11dc3eeb4eac/9780871403308.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-social-conquest-of-earth/id499569517",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 77,
+    "ratingCountList": [
+      8,
+      4,
+      6,
+      24,
+      35
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "The Social Conquest of Earth",
+  "publisher": "Liveright",
+  "isPreorder": false,
+  "artistName": "Edward O. Wilson",
+  "primaryLocale": "en-US"
+}

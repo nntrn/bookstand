@@ -1,0 +1,66 @@
+{
+  "id": "1529890389",
+  "title": "Accidental Gods",
+  "subtitle": "On Race, Empire, and Men Unwittingly Turned Divine",
+  "author": "Anna Della Subin",
+  "isbn": "9781250296887",
+  "genreNames": [
+    "World",
+    "Books",
+    "History",
+    "Religion & Spirituality"
+  ],
+  "seller": "Macmillan",
+  "description": {
+    "standard": "<b>NAMED A BEST BOOK OF THE YEAR BY <i>ESQUIRE</i>, <i>THE IRISH TIMES</i> AND THE <i>TIMES LITERARY SUPPLEMENT<br /></i><br />A provocative history of men who were worshipped as gods that illuminates the connection between power and religion and the role of divinity in a secular age<br /><br /></b>Ever since 1492, when Christopher Columbus made landfall in the New World and was hailed as a heavenly being, the accidental god has haunted the modern age. From Haile Selassie, acclaimed as the Living God in Jamaica, to Britain’s Prince Philip, who became the unlikely center of a new religion on a South Pacific island, men made divine—always men—have appeared on every continent. And because these deifications always emerge at moments of turbulence—civil wars, imperial conquest, revolutions—they have much to teach us.<br /><br />In a revelatory history spanning five centuries, a cast of surprising deities helps to shed light on the thorny questions of how our modern concept of “religion” was invented; why religion and politics are perpetually entangled in our supposedly secular age; and how the power to call someone divine has been used and abused by both oppressors and the oppressed. From nationalist uprisings in India to Nigerien spirit possession cults, Anna Della Subin explores how deification has been a means of defiance for colonized peoples. Conversely, we see how Columbus, Cortés, and other white explorers amplified stories of their godhood to justify their dominion over native peoples, setting into motion the currents of racism and exclusion that have plagued the New World ever since they touched its shores.<br /><br />At once deeply learned and delightfully antic, <i>Accidental Gods</i> offers an unusual keyhole through which to observe the creation of our modern world. It is that rare thing: a lyrical, entertaining work of ideas, one that marks the debut of a remarkable literary career."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1529890389&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 46780912
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2021-12-07",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 3256,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/70/7b/5a/707b5a51-0924-de13-3731-d1ca78b3bfa4/9781250296887.jpg/{w}x{h}bb.{f}",
+    "height": 5000,
+    "textColor3": "32302a",
+    "textColor2": "491a0b",
+    "textColor4": "6a4332",
+    "textColor1": "020201",
+    "bgColor": "f1e7ce",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/accidental-gods/id1529890389",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Accidental Gods",
+  "isPreorder": false,
+  "publisher": "Henry Holt and Co.",
+  "artistName": "Anna Della Subin",
+  "primaryLocale": "en-US"
+}

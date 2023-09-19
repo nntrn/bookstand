@@ -1,0 +1,66 @@
+{
+  "id": "357921803",
+  "title": "Reading in the Brain",
+  "subtitle": "The New Science of How We Read",
+  "author": "Stanislas Dehaene",
+  "isbn": "9781101152409",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Health, Mind & Body",
+    "Psychology",
+    "Self-Improvement"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=357921803&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9510151
+        }
+      ]
+    }
+  ],
+  "pageCount": 400,
+  "releaseDate": "2009-11-12",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A renowned cognitive neuroscientist?s fascinating and highly informative account of how the brain acquires reading</b><br /><br />How can a few black marks on a white page evoke an entire universe of sounds and meanings? In this riveting investigation, Stanislas Dehaene provides an accessible account of the brain circuitry of reading and explores what he calls the ?reading paradox?: Our cortex is the product of millions of years of evolution in a world without writing, so how did it adapt to recognize words? <i>Reading in the Brain</i> describes pioneering research on how we process language, revealing the hidden logic of spelling and the existence of powerful unconscious mechanisms for decoding words of any size, case, or font.<br /><br /> Dehaene?s research will fascinate not only readers interested in science and culture, but also educators concerned with debates on how we learn to read, and who wrestle with pathologies such as dyslexia. Like Steven Pinker, Dehaene argues that the mind is not a blank slate: Writing systems across all cultures rely on the same brain circuits, and reading is only possible insofar as it fits within the limits of a primate brain. Setting cutting-edge science in the context of cultural debate, <i>Reading in the Brain</i> is an unparalleled guide to a uniquely human ability."
+  },
+  "artwork": {
+    "width": 3300,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/0b/18/ea/0b18ea21-7dc4-971c-f725-ddf8656b08af/9781101152409.d.jpg/{w}x{h}bb.{f}",
+    "height": 5063,
+    "textColor3": "33444f",
+    "textColor2": "003749",
+    "textColor4": "335f6e",
+    "textColor1": "001623",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/reading-in-the-brain/id357921803",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 8,
+    "ratingCountList": [
+      1,
+      0,
+      2,
+      0,
+      5
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Reading in the Brain",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Stanislas Dehaene",
+  "primaryLocale": "en-US"
+}

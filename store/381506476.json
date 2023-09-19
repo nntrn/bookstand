@@ -1,0 +1,66 @@
+{
+  "id": "381506476",
+  "title": "He's Just Not That Into You",
+  "subtitle": "The No-Excuses Truth to Understanding Guys",
+  "author": "Greg Behrendt & Liz Tuccillo",
+  "isbn": "9781416905783",
+  "genreNames": [
+    "Family & Relationships",
+    "Books",
+    "Nonfiction",
+    "Humor",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=381506476&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7308994
+        }
+      ]
+    }
+  ],
+  "pageCount": 176,
+  "releaseDate": "2004-10-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>He’s Just Not That Into You—</i>based on a popular episode of <i>Sex and the City</i>—is tough love advice for otherwise smart women on how to tell when a guy just doesn’t like them <i>enough</i>, so they can stop wasting time making excuses for a dead-end relationship. It’s the best relationship advice you’ll ever receive.</b><br /><br />For ages, women have come together over coffee, cocktails, or late-night phone chats to analyze the puzzling behavior of men.<br /><br /><i>He’s afraid to get hurt again.<br /> Maybe he doesn’t want to ruin the friendship.<br /> Maybe he’s intimidated by me.<br /> He just got out of a relationship.</i><br /><br />Greg Behrendt and Liz Tuccillo are here to say that—despite good intentions—you’re wasting your time. Men are not complicated, although they’d like you to think they are. And there are no mixed messages.<br /><br />The truth may be, <i>He’s just not that into you.</i><br /><br />Unfortunately, guys are too terrified to ever directly tell a woman, “You're not the one.” But their actions absolutely show how they feel.<br /><br />Reexamining familiar scenarios and classic mindsets that keep us in unsatisfying relationships, Behrendt and Tuccillo’s wise and wry understanding of the sexes spares women hours of waiting by the phone, obsessing over the details with sympathetic girlfriends, and hoping his mixed messages really mean, “I’m in love with you and want to be with you.”<br /><br /><i>He’s Just Not That Into You</i> is provocative, hilarious, and, above all, intoxicatingly liberating. It deserves a place on every woman’s night table. It knows you’re a beautiful, smart, funny woman who deserves better. The next time you feel the need to start “figuring him out,” consider the glorious thought that maybe, <i>He’s just not that into you.</i> And then set yourself loose to go find the one who is."
+  },
+  "artwork": {
+    "width": 1399,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication20/v4/ce/83/69/ce836932-4d78-2a9f-28bb-a58ed42a57c7/9781416905783.jpg/{w}x{h}bb.{f}",
+    "height": 2086,
+    "textColor3": "2b2b2c",
+    "textColor2": "222424",
+    "textColor4": "464848",
+    "textColor1": "010001",
+    "bgColor": "d6dad9",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/hes-just-not-that-into-you/id381506476",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 761,
+    "ratingCountList": [
+      27,
+      20,
+      49,
+      125,
+      540
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "He's Just Not That Into You",
+  "publisher": "Gallery Books",
+  "isPreorder": false,
+  "artistName": "Greg Behrendt & Liz Tuccillo",
+  "primaryLocale": "en-US"
+}

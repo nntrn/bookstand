@@ -1,0 +1,66 @@
+{
+  "id": "1547218226",
+  "title": "Poe for Your Problems",
+  "subtitle": "Uncommon Advice from History's Least Likely Self-Help Guru",
+  "author": "Catherine Baab-Muguira",
+  "isbn": "9780762499083",
+  "genreNames": [
+    "Humor",
+    "Books",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1547218226&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 24750716
+        }
+      ]
+    }
+  ],
+  "pageCount": 240,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2021-09-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>When life’s got you down and things aren’t going your way, who better to turn to than Edgar Allan Poe? Discover how to say \"nevermore\" to your problems in this darkly comedic and refreshing self-help guide.</b><br /><br />Of all the writers anywhere, Poe would seem to be the <i>least</i> likely person you'd want to turn to for advice. His life was a complete dumpster fire: he had tons of failed relationships; not many people liked him; he was a drunk; he was always broke; he often went hungry; even his own death was somewhat of a mystery. However, that's also precisely the point. Somehow, even when Poe failed, he also persevered.<br /><br />Drawing deeply on his works and life, Catherine Baab-Muguira takes the familiar image of Poe in&#xa0;a new and surprising direction&#xa0;in this darkly inspiring self-help book. Despite what you might think, Edgar Allan Poe somehow is the <i>perfect </i>person to teach you to say \"Nevermore, problems!\" and show you how to use all the terrible situations, tough breaks, bad luck, and even your darkest emotions in novel and creative ways to make a name for yourself and carve out your own unique, notorious place in the world.<br /><br />An inspirational tale for black sheep everywhere, <i>Poe for Your Problems </i>will teach you how to overcome life’s biggest challenges and succeed at work, love, and art—despite the odds and no matter your flaws."
+  },
+  "artwork": {
+    "width": 1857,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/88/19/3c/88193c5e-e9c3-4526-6def-23d010a60460/9780762499083.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "363433",
+    "textColor2": "31281a",
+    "textColor4": "5a5347",
+    "textColor1": "040200",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/poe-for-your-problems/id1547218226",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Poe for Your Problems",
+  "isPreorder": false,
+  "publisher": "Running Press",
+  "artistName": "Catherine Baab-Muguira",
+  "primaryLocale": "en-US"
+}

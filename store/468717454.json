@@ -1,0 +1,66 @@
+{
+  "id": "468717454",
+  "title": "Gone Girl",
+  "subtitle": "A Novel",
+  "author": "Gillian Flynn",
+  "isbn": "9780307588388",
+  "genreNames": [
+    "Mysteries & Thrillers",
+    "Books"
+  ],
+  "seller": "Penguin Random House LLC",
+  "description": {
+    "standard": "<b>#1 <i>NEW YORK TIMES</i> BESTSELLER • The&#xa0;“mercilessly entertaining” (<i>Vanity Fair</i>)&#xa0;instant classic “about the nature of identity and the terrible secrets that can survive and thrive in even the most intimate relationships” (Lev Grossman, <i>Time</i>)—now featuring never-before-published deleted scenes</b><br />&#xa0; <br /><b>NAMED ONE OF THE MOST INFLUENTIAL BOOKS OF THE DECADE BY CNN&#xa0;AND ONE OF&#xa0;THE BEST BOOKS OF THE DECADE BY <i>TIME</i> AND <i>ENTERTAINMENT WEEKLY</i></b> <br /><br /><b>NAMED ONE OF THE TEN BEST BOOKS OF THE YEAR BY Janet Maslin, <i>The New York Times</i> • <i>People</i> • <i>Entertainment Weekly</i> • <i>O: The Oprah Magazine</i> • <i>Slate</i> • <i>Kansas City Star</i> • <i>USA Today</i> • <i>Christian Science Monitor</i></b><br /><b><br /></b>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge<b>.</b> Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?&#xa0;<br /><br /><b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY</b> <b><i>San Francisco Chronicle</i> • <i>St. Louis Post-Dispatch</i> • <i>The&#xa0;Chicago Tribune</i> • <i>HuffPost</i> • <i>Newsday<br /></i></b>"
+  },
+  "editorialNotes": {
+    "standard": "This devilish thriller about a husband who comes under suspicion after his wife vanishes brought goosebumps to millions. Ben Affleck stars in David Fincher's movie adaptation, for which author Gillian Flynn wrote a new ending.\n"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=468717454&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2357609
+        }
+      ]
+    }
+  ],
+  "pageCount": 432,
+  "releaseDate": "2012-06-05",
+  "isIBook": false,
+  "artwork": {
+    "width": 1559,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/a3/6f/1e/a36f1eef-0420-baf0-c9aa-7d1adc60439e/9780307588388.d.jpg/{w}x{h}bb.{f}",
+    "height": 2395,
+    "textColor3": "cfcfcc",
+    "textColor2": "fab2a6",
+    "textColor4": "cb9187",
+    "textColor1": "fffffd",
+    "bgColor": "11100c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/gone-girl/id468717454",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 12999,
+    "ratingCountList": [
+      825,
+      909,
+      1579,
+      3311,
+      6375
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Gone Girl",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "Gillian Flynn",
+  "primaryLocale": "en-US"
+}

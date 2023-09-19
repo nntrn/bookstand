@@ -1,0 +1,66 @@
+{
+  "id": "1508603455",
+  "title": "Handwriting Analysis",
+  "subtitle": "The Complete Basic Book",
+  "author": "Karen Kristin Amend & Mary Stanbury Ruiz",
+  "isbn": "9781601635464",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1508603455&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 32789698
+        }
+      ]
+    }
+  ],
+  "pageCount": 196,
+  "releaseDate": "2000-06-19",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Learn the many ways handwriting can reveal personality traits in this comprehensive introduction to graphology.</b><br /> &#xa0;<br /> In <i>Handwriting Analysis</i>, graphology expert Karen Kristin Amend offers a fresh approach to the principles of graphology. Covering all aspects of handwriting, from size and spacing to pace and form quality, this book is designed to help readers learn the skills of whole-person profiling.<br /> &#xa0;<br /> Amend demonstrates how to determine various personality traits ranging from mood to moral character, self-confidence, and emotional needs. She also shows how to detect emotional disturbance or mental illness. With new material for understanding the significance of the writing rhythm, this volume also provides handwriting samples of famous people."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/8f/56/75/8f567542-112a-e234-afb4-ba59ef23a341/9781601635464.jpg/{w}x{h}bb.{f}",
+    "height": 2250,
+    "textColor3": "323000",
+    "textColor2": "062737",
+    "textColor4": "374f2c",
+    "textColor1": "000000",
+    "bgColor": "fcf100",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/handwriting-analysis/id1508603455",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Handwriting Analysis",
+  "publisher": "Red Wheel/Weiser",
+  "isPreorder": false,
+  "artistName": "Karen Kristin Amend & Mary Stanbury Ruiz",
+  "primaryLocale": "en-US"
+}

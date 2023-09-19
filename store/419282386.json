@@ -1,0 +1,64 @@
+{
+  "id": "419282386",
+  "title": "Stumbling on Happiness",
+  "subtitle": null,
+  "author": "Daniel Gilbert",
+  "isbn": "9780307265302",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=419282386&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1429781
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2006-05-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>NATIONAL BESTSELLER • Bringing to life scientific research in psychology, cognitive neuroscience, philosophy, and behavioral economics, this witty, accessible book reveals what scientists have discovered about the uniquely human ability to imagine the future, and about our capacity to predict how much we will like it when we get there. </b><br /><br /> • Why are lovers quicker to forgive their partners for infidelity than for leaving dirty dishes in the sink? <br /><br /> • Why will sighted people pay more to avoid going blind than blind people will pay to regain their sight? <br /><br /> • Why do dining companions insist on ordering different meals instead of getting what they really want? <br /><br /> • Why do pigeons seem to have such excellent aim; why can’t we remember one song while listening to another; and why does the line at the grocery store always slow down the moment we join it? <br /><br />In this brilliant book, renowned Harvard psychologist Daniel Gilbert describes the foibles of imagination and illusions of foresight that cause each of us to misconceive our tomorrows and misestimate our satisfactions. With penetrating insight and sparkling prose, Gilbert explains why we seem to know so little about the hearts and minds of the people we are about to become."
+  },
+  "artwork": {
+    "width": 1555,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/3d/fd/eb/3dfdeb01-9441-04ce-f292-d2129dc49f81/9780307265302.d.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "3e3c3d",
+    "textColor2": "111011",
+    "textColor4": "414040",
+    "textColor1": "0e0b0c",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/stumbling-on-happiness/id419282386",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 187,
+    "ratingCountList": [
+      25,
+      15,
+      21,
+      46,
+      80
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "Stumbling on Happiness",
+  "publisher": "Knopf Doubleday Publishing Group",
+  "isPreorder": false,
+  "artistName": "Daniel Gilbert",
+  "primaryLocale": "en-US"
+}

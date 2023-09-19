@@ -1,0 +1,65 @@
+{
+  "id": "1593234260",
+  "title": "Quantum Shorts: Collected Flash Fiction Inspired by Quantum Physics",
+  "subtitle": null,
+  "author": "Michael Brooks, Jenny Hogan & Puah Xin Yi",
+  "isbn": "9789811432712",
+  "genreNames": [
+    "Fiction & Literature",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Science Fiction & Literature",
+    "Short Stories"
+  ],
+  "seller": "Draft2Digital, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=1593234260&pricingParameters=STDQ&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2716626
+        }
+      ]
+    }
+  ],
+  "pageCount": 158,
+  "releaseDate": "2020-08-07",
+  "isIBook": false,
+  "description": {
+    "standard": "This book presents winning and&#xa0;shortlisted stories from past&#xa0;editions of the international&#xa0;Quantum Shorts competition.&#xa0;Inspired by the weird and wonderful world of quantum&#xa0;physics, the shorts range from&#xa0;bold imaginings of a quantum&#xa0;future to contemplations rooted&#xa0;in the everyday. They feature&#xa0;characters of all sorts: lovers&#xa0;beginning their lives together,&#xa0;an atom having an existential&#xa0;crisis, and, of course, cats. These&#xa0;Quantum Shorts will unleash in&#xa0;your mind a multiverse of ideas."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/fa/84/f0/fa84f00f-f396-fc4c-b888-aa45b71498bd/0000593956.jpg/{w}x{h}bb.{f}",
+    "height": 2154,
+    "textColor3": "d0cbcd",
+    "textColor2": "f6bc41",
+    "textColor4": "cc9d3d",
+    "textColor1": "faf6f5",
+    "bgColor": "27212d",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/quantum-shorts-collected-flash-fiction-inspired-by/id1593234260",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Quantum Shorts: Collected Flash Fiction Inspired by Quantum Physics",
+  "isPreorder": false,
+  "publisher": "Pagesetters Services Pte Ltd",
+  "artistName": "Michael Brooks, Jenny Hogan & Puah Xin Yi",
+  "primaryLocale": "en-US"
+}

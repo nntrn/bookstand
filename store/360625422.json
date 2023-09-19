@@ -1,0 +1,61 @@
+{
+  "id": "360625422",
+  "title": "The Secret Life of Lobsters",
+  "subtitle": "How Fishermen and Scientists Are Unraveling the Mysteries of Our Favorite Crustacean",
+  "author": "Trevor Corson",
+  "isbn": "9780061873973",
+  "genreNames": [
+    "Nature",
+    "Books",
+    "Science & Nature",
+    "History",
+    "Earth Sciences",
+    "Australia & Oceania"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=360625422&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 778316
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2009-10-13",
+  "isIBook": false,
+  "description": {
+    "standard": "“Lobster is served three ways in this fascinating book: by fisherman, scientist and the crustaceans themselves. . . . Corson, who worked aboard commercial lobster boats for two years, weaves together these three worlds. The human worlds are surely interesting; but they can’t top the lobster life on the ocean floor.”&#xa0;&#xa0;—&#xa0;Washington Post<br /><br />In this intimate portrait of an island lobstering community and an eccentric band of renegade biologists, journalist Trevor Corson escorts the reader onto the slippery decks of fishing boats, through danger-filled scuba dives, and deep into the churning currents of the Gulf of Maine to learn about the secret undersea lives of lobsters.<br /><br />This P.S. edition features an extra 16 pages of insights into the book, including author interviews, recommended reading, and more."
+  },
+  "artwork": {
+    "width": 429,
+    "height": 648,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/cc/fb/39/mzi.thcotboa.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-secret-life-of-lobsters/id360625422",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 20,
+    "ratingCountList": [
+      0,
+      2,
+      1,
+      6,
+      11
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Secret Life of Lobsters",
+  "publisher": "HarperCollins e-books",
+  "isPreorder": false,
+  "artistName": "Trevor Corson",
+  "primaryLocale": "en-US"
+}

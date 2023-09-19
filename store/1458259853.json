@@ -1,0 +1,67 @@
+{
+  "id": "1458259853",
+  "title": "Yearbook",
+  "subtitle": "-",
+  "author": "Seth Rogen",
+  "isbn": "9781984825414",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Humor"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=1458259853&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 13870498
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2021-05-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>#2</b> <b><i>NEW YORK TIMES</i> BESTSELLER*</b> <b>• “Rogen’s candid collection of sidesplitting essays . . . thrives at both explaining and encapsulating a generational comedic voice.”—<i>The Washington Post</i><br /><br />A collection of funny personal essays from one of the writers of <i>Superbad</i> and <i>Pineapple Express</i> and one of the producers of <i>The Disaster Artist, Neighbors,</i> and <i>The Boys</i>. (All of these words have been added to help this book show up in people’s searches</b> <b>using the wonders of algorithmic technology. Thanks for bearing with us!)</b><br />&#xa0;<br /><b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR • <i>New York Post </i>• <i>Marie Claire </i>• <i>Self </i>• <i>BookRiot</i><br /></b><br />Hi! I’m Seth! I was asked to describe my book, <i>Yearbook,</i> for the inside flap (which is a gross phrase) and for websites and shit like that, so… here it goes!!!<br />&#xa0;<br /><i>Yearbook</i> is a collection of true stories that I desperately hope are just funny at worst, and life-changingly amazing at best. (I understand that it’s likely the former, which is a fancy “book” way of saying “the first one.”)&#xa0;<br />&#xa0;<br />I talk about my grandparents, doing stand-up comedy as a teenager, bar mitzvahs, and Jewish summer camp, and tell way more stories about doing drugs than my mother would like. I also talk about some of my adventures in Los Angeles, and surely say things about other famous people that will create a wildly awkward conversation for me at a party one day.<br />&#xa0;<br />I hope you enjoy the book should you buy it, and if you don’t enjoy it, I’m sorry. If you ever see me on the street and explain the situation, I’ll do my best to make it up to you. <br />&#xa0; <br /><b>*I was beaten by Bill O’Reilly, which really sucks.</b>"
+  },
+  "artwork": {
+    "width": 1683,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/00/c7/f4/00c7f4f8-1c2f-f16c-ae71-f94f9ef9fba8/9781984825414.d.jpg/{w}x{h}bb.{f}",
+    "height": 2550,
+    "textColor3": "ccd9eb",
+    "textColor2": "fdeb00",
+    "textColor4": "cbcb20",
+    "textColor1": "fffcff",
+    "bgColor": "044da0",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/yearbook/id1458259853",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 583,
+    "ratingCountList": [
+      15,
+      16,
+      41,
+      131,
+      380
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Yearbook",
+  "publisher": "Crown",
+  "isPreorder": false,
+  "artistName": "Seth Rogen",
+  "editorialNotes": {
+    "standard": "How do you go from being a 13-year-old wannabe stand-up comedian to one of Hollywood’s most prolific and in-demand stars? With his thoughtful memoir, Seth Rogen answers this question in touching and hilarious detail. Every anecdote is funny, shocking, adorable, or, more often, all of the above. Rogen isn’t afraid to get into embarrassing personal detail (like when he describes pooping his pants on an early date with his wife), and he’s just as courageously honest about his run-ins with A-list celebrities (get ready for a very awkward, Scientology-heavy visit to Tom Cruise’s house). He even gets into heavier issues such as anti-Semitism and his infamous love of marijuana. You’ll swear you can hear Rogen’s wonderful trademark giggle as he recounts these stories. If you love Rogen, <i>Yearbook</i> is just as fun and easygoing as you’d imagine. You might need to occasionally put the book down to catch your breath—from laughing."
+  },
+  "primaryLocale": "en-US"
+}
