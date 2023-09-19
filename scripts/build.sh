@@ -3,7 +3,7 @@
 PROG=$0
 SCRIPT="$(realpath "$0")"
 DIR=${SCRIPT%/*}
-OUTDIR=$DIR/docs
+OUTDIR=${SCRIPT%/*/*}/docs
 CACHEDIR=$HOME/.cache/bookstand
 MINWIDTH=${MINWIDTH:-200}
 FORCE=${FORCE:-0}
@@ -64,7 +64,7 @@ delete_empty() { [[ -f $1 ]] && [[ ! -s $1 ]] && rm $1; }
 
 clean() {
   echo "Cleaning $OUTDIR"
-  find $OUTDIR $OUTDIR -type f -empty -print -delete
+  find $OUTDIR -type f -empty -print -delete
 }
 
 download_asset_page() {
@@ -72,23 +72,12 @@ download_asset_page() {
   local ASSETID=$1
   APPLE_STORE_URL=https://books.apple.com/us/book
   CACHESTOREHTML=$CACHEDIR/${ASSETID}.html
-  # delete_empty $CACHESTOREHTML
   if [[ ! -f $CACHESTOREHTML ]]; then
     curl -s --create-dirs -o $CACHESTOREHTML "${APPLE_STORE_URL}/id${ASSETID}"
   fi
   if [[ -f $CACHESTOREHTML ]]; then
     echo "$CACHESTOREHTML"
   fi
-}
-
-scrape_book_api2() {
-  cat $1 |
-    sed 's,<script,\n<script,g;s,<\/script>,\n</script>,g' |
-    sed -n '/<script type="fastboot\/shoebox" id="shoebox-media-api-cache-amp-books">/,/<\/script>/ p' |
-    sed s',>{,>\n{,' | grep -vE '<.?script' |
-    jq 'to_entries|.[0].value|fromjson | (.d|.[0])
-      | {id,type,title:.attributes.name,subtitle,author:.attributes.artistName,isbn,genreNames} + .attributes
-      | del(.relationships,.versionHistory,.screenshots,.bookSampleDownloadUrl,.criticalReviews,.editorialArtwork,.type)'
 }
 
 scrape_book_api() {
@@ -113,26 +102,28 @@ scrape_book_api() {
 get_book_cover() {
   local ASSETID=$1
   mkdir -p $OUTDIR/store
-  OUTPATH="${OUTDIR}/store/${ASSETID}.json"
-  # HTMLPAGE="$(download_asset_page $1)"
+  mkdir -p $OUTDIR/covers
+  STOREPATH="${OUTDIR}/store/${ASSETID}.json"
+  COVERPATH="${OUTDIR}/covers/${ASSETID}.jpg"
   IMGCACHEPATH="${CACHEDIR}/jpg/${MINWIDTH}/${ASSETID}.jpg"
   RC=0
 
-  if [[ ! -f $OUTPATH ]] || [[ $FORCE -eq 1 ]]; then
-    scrape_book_api $ASSETID >$OUTPATH
-  fi
-  if [[ -s $OUTPATH ]]; then
-    BOOKCOVERJPG=$(
-      jq -r --arg wx ${MINWIDTH:-200} \
-        '($wx|tonumber) as $w|.artwork|
-        "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' $OUTPATH
-    )
-    if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
-      curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
-      RC=$?
+  if [[ ! -f $COVERPATH ]] || [[ $FORCE -eq 1 ]]; then
+    [[ ! -f $STOREPATH ]] && scrape_book_api $ASSETID >$STOREPATH
+    if [[ -s $STOREPATH ]]; then
+      BOOKCOVERJPG=$(
+        jq -r --arg wx ${MINWIDTH:-200} \
+          '($wx|tonumber) as $w|.artwork|
+        "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' $STOREPATH
+      )
+      if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
+        curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
+        RC=$?
+      fi
     fi
+    [[ -f $IMGCACHEPATH ]] && cp $IMGCACHEPATH $COVERPATH
+    [[ ! -f $IMGCACHEPATH ]] && RC=1
   fi
-  [[ ! -f $IMGCACHEPATH ]] && RC=1
   CANCEL_ON_ERROR=0 check_job $RC "Book cover $ASSETID"
 }
 
@@ -141,6 +132,7 @@ create_book_data() {
   [[ ! -f $ANNOTATIONS_FILE ]] && check_job 1 "Missing file"
   jq -L $DIR 'include "bookstand"; book_list' $ANNOTATIONS_FILE >$OUTDIR/_data/books.json
   check_job $? "Write $OUTDIR/_data/books.json"
+  [[ ! -f $OUTDIR/_data/.gitignore ]] && echo "*" >$OUTDIR/_data/.gitignore
 }
 
 create_genre_data() {
@@ -148,6 +140,7 @@ create_genre_data() {
   [[ ! -f $ANNOTATIONS_FILE ]] && check_job 1 "Missing file"
   jq -L $DIR 'include "bookstand"; annotation_tags' $ANNOTATIONS_FILE >$OUTDIR/_data/genre.json
   check_job $? "Write $OUTDIR/_data/genre.json"
+  [[ ! -f $OUTDIR/_data/.gitignore ]] && echo "*" >$OUTDIR/_data/.gitignore
 }
 
 create_activity_data() {
@@ -155,6 +148,7 @@ create_activity_data() {
   [[ ! -f $ANNOTATIONS_FILE ]] && check_job 1 "Missing file"
   jq -L $DIR 'include "bookstand"; activity_list' $ANNOTATIONS_FILE >$OUTDIR/_data/activity.json
   check_job $? "Write $OUTDIR/_data/activity.json"
+  [[ ! -f $OUTDIR/_data/.gitignore ]] && echo "*" >$OUTDIR/_data/.gitignore
 }
 
 create_annotation_files() {
@@ -166,6 +160,7 @@ create_annotation_files() {
       'include "bookstand"; create_annotations_markdown($out)' $ANNOTATIONS_FILE
   )
   check_job $? "Create markdown files to $OUTDIR/_annotations"
+  [[ ! -f $OUTDIR/_annotations/.gitignore ]] && echo "*" >$OUTDIR/_annotations/.gitignore
 }
 
 create_tag_files() {
@@ -178,6 +173,7 @@ create_tag_files() {
       'include "bookstand"; create_tag_markdown($out)' $GENREFILE
   )
   check_job $? "Create markdown files $OUTDIR/_tags"
+  [[ ! -f $OUTDIR/_tags/.gitignore ]] && echo "*" >$OUTDIR/_tags/.gitignore
 }
 
 ARGS=($@)
@@ -219,8 +215,8 @@ fi
 mkdir -p $CACHEDIR
 
 if [[ -z $ANNOTATIONS_FILE ]]; then
-  curl -s -o annotations.json https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
-  ANNOTATIONS_FILE=$(realpath annotations.json)
+  curl -s -o /tmp/annotations.json https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
+  ANNOTATIONS_FILE=/tmp/annotations.json
 fi
 
 [[ $((RUN_ALL + RUN_FILE_TASKS + RUN_CREATE_TAG_PAGES)) -gt 0 ]] && create_tag_files
