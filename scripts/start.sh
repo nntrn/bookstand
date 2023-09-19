@@ -1,22 +1,21 @@
 #!/usr/bin/env bash
 
-DIR="$(git rev-parse --show-toplevel)"
+set -e
+
 ARGS=("$@")
+SCRIPT="$(realpath "$0")"
+DIR="${SCRIPT%/*}"
 
-if [[ $# -gt 0 ]]; then
-  for i in "${!ARGS[@]}"; do
-    cur="${ARGS[$i]}"
-    case "$cur" in
-    --rebuild) REBUILD_BLOG=1 ;;
-    esac
-  done
-fi
+BUILD_SCRIPT=$DIR/build.sh
 
-if [[ $REBUILD_BLOG -eq 1 ]]; then
+cd "$(git rev-parse --show-toplevel)"
+
+if grep -q 'rebuild' <<<"${ARGS[@]}"; then
   echo "Removing _site and .jekyll-cache"
-  [[ -d $DIR/docs/_site ]] && rm -rf $DIR/docs/_site
-  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $DIR/docs/.jekyll-cache
+  [[ -d $DIR/docs/_site ]] && rm -rf $PWD/docs/_site
+  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $PWD/docs/.jekyll-cache
+  $BUILD_SCRIPT --all-data-tasks --all-file-tasks --out $PWD/docs
 fi
 
-cd $DIR/docs || exit
+cd docs || exit
 bundle exec jekyll serve

@@ -2,6 +2,13 @@ name: Build page
 
 on:
   workflow_dispatch:
+    inputs:
+      main_branch:
+        required: false
+        type: string
+  push:
+    paths:
+      - 'docs/**'
 
 permissions:
   contents: write
@@ -10,7 +17,7 @@ permissions:
 
 concurrency:
   group: 'pages'
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -19,9 +26,10 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: ${{env.GITHUB_REF_NAME}}
+          ref: ${{inputs.main_branch || env.GITHUB_REF_NAME}}
           path: main
-      - name: Checkout data branch
+
+      - name: Checkout assets branch
         uses: actions/checkout@v3
         with:
           ref: assets
@@ -35,27 +43,21 @@ jobs:
       - name: Build files in main dir
         run: >
           ${{env.MAINDIR}}/scripts/build.sh --all-data-tasks --all-file-tasks
-          --genre-file ${{env.MAINDIR}}/docs/_data/genre.json
           --out ${{env.MAINDIR}}/docs
           ${{env.ASSETSDIR}}/annotations.json
 
       - name: Build bookcovers
         run: >
-          ${{env.MAINDIR}}/scripts/build.sh
-          --book-covers
+          ${{env.MAINDIR}}/scripts/build.sh --book-covers
           --out ${{env.ASSETSDIR}}
           ${{env.ASSETSDIR}}/annotations.json
-
-      - name: Create store.json
-        run: >
-          cat ${{env.ASSETSDIR}}/store/*.json | jq -s '.' > ${{env.MAINDIR}}/docs/_data/store.json
 
       - name: Commit and push
         working-directory: assets
         run: |
           if [[ -n $(git ls-files -om store covers) ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions@github.com"
+            git config user.name "github-actions"
+            git config user.email "actions@users.noreply.github.com"
             git config push.default current
             git pull
             git add .
@@ -63,12 +65,17 @@ jobs:
             git push
           fi
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./main/docs
           destination: ./main/docs/_site
           verbose: false
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

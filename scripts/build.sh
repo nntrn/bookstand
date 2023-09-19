@@ -7,17 +7,12 @@ OUTDIR=${SCRIPT%/*/*}/docs
 CACHEDIR=$HOME/.cache/bookstand
 MINWIDTH=${MINWIDTH:-200}
 FORCE=${FORCE:-0}
-CANCEL_ON_ERROR=1
-GENREFILE=$OUTDIR/_data/genre.json
-RUN_ALL=0
+CANCEL_ON_ERROR=1s
 RUN_CREATE_ANNOTATION_PAGES=0
 RUN_CREATE_TAG_PAGES=0
 RUN_DATA_ACTIVITY=0
 RUN_DATA_BOOK=0
 RUN_DATA_GENRE=0
-RUN_DATA_TASKS=0
-RUN_FETCH_BOOKCOVER=0
-RUN_FILE_TASKS=0
 
 _usage() {
   echo "
@@ -73,7 +68,7 @@ download_asset_page() {
   APPLE_STORE_URL=https://books.apple.com/us/book
   CACHESTOREHTML=$CACHEDIR/${ASSETID}.html
   if [[ ! -f $CACHESTOREHTML ]]; then
-    curl -s --create-dirs -o $CACHESTOREHTML "${APPLE_STORE_URL}/id${ASSETID}"
+    curl -L -s --create-dirs -o $CACHESTOREHTML "${APPLE_STORE_URL}/id${ASSETID}"
   fi
   if [[ -f $CACHESTOREHTML ]]; then
     echo "$CACHESTOREHTML"
@@ -93,38 +88,48 @@ scrape_book_api() {
       sed s',>{,>\n{,' | grep -vE '<.?script' |
       jq 'to_entries|.[0].value|fromjson | (.d|.[0])
       | {id,type,title:.attributes.name,subtitle,author:.attributes.artistName,isbn,genreNames} + .attributes
-      | del(.relationships,.versionHistory,.screenshots,.bookSampleDownloadUrl,.criticalReviews,.editorialArtwork,.type)'
+      | del(.relationships,.versionHistory,.screenshots,.bookSampleDownloadUrl,.criticalReviews,.editorialArtwork,.type,.url)'
   else
     return 1
   fi
 }
 
+jq_bc_url() {
+  cat $1 | jq -r --arg wx ${MINWIDTH:-200} '($wx|tonumber) as $w|.artwork|
+    "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' 2>/dev/null
+}
+
+ignore_dir() {
+  if [[ ! -f $1/.gitignore ]]; then
+    echo "*" >$1/.gitignore
+  fi
+}
 get_book_cover() {
   local ASSETID=$1
-  mkdir -p $OUTDIR/store
-  mkdir -p $OUTDIR/covers
   STOREPATH="${OUTDIR}/store/${ASSETID}.json"
   COVERPATH="${OUTDIR}/covers/${ASSETID}.jpg"
   IMGCACHEPATH="${CACHEDIR}/jpg/${MINWIDTH}/${ASSETID}.jpg"
   RC=0
 
+  mkdir -p $OUTDIR/store
+  mkdir -p $OUTDIR/covers
+  mkdir -p "${CACHEDIR}/jpg/${MINWIDTH}"
+
   if [[ ! -f $COVERPATH ]] || [[ $FORCE -eq 1 ]]; then
     [[ ! -f $STOREPATH ]] && scrape_book_api $ASSETID >$STOREPATH
     if [[ -s $STOREPATH ]]; then
-      BOOKCOVERJPG=$(
-        jq -r --arg wx ${MINWIDTH:-200} \
-          '($wx|tonumber) as $w|.artwork|
-        "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' $STOREPATH
-      )
+      BOOKCOVERJPG="$(jq_bc_url $STOREPATH)"
       if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
         curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
-        RC=$?
+        check_job $? "Downloading $BOOKCOVERJPG"
+        cp "$IMGCACHEPATH" "$COVERPATH"
       fi
     fi
-    [[ -f $IMGCACHEPATH ]] && cp $IMGCACHEPATH $COVERPATH
-    [[ ! -f $IMGCACHEPATH ]] && RC=1
+    [[ -f $IMGCACHEPATH ]] && cp "$IMGCACHEPATH" "$COVERPATH"
   fi
-  CANCEL_ON_ERROR=0 check_job $RC "Book cover $ASSETID"
+  if [[ ! -f $COVERPATH ]]; then
+    check_job 1 "Missing bookcover for $ASSETID"
+  fi
 }
 
 create_book_data() {
@@ -170,14 +175,32 @@ create_tag_files() {
   mkdir -p $OUTDIR/_tags
   source <(
     jq -L $DIR -r --arg out $OUTDIR/_tags \
-      'include "bookstand"; create_tag_markdown($out)' $GENREFILE
+      'include "bookstand"; create_tag_markdown($out)' $OUTDIR/_data/genre.json
   )
   check_job $? "Create markdown files $OUTDIR/_tags"
   [[ ! -f $OUTDIR/_tags/.gitignore ]] && echo "*" >$OUTDIR/_tags/.gitignore
 }
 
+create_store_data() {
+  cd $DIR
+  cd "$(git rev-parse --show-toplevel)"
+  REMOTE_URL=$(git config --local --get remote.origin.url)
+  mkdir -p $OUTDIR/_data
+  (
+    cd "$(mktemp -d)"
+    git clone --depth 1 -b assets $REMOTE_URL assets &>/dev/null
+    jq -s 'map({
+    id,title,subtitle,
+    author,isbn,genreNames,pageCount, 
+    cover: (.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg")
+  })' ./assets/store/*.json
+  ) >$OUTDIR/_data/store.json
+}
+
 ARGS=($@)
 IDS=()
+
+mkdir -p $CACHEDIR
 
 if [[ $# -gt 0 ]]; then
   for i in "${!ARGS[@]}"; do
@@ -188,48 +211,70 @@ if [[ $# -gt 0 ]]; then
     case "$cur" in
     -h | --help) _usage ;;
     -f | --force) FORCE=1 ;;
-
     -o | --out) OUTDIR="${next}" ;;
     -w | --width) MINWIDTH=$next ;;
     -c | --clean) CLEAN_BUILD=1 ;;
 
+    *.json) ANNOTATIONS_FILE="${cur}" ;;
+
+    [0-9][0-9][0-9][0-9][0-9]*) IDS+=("$cur") ;;
+
     --books) RUN_DATA_BOOK=1 ;;
     --genre) RUN_DATA_GENRE=1 ;;
+    --store) RUN_DATA_STORE=1 ;;
     --activity) RUN_DATA_ACTIVITY=1 ;;
+
     --tags) RUN_CREATE_TAG_PAGES=1 ;;
     --annotations) RUN_CREATE_ANNOTATION_PAGES=1 ;;
-    --book-covers) RUN_FETCH_BOOKCOVER=1 ;;
-    --genre-file) GENREFILE="$next" ;;
-    --all-data-tasks) RUN_DATA_TASKS=1 ;;
-    --all-file-tasks) RUN_FILE_TASKS=1 ;;
-    -a | --all) RUN_ALL=1 ;;
 
-    *.json) ANNOTATIONS_FILE="${cur}" ;;
-    [0-9][0-9][0-9][0-9][0-9]*) IDS+=("$cur") ;;
+    --all-data-tasks)
+      RUN_DATA_BOOK=1
+      RUN_DATA_GENRE=1
+      RUN_DATA_ACTIVITY=1
+      RUN_DATA_STORE=1
+      ;;
+    --all-file-tasks)
+      RUN_CREATE_TAG_PAGES=1
+      RUN_CREATE_ANNOTATION_PAGES=1
+      ;;
+
+    --book-covers) RUN_DOWNLOAD_BOOKCOVERS=1 ;;
+
+    # --all-data-tasks) RUN_DATA_TASKS=1 ;;
+    # --all-file-tasks) RUN_FILE_TASKS=1 ;;
+
     esac
   done
 else
   _usage
 fi
 
-mkdir -p $CACHEDIR
-
 if [[ -z $ANNOTATIONS_FILE ]]; then
-  curl -s -o /tmp/annotations.json https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
-  ANNOTATIONS_FILE=/tmp/annotations.json
+  ANNOTATIONS_FILE=$(mktemp)
+  curl -s -o $ANNOTATIONS_FILE https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
 fi
 
-[[ $((RUN_ALL + RUN_FILE_TASKS + RUN_CREATE_TAG_PAGES)) -gt 0 ]] && create_tag_files
-[[ $((RUN_ALL + RUN_FILE_TASKS + RUN_CREATE_ANNOTATION_PAGES)) -gt 0 ]] && create_annotation_files
-[[ $((RUN_ALL + RUN_DATA_TASKS + RUN_DATA_BOOK)) -gt 0 ]] && create_book_data
-[[ $((RUN_ALL + RUN_DATA_TASKS + RUN_DATA_GENRE)) -gt 0 ]] && create_genre_data
-[[ $((RUN_ALL + RUN_DATA_TASKS + RUN_DATA_ACTIVITY)) -gt 0 ]] && create_activity_data
+[[ $RUN_CREATE_TAG_PAGES -eq 1 ]] && create_tag_files
+[[ $RUN_CREATE_ANNOTATION_PAGES -eq 1 ]] && create_annotation_files
+[[ $RUN_DATA_BOOK -eq 1 ]] && create_book_data
+[[ $RUN_DATA_GENRE -eq 1 ]] && create_genre_data
+[[ $RUN_DATA_ACTIVITY -eq 1 ]] && create_activity_data
+[[ $RUN_DATA_STORE -eq 1 ]] && create_store_data
 
-if [[ $((RUN_ALL + RUN_FETCH_BOOKCOVER)) -gt 0 ]]; then
-  if [[ ${#IDS[@]} -eq 0 ]] && [[ -f $ANNOTATIONS_FILE ]]; then
+if [[ $RUN_DOWNLOAD_BOOKCOVERS -eq 1 ]]; then
+  if [[ ${#IDS[@]} -eq 0 ]]; then
     IDS=($(jq -r 'map(select(.ZASSETID)|.ZASSETID)|unique|join("\n")' $ANNOTATIONS_FILE))
   fi
   for id in "${IDS[@]}"; do
     get_book_cover $id
   done
 fi
+
+# if [[ $((RUN_ALL + RUN_FETCH_BOOKCOVER)) -gt 0 ]]; then
+#   if [[ ${#IDS[@]} -eq 0 ]] && [[ -f $ANNOTATIONS_FILE ]]; then
+#     IDS=($(jq -r 'map(select(.ZASSETID)|.ZASSETID)|unique|join("\n")' $ANNOTATIONS_FILE))
+#   fi
+#   for id in "${IDS[@]}"; do
+#     get_book_cover $id
+#   done
+# fi

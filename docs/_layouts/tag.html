@@ -8,11 +8,11 @@ layout: default
 <div class="page-content box">
   {% include breadcrumb.html -%}
   <h2>#{{pagetag}}</h2>
-  <ul class="flex-list lh-120 px-0">
+  <ul class="tag-page-list flex-list lh-120">
     {% for book in books -%}
-    <li class="inline-flex column px-0">
+    <li>
       <span><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}</span>
-      <span class="ss fs-80">Last update on {{book.modified|date_to_string: "ordinal", "US"}}</span>
+      <div class="flex gap-sm baseline ss"><span>{{book.created|date_to_string: "ordinal", "US"}}</span>&bullet;<span>{{book.count}} annotation{%- if book.count > 1 -%}s{%- endif -%}</span></div>
     </li>
     {% endfor %}
   </ul>

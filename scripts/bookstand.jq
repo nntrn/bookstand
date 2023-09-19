@@ -79,7 +79,7 @@ def markdown_tmpl:
     "modified: \(.modified)",
     "tags: \(.tags|@json)",
     "slug: \(.slug)",
-    "description: \(dquote("Saved annotations for "+.title+" by "+.author))",
+    "description: \(dquote("Bookmarks by @nntrn for "+.title+" by "+.author))",
     "---",
     ""
   ] | join("\n");
@@ -134,7 +134,8 @@ def chaptername($location):
   | gsub("[_-]+";" ")
   | gsub("[\\s ]$";"";"x")
   | gsub("(?<w>[a-zA-Z])(?<d>[0-9])"; .w + " " + .d)
-  | gsub("^[xc][hapter ]+";"Chapter ";"xi")
+  | gsub("^[Ccx]([hapter ]+)? ";"Chapter ";"xi")
+  | gsub("^[iI][nt][cdinortu]+(?<s>[\\s])?";"Introduction" + .s;"xi")
   | gsub(" [0]+(?<n>[1-9])";" " +.n)
   ;
 
@@ -146,8 +147,10 @@ def activity_list:
     assetid: .ZASSETID,
     text: (.ZANNOTATIONSELECTEDTEXT|remove_citations|format_text),
     created: .ZANNOTATIONCREATIONDATE,
-    cfi: (epublocation(.ZANNOTATIONLOCATION)),
-    chapter: (.ZFUTUREPROOFING5? // chaptername(.ZANNOTATIONLOCATION)),
+    location: .ZANNOTATIONLOCATION,
+    cfiarr: (epublocation(.ZANNOTATIONLOCATION)),
+    cfi:(epublocation(.ZANNOTATIONLOCATION)),
+    chapter: (if ((.ZFUTUREPROOFING5|length)>0) then .ZFUTUREPROOFING5 else chaptername(.ZANNOTATIONLOCATION) end),
     rangestart: .ZPLLOCATIONRANGESTART
   })
   | sort_by(.cfi)

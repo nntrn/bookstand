@@ -1,0 +1,15 @@
+<div class="form-container flex ss ai-center gap-lg">
+  <div class="flex ai-center">
+    <label class="fs-80 ws-pre">Sort By</label>
+    <select class="form-select" id="sort-by">
+      <option value="count">Count</option>
+      <option value="updated">Updated</option>
+      <option value="created" selected>Created</option>
+    </select>
+  </div>
+  <div class="flex ai-center gap-sm">
+    <label class="fs-80 ws-pre flex center">LIMIT<span class="note-icon"></span></label>
+    <input id="filter-range" type="range" min="0" max="{{maxcount.count}}" step="5" value="1" />
+    <input id="filter-value" value="1"/>
+  </div>
+</div>
