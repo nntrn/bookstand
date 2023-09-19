@@ -54,8 +54,8 @@ jobs:
         working-directory: assets
         run: |
           if [[ -n $(git ls-files -om store covers) ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions@github.com"
+            git config user.name "github-actions"
+            git config user.email "actions@users.noreply.github.com"
             git config push.default current
             git pull
             git add .

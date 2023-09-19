@@ -99,32 +99,36 @@ scrape_book_api() {
   fi
 }
 
+jq_bc_url() {
+  cat $1 | jq -r --arg wx ${MINWIDTH:-200} '($wx|tonumber) as $w|.artwork|
+    "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' 2>/dev/null
+}
+
 get_book_cover() {
   local ASSETID=$1
-  mkdir -p $OUTDIR/store
-  mkdir -p $OUTDIR/covers
   STOREPATH="${OUTDIR}/store/${ASSETID}.json"
   COVERPATH="${OUTDIR}/covers/${ASSETID}.jpg"
   IMGCACHEPATH="${CACHEDIR}/jpg/${MINWIDTH}/${ASSETID}.jpg"
   RC=0
+  mkdir -p $OUTDIR/store
+  mkdir -p $OUTDIR/covers
+  mkdir -p "${CACHEDIR}/jpg/${MINWIDTH}"
 
   if [[ ! -f $COVERPATH ]] || [[ $FORCE -eq 1 ]]; then
     [[ ! -f $STOREPATH ]] && scrape_book_api $ASSETID >$STOREPATH
     if [[ -s $STOREPATH ]]; then
-      BOOKCOVERJPG=$(
-        jq -r --arg wx ${MINWIDTH:-200} \
-          '($wx|tonumber) as $w|.artwork|
-        "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' $STOREPATH
-      )
+      BOOKCOVERJPG="$(jq_bc_url $STOREPATH)"
       if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
         curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
-        RC=$?
+        check_job $? "Download $BOOKCOVERJPG"
+        cp "$IMGCACHEPATH" "$COVERPATH"
+        check_job $? "Copy  $IMGCACHEPATH to $COVERPATH"
       fi
     fi
-    [[ -f $IMGCACHEPATH ]] && cp $IMGCACHEPATH $COVERPATH
-    [[ ! -f $IMGCACHEPATH ]] && RC=1
+    [[ -f $IMGCACHEPATH ]] && cp "$IMGCACHEPATH" "$COVERPATH"
   fi
-  CANCEL_ON_ERROR=0 check_job $RC "Book cover $ASSETID"
+  [[ ! -f $COVERPATH ]] && RC=1
+  CANCEL_ON_ERROR=0 check_job $RC "Write $COVERPATH"
 }
 
 create_book_data() {
@@ -216,6 +220,7 @@ mkdir -p $CACHEDIR
 
 if [[ -z $ANNOTATIONS_FILE ]]; then
   curl -s -o /tmp/annotations.json https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
+  check_job $? "Download annotations.json from remote"
   ANNOTATIONS_FILE=/tmp/annotations.json
 fi
 
