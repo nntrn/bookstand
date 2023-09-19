@@ -1,0 +1,67 @@
+{
+  "id": "1291828020",
+  "title": "Lost in Math",
+  "subtitle": "How Beauty Leads Physics Astray",
+  "author": "Sabine Hossenfelder",
+  "isbn": "9780465094264",
+  "genreNames": [
+    "History",
+    "Books",
+    "Science & Nature",
+    "Physics",
+    "Mathematics"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>In this \"provocative\" book (<i>New York Times</i>), a contrarian physicist argues that her field's modern obsession with beauty has given us wonderful math but bad science.</b><b><br /></b>Whether pondering black holes or predicting discoveries at CERN, physicists believe the best theories are beautiful, natural, and elegant, and this standard separates popular theories from disposable ones. This is why, Sabine Hossenfelder argues, we have not seen a major breakthrough in the foundations of physics for more than four decades.<br />The belief in beauty has become so dogmatic that it now conflicts with scientific objectivity: observation has been unable to confirm mindboggling theories, like supersymmetry or grand unification, invented by physicists based on aesthetic criteria. Worse, these \"too good to not be true\" theories are actually untestable and they have left the field in a cul-de-sac. To escape, physicists must rethink their methods. Only by embracing reality as it is can science discover the truth."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1291828020&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9095065
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2018-06-12",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1733,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/06/8b/1e/068b1e1b-3b85-51c2-dfb9-400a7dff186d/9780465094264.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "d3d3e2",
+    "textColor2": "f0ffff",
+    "textColor4": "cad4e2",
+    "textColor1": "fcfdff",
+    "bgColor": "332d71",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/lost-in-math/id1291828020",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 44,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      14,
+      27
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Lost in Math",
+  "publisher": "Basic Books",
+  "isPreorder": false,
+  "artistName": "Sabine Hossenfelder",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "6443052101",
+  "title": "An Illustrated Book of Loaded Language",
+  "subtitle": "Learn to Hear What's Left Unsaid",
+  "author": "Ali Almossawi & Alejandro Giraldo",
+  "isbn": "9781615198412",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Nonfiction",
+    "Philosophy",
+    "Business & Personal Finance",
+    "Social Science"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6443052101&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 47207550
+        }
+      ]
+    }
+  ],
+  "pageCount": 96,
+  "releaseDate": "2021-11-09",
+  "seriesInfo": {
+    "seriesName": "Bad Arguments"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“This is a book for every thinking person, the perfect antidote to today’s culture wars.”—Hope Jahren</b><br /><br /><b>The creators of&#xa0;<i>An Illustrated Book of Bad Arguments</i>&#xa0;return with this desperately timely guide to how words can trick us. Learn to “hear” hidden bias, slant, and spin—from an irresistible cast of woodland creatures!</b><br /><br /> Public discourse? More like public discord. The battle cries of our culture wars are rife with “loaded language”—be it bias, slant, or spin. But listen closely, or you’ll miss what Ali Almossawi finds more frightening still: words that erase accountability, history, even identity through what they leave <i>un</i>said.<br /><br /> Speaking as wise old Mr. Rabbit, Almossawi leads us through a dark forest of rhetoric—aided by Orwell, Baldwin, and a squee-worthy cast of wide-eyed woodland creatures. Here, <b><i>passive voice</i></b> can pardon wrongdoers, <b><i>statistics </i></b>may be a smokescreen, <b><i>gaslighting </i></b>entraps the downtrodden, and&#xa0;<i><b>irrelevant adjectives</b></i> cement stereotypes. Emperor Squirrel isn’t naked; he has a <i>clothes-free sartorial style</i>. Mouse’s roof <i>becomes flattened</i> (Elephant’s foot just happens to be there at the time). And when keen-eyed Owl <i>claims </i>a foreign shore, he seems to be overlooking someone . . .<br /><br /> Fans of Almossawi’s <i>An Illustrated Book of Bad Arguments </i>couldn’t ask for a better primer on the <i>less </i>logical ways that words can trick us. It takes a long pair of ears to hear what’s left unsaid—but when you’re a rabbit in a badger world, listening makes all the difference."
+  },
+  "artwork": {
+    "width": 2925,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/0f/43/07/0f430757-2471-0108-76da-213c4b5da452/9781615198412.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "c2b17d",
+    "textColor2": "e2bc82",
+    "textColor4": "ba9c6d",
+    "textColor1": "ebd696",
+    "bgColor": "1e1e1c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/an-illustrated-book-of-loaded-language/id6443052101",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "An Illustrated Book of Loaded Language",
+  "publisher": "The Experiment",
+  "isPreorder": false,
+  "artistName": "Ali Almossawi & Alejandro Giraldo",
+  "primaryLocale": "en-US"
+}

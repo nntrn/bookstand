@@ -1,0 +1,65 @@
+{
+  "id": "828749281",
+  "title": "The Sense of Style",
+  "subtitle": "The Thinking Person's Guide to Writing in the 21st Century",
+  "author": "Steven Pinker",
+  "isbn": "9780698170308",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=828749281&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 11954510
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2014-09-30",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>  “Charming and erudite,\" <b><b><b><b>from the author of <i>Rationality</i> and <i>Enlightenment Now</i>,</b></b></b></b> \"The wit and insight and clarity he brings . . . is what makes this book such a gem.” —Time.com</b><br />&#xa0;<br />Why is so much writing so bad, and how can we make it better? Is the English language being corrupted by texting and social media? Do the kids today even care about good writing—and why should we care? From the author of <i>The Better Angels of Our Nature </i>and <i>Enlightenment Now.</i><br /><br />In this entertaining and eminently practical book, the cognitive scientist, dictionary consultant, and<i> New York Times</i>–bestselling author Steven Pinker rethinks the usage guide for the twenty-first century. Using examples of great and gruesome modern prose while avoiding the scolding tone and Spartan tastes of the classic manuals, he shows how the art of writing can be a form of pleasurable mastery and a fascinating intellectual topic in its own right. <i>The Sense of Style </i>is for writers of all kinds, and for readers who are interested in letters and literature and are curious about the ways in which the sciences of mind can illuminate how language works at its best."
+  },
+  "artwork": {
+    "width": 1594,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/f0/bf/bc/f0bfbc8d-0eda-fd24-5c5d-50243cf57c38/9780698170308.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "353535",
+    "textColor2": "0e0d0d",
+    "textColor4": "3e3d3e",
+    "textColor1": "020202",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-sense-of-style/id828749281",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 31,
+    "ratingCountList": [
+      1,
+      1,
+      4,
+      9,
+      16
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "The Sense of Style",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Steven Pinker",
+  "primaryLocale": "en-US"
+}

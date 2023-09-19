@@ -1,0 +1,70 @@
+{
+  "id": "1493758832",
+  "title": "A Libertarian Walks Into a Bear",
+  "subtitle": "The Utopian Plot to Liberate an American Town (And Some Bears)",
+  "author": "Matthew Hongoltz-Hetling",
+  "isbn": "9781541788480",
+  "genreNames": [
+    "Political Science",
+    "Books",
+    "Politics & Current Events",
+    "Humor",
+    "Nonfiction",
+    "Social Science",
+    "History",
+    "United States"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1493758832&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4142347
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2020-09-15",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A tiny American town's plans for radical self-government overlooked one hairy detail: no one told the bears.</b><b><br /></b>Once upon a time, a group of libertarians got together and hatched the Free Town Project, a plan to take over an American town and completely eliminate its government. In 2004, they set their sights on Grafton, NH, a barely populated settlement with one paved road.<br />When they descended on Grafton, public funding for pretty much everything shrank: the fire department, the library, the schoolhouse. State and federal laws became meek suggestions, scarcely heard in the town's thick wilderness.<br />The anything-goes atmosphere soon caught the attention of Grafton's neighbors: the bears. Freedom-loving citizens ignored hunting laws and regulations on food disposal. They built a tent city in an effort to get off the grid. The bears smelled food and opportunity.<br /><i>A Libertarian Walks Into a Bear</i> is the sometimes funny, sometimes terrifying tale of what happens when a government disappears into the woods. Complete with gunplay, adventure, and backstabbing politicians, this is the ultimate story of a quintessential American experiment -- to live free or die, perhaps from a bear."
+  },
+  "artwork": {
+    "width": 1734,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/0a/cd/5d/0acd5d90-efe8-16a3-5ca4-996099257aa2/9781541788480.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "e4d1bf",
+    "textColor2": "fff6ea",
+    "textColor4": "eecdbd",
+    "textColor1": "f2faec",
+    "bgColor": "aa2c09",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/a-libertarian-walks-into-a-bear/id1493758832",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 52,
+    "ratingCountList": [
+      1,
+      3,
+      8,
+      13,
+      27
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "A Libertarian Walks Into a Bear",
+  "publisher": "PublicAffairs",
+  "isPreorder": false,
+  "artistName": "Matthew Hongoltz-Hetling",
+  "primaryLocale": "en-US"
+}

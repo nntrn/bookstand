@@ -1,0 +1,59 @@
+{
+  "id": "441038031",
+  "title": "Lemonade Mouth",
+  "subtitle": "Adapted Movie Tie-In Edition",
+  "author": "Mark Peter Hughes",
+  "isbn": "9780307974860",
+  "genreNames": [
+    "Fiction",
+    "Books",
+    "Young Adult",
+    "Coming of Age"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=441038031&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9349869
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2007-03-13",
+  "isIBook": false,
+  "description": {
+    "standard": "Poets. Geniuses. Revolutionaries.<br /><br />The members of the legendary band Lemonade Mouth have been called all of these things. But until now, nobody's known the inside story of how this powerhouse band came to be. How five outcasts in Opoquonsett High School's freshman class found each other, found the music, and went on to change both rock and roll and high school as we know it. Wen, Stella, Charlie, Olivia, and Mo take us back to that fateful detention where a dentist's jingle, a teacher's coughing fit, and a beat-up ukelele gave birth to Rhode Island's most influential band. Told in each of their five voices and compiled by Opoquonsett's \"scene queen,\" freshman Naomi Fishmeier, this anthology is their definitive history."
+  },
+  "artwork": {
+    "width": 1556,
+    "height": 2400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/6d/0d/54/6d0d540a-cf11-67fa-389f-d1b732e3fd74/9780307974860.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/lemonade-mouth/id441038031",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 72,
+    "ratingCountList": [
+      4,
+      1,
+      6,
+      12,
+      49
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Lemonade Mouth",
+  "publisher": "Random House Children's Books",
+  "isPreorder": false,
+  "artistName": "Mark Peter Hughes",
+  "primaryLocale": "en-US"
+}

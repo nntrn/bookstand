@@ -1,0 +1,68 @@
+{
+  "id": "1001812902",
+  "title": "Year of Yes",
+  "subtitle": "How to Dance It Out, Stand In the Sun and Be Your Own Person",
+  "author": "Shonda Rhimes",
+  "isbn": "9781476777146",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1001812902&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 31955698
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2015-11-10",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The instant <i>New York Times </i>bestseller from the creator of <i>Grey’s Anatomy</i> and <i>Scandal</i> and executive producer of <i>How to Get Away With Murder</i> shares how saying YES changed her life. “As fun to read as Rhimes’s TV series are to watch” (<i>Los Angeles Times</i>).</b><br /><br />She’s the creator and producer of some of the most groundbreaking and audacious shows on television today. Her iconic characters live boldly and speak their minds. So who would suspect that Shonda Rhimes is an introvert? That she hired a publicist so she could <i>avoid</i> public appearances? That she suffered panic attacks before media interviews?<br /><br />With three children at home and three hit television shows, it was easy for Shonda to say she was simply too busy. But in truth, she was also afraid. And then, over Thanksgiving dinner, her sister muttered something that was both a wake up and a call to arms: <i>You never say yes to anything.</i> Shonda knew she had to embrace the challenge: for one year, she would say YES to everything that scared her.<br /><br />This poignant, intimate, and hilarious memoir explores Shonda’s life <i>before</i> her Year of Yes—from her nerdy, book-loving childhood to her devotion to creating television characters who reflected the world she saw around her. The book chronicles her life <i>after </i>her Year of Yes had begun—when Shonda forced herself out of the house and onto the stage; when she learned to explore, empower, applaud, and love her truest self. Yes.<br /><br />“Honest, raw, and revelatory” (<i>The Washington Post</i>), this wildly candid and compulsively readable book reveals how the mega talented Shonda Rhimes finally achieved badassery worthy of a Shondaland character. Best of all, she “can help motivate even the most determined homebody to get out and try something new” (<i>Chicago Tribune</i>)."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/77/96/fb/7796fb2b-82e0-be14-255a-cd25c905aefa/9781476777146.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "653539",
+    "textColor2": "2c3131",
+    "textColor4": "485556",
+    "textColor1": "4f090c",
+    "bgColor": "bbe3eb",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/year-of-yes/id1001812902",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 933,
+    "ratingCountList": [
+      19,
+      24,
+      41,
+      140,
+      709
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Year of Yes",
+  "isPreorder": false,
+  "publisher": "S&S/ Marysue Rucci Books",
+  "artistName": "Shonda Rhimes",
+  "editorialNotes": {
+    "standard": "We love a self-help book that’s this funny and full of whip-smart advice. <i>Year of Yes</i> by TV genius Shonda Rhimes reads like <i>Lean In</i> through a Mindy Kaling filter. It turns out that Rhimes—the mastermind behind <i>Grey’s Anatomy</i>, <i>Scandal</i>, and <i>How to Get Away with Murder</i>—has gone through many surprisingly relatable struggles. Her endearing book looks at what happens when she spends a year saying \"yes\" to everything she most fears, from public speaking to nixing troubled relationships. Her insights are transformative and inspiring.\n",
+    "short": "Go outside your comfort zone and grow. Let the queen of TV show you the way."
+  },
+  "primaryLocale": "en-US"
+}

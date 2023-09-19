@@ -1,0 +1,63 @@
+{
+  "id": "1450370544",
+  "title": "Invisible Women",
+  "subtitle": "Data Bias in a World Designed for Men",
+  "author": "Caroline Criado Perez",
+  "isbn": "9781683353140",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "Harry N. Abrams, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1450370544&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2121658
+        }
+      ]
+    }
+  ],
+  "pageCount": 448,
+  "releaseDate": "2019-03-12",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>#1 International Bestseller<br /> Winner of the 2019 Financial Times and McKinsey Business Book of the Year Award<br /> Winner of the 2019 Royal Society Science Book Prize</b><br />A landmark, prize-winning, international bestselling examination of how a gender gap in data perpetuates bias and disadvantages women, now in paperback<br /><br /> Data is fundamental to the modern world. From economic development to health care to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this insidious bias, in time, in money, and often with their lives.<br /> Celebrated feminist advocate Caroline Criado Perez investigates this shocking root cause of gender inequality in the award-winning, #1 international bestseller <i>Invisible Women</i>. Examining the home, the workplace, the public square, the doctor’s office, and more, Criado Perez unearths a dangerous pattern in data and its consequences on women’s lives. Product designers use a “one-size-fits-all” approach to everything from pianos to cell phones to voice recognition software, when in fact this approach is designed to fit men. Cities prioritize men’s needs when designing public transportation, roads, and even snow removal, neglecting to consider women’s safety or unique responsibilities and travel patterns. And in medical research, women have largely been excluded from studies and textbooks, leaving them chronically misunderstood, mistreated, and misdiagnosed.<br /> Built on hundreds of studies in the United States, in the United Kingdom, and around the world, and written with energy, wit, and sparkling intelligence, this is a groundbreaking, highly readable exposé that will change the way you look at the world."
+  },
+  "artwork": {
+    "width": 1399,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/29/0a/b4/290ab417-badd-1b9e-313b-1353dbed3db8/9781683353140.jpg/{w}x{h}bb.{f}",
+    "height": 2112,
+    "textColor3": "31312f",
+    "textColor2": "091f34",
+    "textColor4": "394a59",
+    "textColor1": "000000",
+    "bgColor": "f8f5ee",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/invisible-women/id1450370544",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 72,
+    "ratingCountList": [
+      2,
+      1,
+      7,
+      19,
+      43
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Invisible Women",
+  "isPreorder": false,
+  "publisher": "ABRAMS",
+  "artistName": "Caroline Criado Perez",
+  "primaryLocale": "en-US"
+}

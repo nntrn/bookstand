@@ -1,0 +1,68 @@
+{
+  "id": "1535475748",
+  "title": "Wanting",
+  "subtitle": "The Power of Mimetic Desire in Everyday Life",
+  "author": "Luke Burgis",
+  "isbn": "9781250262493",
+  "genreNames": [
+    "Marketing & Sales",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Psychology",
+    "Science & Nature"
+  ],
+  "seller": "Macmillan",
+  "description": {
+    "standard": "<b>* <i>Financial Times</i> Business Book of the Month * Next Big Idea Club Nominee * One of <i>Bloomberg</i>'s \"52 New Books That Top Business Leaders Are Recommending\" * <i>Aleo Review of Books</i> 2022 Book of the Year *</b><br /><b><br />A groundbreaking exploration of why we want what we want, and a toolkit for freeing ourselves from chasing unfulfilling desires.</b><br /><br />Gravity affects every aspect of our physical being, but there’s a psychological force just as powerful—yet almost nobody has heard of it. It’s responsible for bringing groups of people together and pulling them apart, making certain goals attractive to some and not to others, and fueling cycles of anxiety and conflict. In <i>Wanting</i>, Luke Burgis draws on the work of French polymath René Girard to bring this hidden force to light and reveals how it shapes our lives and societies.  <br /><br />According to Girard, humans don’t desire anything independently. Human desire is <i>mimetic</i>—we imitate what other people want. This affects the way we choose partners, friends, careers, clothes, and vacation destinations. Mimetic desire is responsible for the formation of our very identities. It explains the enduring relevancy of Shakespeare’s plays, why Peter Thiel decided to be the first investor in Facebook, and why our world is growing more divided as it becomes more connected.<br /><br /><i>Wanting</i> also shows that conflict does not arise because of our differences—it comes from our sameness. Because we learn to want what other people want, we often end up competing for the same things. Ignoring our large similarities, we cling to our perceived differences.<br /><br />Drawing on his experience as an entrepreneur, teacher, and student of classical philosophy and theology, Burgis shares tactics that help turn blind wanting into intentional wanting--not by trying to rid ourselves of desire, but by desiring differently. It’s possible to be more in control of the things we want, to achieve more independence from trends and bubbles, and to find more meaning in our work and lives.<br /><br />The future will be shaped by our desires. <i>Wanting</i> shows us how to desire a better one."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1535475748&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 19206274
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2021-06-01",
+  "isIBook": false,
+  "artwork": {
+    "width": 2488,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/7d/dd/1f/7ddd1f40-0604-22d5-09c6-88c14eb19f1a/9781250262493.jpg/{w}x{h}bb.{f}",
+    "height": 3800,
+    "textColor3": "073136",
+    "textColor2": "002227",
+    "textColor4": "004149",
+    "textColor1": "090e0e",
+    "bgColor": "00bed4",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/wanting/id1535475748",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 30,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      10,
+      17
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Wanting",
+  "isPreorder": false,
+  "publisher": "St. Martin's Publishing Group",
+  "artistName": "Luke Burgis",
+  "primaryLocale": "en-US"
+}

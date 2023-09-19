@@ -1,0 +1,66 @@
+{
+  "id": "431617578",
+  "title": "Steve Jobs",
+  "subtitle": null,
+  "author": "Walter Isaacson",
+  "isbn": "9781451648553",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership",
+    "Computers & Internet",
+    "Computers"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=16990&salableAdamId=431617578&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$16.99",
+      "price": 16.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 31942501
+        }
+      ]
+    }
+  ],
+  "pageCount": 656,
+  "releaseDate": "2011-10-24",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Walter Isaacson’s “enthralling” (<i>The New Yorker</i>) worldwide bestselling biography of Apple cofounder Steve Jobs.</b><br /><br />Based on more than forty interviews with Steve Jobs conducted over two years—as well as interviews with more than 100 family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.<br /><br />At a time when America is seeking ways to sustain its innovative edge, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in 21st century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.<br /><br />Although Jobs cooperated with the author, he asked for no control over what was written. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.<br /><br />Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.<br /><br /><i>Steve Jobs </i>is the inspiration for the movie of the same name starring Michael Fassbender, Kate Winslet, Seth Rogen, and Jeff Daniels, directed by Danny Boyle with a screenplay by Aaron Sorkin."
+  },
+  "artwork": {
+    "width": 1399,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/59/7e/03/597e0370-4d18-cc3d-09e3-3e7c6434e168/9781451648553.jpg/{w}x{h}bb.{f}",
+    "height": 2131,
+    "textColor3": "333333",
+    "textColor2": "212023",
+    "textColor4": "4d4d4f",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/steve-jobs/id431617578",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 20911,
+    "ratingCountList": [
+      720,
+      493,
+      781,
+      2570,
+      16347
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Steve Jobs",
+  "isPreorder": false,
+  "publisher": "Simon & Schuster",
+  "artistName": "Walter Isaacson",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "6442942097",
+  "title": "All the Knowledge in the World",
+  "subtitle": "The Extraordinary History of the Encyclopedia",
+  "author": "Simon Garfield",
+  "isbn": "9780063292291",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "History",
+    "Europe",
+    "Business & Personal Finance",
+    "Industries & Professions",
+    "Reference",
+    "Foreign Languages",
+    "Linguistics"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=6442942097&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 15930652
+        }
+      ]
+    }
+  ],
+  "pageCount": 400,
+  "releaseDate": "2023-02-28",
+  "isIBook": false,
+  "description": {
+    "standard": "From the “deliriously clever” (Boston Globe) Simon Garfield, New York Times bestselling author of&#xa0;Just My Type, comes&#xa0;the wild and fascinating story of the encyclopedia, from Ancient Greece to the present day.<br /><br />New York Times Book Review Editors' Choice<br /><br />\"A brilliant book about knowledge itself.” —Deirdre Mask, author of The Address Book<br /><br />“Garfield’s witty history captures the obsessive, quixotic and sometimes error-filled quests of those—from Pliny the Elder in the first century A.D. to Wikipedians in this one—who have attempted to corral all the world’s information into a single source.”—New York Times<br /><br />The encyclopedia once shaped our understanding of the world. Created by thousands of scholars and the most obsessive of editors, a good set conveyed a sense of absolute wisdom on its reader. Contributions from Albert Einstein, Sigmund Freud, Orville Wright, Alfred Hitchcock, Marie Curie and Indira Gandhi helped millions of children with their homework. Adults cleared their shelves in the belief that everything that was explainable was now effortlessly accessible in their living rooms.<br /><br />Now these huge books gather dust and sell for almost nothing on eBay. Instead, we get our information from our phones and computers, apparently for free. What have we lost in this transition? And how did we tell the progress of our lives in the past?<br /><br />All the Knowledge in the World&#xa0;is a history and celebration of those who created the most ground-breaking and remarkable publishing phenomenon of any age. Simon Garfield, who “has a genius for being sparked to life by esoteric enthusiasm and charming readers with his delight” (The Times), guides us on an utterly delightful journey, from Ancient Greece to Wikipedia, from modest single-volumes to the 11,000-volume Chinese manuscript that was too big to print. He looks at how&#xa0;Encyclopedia Britannica&#xa0;came to dominate the industry, how it spawned hundreds of competitors, and how an army of ingenious door-to-door salesmen sold their wares to guilt-ridden parents. He reveals how encyclopedias have reflected our changing attitudes towards sexuality, race, and technology, and exposes how these ultimate bastions of trust were often riddled with errors and prejudice.<br /><br />With his characteristic ability to tackle the broadest of subjects in an illuminating and highly entertaining way, Simon Garfield uncovers a fascinating and important part of our shared past and wonders whether the promise of complete knowledge—that most human of ambitions—will forever be beyond our grasp."
+  },
+  "artwork": {
+    "width": 1594,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/49/74/0e/49740e10-ecbb-a48c-6b02-34c1a534b74b/9780063292291.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "314653",
+    "textColor2": "0a1f33",
+    "textColor4": "3a4752",
+    "textColor1": "001d35",
+    "bgColor": "f8e8ce",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/all-the-knowledge-in-the-world/id6442942097",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "All the Knowledge in the World",
+  "isPreorder": false,
+  "publisher": "William Morrow",
+  "artistName": "Simon Garfield",
+  "primaryLocale": "en-US"
+}

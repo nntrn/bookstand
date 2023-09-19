@@ -1,0 +1,70 @@
+{
+  "id": "416645952",
+  "title": "Blood Type O Food, Beverage and Supplement Lists",
+  "subtitle": null,
+  "author": "Dr. Peter J. D'Adamo & Catherine Whitney",
+  "isbn": "9781101220870",
+  "genreNames": [
+    "Diet & Nutrition",
+    "Books",
+    "Health, Mind & Body",
+    "Cookbooks, Food & Wine",
+    "Special Diet",
+    "Reference"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=416645952&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1189146
+        }
+      ]
+    }
+  ],
+  "pageCount": 112,
+  "releaseDate": "2002-01-08",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Eat Right 4 Your Type"
+  },
+  "description": {
+    "standard": "<b>The <i>Eat Right 4 (For) Your Type</i> portable and personal diet book that will help people with blood type O stay healthy and achieve their ideal weight.<br /><br /></b>Different blood types mean different body chemistry. If your blood type is O, enjoy your best health on a high protein, low carb diet, and make sure you get plenty of red meat. Carry this guide with you to the grocery store, restaurants, even on vacation to avoid putting on those extra pounds, or getting sick from eating the wrong thing.<br /><br />Inside you will find complete listings of what’s right for Type O in the following categories:<br /><br />•&#xa0;meats, poultry, and seafood • oils and fats&#xa0;•&#xa0;dairy and eggs&#xa0;•&#xa0;nuts, seeds, beans, and legumes&#xa0;•&#xa0;breads, grains, and pastas&#xa0;•&#xa0;fruits, vegetables, and juices&#xa0;•&#xa0;spices and condiments&#xa0;•&#xa0;herbal teas and other beverages&#xa0;•&#xa0;special supplements&#xa0;•&#xa0;drug interactions&#xa0;•&#xa0;resources and support<i><br /><br /></i>Refer to this diet book while shopping, dining, or cooking—and soon, you will be on your way to developing a healthy prescription plan that’s right for your type."
+  },
+  "artwork": {
+    "width": 1404,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/45/2d/7f/452d7f6e-9faa-b9c8-dee6-7a7e5c95c2ae/9781101220870.jpg/{w}x{h}bb.{f}",
+    "height": 2261,
+    "textColor3": "703942",
+    "textColor2": "51121a",
+    "textColor4": "744148",
+    "textColor1": "4c0813",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/blood-type-o-food-beverage-and-supplement-lists/id416645952",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 114,
+    "ratingCountList": [
+      6,
+      10,
+      13,
+      13,
+      72
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "Blood Type O Food, Beverage and Supplement Lists",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Dr. Peter J. D'Adamo & Catherine Whitney",
+  "primaryLocale": "en-US"
+}

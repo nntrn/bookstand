@@ -1,0 +1,64 @@
+{
+  "id": "1517951617",
+  "title": "How to Tell Fate from Destiny",
+  "subtitle": "And Other Skillful Word Distinctions",
+  "author": "Charles Harrington Elster",
+  "isbn": "9781328583239",
+  "genreNames": [
+    "Dictionaries & Thesauruses",
+    "Books",
+    "Reference"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1517951617&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7721965
+        }
+      ]
+    }
+  ],
+  "pageCount": 323,
+  "releaseDate": "2018-10-23",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“In this part-thesaurus, part-hilarious manual of style, Elster breaks down the most common mistakes of the English language.”—</b><b><i>Booklist</i></b><br /> &#xa0;<br /> If you have trouble distinguishing the verbs <i>imitate</i> and <i>emulate</i>, the relative pronouns <i>that</i> and <i>which</i>, or the adjectives <i>pliant</i>, <i>pliable</i>, and <i>supple</i>, never fear—<i>How to Tell Fate from Destiny</i> is here to help! With more than 500 headwords, the book is replete with advice on how to differentiate commonly confused words and steer clear of verbal trouble. Whether you’re a <i>boomer</i>, a <i>Gen-Xer</i>, or a <i>millennial</i>, if you <i>peruse</i>, <i>browse</i>, or even <i>skim</i> these spindrift pages you <i>will</i> (not <i>shall</i>) become versed in the fine art of differentiation. You will learn, for example, how to tell whether you suffer from <i>pride</i>, <i>vanity</i>, or <i>hubris</i>how to tell whether you’re <i>contagious</i> or <i>infectious</i>how to tell if you’re <i>pitiful</i> or <i>pitiable</i>how to tell if you’re <i>self-centered </i>or <i>self-absorbed</i>how to live an <i>ethical</i> life in a <i>moral</i> universe “This appealing book will help readers over countless lexical stumbling blocks, and encourage clearer and more precise speaking and writing.”—<i>Publishers Weekly</i><br /> &#xa0;<br /> “The author of this charming and useful book has made a career out of literary finesse. In his latest effort to ‘clarify the mind and general discourse,’ the ‘professional distinctioneer’ offers witty, wise advice on the right way to deploy some of the English language’s trickiest words, from&#xa0;<i>a</i>&#xa0;and&#xa0;<i>an&#xa0;</i>to&#xa0;<i>zero, zeros, zeroes</i>.”—<i>Yale Alumni Magazine</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/c1/96/ff/c196ff79-6c8c-912b-d99a-554641fe18e6/9781328583239.jpg/{w}x{h}bb.{f}",
+    "height": 2374,
+    "textColor3": "1e2539",
+    "textColor2": "081627",
+    "textColor4": "253344",
+    "textColor1": "000419",
+    "bgColor": "99a9b8",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/how-to-tell-fate-from-destiny/id1517951617",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "How to Tell Fate from Destiny",
+  "publisher": "Houghton Mifflin Harcourt",
+  "isPreorder": false,
+  "artistName": "Charles Harrington Elster",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "477710521",
+  "title": "Games People Play",
+  "subtitle": "The Basic Handbook of Transactional Analysis",
+  "author": "Eric Berne",
+  "isbn": "9781618030061",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body"
+  ],
+  "seller": "Tantor Media, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=477710521&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 657522
+        }
+      ]
+    }
+  ],
+  "pageCount": 182,
+  "releaseDate": "2011-07-06",
+  "isIBook": false,
+  "description": {
+    "standard": "Over forty years ago, Games People Play revolutionized our understanding of what really goes on during our most basic social interactions. More than five million copies later, Dr. Eric Berne's classic is as astonishing and revealing as it was on the day it was first published.<br /><br />\nWe play games all the time—sexual games, marital games, power games with our bosses, and competitive games with our friends. Detailing status contests like \"Martini\" (I know a better way), to lethal couples combat like \"If It Weren't For You\" and \"Uproar,\" to flirtation favorites like \"The Stocking Game\" and \"Let's You and Him Fight,\" Dr. Berne exposes the secret ploys and unconscious maneuvers that rule our intimate lives.<br /><br />\nExplosive when it first appeared, Games People Play is now widely recognized as the most original and influential popular psychology book of our time. It's as powerful and eye-opening as ever."
+  },
+  "artwork": {
+    "width": 1437,
+    "height": 2000,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/53/38/ab/mzi.lguyywjt.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/games-people-play/id477710521",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 71,
+    "ratingCountList": [
+      2,
+      5,
+      9,
+      9,
+      46
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Games People Play",
+  "isPreorder": false,
+  "publisher": "Tantor Media, Inc.",
+  "artistName": "Eric Berne",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "543049690",
+  "title": "Models: Attract Women Through Honesty",
+  "subtitle": null,
+  "author": "Mark Manson",
+  "isbn": "9781476065809",
+  "genreNames": [
+    "Family & Relationships",
+    "Books",
+    "Nonfiction",
+    "Health, Mind & Body",
+    "Health & Fitness"
+  ],
+  "seller": "Draft2Digital, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=543049690&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 1410615
+        }
+      ]
+    }
+  ],
+  "pageCount": 330,
+  "releaseDate": "2012-05-27",
+  "isIBook": false,
+  "description": {
+    "standard": "Models is the first book ever written on seduction as an emotional process rather than a logical one, a process of connecting with women rather than impressing them. It's the most mature and honest guide on how a man can attract women without faking behavior, without lying and without emulating others. A game-changer."
+  },
+  "artwork": {
+    "width": 1641,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication49/v4/f7/89/79/f7897993-3276-a359-2bd9-0e064ea9846a/9781476065809.jpg/{w}x{h}bb.{f}",
+    "height": 2625,
+    "textColor3": "73383a",
+    "textColor2": "272625",
+    "textColor4": "525151",
+    "textColor1": "500609",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/models-attract-women-through-honesty/id543049690",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 628,
+    "ratingCountList": [
+      21,
+      17,
+      27,
+      89,
+      474
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Models: Attract Women Through Honesty",
+  "isPreorder": false,
+  "publisher": "Mark Manson",
+  "artistName": "Mark Manson",
+  "primaryLocale": "en-US"
+}

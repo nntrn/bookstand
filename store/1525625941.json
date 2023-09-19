@@ -1,0 +1,65 @@
+{
+  "id": "1525625941",
+  "title": "Taming the Terminal",
+  "subtitle": "The Technical Manual and Podcast to Master the macOS Command Line",
+  "author": "Bart Busschots",
+  "isbn": null,
+  "genreNames": [
+    "System Administration",
+    "Books",
+    "Computers & Internet",
+    "Programming"
+  ],
+  "seller": "Allison Sheridan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=1525625941&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 7663894
+        }
+      ]
+    }
+  ],
+  "pageCount": 421,
+  "releaseDate": "2020-07-29",
+  "isIBook": false,
+  "description": {
+    "standard": "Taming the Terminal is specifically targeted at learning the macOS Terminal but most of the content is applicable to the Linux command line. If you’re on Windows, it is recommended that you use the Linux Subsystem for Windows to learn along with this book. Wherever practical, Bart explains the differences that you may encounter if you’re not on macOS.<br/>\n<br/>\nThe series started in April 2013 and was essentially complete in 2015 after 35 of n lessons, but Bart carefully labeled them as &#34;of n&#34; because he knew that over time there likely would be new episodes. More episodes have indeed come out, and this book will be updated over time as the new instalments are released."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/31/a2/5c/31a25cd2-69df-349a-2eea-946534a167f1/f10a4610-39cd-4649-b5c7-6195d69f127c_cover_image.png/{w}x{h}bb.{f}",
+    "height": 1873,
+    "textColor3": "07cd00",
+    "textColor2": "06ce00",
+    "textColor4": "05a600",
+    "textColor1": "08ff00",
+    "bgColor": "000600",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/taming-the-terminal/id1525625941",
+  "userRating": {
+    "value": 4.9,
+    "ratingCount": 25,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      23
+    ],
+    "ariaLabelForRatings": "4.9 stars"
+  },
+  "name": "Taming the Terminal",
+  "isPreorder": false,
+  "publisher": "Allison Sheridan",
+  "artistName": "Bart Busschots",
+  "primaryLocale": "en-US"
+}

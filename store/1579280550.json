@@ -1,0 +1,65 @@
+{
+  "id": "1579280550",
+  "title": "Math Games with Bad Drawings",
+  "subtitle": "75 1/4 Simple, Challenging, Go-Anywhere Games—And Why They Matter",
+  "author": "Ben Orlin",
+  "isbn": "9780762499854",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=1579280550&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 214575145
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2022-04-05",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Bestselling author and worst-drawing artist Ben Orlin expands&#xa0;his oeuvre with this interactive collection of mathematical games. With 70-plus games, each taking a minute to learn and a lifetime to master, this treasure trove will delight, educate, and entertain.</b><br /><br />From beloved math popularizer Ben Orlin comes a masterfully compiled&#xa0;collection of dozens of playable mathematical games.<b></b>This ultimate game chest&#xa0;draws on mathematical curios, childhood classics, and soon-to-be classics, each hand-chosen to be (1) fun, (2) thought-provoking, and (3) easy to play. With just paper, pens, and the occasional handful of coins, you and a partner can enjoy hours of fun—and hours of challenge.<br /><br />Orlin’s sly humor, expansive knowledge, and so-bad-they’re-good drawings show us how simple rules&#xa0;summon our best thinking.<br /><br /><b>Games include: </b><br />Ultimate Tic-Tac-ToeSproutsBattleshipQuantum Go FishDots and BoxesBlack HoleOrder and ChaosSequenciumPaper BoxingPropheciesArpeggiosBankerFrancoprussian LabyrinthCats and DogsAnd many more."
+  },
+  "artwork": {
+    "width": 1698,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/47/6b/6a/476b6aa3-28dd-caad-96e6-87418aafe750/9780762499854.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "372803",
+    "textColor2": "142541",
+    "textColor4": "404337",
+    "textColor1": "090400",
+    "bgColor": "f2bb10",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/math-games-with-bad-drawings/id1579280550",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Math Games with Bad Drawings",
+  "isPreorder": false,
+  "publisher": "Running Press",
+  "artistName": "Ben Orlin",
+  "primaryLocale": "en-US"
+}

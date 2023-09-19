@@ -1,0 +1,64 @@
+{
+  "id": "491043016",
+  "title": "Fooling Houdini",
+  "subtitle": "Magicians, Mentalists, Math Geeks, and the Hidden Powers of the Mind",
+  "author": "Alex Stone",
+  "isbn": "9780062098016",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Nonfiction",
+    "Social Science",
+    "Society",
+    "Arts & Entertainment",
+    "Arts & Entertainment",
+    "Performing Arts",
+    "Games"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=491043016&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1324006
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2012-06-19",
+  "isIBook": false,
+  "description": {
+    "standard": "From the back rooms of New York City’s age-old magic societies to cutting-edge psychology labs, three-card monte games on Canal Street to glossy Las Vegas casinos, Fooling Houdini recounts Alex Stone’s quest to join the ranks of master magicians.<br /><br />As he navigates this quirky and occasionally hilarious subculture populated by brilliant eccentrics, Stone pulls back the curtain on a community shrouded in secrecy, fueled by obsession and brilliance, and organized around one overriding need: to prove one’s worth by deceiving others.<br /><br />But his journey is more than a tale of tricks, gigs, and geeks. By investing some of the lesser-known corners of psychology, neuroscience, physics, history, and even crime, all through the lens of trickery and illusion, Fooling Houdini arrives at a host of startling revelations about how the mind works--and&#xa0;why, sometimes, it doesn’t."
+  },
+  "artwork": {
+    "width": 463,
+    "height": 700,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/6f/fb/86/6ffb864b-73d3-0d75-f2c9-a96756dfd054/cover.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/fooling-houdini/id491043016",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 69,
+    "ratingCountList": [
+      5,
+      1,
+      7,
+      20,
+      36
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "Fooling Houdini",
+  "isPreorder": false,
+  "publisher": "Harper",
+  "artistName": "Alex Stone",
+  "primaryLocale": "en-US"
+}

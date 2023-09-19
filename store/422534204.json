@@ -1,0 +1,60 @@
+{
+  "id": "422534204",
+  "title": "Rewrite Right!",
+  "subtitle": "Your Guide to Perfectly Polished Prose",
+  "author": "Jan Venolia & Ellen Sasaki",
+  "isbn": "9780307784179",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=422534204&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 13390106
+        }
+      ]
+    }
+  ],
+  "pageCount": 200,
+  "releaseDate": "1987-09-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The definitive guide to polishing your prose from veteran editor Jan Venolia.</b><br /><br />Everyone knows that writing can be improved by the simple process of reviewing, editing, and rewriting, but many struggle with how to go about critiquing their own work—be it a letter to a friend, an important business document, or an academic essay. Fortunately, help is at hand in&#xa0; <i>Rewrite Right! </i>The skills needed to revise your work are surprisingly easy to learn and a cinch to incorporate into everyday writing routines. This practical guide describes in clear, direct language how to effectively rewrite a report, letter, essay, or article, so that writers of all levels can improve the quality of their work and harness the power of language."
+  },
+  "artwork": {
+    "width": 534,
+    "height": 720,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/89/5d/e8/mzi.ntkndtap.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/rewrite-right/id422534204",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Rewrite Right!",
+  "publisher": "Clarkson Potter/Ten Speed",
+  "isPreorder": false,
+  "artistName": "Jan Venolia & Ellen Sasaki",
+  "primaryLocale": "en-US"
+}

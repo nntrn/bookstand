@@ -1,0 +1,67 @@
+{
+  "id": "965056587",
+  "title": "The Philosophy Book",
+  "subtitle": "Big Ideas Simply Explained",
+  "author": "DK",
+  "isbn": "9781465441065",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=965056587&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 167291209
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2015-03-02",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Big Ideas Simply Explained"
+  },
+  "description": {
+    "standard": "<b>Discover how our big social, political and ethical ideas are formed with <i>The Philosophy Book</i>.</b><br /><br />Part of the fascinating Big Ideas series, this book tackles tricky topics and themes in a simple and easy to follow format. Learn about Philosophy in this overview guide to the subject, great for beginners looking to learn and experts wishing to refresh their knowledge alike! <i>The Philosophy Book </i>brings a fresh and vibrant take on the topic through eye-catching graphics and diagrams to immerse yourself in. <br /><br /><b>This captivating book will broaden your understanding of Philosophy, with:</b><br /><br />- Key quotes from more than 100 of the great thinkers of philosophy<br />- Packed with facts, charts, timelines and graphs to help explain core concepts<br />- A visual approach to big subjects with striking illustrations and graphics throughout<br />- Easy to follow text makes topics accessible for people at any level of understanding<br /><br /><i>The Philosophy Book </i>is the perfect introduction to philosophy, aimed at adults with an interest in the subject and students wanting to gain more of an overview. Here you'll discover how key concepts in philosophy have shaped our world, with authoritative articles that explore big ideas. Learn about everyone who's contributed to the flow of world philosophy, from antiquity to the modern age, through superb mind maps explaining the line of thought. <br /><br /><b>Your Philosophical Questions, Simply Explained</b><br /><br />If you thought it was difficult to learn philosophy and its many concepts, <i>The Philosophy Book</i> presents the key ideas in a clear layout. Find out what philosophers thought about the nature of reality, and the fundamental questions we ask ourselves; What is the meaning of life? What is the Universe made of? And work your way through the different branches of philosophy such as metaphysics and ethics, from ancient and modern thinkers. <br /><br /><b>The Big Ideas Series</b><br /><br />With millions of copies sold worldwide, <i>The Philosophy Book</i> is part of the award-winning Big Ideas series from DK. The series uses striking graphics along with engaging writing, making big topics easy to understand."
+  },
+  "artwork": {
+    "width": 2303,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/ef/9b/e7/ef9be789-f609-bd79-9ad1-e44d809b3575/9781465441065.jpg/{w}x{h}bb.{f}",
+    "height": 2776,
+    "textColor3": "393501",
+    "textColor2": "4f0a0f",
+    "textColor4": "70350d",
+    "textColor1": "0a0b00",
+    "bgColor": "f6dd05",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-philosophy-book/id965056587",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 40,
+    "ratingCountList": [
+      4,
+      5,
+      4,
+      11,
+      16
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "The Philosophy Book",
+  "publisher": "DK Publishing",
+  "isPreorder": false,
+  "artistName": "DK",
+  "primaryLocale": "en-US"
+}

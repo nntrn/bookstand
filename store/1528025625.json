@@ -1,0 +1,69 @@
+{
+  "id": "1528025625",
+  "title": "The Code Breaker",
+  "subtitle": "Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+  "author": "Walter Isaacson",
+  "isbn": "9781982115876",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Science & Nature",
+    "Life Sciences"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "description": {
+    "standard": "<b>A Best Book of 2021 by <i>Bloomberg BusinessWeek</i>, <i>Time</i>, and <i>The Washington Post</i></b><br /><br /><b>The bestselling author of <i>Leonardo da Vinci</i> and <i>Steve Jobs</i> returns with a “compelling” (<i>The Washington Post</i>) account of how Nobel Prize winner Jennifer Doudna and her colleagues launched a revolution that will allow us to cure diseases, fend off viruses, and have healthier babies.</b><br /><br />When Jennifer Doudna was in sixth grade, she came home one day to find that her dad had left a paperback titled <i>The Double Helix</i> on her bed. She put it aside, thinking it was one of those detective tales she loved. When she read it on a rainy Saturday, she discovered she was right, in a way. As she sped through the pages, she became enthralled by the intense drama behind the competition to discover the code of life. Even though her high school counselor told her girls didn’t become scientists, she decided she would.<br /><br />Driven by a passion to understand how nature works and to turn discoveries into inventions, she would help to make what the book’s author, James Watson, told her was the most important biological advance since his codiscovery of the structure of DNA. She and her collaborators turned a curiosity of nature into an invention that will transform the human race: an easy-to-use tool that can edit DNA. Known as CRISPR, it opened a brave new world of medical miracles and moral questions.<br /><br />The development of CRISPR and the race to create vaccines for coronavirus will hasten our transition to the next great innovation revolution. The past half-century has been a digital age, based on the microchip, computer, and internet. Now we are entering a life-science revolution. Children who study digital coding will be joined by those who study genetic code.<br /><br />Should we use our new evolution-hacking powers to make us less susceptible to viruses? What a wonderful boon that would be! And what about preventing depression? Hmmm…Should we allow parents, if they can afford it, to enhance the height or muscles or IQ of their kids?<br /><br />After helping to discover CRISPR, Doudna became a leader in wrestling with these moral issues and, with her collaborator Emmanuelle Charpentier, won the Nobel Prize in 2020. Her story is an “enthralling detective story” (<i>Oprah Daily</i>) that involves the most profound wonders of nature, from the origins of life to the future of our species."
+  },
+  "editorialNotes": {
+    "standard": "The race to create a coronavirus vaccine rocketed us into a new era of DNA research, and veteran journalist Walter Isaacson is here to break it all down for you. Isaacson draws a fascinating history of genetic exploration. We’re talking a total picture: from Darwin’s theory of evolution, to Jennifer Doudna’s Nobel Prize–winning DNA-editing tool CRISPR and today’s race to quash the ongoing pandemic. We were blown away by the book’s detailed account of how Doudna’s breakthroughs with the human genome became the linchpin in developing the COVID-19 vaccines. Isaacson also explores how the questions raised by cutting-edge research into genetic editing have caught up with science fiction—after all, the same technology that could save millions from AIDS or sickle cell anemia could also open the door to parents “designing” their children. Wonderfully readable and at times shocking, <i>The Code Breaker</i> offers a vision of the future that’s awe-inspiring and a little bit scary.",
+    "short": "Nonfiction is rarely more fascinating and gripping than this exploration of gene editing."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=1528025625&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 56428562
+        }
+      ]
+    }
+  ],
+  "pageCount": 560,
+  "releaseDate": "2021-03-09",
+  "isIBook": false,
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/47/36/10/47361086-8998-d9ca-e857-6a5eb202713b/9781982115876.jpg/{w}x{h}bb.{f}",
+    "height": 2090,
+    "textColor3": "aeb2b6",
+    "textColor2": "d7ae00",
+    "textColor4": "ad8d02",
+    "textColor1": "d8dde0",
+    "bgColor": "04080c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-code-breaker/id1528025625",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 872,
+    "ratingCountList": [
+      40,
+      22,
+      67,
+      187,
+      556
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "The Code Breaker",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "artistName": "Walter Isaacson",
+  "primaryLocale": "en-US"
+}

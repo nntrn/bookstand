@@ -1,0 +1,67 @@
+{
+  "id": "989620031",
+  "title": "Superforecasting",
+  "subtitle": "The Art and Science of Prediction",
+  "author": "Philip E. Tetlock & Dan Gardner",
+  "isbn": "9780804136709",
+  "genreNames": [
+    "Business & Personal Finance",
+    "Books",
+    "Nonfiction",
+    "Social Science",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=989620031&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4099178
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2015-09-29",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES </i>BESTSELLER • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY <i>THE ECONOMIST&#xa0;</i></b><br /><br /><b><b>“</b>The most important book on decision making since Daniel Kahneman's&#xa0;<i>Thinking, Fast and Slow</i>.<b>”</b>—Jason Zweig,&#xa0;<i>The&#xa0;Wall Street Journal</i></b><br /> &#xa0;<br /> Everyone would benefit from seeing further into the future, whether buying stocks, crafting policy, launching a new product, or simply planning the week’s meals. Unfortunately, people tend to be terrible forecasters. As Wharton professor Philip Tetlock showed in a landmark 2005 study, even experts’ predictions are only slightly better than chance. However, an important and underreported conclusion of that study was that some experts do have real foresight, and Tetlock has spent the past decade trying to figure out why. What makes some people so good? And can this talent be taught?<br /> &#xa0;<br /> In <i>Superforecasting</i>, Tetlock and coauthor Dan Gardner offer a masterwork on prediction, drawing on decades of research and the results of a massive, government-funded forecasting tournament. The Good Judgment Project involves tens of thousands of ordinary people—including a Brooklyn filmmaker, a retired pipe installer, and a former ballroom dancer—who set out to forecast global events. Some of the volunteers have turned out to be astonishingly good. They’ve beaten other benchmarks, competitors, and prediction markets. They’ve even beaten the collective judgment of intelligence analysts with access to classified information. They are \"superforecasters.\"<br /> &#xa0;<br /> In this groundbreaking and accessible book, Tetlock and Gardner show us how we can learn from this elite group. Weaving together stories of forecasting successes (the raid on Osama bin Laden’s compound) and failures (the Bay of Pigs) and interviews with a range of high-level decision makers, from David Petraeus to Robert Rubin, they show that good forecasting doesn’t require powerful computers or arcane methods. It involves gathering evidence from a variety of sources, thinking probabilistically, working in teams, keeping score, and being willing to admit error and change course. <br /><br /><i>Superforecasting</i> offers the first demonstrably effective way to improve our ability to predict the future—whether in business, finance, politics, international affairs, or daily life—and is destined to become a modern classic."
+  },
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/7b/d8/ed/7bd8ed6c-6b80-8dbe-56b5-5451a6e53b80/9780804136709.d.jpg/{w}x{h}bb.{f}",
+    "height": 2404,
+    "textColor3": "cbcbcb",
+    "textColor2": "dea956",
+    "textColor4": "b18745",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/superforecasting/id989620031",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 59,
+    "ratingCountList": [
+      4,
+      3,
+      3,
+      12,
+      37
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Superforecasting",
+  "publisher": "Crown",
+  "isPreorder": false,
+  "artistName": "Philip E. Tetlock & Dan Gardner",
+  "primaryLocale": "en-US"
+}

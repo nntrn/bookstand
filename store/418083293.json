@@ -1,0 +1,64 @@
+{
+  "id": "418083293",
+  "title": "Genius",
+  "subtitle": "The Life and Science of Richard Feynman",
+  "author": "James Gleick",
+  "isbn": "9781453210451",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Science & Nature",
+    "Physics"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=418083293&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6532295
+        }
+      ]
+    }
+  ],
+  "pageCount": 532,
+  "releaseDate": "2011-02-22",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>New York Times</i> Bestseller: This life story of the quirky physicist is “a thorough and masterful portrait of one of the great minds of the century” (<i>The New York Review of Books</i>).</b>&#xa0;Raised in Depression-era Rockaway Beach, physicist Richard Feynman was irreverent, eccentric, and childishly enthusiastic—a new kind of scientist in a field that was in its infancy. His quick mastery of quantum mechanics earned him a place at Los Alamos working on the Manhattan Project under J. Robert Oppenheimer, where the giddy young man held his own among the nation’s greatest minds. There, Feynman turned theory into practice, culminating in the Trinity test, on July 16, 1945, when the Atomic Age was born. He was only twenty-seven. And he was just getting started.&#xa0;In this sweeping biography, James Gleick captures the forceful personality of a great man, integrating Feynman’s work and life in a way that is accessible to laymen and fascinating for the scientists who follow in his footsteps."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/23/20/d0/2320d0dd-ca23-b0a1-3016-bf02cb2f4877/9781453210451.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "d6d6d6",
+    "textColor2": "d1d1d1",
+    "textColor4": "b4b4b4",
+    "textColor1": "fbfbfb",
+    "bgColor": "414141",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/genius/id418083293",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 45,
+    "ratingCountList": [
+      2,
+      2,
+      4,
+      11,
+      26
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Genius",
+  "publisher": "Open Road Media",
+  "isPreorder": false,
+  "artistName": "James Gleick",
+  "primaryLocale": "en-US"
+}

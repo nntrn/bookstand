@@ -1,0 +1,63 @@
+{
+  "id": "576439132",
+  "title": "Denial",
+  "subtitle": "Self-Deception, False Beliefs, and the Origins of the Human Mind",
+  "author": "Ajit Varki & Danny Brower",
+  "isbn": "9781455511921",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Life Sciences"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=576439132&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1298395
+        }
+      ]
+    }
+  ],
+  "pageCount": 384,
+  "releaseDate": "2013-06-04",
+  "isIBook": false,
+  "description": {
+    "standard": "The history of science abounds with momentous theories that disrupted conventional wisdom and yet were eventually proven true. Ajit Varki and Danny Brower's \"Mind over Reality\" theory is poised to be one such idea-a concept that runs counter to commonly-held notions about human evolution but that may hold the key to understanding why humans evolved as we did, leaving all other related species far behind.\n\nAt a chance meeting in 2005, Brower, a geneticist, posed an unusual idea to Varki that he believed could explain the origins of human uniqueness among the world's species: Why is there no humanlike elephant or humanlike dolphin, despite millions of years of evolutionary opportunity? Why is it that humans alone can understand the minds of others?\n\nHaunted by their encounter, Varki tried years later to contact Brower only to discover that he had died unexpectedly. Inspired by an incomplete manuscript Brower left behind, Denial presents a radical new theory on the origins of our species. It was not, the authors argue, a biological leap that set humanity apart from other species, but a psychological one: namely, the uniquely human ability to deny reality in the face of inarguable evidence-including the willful ignorance of our own inevitable deaths.\n\nThe awareness of our own mortality could have caused anxieties that resulted in our avoiding the risks of competing to procreate-an evolutionary dead-end. Humans therefore needed to evolve a mechanism for overcoming this hurdle: the denial of reality.\n\nAs a consequence of this evolutionary quirk we now deny any aspects of reality that are not to our liking-we smoke cigarettes, eat unhealthy foods, and avoid exercise, knowing these habits are a prescription for an early death. And so what has worked to establish our species could be our undoing if we continue to deny the consequences of unrealistic approaches to everything from personal health to financial risk-taking to climate change. On the other hand reality-denial affords us many valuable attributes, such as optimism, confidence, and courage in the face of long odds.\n\nPresented in homage to Brower's original thinking, Denial offers a powerful warning about the dangers inherent in our remarkable ability to ignore reality-a gift that will either lead to our downfall, or continue to be our greatest asset."
+  },
+  "artwork": {
+    "width": 1711,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/93/8c/1a/938c1a36-c710-82e2-e41c-df6ecaf1a242/9781455511921.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "1b312f",
+    "textColor2": "0a2d28",
+    "textColor4": "184a44",
+    "textColor1": "0e0e0e",
+    "bgColor": "4ebeb4",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/denial/id576439132",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      3,
+      2
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Denial",
+  "publisher": "Grand Central Publishing",
+  "isPreorder": false,
+  "artistName": "Ajit Varki & Danny Brower",
+  "primaryLocale": "en-US"
+}

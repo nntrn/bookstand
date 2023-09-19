@@ -1,0 +1,66 @@
+{
+  "id": "1523604083",
+  "title": "Neurogastronomy",
+  "subtitle": "How the Brain Creates Flavor and Why It Matters",
+  "author": "Gordon M. Shepherd",
+  "isbn": "9780231530316",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Nonfiction",
+    "Social Science",
+    "Anthropology"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1523604083&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1912568
+        }
+      ]
+    }
+  ],
+  "pageCount": 286,
+  "releaseDate": "2011-12-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“A personal yet magisterial account of the new brain-based approach to flavor perception . . . [a] panoramic view of science, culture, and behavior.”—Avery Gilbert, author of&#xa0;<i>What the Nose Knows</i></b><br /> &#xa0;<br /> Leading neuroscientist Gordon M. Shepherd embarks on a paradigm-shifting trip through the “human brain flavor system,” laying the foundations for a new scientific field: neurogastronomy. Challenging the belief that the sense of smell diminished during human evolution, Shepherd argues that this sense, which constitutes the main component of flavor, is far more powerful and essential than previously believed.<br /><br /> Shepherd begins&#xa0;<i>Neurogastronomy</i>&#xa0;with the mechanics of smell, particularly the way it stimulates the nose from the back of the mouth. As we eat, the brain conceptualizes smells as spatial patterns, and from these and the other senses it constructs the perception of flavor. Shepherd then considers the impact of the flavor system on contemporary social, behavioral, and medical issues. He analyzes flavor’s engagement with the brain regions that control emotion, food preferences, and cravings, and he even devotes a section to food’s role in drug addiction and, building on Marcel Proust’s iconic tale of the madeleine, its ability to evoke deep memories.&#xa0;<br /><br /> Shepherd connects his research to trends in nutrition, dieting, and obesity, especially the challenges that many face in eating healthily. He concludes with human perceptions of smell and flavor and their relationship to the neural basis of consciousness. Everyone from casual diners and ardent foodies to wine critics, chefs, scholars, and researchers will delight in Shepherd’s fascinating, scientific-gastronomic adventures.<br /><br /> “Those who make the effort will be rewarded: they’ll never look at eating the same way again.”—<i>Library Journal</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/9a/65/09/9a650995-be3e-d10e-b08e-8afad6d4cdb5/9780231530316.jpg/{w}x{h}bb.{f}",
+    "height": 2362,
+    "textColor3": "332e1d",
+    "textColor2": "00250f",
+    "textColor4": "334b27",
+    "textColor1": "000002",
+    "bgColor": "ffe588",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/neurogastronomy/id1523604083",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Neurogastronomy",
+  "publisher": "Columbia University Press",
+  "isPreorder": false,
+  "artistName": "Gordon M. Shepherd",
+  "primaryLocale": "en-US"
+}

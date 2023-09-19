@@ -1,0 +1,67 @@
+{
+  "id": "1121002955",
+  "title": "You Are the Universe",
+  "subtitle": "Discovering Your Cosmic Self and Why It Matters",
+  "author": "Deepak Chopra & Menas C. Kafatos, Ph.D.",
+  "isbn": "9780307951854",
+  "genreNames": [
+    "Astronomy",
+    "Books",
+    "Science & Nature",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Religion & Spirituality"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1121002955&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2156092
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2017-02-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES BESTSELLER</i>&#xa0;•&#xa0;Deepak Chopra joins forces with leading physicist Menas Kafatos to explore some of the most important and baffling questions about our place in the world.&#xa0;<i><br /><br /></i>\"A riveting and absolutely fascinating adventure that will blow your mind wide open!\" —Dr. Rudolph E. Tanzi<i><br /></i></b>&#xa0;<br /> What happens when modern science reaches a crucial turning point that challenges everything we know about reality? In this brilliant, timely, and practical work, Chopra and Kafatos tell us that we've reached just such a point. In the coming era, the universe will be completely redefined as a \"human universe\" radically unlike the cold, empty void where human life is barely a speck in the cosmos.<br /> &#xa0;<br /> <i>You Are the Universe</i>&#xa0;literally means what it says--each of us is a co-creator of reality extending to the vastest reaches of time and space. This seemingly impossible proposition follows from the current state of science, where outside the public eye, some key mysteries cannot be solved, even though they are the very issues that define reality itself:<br /> &#xa0;<br />• What Came Before the Big Bang?<br />• Why Does the Universe Fit Together So Perfectly?<br />• Where Did Time Come From?<br />• What Is the Universe Made Of?<br />• Is the Quantum World Linked to Everyday Life?<br />• Do We Live in a Conscious Universe?<br />• How Did Life First Begin?<br /> &#xa0;<br /> “The shift into a new paradigm is happening,” the authors write. “The answers offered in this book are not our invention or eccentric flights of fancy. All of us live in a participatory universe. Once you decide that you want to participate fully with mind, body, and soul, the paradigm shift becomes personal. The reality you inhabit will be yours either to embrace or to change.” What these two great minds offer is a bold, new understanding of who we are and how we can transform the world for the better while reaching our greatest potential."
+  },
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/05/36/f7/0536f7d8-b358-ec3b-0c2f-4daeb80e6dfc/9780307951854.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "d3d5e7",
+    "textColor2": "f2b494",
+    "textColor4": "ca9992",
+    "textColor1": "ffffff",
+    "bgColor": "28308c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/you-are-the-universe/id1121002955",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 76,
+    "ratingCountList": [
+      4,
+      4,
+      7,
+      19,
+      42
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "You Are the Universe",
+  "isPreorder": false,
+  "publisher": "Harmony/Rodale",
+  "artistName": "Deepak Chopra & Menas C. Kafatos, Ph.D.",
+  "primaryLocale": "en-US"
+}

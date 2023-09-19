@@ -1,0 +1,68 @@
+{
+  "id": "1517287570",
+  "title": "Story or Die",
+  "subtitle": "How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life",
+  "author": "Lisa Cron",
+  "isbn": "9781984857699",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Science & Nature",
+    "Business & Personal Finance",
+    "Marketing & Sales"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1517287570&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2805174
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2021-03-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“A practical, heartfelt manual for anyone who needs to change minds and actions. Lisa Cron shares the art of practical empathy with leaders who care enough to make a difference.”—Seth Godin, author of&#xa0;<i>The Practice</i></b><br />&#xa0;<br /><b>A step-by-step guide to using the brain’s hardwired need for story to achieve any goal, from the author of&#xa0;<i>Wired for Story</i></b> <br />&#xa0; <br />Whether you’re pitching a product, saving the planet, or convincing your kids not to text and drive,&#xa0;story isn’t just one way to persuade. It’s&#xa0;<i>the</i>&#xa0;way. It’s built into the architecture of the brain, and has been since early humans gathered around the camp fire, trying to figure out how to outsmart the lion next door.<br /><br />In <i>Story or Die, </i>story coach Lisa Cron sets out to decode the power of story, first by examining how the brain processes information, translates it into narrative, and then guards it as if your life depends on it. Armed with that insight, she focuses on how to find your real target audience and then pinpoint their hidden resistance. Finally, she takes you, step-by-step, through the creation of your own story, one that allows your audience to overcome their resistance and take up your call to action, not because you told them to, but because they want to.<br /><br /><i>That</i> is the power of story. Use it wisely."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/f0/36/8f/f0368f91-ff9a-228f-9600-e2e610e27bc2/9781984857699.d.jpg/{w}x{h}bb.{f}",
+    "height": 2480,
+    "textColor3": "f1d5ce",
+    "textColor2": "fad5c4",
+    "textColor4": "edb3a0",
+    "textColor1": "ffffff",
+    "bgColor": "bd2f0d",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/story-or-die/id1517287570",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Story or Die",
+  "publisher": "Clarkson Potter/Ten Speed",
+  "isPreorder": false,
+  "artistName": "Lisa Cron",
+  "primaryLocale": "en-US"
+}

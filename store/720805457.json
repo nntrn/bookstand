@@ -1,0 +1,72 @@
+{
+  "id": "720805457",
+  "title": "The Positive Trait Thesaurus: A Writer's Guide to Character Attributes",
+  "subtitle": null,
+  "author": "Angela Ackerman & Becca Puglisi",
+  "isbn": "9780989772532",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Reference",
+    "Dictionaries & Thesauruses",
+    "Writing"
+  ],
+  "seller": "JADD Publishing",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=720805457&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 1456951
+        }
+      ]
+    }
+  ],
+  "pageCount": 252,
+  "releaseDate": "2013-10-21",
+  "seriesInfo": {
+    "seriesName": "Writers Helping Writers Series",
+    "sequenceNumber": "3",
+    "sequenceDisplayLabel": "Book 3"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "It’s a writer’s job to create compelling characters who can withstand life’s fallout without giving up. But building authentic, memorable heroes is no easy task. To forge realistic characters, we must hobble them with flaws that set them back while giving them positive attributes to help them achieve their goals. So how do writers choose the right blend of strengths for their characters—attributes that will render them admirable and worth rooting for—without making it too easy for them to succeed?<br /><br />\nUNEARTH YOUR CHARACTER’S UNIQUE PERSONALITY<br /><br />\nCharacter creation can be hard, but it’s about to get a lot easier. Inside <i>The Positive Trait Thesaurus</i>, you’ll find:<br />\n\t•A large selection of attributes to choose from when building a personality profile. Each entry lists possible causes for why a trait might emerge, along with associated attitudes, behaviors, thoughts, and emotions&#xa0;<br />\n\t•Real character examples from literature, film, or television to show how an attribute drives actions and decisions, influences goals, and steers relationships<br />\n\t•Advice on using positive traits to immediately hook readers while avoiding common personality pitfalls<br />\n\t•Insight on human needs and morality, and how each determines the strengths that emerge in heroes and villains alike<br />\n\t•Information on the key role positive attributes play within the character arc, and how they’re vital to overcoming fatal flaws and achieving success&#xa0;<br />\n\t•Downloadable tools for organizing a character’s attributes and providing a deeper understanding of his past, his needs, and the emotional wounds he must overcome<br /><br />\nIf you find character creation difficult or worry that your cast members all seem the same, <i>The Positive Trait Thesaurus</i> is brimming with ideas to help you develop one-of-a-kind, dynamic characters that readers will love. Extensively indexed, with entries written in a user-friendly list format, this brainstorming resource is perfect for any character creation project."
+  },
+  "artwork": {
+    "width": 2102,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/7f/68/ad/7f68ad4b-aa6a-0540-acca-a609ca0afd30/20181505_positiveattributes_thesaurus_ebook_final.jpg/{w}x{h}bb.{f}",
+    "height": 3003,
+    "textColor3": "cbcbcb",
+    "textColor2": "b284f0",
+    "textColor4": "8e6ac0",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-positive-trait-thesaurus-a-writers-guide/id720805457",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 7,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      0,
+      5
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "The Positive Trait Thesaurus: A Writer's Guide to Character Attributes",
+  "publisher": "JADD Publishing",
+  "isPreorder": false,
+  "artistName": "Angela Ackerman & Becca Puglisi",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1518473476",
+  "title": "Meeting the Shadow",
+  "subtitle": null,
+  "author": "Connie Zweig & Jeremiah Abrams",
+  "isbn": "9780593329986",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1518473476&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1516672
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "1991-04-01",
+  "isIBook": false,
+  "description": {
+    "standard": "The author offers exploration of self and practical guidance dealing with the dark side of personality based on Jung's concept of \"shadow,\" or the forbidden and unacceptable feelings and behaviors each of us experience."
+  },
+  "artwork": {
+    "width": 1812,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/34/58/e4/3458e405-6284-69db-4583-e83964337220/9780593329986.d.jpg/{w}x{h}bb.{f}",
+    "height": 2723,
+    "textColor3": "b6b5ba",
+    "textColor2": "c9cdd9",
+    "textColor4": "a1a5ae",
+    "textColor1": "e3e2e8",
+    "bgColor": "020202",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/meeting-the-shadow/id1518473476",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Meeting the Shadow",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Connie Zweig & Jeremiah Abrams",
+  "primaryLocale": "en-US"
+}

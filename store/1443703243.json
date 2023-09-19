@@ -1,0 +1,67 @@
+{
+  "id": "1443703243",
+  "title": "Forensics",
+  "subtitle": "What Bugs, Burns, Prints, DNA, and More Tell Us About Crime",
+  "author": "Val McDermid",
+  "isbn": "9780802191052",
+  "genreNames": [
+    "True Crime",
+    "Books",
+    "Nonfiction",
+    "Professional & Technical",
+    "Medical",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1443703243&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 15603562
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2015-07-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Bestselling author of <i>Broken Ground</i> “offers </b><b>fascinating glimpses” into the real world of criminal forensics from its beginnings to the modern day (<i>The Boston Globe</i>).</b><br /> &#xa0;<br /> The dead can tell us all about themselves: where they came from, how they lived, how they died, and, of course, who killed them. Using the messages left by a corpse, a crime scene, or the faintest of human traces, forensic scientists unlock the mysteries of the past and serve justice.&#xa0;In <i>Forensics</i>, international bestselling crime author Val McDermid&#xa0;guides readers through this field, drawing on interviews with top-level professionals, ground-breaking research, and her own experiences on the scene.<br /> &#xa0;<br /> Along the way, McDermid discovers how maggots collected from a corpse can help determine one’s time of death; how a DNA trace a millionth the size of a grain of salt can be used to convict a killer; and how a team of young Argentine scientists led by a maverick American anthropologist were able to uncover the victims of a genocide.<br /> &#xa0;<br /> Prepare to travel to war zones, fire scenes, and autopsy suites as McDermid comes into contact with both extraordinary bravery and wickedness, tracing the history of forensics from its earliest beginnings to the cutting-edge science of the modern day."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/34/09/ce/3409ce36-b7de-4d29-8192-30b408e03cd8/9780802191052.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "363533",
+    "textColor2": "5a0b0d",
+    "textColor4": "7a3937",
+    "textColor1": "050509",
+    "bgColor": "f9f4de",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/forensics/id1443703243",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 10,
+    "ratingCountList": [
+      0,
+      0,
+      3,
+      4,
+      3
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Forensics",
+  "publisher": "Grove Atlantic",
+  "isPreorder": false,
+  "artistName": "Val McDermid",
+  "primaryLocale": "en-US"
+}

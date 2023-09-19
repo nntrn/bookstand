@@ -1,0 +1,71 @@
+{
+  "id": "357660141",
+  "title": "Connected",
+  "subtitle": "The Surprising Power of Our Social Networks and How They Shape Our Lives",
+  "author": "Nicholas A. Christakis & James H. Fowler",
+  "isbn": "9780316071345",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Professional & Technical",
+    "Engineering",
+    "Electrical Engineering",
+    "Nonfiction",
+    "Social Science",
+    "Sociology"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>Celebrated scientists Nicholas Christakis and James Fowler explain the amazing power of social networks and our profound influence on one another's lives.</b><br /><br /> Your colleague's husband's sister can make you fat, even if you don't know her. A happy neighbor has more impact on your happiness than a happy spouse. These startling revelations of how much we truly influence one another are revealed in the studies of Dr. Christakis and Fowler, which have repeatedly made front-page news nationwide.  <br /><br /> In <i>Connected</i>, the authors explain why emotions are contagious, how health behaviors spread, why the rich get richer, even how we find and choose our partners. Intriguing and entertaining, <i>Connected</i> overturns the notion of the individual and provides a revolutionary paradigm-that social networks influence our ideas, emotions, health, relationships, behavior, politics, and much more. It will change the way we think about every aspect of our lives."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=357660141&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5858634
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2009-09-28",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1715,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/ce/b9/02/ceb902bb-ad7e-23e7-4bd3-01a59ab0fc8a/9780316071345.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "3b230d",
+    "textColor2": "2f1b0c",
+    "textColor4": "553013",
+    "textColor1": "0f0a04",
+    "bgColor": "ec8631",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/connected/id357660141",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 35,
+    "ratingCountList": [
+      6,
+      2,
+      4,
+      5,
+      18
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "Connected",
+  "isPreorder": false,
+  "publisher": "Little, Brown and Company",
+  "artistName": "Nicholas A. Christakis & James H. Fowler",
+  "primaryLocale": "en-US"
+}

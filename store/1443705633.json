@@ -1,0 +1,64 @@
+{
+  "id": "1443705633",
+  "title": "Scripts People Live",
+  "subtitle": "Transactional Analysis of Life Scripts",
+  "author": "Claude Steiner",
+  "isbn": "9780802196804",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1443705633&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8383474
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2007-12-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A “stimulating and thought-provoking” guide to help you make productive and autonomous choices toward rewriting your life (<i>Los Angeles Times</i>).</b><br /> &#xa0;<br /> We choose a “life script” at an early age. But you <i>can</i> change its course. Whether born into wealth or poverty, into nurturing families or damaged abusers, fostered by strict parents or careless and undisciplined ones, each individual still has a spiritual core that exists independent of the environment and is equally crucial to his or her destiny.<br /> &#xa0;<br /> Countering the fundamental principle of psychiatry which asserts that emotional and mental distress comes from within, Claude Steiner believes that people are innately healthy but develop a pattern early in life based upon negative or positive influences of those around them. Those influences can rule every detail of our lives until our death. Thus children decide, however unconsciously, whether they will be happy or depressed, winners or failures, strong or dependent, caring or cruel, and having decided, they spend the rest of their lives making that decision come true. For those who choose to live by their negative script, the consequences can be disastrous unless they make a conscious decision to change.<br /> &#xa0;<br /> In <i>Scripts We Live</i>, Steiner tackles the puzzle of human fate. He reveals what determines our life scripts, and how each person’s combination of spirit and circumstance contributes to the final path that life takes. And he offers hopeful advice and practical analysis so that we all can rewrite for ourselves more meaningful and fulfilling lives."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/0e/9a/9f/0e9a9fa3-3bfb-5c6f-58ac-8c1e5500ea64/9780802196804.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "383c3c",
+    "textColor2": "4f0f13",
+    "textColor4": "723f42",
+    "textColor1": "070b0c",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/scripts-people-live/id1443705633",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Scripts People Live",
+  "isPreorder": false,
+  "publisher": "Grove Atlantic",
+  "artistName": "Claude Steiner",
+  "primaryLocale": "en-US"
+}

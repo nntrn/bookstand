@@ -1,0 +1,68 @@
+{
+  "id": "1329400578",
+  "title": "No Beast So Fierce",
+  "subtitle": "The Terrifying True Story of the Champawat Tiger, the Deadliest Man-Eater in History",
+  "author": "Dane Huckelbridge",
+  "isbn": "9780062678874",
+  "genreNames": [
+    "Nature",
+    "Books",
+    "Science & Nature",
+    "Biographies & Memoirs",
+    "History",
+    "Asia",
+    "Science & Technology"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1329400578&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6072495
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2019-02-05",
+  "isIBook": false,
+  "description": {
+    "standard": "The&#xa0;astonishing true story of the man-eating tiger that claimed a record 437 human lives<br /><br />“Thrilling. Fascinating. Exciting.” —Wall Street Journal • \"Riveting. Haunting.” —Scientific American<br /><br />Nepal, c. 1900:&#xa0;A lone&#xa0;tigress&#xa0;began stalking humans, moving like a phantom through the lush foothills of the Himalayas. As the death toll reached an astonishing 436 lives, a young local hunter was dispatched to stop the man-eater before it struck again. This is the&#xa0;extraordinary true story of the \"Champawat Man-Eater,\" the deadliest animal in recorded history.<br /><br />One part pulse-pounding thriller, one part soulful natural history of the endangered Royal Bengal tiger, No Beast So Fierce is Dane Huckelbridge’s&#xa0;gripping&#xa0;nonfiction account&#xa0;of the Champawat tiger, which terrified northern India and Nepal from 1900 to 1907, and Jim Corbett, the legendary hunter who pursued it. Huckelbridge’s masterful telling also reveals that the tiger, Corbett, and the forces that brought them together are far more complex and fascinating than a simple man-versus-beast tale. <br /><br />At the turn of the twentieth century as British rule of India tightened and bounties were placed on tiger’s heads, a tigress was shot in the mouth by a poacher. Injured but alive, it turned from its usual hunting habits to easier prey—humans. For the next seven years, this man-made killer terrified locals, growing bolder with every kill. Colonial authorities, desperate for help, finally called upon Jim Corbett, a then-unknown railroad employee of humble origins who had grown up hunting game through the hills of Kumaon. <br /><br />Like a detective on the trail of a serial killer, Corbett tracked the tiger’s movements in the dense, hilly woodlands—meanwhile the animal shadowed Corbett in return. Then, after a heartbreaking new kill of a young woman whom he was unable to protect, Corbett followed the gruesome blood trail deep into the forest where hunter and tiger would meet at last.<br /><br />Drawing upon on-the-ground research in the Indian Himalayan region where he retraced Corbett’s footsteps, Huckelbridge brings to life one of the great adventure stories of the twentieth century. And yet Huckelbridge brings a deeper, more complex story into focus, placing the episode into its full context for the first time: that of colonialism’s disturbing impact on the ancient balance between man and tiger; and that of Corbett’s own evolution from a celebrated hunter to a&#xa0; principled conservationist who in time would earn fame for his devotion to saving the Bengal tiger and its habitat. Today the Corbett Tiger Reserve preserves 1,200 km of wilderness; within its borders is Jim Corbett National Park, India’s oldest and most prestigious national park and a vital haven for the very animals Corbett once hunted.<br /><br />An unforgettable tale, magnificently told, No Beast So Fierce is an epic of beauty, terror, survival, and redemption for the ages."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/b5/dc/f5/b5dcf523-01ab-06e0-5cc0-3b2e212417ee/9780062678874.jpg/{w}x{h}bb.{f}",
+    "height": 2410,
+    "textColor3": "c4beac",
+    "textColor2": "ec612c",
+    "textColor4": "be4f24",
+    "textColor1": "f4ecd6",
+    "bgColor": "060807",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/no-beast-so-fierce/id1329400578",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 84,
+    "ratingCountList": [
+      3,
+      6,
+      10,
+      26,
+      39
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "No Beast So Fierce",
+  "publisher": "Mariner Books",
+  "isPreorder": false,
+  "artistName": "Dane Huckelbridge",
+  "primaryLocale": "en-US"
+}

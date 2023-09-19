@@ -1,0 +1,64 @@
+{
+  "id": "583275747",
+  "title": "Give and Take",
+  "subtitle": "Why Helping Others Drives Our Success",
+  "author": "Adam Grant",
+  "isbn": "9781101622841",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=583275747&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1919078
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2013-04-09",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A groundbreaking look at why our interactions with others hold the key to success, from the <i>New York Times</i> bestselling&#xa0;author of <i>Think Again, Originals</i>, and the forthcoming <i>Hidden Potential</i><br /></b><br />For generations, we have focused on the individual drivers of success: passion, hard work, talent, and luck. But in today’s dramatically reconfigured world, success is increasingly dependent on how we interact with others. In <i>Give and Take</i>, Adam Grant, an award-winning researcher and Wharton’s highest-rated professor, examines the surprising forces that shape why some people rise to the top of the success ladder while others sink to the bottom. Praised by social scientists, business theorists, and corporate leaders, <i>Give and Take</i> opens up an approach to work, interactions, and productivity that is nothing short of revolutionary."
+  },
+  "artwork": {
+    "width": 3038,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/7c/05/60/7c056026-78c5-5b88-6349-71aa82c9f45c/9781101622841.d.jpg/{w}x{h}bb.{f}",
+    "height": 4650,
+    "textColor3": "3a3a39",
+    "textColor2": "1b1b1b",
+    "textColor4": "484848",
+    "textColor1": "090908",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/give-and-take/id583275747",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 275,
+    "ratingCountList": [
+      27,
+      18,
+      29,
+      48,
+      153
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Give and Take",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Adam Grant",
+  "primaryLocale": "en-US"
+}

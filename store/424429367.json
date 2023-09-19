@@ -1,0 +1,66 @@
+{
+  "id": "424429367",
+  "title": "The Power of Myth",
+  "subtitle": null,
+  "author": "Joseph Campbell & Bill Moyers",
+  "isbn": "9780307794727",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Fiction & Literature",
+    "Literary Criticism",
+    "Religion & Spirituality"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=424429367&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7013207
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "1988-05-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>NATIONAL BESTSELLER&#xa0;•&#xa0;An extraordinary book that reveals how the themes and symbols of ancient narratives continue to bring meaning to birth, death, love, and war. <b><br /></b> </b><br /><i>The Power of Myth </i>launched an extraordinary resurgence of interest in Joseph Campbell and his work. A preeminent scholar, writer, and teacher, he has had a profound influence on millions of people—including Star Wars creator George Lucas. To Campbell, mythology was the “song of the universe, the music of the spheres.” With Bill Moyers, one of America’s most prominent journalists, as his thoughtful and engaging interviewer, <i>The Power of Myth</i> touches on subjects from modern marriage to virgin births, from Jesus to John Lennon, offering a brilliant combination of intelligence and wit. <br /><br />From stories of the gods and goddesses of ancient Greece and Rome to traditions of Buddhism, Hinduism and Christianity, a broad array of themes are considered that together identify the universality of human experience across time and culture. An impeccable match of interviewer and subject, a timeless distillation of Campbell’s work, <i>The Power of Myth</i> continues to exert a profound influence on our culture. <i> </i>"
+  },
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/7b/a3/78/7ba3783e-9be2-5fec-4770-029b31e2bd2b/9780307794727.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "a5884f",
+    "textColor2": "d1a64d",
+    "textColor4": "a7853e",
+    "textColor1": "cea962",
+    "bgColor": "030303",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-power-of-myth/id424429367",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 159,
+    "ratingCountList": [
+      14,
+      6,
+      8,
+      21,
+      110
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Power of Myth",
+  "isPreorder": false,
+  "publisher": "Knopf Doubleday Publishing Group",
+  "artistName": "Joseph Campbell & Bill Moyers",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1574721314",
+  "title": "The Psychology of the Simpsons",
+  "subtitle": "D'oh!",
+  "author": "Alan S. Brown & Chris Logan",
+  "isbn": "9781935251392",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Arts & Entertainment",
+    "TV"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1574721314&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1133950
+        }
+      ]
+    }
+  ],
+  "pageCount": 240,
+  "releaseDate": "2006-02-08",
+  "isIBook": false,
+  "description": {
+    "standard": "Psychologists turn their attention to <i>The Simpsons</i>, one of America's most popular and beloved shows, in these essays that explore the function and dysfunctions of the show's characters. Designed to appeal to both fans of the show and students of psychology, this unique blend of science and pop culture consists of essays by professional psychologists drawn from schools and clinical practices across the country. Each essay is designed to be accessible, thoughtful, and entertaining, while providing the reader with insights into both <i>The Simpsons</i> and the latest in psychological thought. Every major area of psychology is covered, from clinical psychology and cognition to abnormal and evolutionary psychology, while fresh views on eclectic show topics such as gambling addiction, Pavlovian conditioning, family therapy, and lobotomies are explored."
+  },
+  "artwork": {
+    "width": 1830,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/07/79/c3/0779c3c5-a1b5-490c-cede-4bad7ec254c1/9781935251392.d.jpg/{w}x{h}bb.{f}",
+    "height": 2730,
+    "textColor3": "242930",
+    "textColor2": "101d3e",
+    "textColor4": "2d3c5e",
+    "textColor1": "040504",
+    "bgColor": "a4bae1",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-psychology-of-the-simpsons/id1574721314",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The Psychology of the Simpsons",
+  "publisher": "BenBella Books",
+  "isPreorder": false,
+  "artistName": "Alan S. Brown & Chris Logan",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1143915925",
+  "title": "Word by Word",
+  "subtitle": "The Secret Life of Dictionaries",
+  "author": "Kory Stamper",
+  "isbn": "9781101870952",
+  "genreNames": [
+    "Dictionaries & Thesauruses",
+    "Books",
+    "Reference",
+    "Biographies & Memoirs",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=1143915925&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 10937716
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2017-03-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<i>“We think of English as a fortress to be defended, but a better analogy is to think of English as a child. We love and nurture it into being, and once it gains gross motor skills, it starts going exactly where we don’t want it to go: it heads right for the goddamned electrical sockets.”</i><br /> <i>&#xa0;</i><br /> With wit and irreverence, lexicographer Kory Stamper cracks open the obsessive world of dictionary writing, from the agonizing decisions about what to define and how to do it to the knotty questions of ever-changing word usage. <br /> &#xa0;<br /> Filled with fun facts—for example, the first documented usage of “OMG” was in a letter to Winston Churchill—and Stamper’s own stories from the linguistic front lines (including how she became America’s foremost “irregardless” apologist, despite loathing the word), <i>Word by Word</i> is an endlessly entertaining look at the wonderful complexities and eccentricities of the English language."
+  },
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/78/b4/8f/78b48fa8-3012-a374-cac4-934ffe123e5e/9781101870952.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "4a4a49",
+    "textColor2": "222124",
+    "textColor4": "4a4a4b",
+    "textColor1": "212121",
+    "bgColor": "eeefea",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/word-by-word/id1143915925",
+  "userRating": {
+    "value": 4.8,
+    "ratingCount": 24,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      4,
+      19
+    ],
+    "ariaLabelForRatings": "4.8 stars"
+  },
+  "name": "Word by Word",
+  "publisher": "Knopf Doubleday Publishing Group",
+  "isPreorder": false,
+  "artistName": "Kory Stamper",
+  "primaryLocale": "en-US"
+}

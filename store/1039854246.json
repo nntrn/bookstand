@@ -1,0 +1,69 @@
+{
+  "id": "1039854246",
+  "title": "Algorithms to Live By",
+  "subtitle": "The Computer Science of Human Decisions",
+  "author": "Brian Christian & Tom Griffiths",
+  "isbn": "9781627790376",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Business & Personal Finance",
+    "Economics",
+    "Computers & Internet",
+    "Computers",
+    "Management & Leadership"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1039854246&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5928552
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2016-04-19",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An exploration of how computer algorithms can be applied to our everyday lives to solve common decision-making problems and illuminate the  workings of the human mind.  </b><br /><br />What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of the new and familiar is the most fulfilling? These may seem like uniquely human quandaries, but they are not. Computers, like us, confront limited space and time, so computer scientists have been grappling with similar problems for decades. And the solutions they’ve found have much to teach us.<br /><br />In a dazzlingly interdisciplinary work, Brian Christian and Tom Griffiths show how algorithms developed for computers also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one’s inbox to peering into the future, <i>Algorithms to Live By</i> transforms the wisdom of computer science into strategies for human living."
+  },
+  "artwork": {
+    "width": 1838,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication49/v4/9d/8b/38/9d8b38e2-5212-3b05-e7f3-e9a5218e80cf/9781627790376.jpg/{w}x{h}bb.{f}",
+    "height": 2775,
+    "textColor3": "565454",
+    "textColor2": "003259",
+    "textColor4": "335b7a",
+    "textColor1": "2c2929",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/algorithms-to-live-by/id1039854246",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 77,
+    "ratingCountList": [
+      7,
+      6,
+      6,
+      20,
+      38
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Algorithms to Live By",
+  "publisher": "Henry Holt and Co.",
+  "isPreorder": false,
+  "artistName": "Brian Christian & Tom Griffiths",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1408965308",
+  "title": "Writing to Be Understood",
+  "subtitle": null,
+  "author": "Anne Janzer",
+  "isbn": "9780999624838",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Draft2Digital, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1408965308&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 660724
+        }
+      ]
+    }
+  ],
+  "pageCount": 163,
+  "releaseDate": "2018-08-09",
+  "isIBook": false,
+  "description": {
+    "standard": "Have you ever wondered what makes your favorite nonfiction books so compelling, understandable, or enjoyable to read? Those works connect with you, as a reader.<br /><br />When you recognize what's happening, you can apply those same methods to your own writing.<br /><br /><i>Writing To Be Understood</i> is the thinking writer's guide to effective nonfiction writing techniques, such as:<br /><br />Using analogies to illustrate unseen concepts<br /><br />Appealing to the reader's innate curiosity<br /><br />Balancing humility with credibility<br /><br />For each topic, the book combines insights from cognitive science with advice from writers and expert practitioners in fields of psychology, technology, economics, medicine, policy, and more.<br /><br />Whether you're an expert trying to communicate with a mainstream audience or a nonfiction writer hoping to reach more people, <i>Writing to be Understood</i> will help you expand the impact of your words.<br /><br /><i>Gold Medal Winner, 2019 Independent Publisher Book Awards</i>"
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/42/4e/24/424e243b-d7fc-bd26-a4a4-4b1806b09b0a/0000346736.jpg/{w}x{h}bb.{f}",
+    "height": 2164,
+    "textColor3": "353c1e",
+    "textColor2": "0a160f",
+    "textColor4": "39432b",
+    "textColor1": "050e00",
+    "bgColor": "f8f79a",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/writing-to-be-understood/id1408965308",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Writing to Be Understood",
+  "publisher": "Anne Janzer",
+  "isPreorder": false,
+  "artistName": "Anne Janzer",
+  "primaryLocale": "en-US"
+}

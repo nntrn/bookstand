@@ -1,0 +1,66 @@
+{
+  "id": "1378146917",
+  "title": "Dreyer's English",
+  "subtitle": "An Utterly Correct Guide to Clarity and Style",
+  "author": "Benjamin Dreyer",
+  "isbn": "9780812995718",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Humor"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=1378146917&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 12740666
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2019-01-29",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES&#xa0;</i>BESTSELLER • A sharp, funny grammar guide they’ll actually&#xa0;<i>want&#xa0;</i>to read, from Random House’s longtime copy chief and one of Twitter’s leading language gurus<br />&#xa0;</b><br /><b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY <i>O: The Oprah Magazine </i>• <i>Paste </i>• <i>Shelf Awareness<br /></i><br />“Essential (and delightful!)”—<i>People</i></b><br /><br /> We all write, all the time: books, blogs, emails. Lots and lots of emails. And we all want to write better. Benjamin Dreyer is here to help.<br /><br /> As Random House’s copy chief, Dreyer has upheld the standards of the legendary publisher for more than two decades. He is beloved by authors and editors alike—not to mention his followers on social media—for deconstructing the English language with playful erudition. Now he distills everything he has learned from the myriad books he has copyedited and overseen into a useful guide not just for writers but for everyone who wants to put their best prose foot forward.<br /><br /> As authoritative as it is amusing, <i>Dreyer’s English</i> offers lessons on punctuation, from the underloved semicolon to the enigmatic en dash; the rules and nonrules of grammar, including why it’s OK to begin a sentence with “And” or “But” and to confidently split an infinitive; and why it’s best to avoid the doldrums of the Wan Intensifiers and Throat Clearers, including “very,” “rather,” “of course,” and the dreaded “actually.” Dreyer will let you know whether “alright” is all right (sometimes) and even help you brush up on your spelling—though, as he notes, “The problem with mnemonic devices is that I can never remember them.”<br /><br /> And yes: “Only godless savages eschew the series comma.”<br /><br /> Chockful of advice, insider wisdom, and fun facts, this book will prove to be invaluable to everyone who wants to shore up their writing skills, mandatory for people who spend their time editing and shaping other people’s prose, and—perhaps best of all—an utter treat for anyone who simply revels in language.<br /><b><br />Praise for <i>Dreyer<b><i>’s&#xa0;</i></b>English<br /></i></b><br />“Playful, smart, self-conscious, and personal . . . One encounters wisdom and good sense on nearly every page of <i>Dreyer’s English</i>.”<b>—<i>The Wall Street Journal</i></b><br /><br /> “Destined to become a classic.”<b>—<i>The Millions</i></b><br /><br /> “Dreyer can help you . . . with tips on punctuation and spelling. . . . Even better: He’ll entertain you while he’s at it.”<b>—<i>Newsday</i>&#xa0;</b>"
+  },
+  "artwork": {
+    "width": 1557,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/f8/25/7d/f8257dc8-c89c-7f53-dc41-a5fdea9c5b40/9780812995718.d.jpg/{w}x{h}bb.{f}",
+    "height": 2401,
+    "textColor3": "d1d0b1",
+    "textColor2": "f76760",
+    "textColor4": "d05e57",
+    "textColor1": "f9f5d0",
+    "bgColor": "353c34",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/dreyers-english/id1378146917",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 82,
+    "ratingCountList": [
+      4,
+      3,
+      4,
+      17,
+      54
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Dreyer's English",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "Benjamin Dreyer",
+  "primaryLocale": "en-US"
+}

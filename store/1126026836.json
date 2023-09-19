@@ -1,0 +1,70 @@
+{
+  "id": "1126026836",
+  "title": "Botanical Shakespeare",
+  "subtitle": "An Illustrated Compendium of all the Flowers, Fruits, Herbs, Trees, Seeds, and Grasses Cited by the World's Greatest Playwright",
+  "author": "Gerit Quealy & Sumie Hasegawa Collins",
+  "isbn": "9780062469908",
+  "genreNames": [
+    "Gardening",
+    "Books",
+    "Lifestyle & Home",
+    "Science & Nature",
+    "Nature",
+    "Arts & Entertainment",
+    "Theater",
+    "Fiction & Literature",
+    "Drama"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=17990&salableAdamId=1126026836&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$17.99",
+      "price": 17.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 16553971
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2017-04-11",
+  "isIBook": false,
+  "description": {
+    "standard": "A captivating, beautifully illustrated, one-of-a-kind color compendium of the flowers, fruits, herbs, trees, seeds, and grasses cited in the works of the world’s greatest playwright, William Shakespeare, accompanied by their companion quotes from all of his plays and poems. With a foreword by Dame Helen Mirren—the first foreword she has ever contributed. <br /><br />In this striking compilation, Shakespeare historian Gerit Quealy and respected Japanese artist Sumié Hasegawa combine their knowledge and skill in this first and only book that examines every plant that appears in the works of Shakespeare. <br /><br />Botanical Shakespeare opens with a brief look at the Bard’s relationship to the plants mentioned in his works—a diversity that illuminates his knowledge of the science of botany, as well as the colloquy, revealing his unmatched skill for creating metaphorical connections and interweaving substantive philosophy. At the heart of the book are \"portraits\" of the over 170 flowers, fruits, grains, grasses, trees, herbs, seeds and vegetables that Shakespeare mentions in his plays and poems. Botanical Shakespeare features a gorgeous color illustration of each, giving a \"face\" to the name, alongside the specific text in which it appears and the character(s) who utter the lines in which it is mentioned. <br /><br />This fascinating visual compendium also includes a dictionary describing each plant—such as Eglantine, a wild rose with a slight prickle, cherished for its singular scent, superior to any other rose; and the difference between apples and apple-john—along with indices listing the botanical by play/poem, by character, and genus for easy reference, ideal for gardeners and thoughtful birthday gift-giving.<br /><br />This breathtaking, incomparable collection of exquisite artwork and companion quotes offers unique depth and insight into Shakespeare and his timeless work through the unusual perspective of the plants themselves."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication82/v4/8e/85/ab/8e85abb8-cf3e-a87b-0a8a-f9bf4e13caf7/9780062469908_marketingimage.jpg/{w}x{h}bb.{f}",
+    "height": 2276,
+    "textColor3": "614f42",
+    "textColor2": "581a17",
+    "textColor4": "784641",
+    "textColor1": "3b2618",
+    "bgColor": "fcf6ea",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/botanical-shakespeare/id1126026836",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Botanical Shakespeare",
+  "isPreorder": false,
+  "publisher": "Harper",
+  "artistName": "Gerit Quealy & Sumie Hasegawa Collins",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "361375948",
+  "title": "The Stuff of Thought",
+  "subtitle": "Language as a Window into Human Nature",
+  "author": "Steven Pinker",
+  "isbn": "9781101202609",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=361375948&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3151665
+        }
+      ]
+    }
+  ],
+  "pageCount": 512,
+  "releaseDate": "2007-09-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>This <i>New York Times</i> bestseller is an exciting and fearless investigation of language from the author of <i>Rationality</i>, <i>The</i> <i>Better Angels of Our Nature </i>and <i>The Sense of Style </i>and <i>Enlightenment Now.<br /><br /></i>\"Curious, inventive, fearless, naughty.\"<i><br />--The <i>New York Times Book Review</i><br /><br /></i></b> Bestselling author Steven Pinker possesses that rare combination of scientific aptitude and verbal eloquence that enables him to provide lucid explanations of deep and powerful ideas. His previous books - including the Pulitzer Prize finalist <i>The Blank Slate -</i> have catapulted him into the limelight as one of today's most important popular science writers. In <i>The Stuff of Thought</i>, Pinker presents a fascinating look at how our words explain our nature. Considering scientific questions with examples from everyday life, <i>The Stuff of Thought</i> is a brilliantly crafted and highly readable work that will appeal to fans of everything from <i>The Selfish Gene</i> and <i>Blink</i> to <i>Eats, Shoots &amp; Leaves</i>."
+  },
+  "artwork": {
+    "width": 1643,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/19/8d/fc/198dfc91-0d61-0e46-7ed8-6e56d71593a7/9781101202609.jpg/{w}x{h}bb.{f}",
+    "height": 2535,
+    "textColor3": "cfd0c8",
+    "textColor2": "00b9f2",
+    "textColor4": "079bc9",
+    "textColor1": "fafcf1",
+    "bgColor": "252324",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-stuff-of-thought/id361375948",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 16,
+    "ratingCountList": [
+      3,
+      1,
+      1,
+      1,
+      10
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "name": "The Stuff of Thought",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Steven Pinker",
+  "primaryLocale": "en-US"
+}

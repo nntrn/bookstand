@@ -1,0 +1,64 @@
+{
+  "id": "1543663290",
+  "title": "Sometimes I Trip On How Happy We Could Be",
+  "subtitle": null,
+  "author": "Nichole Perkins",
+  "isbn": "9781538702758",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1543663290&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1986622
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2021-08-17",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Hear the dark liquor of her laughter rippling behind her sentences” in this magnetic memoir as it explores a journalist’s obsession with pop culture and the difficulty of navigating relationships as a Black woman through fanfiction, feminism, and Southern mores (Saeed Jones).&#xa0;<br />&#xa0;</b><br />Pop culture is the Pandora’s Box of our lives. Racism, wealth, poverty, beauty, inclusion, exclusion, and hope -- all of these intractable and unavoidable features course through the media we consume. Examining pop culture’s impact on her life, Nichole Perkins takes readers on a rollicking trip through the last twenty years of music, media and the internet from the perspective of one southern Black woman. She explores her experience with mental illness and how the TV series <i>Frasier </i>served as a crutch, how her role as mistress led her to certain internet message boards that prepared her for current day social media, and what it means to figure out desire and sexuality and Prince in a world where marriage is the only acceptable goal for women.&#xa0;<br />&#xa0;<br />Combining her sharp wit, stellar pop culture sensibility, and trademark spirited storytelling, Nichole boldly tackles the damage done to women, especially Black women, by society’s failure to confront the myths and misogyny at its heart, and her efforts to stop the various cycles that limit confidence within herself. By using her own life and loves as a unique vantage point, Nichole humorously and powerfully illuminates how to take the best pop culture has to offer and discard the harmful bits, offering a mirror into our own lives."
+  },
+  "artwork": {
+    "width": 1706,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/bc/b1/e8/bcb1e8f0-323c-3c78-5cb8-a146678b187f/9781538702758.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "e3d193",
+    "textColor2": "fbb999",
+    "textColor4": "e4a586",
+    "textColor1": "fbf1a8",
+    "bgColor": "86523d",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/sometimes-i-trip-on-how-happy-we-could-be/id1543663290",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 14,
+    "ratingCountList": [
+      1,
+      1,
+      3,
+      1,
+      8
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Sometimes I Trip On How Happy We Could Be",
+  "isPreorder": false,
+  "publisher": "Grand Central Publishing",
+  "artistName": "Nichole Perkins",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1543732715",
+  "title": "Why the Germans Do it Better",
+  "subtitle": "Notes from a Grown-Up Country",
+  "author": "John Kampfner",
+  "isbn": "9781786499776",
+  "genreNames": [
+    "World Affairs",
+    "Books",
+    "Politics & Current Events",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Chicago Review Press, Inc. DBA Independent Publishers Group",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1543732715&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1110793
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2020-08-27",
+  "isIBook": false,
+  "description": {
+    "standard": "***THE SUNDAY TIMES BESTSELLER***'Excellent and provocative... a passionate, timely book.' Sunday Times'A fine new book... thoughtful, deeply reported and impeccably even-handed.' The Times'A rich guide to modern Germany... For the British readers this book is directed at, the implied contrasts are startling.' GuardianEmerging from a collection of city states 150 years ago, no other country has had as turbulent a history as Germany or enjoyed so much prosperity in such a short time frame. Today, as much of the world succumbs to authoritarianism and democracy is undermined from its heart, Germany stands as a bulwark for decency and stability.Mixing personal journey and anecdote with compelling empirical evidence, this is a critical and entertaining exploration of the country many in the West still love to hate. Raising important questions for our post-Brexit landscape, Kampfner asks why, despite its faults, Germany has become a model for others to emulate, while Britain fails to tackle contemporary challenges. Part memoir, part history, part travelogue, Why the Germans Do It Better is a rich and witty portrait of an eternally fascinating country."
+  },
+  "artwork": {
+    "width": 1784,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/da/f1/eb/daf1ebb0-1197-f912-9c03-c0682581a28a/9781786499776.jpg/{w}x{h}bb.{f}",
+    "height": 2729,
+    "textColor3": "3e3f45",
+    "textColor2": "621912",
+    "textColor4": "81463e",
+    "textColor1": "0d101a",
+    "bgColor": "fffef1",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/why-the-germans-do-it-better/id1543732715",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      1,
+      3
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "Why the Germans Do it Better",
+  "publisher": "Atlantic Books",
+  "isPreorder": false,
+  "artistName": "John Kampfner",
+  "primaryLocale": "en-US"
+}

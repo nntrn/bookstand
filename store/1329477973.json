@@ -1,0 +1,65 @@
+{
+  "id": "1329477973",
+  "title": "Statistics 101",
+  "subtitle": "From Data Analysis and Predictive Modeling to Measuring Distribution and Determining Probability, Your Essential Guide to Statistics",
+  "author": "David Borman",
+  "isbn": "9781507208182",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature",
+    "Business & Personal Finance"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=1329477973&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 21401859
+        }
+      ]
+    }
+  ],
+  "pageCount": 240,
+  "releaseDate": "2018-12-18",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A comprehensive guide to statistics—with information on collecting, measuring, analyzing, and presenting statistical data—continuing the popular 101 series. </b><br /><br />Data is everywhere. In the age of the internet and social media, we’re responsible for consuming, evaluating, and analyzing data on a daily basis. From understanding the percentage probability that it will rain later today, to evaluating your risk of a health problem, or the fluctuations in the stock market, statistics impact our lives in a variety of ways, and are vital to a variety of careers and fields of practice.<br /><br />Unfortunately, most statistics text books just make us want to take a snooze, but with <i>Statistics 101</i>, you’ll learn the basics of statistics in a way that is both easy-to-understand and apply. From learning the theory of probability and different kinds of distribution concepts, to identifying data patterns and graphing and presenting precise findings, this essential guide can help turn statistical math from scary and complicated, to easy and fun. <br /><br />Whether you are a student looking to supplement your learning, a worker hoping to better understand how statistics works for your job, or a lifelong learner looking to improve your grasp of the world, <i>Statistics 101</i> has you covered."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/38/4d/f8/384df86a-272c-5eee-b1d1-d1dbe1617514/9781507208182.jpg/{w}x{h}bb.{f}",
+    "height": 1900,
+    "textColor3": "343434",
+    "textColor2": "262626",
+    "textColor4": "515151",
+    "textColor1": "010101",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/statistics-101/id1329477973",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Statistics 101",
+  "isPreorder": false,
+  "publisher": "Adams Media",
+  "artistName": "David Borman",
+  "primaryLocale": "en-US"
+}

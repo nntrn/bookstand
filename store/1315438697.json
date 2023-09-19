@@ -1,0 +1,72 @@
+{
+  "id": "1315438697",
+  "title": "The Plot Machine",
+  "subtitle": null,
+  "author": "Dale Kutzera",
+  "isbn": "9781386921820",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Arts & Entertainment",
+    "Film",
+    "Performing Arts"
+  ],
+  "seller": "Draft2Digital, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1315438697&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 449477
+        }
+      ]
+    }
+  ],
+  "pageCount": 81,
+  "releaseDate": "2017-11-18",
+  "seriesInfo": {
+    "seriesName": "Design Better Stories Faster",
+    "sequenceNumber": "1",
+    "sequenceDisplayLabel": "#1"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "There are a lot of books on story structure, but only The Plot Machine presents a step-by-step guide to designing a story. In clear precise language, this guide discusses the various types of stories we tell, their specific parts, and how they are assembled. Say good-bye to staring at the blank page waiting for lightning to strike. Just put a few coins in the Plot Machine and design better stories faster."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/53/ad/37/53ad37a1-7910-819a-6c00-44c2cc85bf53/0000283464.jpg/{w}x{h}bb.{f}",
+    "height": 2133,
+    "textColor3": "464036",
+    "textColor2": "2d2216",
+    "textColor4": "524633",
+    "textColor1": "1e1a19",
+    "bgColor": "e8d7ab",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-plot-machine/id1315438697",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "The Plot Machine",
+  "publisher": "Dale Kutzera",
+  "isPreorder": false,
+  "artistName": "Dale Kutzera",
+  "primaryLocale": "en-US"
+}

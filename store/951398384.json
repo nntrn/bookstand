@@ -1,0 +1,71 @@
+{
+  "id": "951398384",
+  "title": "The Road to Character",
+  "subtitle": "The Humble Journey to an Excellent Life",
+  "author": "David Brooks",
+  "isbn": "9780679645030",
+  "genreNames": [
+    "Sociology",
+    "Books",
+    "Nonfiction",
+    "Social Science",
+    "Philosophy",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "Penguin Random House LLC",
+  "description": {
+    "standard": "<b>#1 <i>NEW YORK TIMES</i> BESTSELLER • David Brooks challenges us to rebalance the  scales between the focus on external success—“résumé virtues”—and our  core principles.</b><br /> <b>&#xa0;</b><br /> <b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY <i>THE ECONOMIST</i></b><br /> <b><i>&#xa0;</i></b><br /> With the wisdom, humor, curiosity, and sharp insights that have brought millions of readers to his <i>New York Times</i> column and his previous bestsellers, David Brooks has consistently illuminated our daily lives in surprising and original ways. In <i>The Social Animal,</i> he explored the neuroscience of human connection and how we can flourish together. Now, in <i>The Road to Character, </i>he focuses on the deeper values that should inform our lives.<br /><br /> Looking to some of the world’s greatest thinkers and inspiring leaders, Brooks explores how, through internal struggle and a sense of their own limitations, they have built a strong inner character. Labor activist Frances Perkins understood the need to suppress parts of herself so that she could be an instrument in a larger cause. Dwight Eisenhower organized his life not around impulsive self-expression but considered self-restraint. Dorothy Day, a devout Catholic convert and champion of the poor, learned as a young woman the vocabulary of simplicity and surrender. Civil rights pioneers A. Philip Randolph and Bayard Rustin learned reticence and the logic of self-discipline, the need to distrust oneself even while waging a noble crusade.<br /><br /> Blending psychology, politics, spirituality, and confessional, <i>The Road to Character</i> provides an opportunity for us to rethink our priorities, and strive to build rich inner lives marked by humility and moral depth.<br /><br /> “Joy,” David Brooks writes, “is a byproduct experienced by people who are aiming for something else. But it comes.”<br /><br /><b>Praise for <i>The Road to Character</i></b><br /><br />“A hyper-readable, lucid, often richly detailed human story.”<b>—<i>The New York Times Book Review</i></b><br /><br /> “This profound and eloquent book is written with moral urgency and philosophical elegance.”<b>—Andrew Solomon, author of <i>Far from the Tree</i> and <i>The Noonday Demon</i></b><br /><br /> “A powerful, haunting book that works its way beneath your skin.”<b><i>—The Guardian<br /></i></b><br />“Original and eye-opening . . . Brooks is a normative version of Malcolm Gladwell, culling from a wide array of scientists and thinkers to weave an idea bigger than the sum of its parts.”<b>—<i>USA Today</i></b>"
+  },
+  "editorialNotes": {
+    "tagline": "Morals and values build the character of our children, but I think we often take developing character for granted. This is a guide and a reminder of its importance.”"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=951398384&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2005199
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2015-04-14",
+  "isIBook": false,
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/2e/27/2b/2e272b5a-e847-50e5-bbd2-433e9719e189/9780679645030.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "e9d6d1",
+    "textColor2": "fbffff",
+    "textColor4": "e9d6d1",
+    "textColor1": "fbffff",
+    "bgColor": "a4341c",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-road-to-character/id951398384",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 252,
+    "ratingCountList": [
+      16,
+      25,
+      33,
+      53,
+      125
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "The Road to Character",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "David Brooks",
+  "primaryLocale": "en-US"
+}

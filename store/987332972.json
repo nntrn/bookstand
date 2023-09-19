@@ -1,0 +1,69 @@
+{
+  "id": "987332972",
+  "title": "The Confidence Game",
+  "subtitle": "Why We Fall for It . . . Every Time",
+  "author": "Maria Konnikova",
+  "isbn": "9780698170995",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "description": {
+    "standard": "<b>\"It’s a startling and disconcerting read that <i>should</i> make you think twice every time a friend of a friend offers you the opportunity of a lifetime.”<br />—Erik Larson, #1 <i>New York Times</i> bestselling author of <i>Dead Wake </i>and bestselling author of <i>Devil in the White City</i><br /><i><br /></i>Think you can’t get conned? Think again. The&#xa0;<i>New York Times</i>&#xa0;bestselling author of&#xa0;<i>Mastermind: How to Think Like Sherlock Holmes </i>explains how to spot the con before they spot you<i>.<br /><br /></i>“[An] excellent study of Con Artists, stories &amp; the human need to believe” –Neil Gaiman, via Twitter<i><br /><br /></i></b> <b><i><br /> </i></b>A compelling investigation into the minds, motives, and methods of con artists—and the people who fall for their cons over and over again.<br /><br /> While cheats and swindlers may be a dime a dozen, true conmen—the Bernie Madoffs, the Jim Bakkers, the Lance Armstrongs—are elegant, outsized personalities, artists of persuasion and exploiters of trust. How do they do it? Why are they successful? And what keeps us falling for it, over and over again? These are the questions that journalist and psychologist Maria Konnikova tackles in her mesmerizing new book.<br /> &#xa0;<br /> From multimillion-dollar Ponzi schemes to small-time frauds, Konnikova pulls together a selection of fascinating stories to demonstrate what all cons share in common, drawing on scientific, dramatic, and psychological perspectives. Insightful and gripping, the book brings readers into the world of the con, examining the relationship between artist and victim.&#xa0;<i>The Confidence Game</i>&#xa0;asks not only why we believe con artists, but also examines the very act of believing and how our sense of truth can be manipulated by those around us."
+  },
+  "editorialNotes": {
+    "standard": "We got totally wrapped up in Maria Konnikova’s colorful examination of con artists and the marks that who fall for their deceptions. <i>The Confidence Game</i> is a thrilling look at the psychological underpinnings of every con, from a rapid-fire game of three-card monte to an elaborate Ponzi scheme years in the making. With fascinating anecdotes and character profiles, Konnikova shows us how swindlers and “aristocrats of crime” thrive during periods of social upheaval and capitalize on the fundamental human desire to live in a world that can rise above doldrum existence to deliver flashes of magic and good luck.\n"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=987332972&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1565440
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2016-01-12",
+  "isIBook": false,
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/39/4e/de/394ede76-00c7-53c3-9511-db5f730f5933/9780698170995.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "f0cacc",
+    "textColor2": "ffb4b7",
+    "textColor4": "f19296",
+    "textColor1": "fefafb",
+    "bgColor": "bc0c11",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-confidence-game/id987332972",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 67,
+    "ratingCountList": [
+      9,
+      1,
+      14,
+      14,
+      29
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "The Confidence Game",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Maria Konnikova",
+  "primaryLocale": "en-US"
+}

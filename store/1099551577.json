@@ -1,0 +1,72 @@
+{
+  "id": "1099551577",
+  "title": "The Legion of Regrettable Supervillains",
+  "subtitle": "Oddball Criminals from Comic Book History",
+  "author": "Jon Morris",
+  "isbn": "9781594749339",
+  "genreNames": [
+    "Comics & Graphic Novels",
+    "Books",
+    "Graphic Novels",
+    "Humor",
+    "Arts & Entertainment",
+    "Art & Architecture"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1099551577&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 316855202
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2017-03-28",
+  "seriesInfo": {
+    "seriesName": "Comic Book History",
+    "sequenceNumber": "2",
+    "sequenceDisplayLabel": "Book 2"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Meet more than one hundred of the oddest supervillains in comics history,&#xa0;<b>complete with backstories, vintage art, and colorful commentary.</b></b><br /><br />This collection affectionately spotlights the most ridiculous, bizarre, and&#xa0;cringe-worthy criminals ever published, from fandom favorites like <b>MODOK</b> and <b>Egg Fu</b> to forgotten weirdos like <b>Brickbat</b> (choice of weapon: poison bricks) and <b>Animal-Vegetable-Mineral Man</b>. Casual comics readers and diehard enthusiasts alike will relish the&#xa0;hilarious commentary and&#xa0;vintage art from obscure old comics."
+  },
+  "artwork": {
+    "width": 2174,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/b2/f5/0c/b2f50c50-7542-b3c2-b4d0-b0578ec470d2/9781594749339.jpg/{w}x{h}bb.{f}",
+    "height": 2758,
+    "textColor3": "cec9ad",
+    "textColor2": "a2e547",
+    "textColor4": "84b83b",
+    "textColor1": "fdfad7",
+    "bgColor": "100707",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-legion-of-regrettable-supervillains/id1099551577",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Legion of Regrettable Supervillains",
+  "publisher": "Quirk Books",
+  "isPreorder": false,
+  "artistName": "Jon Morris",
+  "primaryLocale": "en-US"
+}

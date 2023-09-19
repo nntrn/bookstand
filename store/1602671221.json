@@ -1,0 +1,73 @@
+{
+  "id": "1602671221",
+  "title": "Maybe You Should Talk to Someone",
+  "subtitle": "A Therapist, HER Therapist, and Our Lives Revealed",
+  "author": "Lori Gottlieb",
+  "isbn": "9781328663047",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Nonfiction",
+    "Family & Relationships",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Psychology",
+    "Social Science",
+    "Love & Romance",
+    "Professional & Technical",
+    "Medical",
+    "Psychiatry"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=1602671221&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6705108
+        }
+      ]
+    }
+  ],
+  "pageCount": 432,
+  "releaseDate": "2019-04-02",
+  "isIBook": false,
+  "description": {
+    "standard": "INSTANT NEW YORK TIMES BESTSELLER!<br /><br />Now being developed as a television series with Eva Longoria and ABC!<br /><br />“Rarely have I read a book that challenged me to see myself in an entirely new light, and was at the same time laugh-out-loud funny and utterly absorbing.”—Katie Couric<br /> &#xa0;<br />“This is a daring, delightful, and transformative book.”—Arianna Huffington,&#xa0;Founder,&#xa0;Huffington Post&#xa0;and Founder &amp; CEO, Thrive Global<br /> &#xa0;<br />“Wise, warm, smart, and funny. You must read this book.”—Susan Cain, New York Times best-selling author of&#xa0;Quiet<br /><br />From a New York Times best-selling author, psychotherapist, and national advice columnist, a hilarious, thought-provoking, and surprising new book that takes us behind the scenes of a therapist’s world—where her patients are looking for answers (and so is she).<br /><br /> One day, Lori Gottlieb is a therapist who helps patients in her Los Angeles practice. The next, a crisis causes her world to come crashing down. Enter Wendell, the quirky but seasoned therapist in whose of­fice she suddenly lands. With his balding head, cardigan, and khakis, he seems to have come straight from Therapist Central Casting. Yet he will turn out to be anything but.<br /> &#xa0;<br /> As Gottlieb explores the inner chambers of her patients’ lives — a self-absorbed Hollywood producer, a young newlywed diagnosed with a terminal illness, a senior citizen threatening to end her life on her birthday if nothing gets better, and a twenty-something who can’t stop hooking up with the wrong guys — she finds that the questions they are struggling with are the very ones she is now bringing to Wendell.<br /> &#xa0;<br /> With startling wisdom and humor, Gottlieb invites us into her world as both clinician and patient, examining the truths and fictions we tell ourselves and others as we teeter on the tightrope between love and desire, meaning and mortality, guilt and redemption, terror and courage, hope and change.<br /> &#xa0;<br />Maybe You Should Talk to Someone is rev­olutionary in its candor, offering a deeply per­sonal yet universal tour of our hearts and minds and providing the rarest of gifts: a boldly reveal­ing portrait of what it means to be human, and a disarmingly funny and illuminating account of our own mysterious lives and our power to transform them."
+  },
+  "artwork": {
+    "width": 1700,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/bb/01/7e/bb017e18-3c6c-c76e-f5a5-7fa67d2e060a/9781328663047.jpg/{w}x{h}bb.{f}",
+    "height": 2560,
+    "textColor3": "22343c",
+    "textColor2": "1e2e36",
+    "textColor4": "2e4f5c",
+    "textColor1": "0f0d0e",
+    "bgColor": "6ed0f5",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/maybe-you-should-talk-to-someone/id1602671221",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 278,
+    "ratingCountList": [
+      7,
+      1,
+      20,
+      52,
+      198
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Maybe You Should Talk to Someone",
+  "publisher": "Harper",
+  "isPreorder": false,
+  "artistName": "Lori Gottlieb",
+  "primaryLocale": "en-US"
+}

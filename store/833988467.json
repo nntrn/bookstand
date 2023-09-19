@@ -1,0 +1,60 @@
+{
+  "id": "833988467",
+  "title": "The Peter Principle",
+  "subtitle": "Why Things Always Go Wrong",
+  "author": "Dr. Laurence J. Peter & Raymond Hull",
+  "isbn": "9780062359490",
+  "genreNames": [
+    "Humor",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=833988467&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 887591
+        }
+      ]
+    }
+  ],
+  "pageCount": 192,
+  "releaseDate": "2014-04-01",
+  "isIBook": false,
+  "description": {
+    "standard": "The classic #1 New York Times bestseller that answers the age-old question<br />Why is incompetence so maddeningly rampant and so vexingly triumphant?<br /><br />The Peter Principle, the eponymous law Dr. Laurence J. Peter coined, explains that everyone in a hierarchy—from the office intern to the CEO, from the low-level civil servant to a nation’s president—will inevitably rise to his or her level of incompetence. Dr. Peter explains why incompetence is at the root of everything we endeavor to do—why schools bestow ignorance, why governments condone anarchy, why courts dispense injustice, why prosperity causes unhappiness, and why utopian plans never generate utopias.<br /><br />With the wit of Mark Twain, the psychological acuity of Sigmund Freud, and the theoretical impact of Isaac Newton, Dr. Laurence J. Peter and Raymond Hull’s The Peter Principle brilliantly explains how incompetence and its accompanying symptoms, syndromes, and remedies define the world and the work we do in it."
+  },
+  "artwork": {
+    "width": 1600,
+    "height": 2413,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/5d/7c/a8/5d7ca884-aee3-606b-9917-a2a91193ca18/9780062359490.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-peter-principle/id833988467",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 24,
+    "ratingCountList": [
+      1,
+      1,
+      2,
+      5,
+      15
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Peter Principle",
+  "publisher": "Harper Business",
+  "isPreorder": false,
+  "artistName": "Dr. Laurence J. Peter & Raymond Hull",
+  "primaryLocale": "en-US"
+}

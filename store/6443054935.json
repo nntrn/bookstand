@@ -1,0 +1,72 @@
+{
+  "id": "6443054935",
+  "title": "An Illustrated Book of Bad Arguments",
+  "subtitle": "Learn the Lost Art of Making Sense",
+  "author": "Ali Almossawi & Alejandro Giraldo",
+  "isbn": "9781615192267",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines",
+    "Science & Nature",
+    "Mathematics",
+    "Business & Personal Finance"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=6443054935&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 50960439
+        }
+      ]
+    }
+  ],
+  "pageCount": 64,
+  "releaseDate": "2014-09-23",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Bad Arguments"
+  },
+  "description": {
+    "standard": "<b>“This short book makes you smarter than 99% of the population. . . . The concepts within it will increase your company's ‘organizational intelligence.’. . . It’s more than just a must-read, it’s a&#xa0;‘have-to-read-or-you’re-fired’ book”—Geoffrey James, INC.com&#xa0; &#xa0; &#xa0; &#xa0;</b><br /><br /><b>From the author of <i>An Illustrated Book of Loaded Language, </i>here’s the antidote to fuzzy thinking, with furry animals!</b><br /><br />Have you read (or stumbled into) one too many irrational online debates? Ali Almossawi certainly had, so he wrote <i>An Illustrated Book of Bad Arguments</i>! This handy guide is here to bring the internet age a much-needed dose of old-school logic (really old-school, <i>a la</i> Aristotle).<br /><br />Here are cogent explanations of the <b><i>straw man</i></b> fallacy, the <i><b>slippery slope</b></i> argument, the <i><b>ad hominem</b></i> attack, and other common attempts at reasoning that actually fall short—plus a beautifully drawn menagerie of animals who (adorably) commit every logical <i>faux pas</i>. Rabbit thinks a strange light in the sky <i>must</i> be a UFO because no one can prove otherwise (<i><b>the appeal to ignorance</b></i>). And Lion doesn’t believe that gas emissions harm the planet because, if that <i>were</i> true, he wouldn’t like the result (the <i><b>argument from consequences</b></i>).<br /><br />Once you learn to recognize these abuses of reason, they start to crop up everywhere from congressional debate to YouTube comments—which makes this geek-chic book a <i>must</i> for anyone in the habit of holding opinions."
+  },
+  "artwork": {
+    "width": 2959,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/b4/d2/ed/b4d2edb3-f8c1-1d7f-34e2-55311e62d237/9781615192267.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "bda07d",
+    "textColor2": "dfb680",
+    "textColor4": "b8966a",
+    "textColor1": "e5c397",
+    "bgColor": "1b1714",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/an-illustrated-book-of-bad-arguments/id6443054935",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "An Illustrated Book of Bad Arguments",
+  "isPreorder": false,
+  "publisher": "The Experiment",
+  "artistName": "Ali Almossawi & Alejandro Giraldo",
+  "primaryLocale": "en-US"
+}

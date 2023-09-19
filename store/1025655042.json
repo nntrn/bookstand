@@ -1,0 +1,67 @@
+{
+  "id": "1025655042",
+  "title": "Word Play",
+  "subtitle": "What Happens When People Talk",
+  "author": "Peter Farb",
+  "isbn": "9781101971291",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=1025655042&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4023289
+        }
+      ]
+    }
+  ],
+  "pageCount": 384,
+  "releaseDate": "1993-03-31",
+  "isIBook": false,
+  "description": {
+    "standard": "Why do certain words make us blush or wince? Why do men and women really speak different languages? Why do nursery rhymes in vastly different societies possess similar rhyme and rhythm patterns? What do slang, riddles and puns secretly have in common? <br /><br />This erudite yet irresistibly readable book examines the game of language: its players, strategies, and hidden rules. Drawing on the most fascinating linguistic studies—and touching on everything from the Marx Brothers to linguistic sexism, from the phenomenon of glossolalia to Apache names for automobile parts—<b>Word Play</b> shows what really happens when people talk, no matter what language they happen to be using."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/ad/b2/a4/adb2a449-da10-a4d5-1933-d7be00f44129/9781101971291.jpg/{w}x{h}bb.{f}",
+    "height": 2228,
+    "textColor3": "50504f",
+    "textColor2": "272622",
+    "textColor4": "52514d",
+    "textColor1": "252524",
+    "bgColor": "fdfdfd",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/word-play/id1025655042",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Word Play",
+  "isPreorder": false,
+  "publisher": "Knopf Doubleday Publishing Group",
+  "artistName": "Peter Farb",
+  "primaryLocale": "en-US"
+}

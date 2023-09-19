@@ -1,0 +1,68 @@
+{
+  "id": "1227399404",
+  "title": "Alchemy",
+  "subtitle": "The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life",
+  "author": "Rory Sutherland",
+  "isbn": "9780062388438",
+  "genreNames": [
+    "Marketing & Sales",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Psychology",
+    "Management & Leadership"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1227399404&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7855364
+        }
+      ]
+    }
+  ],
+  "pageCount": 384,
+  "releaseDate": "2019-05-07",
+  "isIBook": false,
+  "description": {
+    "standard": "HOW DOES MAGIC HAPPEN? The Ogilvy advertising legend—“one of the leading minds in the world of branding”&#xa0;(NPR)—explores the art and science of conjuring irresistible products and&#xa0;ideas.<br /><br />\"Sutherland, the legendary Vice Chairman of Ogilvy, uses his decades of experience to dissect human spending behavior in an insanely entertaining way.&#xa0;Alchemy&#xa0;combines scientific research with hilarious stories and&#xa0;case studies of&#xa0;campaigns for AmEx, Microsoft&#xa0;and the like. This is a must-read.\" —Entrepreneur (\"Best Books of the Year\")<br /><br />Why is Red Bull so popular, though everyone—everyone!—hates the taste? Humans are, in a word, irrational, basing decisions as much on subtle external signals (that little blue can) as on objective qualities (flavor, price, quality). The surrounding world, meanwhile, is irreducibly complex and random. This means future success can’t be projected on any accounting spreadsheet. To strike gold, you must master the dark art and curious science of conjuring irresistible ideas: alchemy.<br /><br />Based on thirty years of field work inside the largest experiment in human behavior ever conceived—the forever-unfolding pageant of consumer capitalism—Alchemy, the revolutionary book by Ogilvy advertising legend Rory Sutherland, whose TED talks have been viewed nearly seven million times, decodes human behavior, blending leading-edge scientific research, absurdly entertaining storytelling, deep psychological insight, and practical case studies from his storied career working on campaigns for AmEx, Microsoft, and others.<br /><br />Heralded as “one of the leading minds in the world of branding” by NPR and \"the don of modern advertising\" by The Times, Sutherland is a unique thought leader, as comfortable exchanging ideas with Nobel Prize winners Daniel Kahneman and Richard Thaler (both interviewed in these pages) as he is crafting the next product launch. His unconventional and relentlessly curious approach has led him to discover that the most compelling secrets to human decision-making can be found in surprising places:<br /><br />What can honey bees teach us about creating a sustainable business?<br /><br />How could budget airlines show us how to market a healthcare system?<br /><br />Why is it better to be vaguely right than precisely wrong?<br /><br />What might soccer penalty kicks teach us about the dangers of risk-aversion?<br /><br />Better “branding,” Sutherland reveals, can also be employed not just to sell products, but to promote a variety of social aims, like getting people to pay taxes, improving public health outcomes, or encouraging more women to pursue careers in tech. <br /><br />Equally startling and profound, Sutherland’s journey through the strange world of decision making is filled with astonishing lessons for all aspects of life and business.<br />&#xa0;"
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/3c/de/31/3cde31e9-48b9-f1b9-58d6-0feabdf97d1f/9780062388438.jpg/{w}x{h}bb.{f}",
+    "height": 2404,
+    "textColor3": "38371e",
+    "textColor2": "272516",
+    "textColor4": "4e4e26",
+    "textColor1": "0a090c",
+    "bgColor": "edef67",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "version": "3.2",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/alchemy/id1227399404",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 28,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      8,
+      17
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Alchemy",
+  "publisher": "Custom House",
+  "isPreorder": false,
+  "artistName": "Rory Sutherland",
+  "primaryLocale": "en-US"
+}

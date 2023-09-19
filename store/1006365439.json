@@ -1,0 +1,70 @@
+{
+  "id": "1006365439",
+  "title": "Smarter Faster Better",
+  "subtitle": "The Transformative Power of Real Productivity",
+  "author": "Charles Duhigg",
+  "isbn": "9780679645429",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Psychology"
+  ],
+  "seller": "Penguin Random House LLC",
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES</i> BESTSELLER • The author of <i>The Power of Habit</i> and “master of the life hack” (<i>GQ</i>) explores the&#xa0;fascinating&#xa0;science of productivity</b> <b>and offers</b> <b>real-world takeaways to apply your life, whether you’re chasing peak productivity or</b> <b>simply trying to get</b> <b>back on track.</b><br /><br /><b>“Duhigg melds cutting-edge science, deep reporting, and wide-ranging stories to give us a fuller, more human way of thinking about how productivity actually happens.”—Susan Cain, author of <i>Quiet</i></b> <br />&#xa0; <br />In <i>The Power of Habit,</i> Pulitzer Prize–winning journalist Charles Duhigg explained why we do what we do. In <i>Smarter Faster Better,</i> he applies the same relentless curiosity and rich storytelling to how we can improve at the things we do.&#xa0; <br />&#xa0; <br />At the core of <i>Smarter Faster Better</i> are eight key concepts—from motivation and goal setting to focus and decision making—that explain why some people and companies get so much done. Drawing on the latest findings in neuroscience, psychology, and behavioral economics—as well as the experiences of CEOs, educational reformers, four-star generals, FBI agents, airplane pilots, and Broadway songwriters—this book reveals that the most productive people, companies, and organizations don’t merely act differently. They view the world, and their choices, in profoundly different ways. <br />&#xa0; <br /><i>Smarter Faster Better</i> is a story-filled exploration of the science of productivity, one that can help us learn to succeed with less stress and struggle—and become smarter, faster, and better at everything we do."
+  },
+  "editorialNotes": {
+    "standard": "With <i>Smarter Faster Better: The Secrets of Being Productive in Life and Business</i>, <i>New York Times</i> reporter Charles Duhigg (author of 2012’s bestseller <i>The Power of Habit</i>) returns to the fascinating realm of behavioral psychology. This time around, Duhigg delves deep into the science behind internal motivation and examines the power of active thinking, illustrating his thought-provoking ideas with vivid firsthand accounts from airplane cockpits, military bunkers, and corporate boardrooms. This is more than just a crazily addictive read: we finished the book with a slew of cognitive tools to elevate our work-life game.\n"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1006365439&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 10839198
+        }
+      ]
+    }
+  ],
+  "pageCount": 400,
+  "releaseDate": "2016-03-08",
+  "isIBook": false,
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/4f/f8/a6/4ff8a64b-d088-47e0-a87b-1363c4505ce2/9780679645429.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "efb717",
+    "textColor2": "ffd631",
+    "textColor4": "efab2f",
+    "textColor1": "ffe513",
+    "bgColor": "b00026",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/smarter-faster-better/id1006365439",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 197,
+    "ratingCountList": [
+      4,
+      8,
+      25,
+      52,
+      108
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Smarter Faster Better",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Charles Duhigg",
+  "primaryLocale": "en-US"
+}

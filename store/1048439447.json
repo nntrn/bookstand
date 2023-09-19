@@ -1,0 +1,65 @@
+{
+  "id": "1048439447",
+  "title": "Biopiracy",
+  "subtitle": "The Plunder of Nature and Knowledge",
+  "author": "Vandana Shiva",
+  "isbn": "9781623170714",
+  "genreNames": [
+    "Public Administration",
+    "Books",
+    "Politics & Current Events",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=1048439447&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 558876
+        }
+      ]
+    }
+  ],
+  "pageCount": 168,
+  "releaseDate": "2016-05-24",
+  "isIBook": false,
+  "description": {
+    "standard": "Genetic engineering and the cloning of organisms are “the ultimate expression of the commercialization of science and the commodification of nature.… Life itself is being colonized,” according to renowned environmentalist Vandana Shiva. The resistance to this biopiracy, she argues, is the struggle to conserve both cultural and biological diversity. As the land, forests, oceans, and atmosphere have already been colonized, eroded, and polluted, corporations are now looking for new colonies to exploit and invade for further accumulation—in Shiva’s view, the interior spaces of the bodies of women, plants, and animals. Featuring a new introduction by the author, this edition of <i>Biopiracy</i> is a learned, clear, and passionately stated objection to the ways in which Western businesses are being allowed to expropriate natural processes and traditional forms of knowledge.<i><b><br /> </b></i>"
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/47/29/63/47296370-3a84-fd07-0330-d0ca6370c6a8/9781623170714.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "303031",
+    "textColor2": "39271a",
+    "textColor4": "5c4e44",
+    "textColor1": "010203",
+    "bgColor": "ebebeb",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/biopiracy/id1048439447",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Biopiracy",
+  "publisher": "North Atlantic Books",
+  "isPreorder": false,
+  "artistName": "Vandana Shiva",
+  "primaryLocale": "en-US"
+}

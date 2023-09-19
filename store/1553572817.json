@@ -1,0 +1,68 @@
+{
+  "id": "1553572817",
+  "title": "Rationality",
+  "subtitle": "What It Is, Why It Seems Scarce, Why It Matters",
+  "author": "Steven Pinker",
+  "isbn": "9780525562009",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature",
+    "Nonfiction",
+    "Social Science",
+    "Sociology"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1553572817&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 20786705
+        }
+      ]
+    }
+  ],
+  "pageCount": 432,
+  "releaseDate": "2021-09-28",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><b><b><b><i>NEW YORK TIMES</i> BESTSELLER</b><br /><br />“In our uncertain age, which can so often feel so dark and disturbing, Steven Pinker has distinguished himself as a voice of positivity.” – <i>New York Times</i></b><br /><br />Can reading a book make you more rational? Can it help us understand why there is so much irrationality in the world? Steven Pinker, author of  <i>Enlightenment Now</i> (Bill Gates’s \"new favorite book of all time”) answers all the questions here</b><br /></b> <br />Today humanity is reaching new heights of scientific understanding--and also appears to be losing its mind. How can a species that developed vaccines for Covid-19 in less than a year produce so much fake news, medical quackery, and conspiracy theorizing?<br />&#xa0;<br />Pinker rejects the cynical cliché that humans are simply irrational--cavemen out of time saddled with biases, fallacies, and illusions. After all, we discovered the laws of nature, lengthened and enriched our lives, and set out the benchmarks for rationality itself.&#xa0; We actually think in ways that are sensible in the low-tech contexts in which we spend most of our lives, but fail to take advantage of the powerful tools of reasoning we’ve discovered over the millennia: logic, critical thinking, probability, correlation and causation, and optimal ways to update beliefs and commit to choices individually and with others. These tools are not a standard part of our education, and have never been presented clearly and entertainingly in a single book--until now.<br />&#xa0;&#xa0;<br /><i>Rationality</i> also explores its opposite: how the rational pursuit of self-interest, sectarian solidarity, and uplifting mythology can add up to crippling irrationality in a society. Collective rationality depends on norms that are explicitly designed to promote objectivity and truth.<br />&#xa0;&#xa0;<br />Rationality matters. It leads to better choices in our lives and in the public sphere, and is the ultimate driver of social justice and moral progress. Brimming with Pinker’s customary insight and humor, <i>Rationality</i> will enlighten, inspire, and empower."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/68/0c/9b/680c9bfe-8c2e-d6a9-ce63-d1fad142836b/9780525562009.d.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "cac30a",
+    "textColor2": "feb333",
+    "textColor4": "cb8f28",
+    "textColor1": "fdf40d",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/rationality/id1553572817",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 38,
+    "ratingCountList": [
+      3,
+      2,
+      3,
+      14,
+      16
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Rationality",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Steven Pinker",
+  "primaryLocale": "en-US"
+}

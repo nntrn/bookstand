@@ -1,0 +1,58 @@
+{
+  "id": "376231676",
+  "title": "Fame",
+  "subtitle": "What the Classics Tell Us About Our Cult of Celebrity",
+  "author": "Tom Payne",
+  "isbn": "9781429943437",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=376231676&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 936199
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2010-10-26",
+  "isIBook": false,
+  "description": {
+    "standard": "We may regard celebrities as deities, but that does not mean we worship them with deference. From prehistory to the present, humanity has possessed a primal urge first to exalt the famous but then to cut them down (Michael Jackson, anyone?). Why do we treat the ones we love like burnt offerings in a ritual of human sacrifice? Perhaps because that is exactly what they are.<br /><br />From Greek mythology to the stories of the Christian martyrs and Dr. Faustus, Payne makes the fascinating argument that our relationship to celebrity is perilous, and that we wouldn't have it any other way. He also shows that the people we choose as our heroes and villains throughout the ages says a lot about ourselves—and what it says is often quite frightening. <i>Fame</i> even brings new life to all the literary figures from our high school English classes. In these pages, the most ephemeral reality television stars (those \"famous for being famous\") find themselves in the same VIP lounge as the characters of <i>The Iliad</i>. With great wit, scholarship, and insight, Tom Payne draws the narratives of the past and the present into one intriguing story.<br /><br /><i>Fame</i> is a dazzling, hilarious look at the mortals, and the immortals—us and them."
+  },
+  "artwork": {
+    "width": 443,
+    "height": 648,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/3f/e4/7e/mzi.xdcfmfpo.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/fame/id376231676",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Fame",
+  "isPreorder": false,
+  "publisher": "Picador",
+  "artistName": "Tom Payne",
+  "primaryLocale": "en-US"
+}

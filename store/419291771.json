@@ -1,0 +1,63 @@
+{
+  "id": "419291771",
+  "title": "A General Theory of Love",
+  "subtitle": null,
+  "author": "Thomas Lewis, Fari Amini & Richard Lannon",
+  "isbn": "9780307424341",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature",
+    "Life Sciences",
+    "Nonfiction",
+    "Social Science",
+    "Sociology"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=419291771&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3167591
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2001-01-09",
+  "isIBook": false,
+  "description": {
+    "standard": "This original and lucid account of the complexities of love and its essential role in human well-being draws on the latest scientific research.&#xa0;Three eminent psychiatrists tackle the difficult task of reconciling what artists and thinkers have known for thousands of years about the human heart with what has only recently been learned about the primitive functions of the human brain.<br /><br /><i>A General Theory of Love </i>demonstrates&#xa0;that our nervous systems are not self-contained: from earliest childhood, our brains actually link with those of the people close to us, in a silent rhythm that alters the very structure of our brains, establishes life-long emotional patterns, and makes us, in large part, who we are. Explaining how relationships function, how parents shape their child’s developing self, how psychotherapy really works, and how our society dangerously flouts essential emotional laws, this is a work of rare passion and eloquence that will forever change the way you think about human intimacy."
+  },
+  "artwork": {
+    "width": 467,
+    "height": 720,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/f4/47/7b/mzi.pqhexiwl.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/a-general-theory-of-love/id419291771",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 30,
+    "ratingCountList": [
+      2,
+      1,
+      6,
+      5,
+      16
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "A General Theory of Love",
+  "publisher": "Knopf Doubleday Publishing Group",
+  "isPreorder": false,
+  "artistName": "Thomas Lewis, Fari Amini & Richard Lannon",
+  "primaryLocale": "en-US"
+}

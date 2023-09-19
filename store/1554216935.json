@@ -1,0 +1,67 @@
+{
+  "id": "1554216935",
+  "title": "The Little Book of History",
+  "subtitle": null,
+  "author": "DK",
+  "isbn": "9780744048513",
+  "genreNames": [
+    "World",
+    "Books",
+    "History"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=1554216935&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 229655269
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2021-05-11",
+  "seriesInfo": {
+    "seriesName": "Big Ideas"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Exploring more than 60 of the most important events in world history, this ebook is the perfect introduction to the past, and ideal for summer reads.</b><br /><br />From the birth of Athenian democracy to the rise and fall of Rome and from the American Revolution to the landing beaches of World War II, <i>The Little Book of History</i> brings the past to life. Includes infographics and flowcharts that explain complex concepts in a simple but exciting way, this ebook examines the events that shaped our past. Charting the human era from the beginnings of civilization to the modern culture of today this ebook makes the perfect introduction to the human story.<br /><br />One of a series of new, compact sister titles to DK's \"Big Ideas\" series, <i>The Little Book of History</i> offers you the same combination of clear text and hard-working infographics perfect for vacation reading."
+  },
+  "artwork": {
+    "width": 1954,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/43/a4/d9/43a4d9d4-3779-c9e6-e877-6f6400cdc242/9780744048513.jpg/{w}x{h}bb.{f}",
+    "height": 3000,
+    "textColor3": "412830",
+    "textColor2": "281128",
+    "textColor4": "4d3739",
+    "textColor1": "19001c",
+    "bgColor": "e2cb7f",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-little-book-of-history/id1554216935",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The Little Book of History",
+  "publisher": "DK Publishing",
+  "isPreorder": false,
+  "artistName": "DK",
+  "primaryLocale": "en-US"
+}

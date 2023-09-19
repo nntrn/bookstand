@@ -1,0 +1,71 @@
+{
+  "id": "914355894",
+  "title": "The Great Gatsby",
+  "subtitle": null,
+  "author": "F. Scott Fitzgerald",
+  "isbn": null,
+  "genreNames": [
+    "Classics",
+    "Books",
+    "Fiction & Literature"
+  ],
+  "seller": "Public Domain",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=914355894&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 279786
+        }
+      ]
+    }
+  ],
+  "pageCount": 202,
+  "releaseDate": "1925-04-10",
+  "seriesInfo": {
+    "seriesName": "Apple Books Classics"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "An Apple Books Classics edition.<br /><br />\nThe Roaring Twenties are in full effect in F. Scott Fitzgerald’s riveting classic. Man-about-town Jay Gatsby seems to have it all, including loads of money and a massive mansion where he hosts wild, extravagant parties every Saturday. But Gatsby’s missing one thing: Daisy Buchanan, the love of his life, the one who got away.<br /><br />\n<i>The Great Gatsby</i> explores the impossible, but uniquely human, longing to return to the past and the costs associated with chasing the American Dream. It’s a beautifully written, entertaining read with timeless emotional appeal."
+  },
+  "artwork": {
+    "width": 1538,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/25/47/a8/2547a86f-5726-4509-91a8-e54b89a2c890/PD_The_Great_Gatsby-Adj.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "2f2201",
+    "textColor2": "281d05",
+    "textColor4": "4f3a04",
+    "textColor1": "000001",
+    "bgColor": "edad00",
+    "hasP3": true
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-great-gatsby/id914355894",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 2737,
+    "ratingCountList": [
+      108,
+      122,
+      333,
+      668,
+      1506
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "The Great Gatsby",
+  "isPreorder": false,
+  "publisher": "Public Domain",
+  "artistName": "F. Scott Fitzgerald",
+  "editorialNotes": {
+    "standard": "Most of us were assigned F. Scott Fitzgerald’s classic novel in high school, but it’s 100 percent worth revisiting as an adult—the social satire and the heartbreak both hit harder. Jay Gatsby's quest to remake himself into a socialite feels unexpectedly familiar in an age when we we curate the perfect version of our lives on social media. (The status-conscious Fitzgerald even set this story in the Hamptons, past and present playground of the wealthy and fabulous.) Honestly, <i>The Great Gatsby</i> couldn't feel more of-the-moment if Daisy Buchanan's last name were actually Kardashian.",
+    "short": "Pick up this tale of wealth, excess, and heartbreak. It’s a timeless read…and it’s free."
+  },
+  "primaryLocale": "en-US"
+}

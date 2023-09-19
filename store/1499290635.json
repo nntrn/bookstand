@@ -1,0 +1,69 @@
+{
+  "id": "1499290635",
+  "title": "Thank You for Arguing, Fourth Edition (Revised and Updated)",
+  "subtitle": "What Aristotle, Lincoln, and Homer Simpson Can Teach Us About the Art of Persuasion",
+  "author": "Jay Heinrichs",
+  "isbn": "9780593237397",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=7990&salableAdamId=1499290635&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$7.99",
+      "price": 7.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2938932
+        }
+      ]
+    }
+  ],
+  "pageCount": 480,
+  "releaseDate": "2020-04-21",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The definitive guide to getting your way, revised and updated with new material on writing, speaking, framing, and other key tools for arguing more powerfully</b><br />&#xa0;<br /><b>“Cross Cicero with David Letterman and you get Jay Heinrichs.”—Joseph Ellis, Pulitzer Prize–winning author of&#xa0;<i>The Quartet</i>&#xa0;and&#xa0;<i>American Sphinx</i></b><br />&#xa0;<br />Now in its fourth edition, Jay Heinrichs’s&#xa0;<i>Thank You for Arguing</i>&#xa0;is your master class in the art of persuasion, taught by history’s greatest professors, ranging from Queen Victoria and Winston Churchill to&#xa0;Homer&#xa0;Simpson and Barack Obama.&#xa0;<br /><br />Filled with time-tested secrets for emerging victorious from any dispute, including Cicero’s three-step strategy for inspiring action and Honest Abe’s Shameless Trick for lowering an audience’s expectations, this fascinating book&#xa0;also includes an&#xa0;assortment of persuasion tips,&#xa0;such as:<br />&#xa0;<br />•&#xa0;<b>The Chandler Bing Adjustment</b>: Match your argument to your audience (that is, persuasion is not about you).<br />•&#xa0;<b>The Belushi Paradigm</b>: Before people will follow you, they have to consider you worth following.&#xa0;<br />•&#xa0;<b>The Yoda Technique</b>: Transform a banal idiom by switching the words around.&#xa0;<br />&#xa0;<br />Additionally, Heinrichs considers the dark arts of persuasion, such as politicians’ use of coded language to appeal to specific groups. His sage guide has been fully updated to address our culture of “fake news” and political polarization.&#xa0;<br />&#xa0;<br />Whether you’re a lover of language books or just want to win more anger-free arguments on the page, at the&#xa0;podium, or over a beer,&#xa0;<i>Thank You for Arguing</i>&#xa0;is for you. Warm, witty, and truly enlightening, it not only teaches you how to identify a paraleipsis when you hear it but also how to wield such persuasive weapons the next time you really, really need to get your way. This expanded edition also includes a new chapter on how to reset your audience’s priorities, as well as new and improved ArgueLab games to hone your skills."
+  },
+  "artwork": {
+    "width": 1838,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/55/a7/14/55a714af-eab2-40eb-77ba-21ef78a30e42/9780593237397.d.jpg/{w}x{h}bb.{f}",
+    "height": 2775,
+    "textColor3": "252f35",
+    "textColor2": "391805",
+    "textColor4": "4a3a32",
+    "textColor1": "0a0a09",
+    "bgColor": "92c3e4",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/thank-you-for-arguing-fourth-edition-revised-and-updated/id1499290635",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 20,
+    "ratingCountList": [
+      3,
+      0,
+      1,
+      4,
+      12
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "Thank You for Arguing, Fourth Edition (Revised and Updated)",
+  "isPreorder": false,
+  "publisher": "Crown",
+  "artistName": "Jay Heinrichs",
+  "primaryLocale": "en-US"
+}

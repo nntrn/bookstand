@@ -1,0 +1,64 @@
+{
+  "id": "698941506",
+  "title": "What Got You Here Won't Get You There",
+  "subtitle": "How Successful People Become Even More Successful",
+  "author": "Marshall Goldsmith & Mark Reiter",
+  "isbn": "9781401388775",
+  "genreNames": [
+    "Careers",
+    "Books",
+    "Business & Personal Finance"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=698941506&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1394856
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "audience": "Grades 8-17",
+  "releaseDate": "2007-02-22",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Whether you are near the top of the ladder or still have a ways to climb, this book serves as an essential guide to help you eliminate your dysfunctions and move to where you want to go.</b><br /><br /> Marshall Goldsmith is an expert at helping global leaders overcome their sometimes unconscious annoying habits and attain a higher level of success. His one-on-one coaching comes with a six-figure price tag. But, in this book, you get Marshall's great advice without the hefty fee!<br /><br /> \"Marshall Goldsmith is one of the most credible thought leaders in the new era of business.\" -- <i>The Economist</i><br /><br /> \"For over a decade I have worked with Marshall in corporations and seen him teach. In my opinion, he is the best at what he does, bar none. He has that rare combination that makes a great teacher-thought leadership, classroom management, and presence.\" -- Vijay Govindarajan, professor and director, Center for Global Leadership, Tuck School, Dartmouth University<br /><br /> \"America's preeminent executive coach.\" -- <i>Fast Company</i>"
+  },
+  "artwork": {
+    "width": 1721,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c7/e5/ba/c7e5ba36-e2c0-bc8c-f607-9234205cdf92/9781401388775.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "46506b",
+    "textColor2": "322b2d",
+    "textColor4": "5b5557",
+    "textColor1": "182546",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/what-got-you-here-wont-get-you-there/id698941506",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 126,
+    "ratingCountList": [
+      4,
+      1,
+      11,
+      29,
+      81
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "What Got You Here Won't Get You There",
+  "publisher": "Hachette Books",
+  "isPreorder": false,
+  "artistName": "Marshall Goldsmith & Mark Reiter",
+  "primaryLocale": "en-US"
+}

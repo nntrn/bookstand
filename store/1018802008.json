@@ -1,0 +1,65 @@
+{
+  "id": "1018802008",
+  "title": "Sex in the Sea",
+  "subtitle": "Our Intimate Connection with Sex-Changing Fish, Romantic Lobsters, Kinky Squid, and Other Salty Erotica of the Deep",
+  "author": "Marah J. Hardt",
+  "isbn": "9781466879225",
+  "genreNames": [
+    "Biology",
+    "Books",
+    "Science & Nature",
+    "Nature",
+    "Life Sciences"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1018802008&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 14527434
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2016-02-09",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An Oprah.com \"Best Book for National Reading Month\"</b><br /><br />Forget the Kama Sutra. When it comes to inventive sex acts, just look to the sea. There we find the elaborate mating rituals of armored lobsters; giant right whales engaging in a lively threesome whilst holding their breath; full moon sex parties of groupers and daily mating blitzes by blueheaded wrasse. Deep-sea squid perform inverted 69s, while hermaphrodite sea slugs link up in giant sex loops. From doubly endowed sharks to the maze-like vaginas of some whales, <i>Sex in the Sea</i> is a journey unlike any other to explore the staggering ways life begets life beneath the waves.<br /><br />Beyond a deliciously voyeuristic excursion, <i>Sex in the Sea</i> uniquely connects the timeless topic of sex with the timely issue of sustainable oceans. Through overfishing, climate change, and ocean pollution we are disrupting the creative procreation that drives the wild abundance of life in the ocean.  With wit and scientific rigor, Hardt introduces us to the researchers and innovators who study the wet and wild sex lives of ocean life and offer solutions that promote rather than prevent, successful sex in the sea. Part science, part erotica, <i>Sex in the Sea </i>discusses how we can shift from a prophylactic to a more propagative force for life in the ocean."
+  },
+  "artwork": {
+    "width": 1875,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication69/v4/48/c8/4e/48c84e8b-d3bb-878d-919a-c5da238b5b06/9781466879225.jpg/{w}x{h}bb.{f}",
+    "height": 2850,
+    "textColor3": "04a4dc",
+    "textColor2": "00a1f2",
+    "textColor4": "0085d2",
+    "textColor1": "06c9ff",
+    "bgColor": "001252",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/sex-in-the-sea/id1018802008",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Sex in the Sea",
+  "isPreorder": false,
+  "publisher": "St. Martin's Publishing Group",
+  "artistName": "Marah J. Hardt",
+  "primaryLocale": "en-US"
+}

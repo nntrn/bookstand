@@ -1,0 +1,63 @@
+{
+  "id": "1497949400",
+  "title": "The Candidate's 7 Deadly Sins",
+  "subtitle": "Using Emotional Optics to Turn Political Vices into Virtues",
+  "author": "Dr. Peter A. Wish",
+  "isbn": "9781544507286",
+  "genreNames": [
+    "Political Science",
+    "Books",
+    "Politics & Current Events"
+  ],
+  "seller": "DIY Media Group DBA BookBaby",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=1497949400&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 2545721
+        }
+      ]
+    }
+  ],
+  "pageCount": 200,
+  "releaseDate": "2020-03-10",
+  "isIBook": false,
+  "description": {
+    "standard": "If you ask candidates and campaign strategists for the keys to a successful campaign, they say logistics like fundraising, poll numbers, and grassroots. <br /><br />These answers aren't wrong, but they overlook an equally important ingredient to victory: making an emotional connection with voters. If voters don't connect with you, they won't vote for you. Our brains are hardwired to bond with others through stories and nonverbal cues. Yet, when many candidates hit the campaign trail, they too often emphasize data and policy, which leaves voters unmoved.<br /><br />In The Candidate's 7 Deadly Sins, Dr. Peter A. Wish teaches tested strategies that gain candidates the critical advantage over their opponents. He outlines the sins to avoid—being pessimistic, canned, tentative, reactive, cerebral, partisan, and arrogant—and provides a road map for turning each sin into a winning virtue. Dr. Wish draws on past and current case studies of political winners and losers, cutting-edge neuroscience, and his experience working with candidates and campaign teams. Wish found that candidates who connect emotionally with voters don't just win their hearts and minds—they win elections."
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/a6/7d/e0/a67de03b-af92-6954-aeee-04a62ec685c1/9781544507286.jpg/{w}x{h}bb.{f}",
+    "height": 2250,
+    "textColor3": "ccd7e5",
+    "textColor2": "f7c4b5",
+    "textColor4": "c6a9ab",
+    "textColor1": "fffeff",
+    "bgColor": "003b82",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-candidates-7-deadly-sins/id1497949400",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Candidate's 7 Deadly Sins",
+  "isPreorder": false,
+  "publisher": "Lioncrest Publishing",
+  "artistName": "Dr. Peter A. Wish",
+  "primaryLocale": "en-US"
+}

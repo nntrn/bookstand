@@ -1,0 +1,73 @@
+{
+  "id": "395534623",
+  "title": "The Art of War",
+  "subtitle": null,
+  "author": "Sun Tzu",
+  "isbn": null,
+  "genreNames": [
+    "Military",
+    "Books",
+    "History",
+    "Fiction & Literature",
+    "Classics",
+    "Nonfiction"
+  ],
+  "seller": "Public Domain",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=395534623&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 349307
+        }
+      ]
+    }
+  ],
+  "pageCount": 223,
+  "releaseDate": "2010-10-04",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Apple Books Classics"
+  },
+  "description": {
+    "standard": "An Apple Books Classic edition.<br /><br />It’s believed that Sun Tzu wrote this Chinese military primer during the 5th century BC-hundreds of years before the Bible. The book’s 13 chapters explore principles that statesmen around the globe have employed for centuries to defeat their enemies at war.<br /><br />Sun Tzu starts by mapping out the five fundamental factors that lead to war. He then covers a wide range of topics, from avoiding conflict altogether to strategically positioning soldiers, pulling off tactical maneuvers, and putting spies to use.<br /><br />Despite the technological advances made since <i>The Art of War</i> was published, Sun Tzu is still considered one of history’s foremost military strategists, and his methods still ring true. While he wrote the book as a manual for those who would literally wield swords, it has reached a much broader audience in this day and age. Warriors of all kinds-like corporate leaders or athletes-seek out Sun Tzu’s wisdom in their quest for success."
+  },
+  "artwork": {
+    "width": 1538,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/4e/0a/00/4e0a004d-42bb-acc3-a761-fd43807a30eb/PD-The_Art_of_War-Adj.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "331500",
+    "textColor2": "371600",
+    "textColor4": "5f2800",
+    "textColor1": "000000",
+    "bgColor": "ff6d00",
+    "hasP3": true
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-art-of-war/id395534623",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 8048,
+    "ratingCountList": [
+      818,
+      739,
+      1099,
+      1608,
+      3784
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "The Art of War",
+  "publisher": "Public Domain",
+  "isPreorder": false,
+  "artistName": "Sun Tzu",
+  "editorialNotes": {
+    "short": "Pick up an ancient guide to military strategy that’s still consulted to this day."
+  },
+  "primaryLocale": "en-US"
+}

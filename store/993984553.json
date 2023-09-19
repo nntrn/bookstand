@@ -1,0 +1,70 @@
+{
+  "id": "993984553",
+  "title": "Originals",
+  "subtitle": "How Non-Conformists Move the World",
+  "author": "Adam Grant",
+  "isbn": "9780698405776",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Psychology",
+    "Self-Improvement"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "description": {
+    "standard": "<b><b><b>The #1&#xa0;<i>New York Times</i>&#xa0;bestseller that examines how people can champion new ideas in their careers and everyday life—and how leaders can fight groupthink, from the author of&#xa0;<i>Think Again</i>&#xa0;and co-author of&#xa0;<i>Option B</i></b><br /><br />“Filled with fresh insights on a broad array of topics that are important to our personal and professional lives.”<b><i>—The New York Times DealBook</i><br /></b><br />“<i>Originals</i> is one of the most important and captivating books I have ever read, full of surprising and powerful ideas.<i> </i>It will not only change the way you see the world; it might just change the way you live your life. And it could very well inspire you to change your world.” —Sheryl Sandberg, COO of Facebook and author of&#xa0;<i>Lean In</i><br /></b></b><br />With <i>Give and Take</i>, Adam Grant not only introduced a landmark new paradigm for success but also established himself as one of his generation’s most compelling and provocative thought leaders. In <i>Originals</i> he again addresses the challenge of improving the world, but now from the perspective of becoming original: choosing to champion novel ideas and values that go against the grain, battle conformity, and buck outdated traditions. How can we originate new ideas, policies, and practices without risking it all?<br /> &#xa0;<br /> Using surprising studies and stories spanning business, politics, sports, and entertainment, Grant explores how to recognize a good idea, speak up without getting silenced, build a coalition of allies, choose the right time to act, and manage fear and doubt; how parents and teachers can nurture originality in children; and how leaders can build cultures that welcome dissent. Learn from an entrepreneur who pitches his start-ups by highlighting the reasons not to invest, a woman at Apple who challenged Steve Jobs from three levels below, an analyst who overturned the rule of secrecy at the CIA, a billionaire financial wizard who fires employees for failing to criticize him, and a TV executive who didn’t even work in comedy but saved <i>Seinfeld </i>from the cutting-room floor. The payoff is a set of groundbreaking insights about rejecting conformity and improving the status quo."
+  },
+  "editorialNotes": {
+    "standard": "You don’t need to be a child prodigy or quit your day job to make your mark—and pessimists, procrastinators, and late bloomers often do better than optimists and early birds. Those are some of the counterintuitive but reassuring messages behind Adam Grant’s <i>Originals</i>. With a breezy, anecdotal style that’s reminiscent of Malcolm Gladwell, Grant’s book debunks myths about creative thinking with a mix of scientific research and stories of real-life innovators. Along the way he gives practical and motivational tips for generating, recognizing, and communicating original ideas and successfully challenging the status quo.&#xa0;"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=993984553&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3199520
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2016-02-02",
+  "isIBook": false,
+  "artwork": {
+    "width": 1625,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/e2/ba/2e/e2ba2e32-a670-e189-29fc-5daa8fccd2fe/9780698405776.d.jpg/{w}x{h}bb.{f}",
+    "height": 2510,
+    "textColor3": "3c3c3a",
+    "textColor2": "590a0f",
+    "textColor4": "7a3b3f",
+    "textColor1": "0b0b09",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/originals/id993984553",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 272,
+    "ratingCountList": [
+      8,
+      7,
+      34,
+      83,
+      140
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Originals",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Adam Grant",
+  "primaryLocale": "en-US"
+}

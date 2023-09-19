@@ -1,0 +1,66 @@
+{
+  "id": "420522405",
+  "title": "The Happiness Advantage",
+  "subtitle": "How a Positive Brain Fuels Success in Work and Life",
+  "author": "Shawn Achor",
+  "isbn": "9780307591562",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=420522405&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9133647
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2010-09-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>INTERNATIONAL BESTSELLER </b>• <b>An engaging, deeply researched guide to flourishing in a world of increasing stress and negativity—the inspiration for one of the most popular TED Talks of all time</b><br /><b> </b><br /> <b>“Powerful [and] charming . . . A book for just about anyone . . . The philosophies in this book are easily the best wire frames to build a happy and successful life.”—<i>Medium</i></b><br /> <b> </b><br /><i>Happiness is not the belief that we don’t need to change; it is the realization that we can.</i><br /><i> </i><br />Our most commonly held formula for success is broken. Conventional wisdom holds that once we succeed, we’ll be happy; that once we get that great job, win that next promotion, lose those five pounds, happiness will follow. But the science reveals this formula to be backward: Happiness fuels success, not the other way around.<br />&#xa0;<br />Research shows that happy employees are more productive, more creative, and better problem solvers than their unhappy peers. And positive people are significantly healthier and less stressed and enjoy deeper social interaction than the less positive people around them.<br />&#xa0;<br />Drawing on original research—including one of the largest studies of happiness ever conducted—and work in boardrooms and classrooms across forty-two countries, Shawn Achor shows us how to rewire our brains for positivity and optimism to reap the happiness advantage in our lives, our careers, and even our health. His strategies include:<br />&#xa0;<br />• <b>The Tetris Effect:</b> how to retrain our brains to spot patterns of possibility so we can see and seize opportunities all around us<br />• <b>Social Investment:</b> how to earn the dividends of a strong social support network<br />• <b>The Ripple Effect:</b> how to spread positive change within our teams, companies, and families<br />&#xa0;<br />By turns fascinating, hopeful, and timely, <i>The Happiness Advantage</i> reveals how small shifts in our mind-set and habits can produce big gains at work, at home, and elsewhere."
+  },
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/9d/7f/2e/9d7f2e7c-1575-356b-8c82-9664f8a33a85/9780307591562.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "413613",
+    "textColor2": "00254b",
+    "textColor4": "334a48",
+    "textColor1": "120c09",
+    "bgColor": "ffdf3f",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-happiness-advantage/id420522405",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 526,
+    "ratingCountList": [
+      16,
+      15,
+      34,
+      93,
+      368
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "The Happiness Advantage",
+  "publisher": "Crown",
+  "isPreorder": false,
+  "artistName": "Shawn Achor",
+  "primaryLocale": "en-US"
+}

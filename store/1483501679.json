@@ -1,0 +1,66 @@
+{
+  "id": "1483501679",
+  "title": "The Socrates Express",
+  "subtitle": "In Search of Life Lessons from Dead Philosophers",
+  "author": "Eric Weiner",
+  "isbn": "9781501129032",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction",
+    "Travel & Adventure",
+    "Essays & Memoirs"
+  ],
+  "seller": "SIMON AND SCHUSTER DIGITAL SALES INC ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1483501679&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4974790
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2020-08-25",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The <i>New York Times </i>bestselling author of <i>The Geography of Bliss </i>embarks on a rollicking intellectual journey, following in the footsteps of history’s greatest thinkers and showing us how each—from Epicurus to Gandhi, Thoreau to Beauvoir—offers practical and spiritual lessons for today’s unsettled times.</b><br /><br />We turn to philosophy for the same reasons we travel: to see the world from a dif­ferent perspective, to unearth hidden beauty, and to find new ways of being. We want to learn how to embrace wonder. Face regrets. Sustain hope.<br /><br />Eric Weiner combines his twin passions for philosophy and travel in a globe-trotting pil­grimage that uncovers surprising life lessons from great thinkers around the world, from Rousseau to Nietzsche, Confucius to Simone Weil. Traveling by train (the most thoughtful mode of transport), he journeys thousands of miles, making stops in Athens, Delhi, Wyoming, Coney Island, Frankfurt, and points in between to recon­nect with philosophy’s original purpose: teaching us how to lead wiser, more meaningful lives. From Socrates and ancient Athens to Beauvoir and 20th-century Paris, Weiner’s chosen philosophers and places provide important practical and spiritual lessons as we navigate today’s chaotic times.<br /><br />In a “delightful” odyssey that “will take you places intellectually and humorously” (<i>San Francisco Book Review</i>), Weiner invites us to voyage alongside him on his life-changing pursuit of wisdom and discovery as he attempts to find answers to our most vital questions. <i>The Socrates Express </i>is “full of valuable lessons…a fun, sharp book that draws readers in with its apparent simplicity and bubble-gum philosophy approach and gradually pulls them in deeper and deeper” (NPR)."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/67/f6/c9/67f6c9c4-d4ef-5c4c-6c69-adb5b47bb7a5/9781501129032.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "36330e",
+    "textColor2": "272700",
+    "textColor4": "514f0e",
+    "textColor1": "050400",
+    "bgColor": "fbf049",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-socrates-express/id1483501679",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 44,
+    "ratingCountList": [
+      2,
+      0,
+      5,
+      12,
+      25
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Socrates Express",
+  "isPreorder": false,
+  "publisher": "Avid Reader Press / Simon & Schuster",
+  "artistName": "Eric Weiner",
+  "primaryLocale": "en-US"
+}

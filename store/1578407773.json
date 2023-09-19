@@ -1,0 +1,66 @@
+{
+  "id": "1578407773",
+  "title": "The Bogle Effect",
+  "subtitle": "How John Bogle and Vanguard Turned Wall Street Inside Out and Saved Investors Trillions",
+  "author": "Eric Balchunas",
+  "isbn": "9781637740729",
+  "genreNames": [
+    "Finance",
+    "Books",
+    "Business & Personal Finance",
+    "Personal Finance",
+    "Economics"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1578407773&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7903404
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2022-04-26",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The index fund wouldn’t be jack without Jack. It was just one innovation fueled by The Vanguard Group founder Jack Bogle’s radical idea in 1975 to make investors the actual owners of his new fund company. While the move was as much to save his job as it was to save investors, the end result was powerful: a fund company for the people and by the people. Bogle began a 50-year process of lowering costs inch by inch, which ultimately unleashed a populist revolt that has saved average investors trillions of dollars while reforming and right-sizing much of the entire financial industry.</b><br /><br />Today, nearly every dollar invested in America goes to either Vanguard funds or Vanguard-influenced funds. But Bogle’s impact and this “great cost migration” reaches well beyond index funds into many other areas, such as active management, ETFs, the advisory world, quantitative investing, ESG, behavioral finance and even trading platforms. <i>The Bogle Effect</i> takes readers through each of these worlds to show how they—and the investors they serve—are being reshaped and reformed.<br /><br />While hundreds of fund providers have copied the index fund that Vanguard made popular no one is yet to copy its “mutual” ownership structure. Why? This book explores that question as well as what made Bogle such an anomaly—seemingly immune to the overwhelming magnet of ambition that dictates Wall Street, made famous by movies like <i>Wall Street</i>, <i>The Big Short, </i>and<i> The Wolf of Wall Street</i>. On the flip side, Bogle wasn’t perfect by any stretch—he could be moralizing, cantankerous, and tended to make virtue out of necessity.<br /><br /><i>The Bogle Effect</i> is animated by the author’s hours of one-on-one, exclusive interviews with Bogle in the years before he passed, which reveal his philosophy, vision, intellect, and humor. Dozens of additional interviews with people who worked with him, lived with him, were influenced by him, and disagreed with him round out a portrait of this revolutionary figure.<br /><br />You will never look at the financial industry or your portfolio the same way again.<br />&#xa0;"
+  },
+  "artwork": {
+    "width": 1837,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/98/71/32/987132e9-12fa-c6b1-0abc-135ef6580b4a/9781637740729.d.jpg/{w}x{h}bb.{f}",
+    "height": 2775,
+    "textColor3": "2d454f",
+    "textColor2": "13324c",
+    "textColor4": "3c596f",
+    "textColor1": "001a24",
+    "bgColor": "e2f4fe",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-bogle-effect/id1578407773",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      1
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Bogle Effect",
+  "isPreorder": false,
+  "publisher": "BenBella Books",
+  "artistName": "Eric Balchunas",
+  "primaryLocale": "en-US"
+}

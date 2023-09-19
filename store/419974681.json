@@ -1,0 +1,61 @@
+{
+  "id": "419974681",
+  "title": "It's Called a Breakup Because It's Broken",
+  "subtitle": "The Smart Girl's Break-Up Buddy",
+  "author": "Greg Behrendt & Amiira Ruotola-Behrendt",
+  "isbn": "9780767922890",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Nonfiction",
+    "Family & Relationships"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=419974681&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6683783
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2005-09-27",
+  "isIBook": false,
+  "description": {
+    "standard": "There’s no doubt about it—breakups suck. But in the first few hours or weeks that follow, there’s one important truth you need to recognize: Some things can’t and shouldn’t be fixed, especially that loser who dumped you or forced you to dump him. <b>It’s called a breakup because it’s broken</b>, and starting right here, right now, it’s time to dry your tears, put down that pint of ice cream, log out of his email, and open this book to chapter one—and start turning your breakup into a breakover. <br /><br />From Greg Behrendt, coauthor of the smash, two-million-copy bestseller <i>He’s Just Not That Into You,</i> comes <i>It’s Called a Breakup Because It’s Broken—</i>the ultimate survival guide to getting over Mr. Wrong and reclaiming your inner Superfox. From how to put yourself through “He-tox” to how to throw yourself a kick-ass pity party, Greg and his coauthor and wife, Amiira, share their hilarious and helpful roadmap for getting past the heartache and back into the game. You will learn:<br /><br />Why you shouldn’t call him—and what he’s thinking when you do<br />How to keep your friends and not lose your job<br />How to avoid breakup pitfalls: IM-ing, stalking, having sex with your ex<br />Reframing reality—seeing the relationship for what it was<br />How to transform yourself into a hot, happening Superfox and get a jump on the better, brighter future that awaits<br /><br />Complete with an essential workbook to help you put the crazy down on paper and not take it out into the world, <i>It’s Called a Breakup Because It’s Broken</i> is a must-have manual for finding your way back to an even more rocking you."
+  },
+  "artwork": {
+    "width": 491,
+    "height": 720,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/db/13/76/mzi.idyeqgsa.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/its-called-a-breakup-because-its-broken/id419974681",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 524,
+    "ratingCountList": [
+      4,
+      14,
+      34,
+      90,
+      382
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "It's Called a Breakup Because It's Broken",
+  "publisher": "Harmony/Rodale",
+  "isPreorder": false,
+  "artistName": "Greg Behrendt & Amiira Ruotola-Behrendt",
+  "primaryLocale": "en-US"
+}

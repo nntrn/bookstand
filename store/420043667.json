@@ -1,0 +1,66 @@
+{
+  "id": "420043667",
+  "title": "The Lucifer Effect",
+  "subtitle": "Understanding How Good People Turn Evil",
+  "author": "Philip Zimbardo",
+  "isbn": "9781588365873",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=420043667&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5571068
+        }
+      ]
+    }
+  ],
+  "pageCount": 576,
+  "releaseDate": "2007-03-27",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film <i>The Stanford Prison Experiment</i></b><br /><br />Renowned social psychologist and creator of the Stanford Prison Experiment Philip Zimbardo explores the mechanisms that make good people do bad things, how moral people can be seduced into acting immorally, and what this says about the line separating good from evil.<br /><br /> <i>The Lucifer Effect</i> explains how—and the myriad reasons why—we are all susceptible to the lure of “the dark side.” Drawing on examples from history as well as his own trailblazing research, Zimbardo details how situational forces and group dynamics can work in concert to make monsters out of decent men and women.&#xa0;<br /><br /> Here, for the first time and in detail, Zimbardo tells the full story of the Stanford Prison Experiment, the landmark study in which a group of college-student volunteers was randomly divided into “guards” and “inmates” and then placed in a mock prison environment. Within a week the study was abandoned, as ordinary college students were transformed into either brutal, sadistic guards or emotionally broken prisoners. <br /><br /> By illuminating the psychological causes behind such disturbing metamorphoses, Zimbardo enables us to better understand a variety of harrowing phenomena, from corporate malfeasance to organized genocide to how once upstanding American soldiers came to abuse and torture Iraqi detainees in Abu Ghraib. He replaces the long-held notion of the “bad apple” with that of the “bad barrel”—the idea that the social setting and the system contaminate the individual, rather than the other way around.<br /><br /> This is a book that dares to hold a mirror up to mankind, showing us that we might not be who we think we are. While forcing us to reexamine what we are capable of doing when caught up in the crucible of behavioral dynamics, though, Zimbardo also offers hope. We are capable of resisting evil, he argues, and can even teach ourselves to act heroically. Like Hannah Arendt’s <i>Eichmann in Jerusalem</i> and Steven Pinker’s <i>The Blank Slate,</i> <i>The Lucifer Effect</i> is a shocking, engrossing study that will change the way we view human behavior.<br /><br /> <b>Praise for <i>The Lucifer Effect</i></b><br /><br /> “<i>The Lucifer Effect</i> will change forever the way you think about why we behave the way we do—and, in particular, about the human potential for evil. This is a disturbing book, but one that has never been more necessary.”<b>—Malcolm Gladwell</b><br /><br />“An important book . . . All politicians and social commentators . . . should read this.”<b>—<i>The Times </i>(London)</b><br /><br />“Powerful . . . an extraordinarily valuable addition to the literature of the psychology of violence or ‘evil.’”<b>—<i>The American Prospect</i></b><br /><br /> “Penetrating . . .&#xa0;Combining a dense but readable and often engrossing exposition of social psychology research with an impassioned moral seriousness, Zimbardo challenges readers to look beyond glib denunciations of evil-doers and ponder our collective responsibility for the world’s ills.”<b>—<i>Publishers Weekly</i></b><br /><br /> “A sprawling discussion . . . Zimbardo couples a thorough narrative of the Stanford Prison Experiment with an analysis of the social dynamics of the Abu Ghraib prison in Iraq.”<b>—<i>Booklist</i></b><br /><br /> “Zimbardo bottled evil in a laboratory.&#xa0;The lessons he learned show us our dark nature but also fill us with hope if we heed their counsel.&#xa0;<i>The Lucifer Effect </i>reads like a novel.”<b>—Anthony Pratkanis, Ph.D., professor emeritus of psychology, University of California</b>"
+  },
+  "artwork": {
+    "width": 1646,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/84/6a/2b/846a2b9a-63ca-77d2-d090-5fe7fbf1a98a/9781588365873.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "c9bcb2",
+    "textColor2": "e8e8df",
+    "textColor4": "babab3",
+    "textColor1": "fcecde",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-lucifer-effect/id420043667",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 49,
+    "ratingCountList": [
+      3,
+      2,
+      6,
+      6,
+      32
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Lucifer Effect",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Philip Zimbardo",
+  "primaryLocale": "en-US"
+}

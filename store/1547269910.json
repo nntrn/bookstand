@@ -1,0 +1,63 @@
+{
+  "id": "1547269910",
+  "title": "Stranger Than We Can Imagine",
+  "subtitle": "Making Sense of the Twentieth Century",
+  "author": "John Higgs",
+  "isbn": "9781619026803",
+  "genreNames": [
+    "History",
+    "Books"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1547269910&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8712805
+        }
+      ]
+    }
+  ],
+  "pageCount": 356,
+  "releaseDate": "2015-11-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“An illuminating work of massive insight” on the complex ideas and events that initiated the historical shift between the 19th and 20th centuries (Alan Moore, author of <i>V for Vendetta </i>and <i>Watchmen</i>).<br /><br /> “An always-provocative view of an era that many people would just as soon forget . . . an absorbing tour of the 20th century.”&#xa0;—<i>Kirkus&#xa0;Reviews</i></b><br /><br /> In <i>Stranger Than We Can Imagine</i>, John Higgs argues that before 1900, history seemed to make sense. We can understand innovations like electricity, agriculture, and democracy. The twentieth century, in contrast, gave us relativity, cubism, quantum mechanics, the id, existentialism, Stalin, psychedelics, chaos mathematics, climate change and postmodernism.<br /><br /> In order to understand such a disorienting barrage of unfamiliar and knotty ideas, Higgs shows us, we need to shift the framework of our interpretation and view these concepts within the context of a new kind of historical narrative. Instead of looking at it as another step forward in a stable path, we need to look at the twentieth century as a chaotic seismic shift, upending all linear narratives.<br /><br /> Higgs invites us along as he journeys across a century “about which we know too much” in order to grant us a new perspective on it. He brings a refreshingly non-academic, eclectic and infectiously energetic approach to his subjects as well as a unique ability to explain how complex ideas connect and intersect—whether he’s discussing Einstein’s theories of relativity, the Beat poets' interest in Eastern thought or the bright spots and pitfalls of the American Dream."
+  },
+  "artwork": {
+    "width": 1797,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/d1/bb/84/d1bb845d-5bb7-b4d4-abfa-667ee3f52826/9781619026803.d.jpg/{w}x{h}bb.{f}",
+    "height": 2705,
+    "textColor3": "3d3a33",
+    "textColor2": "2c1815",
+    "textColor4": "554338",
+    "textColor1": "0d0e0f",
+    "bgColor": "fcedc2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/stranger-than-we-can-imagine/id1547269910",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Stranger Than We Can Imagine",
+  "isPreorder": false,
+  "publisher": "Catapult",
+  "artistName": "John Higgs",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1564867658",
+  "title": "The Mind of the Mathematician",
+  "subtitle": null,
+  "author": "Michael Fitzgerald & Ioan James",
+  "isbn": "9780801896897",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature",
+    "Mathematics"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1564867658&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6719195
+        }
+      ]
+    }
+  ],
+  "pageCount": 234,
+  "releaseDate": "2007-07-16",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An intriguing look at the psychology and personality of mathematicians, with profiles of twenty prominent figures in the field.</b><br /> &#xa0;<br /> What makes mathematicians tick? How do their minds process formulas and concepts that, for most of the rest of the world’s population, remain mysterious and beyond comprehension? Is there a connection between mathematical creativity and mental illness?<br /> &#xa0;<br /> In&#xa0;<i>The Mind of the Mathematician</i>, internationally famous mathematician Ioan James and accomplished psychiatrist Michael Fitzgerald look at the complex world of mathematics and the mind. Together they explore the behavior and personality traits that tend to fit the profile of a mathematician. They discuss mathematics and the arts, savants, gender and mathematical ability, and the impact of autism, personality disorders, and mood disorders.<br /> &#xa0;<br /> These topics, together with a succinct analysis of some of the great mathematical personalities of the past three centuries, combine to form an eclectic and fascinating blend of story and scientific inquiry.<br /> &#xa0;<br /> “The authors’ careful treatments are an especially welcome addition to a genre riddled with apocryphal anecdotes and shoddy scholarship.” —<i>Nature</i>&#xa0;"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/61/e7/ef/61e7ef2e-32b7-d316-b360-5a3d6f52c8cf/9780801896897.jpg/{w}x{h}bb.{f}",
+    "height": 2313,
+    "textColor3": "0c9bdb",
+    "textColor2": "f34682",
+    "textColor4": "cb4080",
+    "textColor1": "04b7f3",
+    "bgColor": "2d2979",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-mind-of-the-mathematician/id1564867658",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "The Mind of the Mathematician",
+  "isPreorder": false,
+  "publisher": "Johns Hopkins University Press",
+  "artistName": "Michael Fitzgerald & Ioan James",
+  "primaryLocale": "en-US"
+}

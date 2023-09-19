@@ -1,0 +1,63 @@
+{
+  "id": "419290090",
+  "title": "Screenplay",
+  "subtitle": "The Foundations of Screenwriting",
+  "author": "Syd Field",
+  "isbn": "9780307423269",
+  "genreNames": [
+    "Reference",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines",
+    "Arts & Entertainment",
+    "Film"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=419290090&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6637324
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "1984-06-10",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Hollywood’s script guru teaches you how to write a screenplay in “the ‘bible’ of screenwriting” (<i>The New York Times</i>)—now celebrating forty years of screenwriting success!</b><br /><br />Syd Field’s books on the essential structure of emotionally satisfying screenplays have ignited lucrative careers in film and television since 1979. In this revised edition of his premiere guide, the underpinnings of successful onscreen narratives are revealed in clear and encouraging&#xa0;language that will remain wise and practical as long as audiences watch stories unfold visually—from hand-held devices to IMAX to virtual reality . . . and whatever comes next.&#xa0;<br />&#xa0;<br />As the first person to&#xa0;articulate&#xa0;common structural elements unique to successful&#xa0;movies, celebrated producer, lecturer, teacher and bestselling author Syd Field has gifted us a classic text. From concept to character, from opening scene to finished script, here are fundamental guidelines to help all screenwriters—novices and Oscar-winners—hone their craft and sell their work.&#xa0;<br />&#xa0;<br />In&#xa0;<i>Screenplay</i>, Syd Field can help you discover:<br />• Why the first ten pages of every script are crucial to keeping professional readers’ interest<br />• How to visually “grab” these influential readers from page one, word one&#xa0;<br />• Why structure and character are the basic components of all narrative screenplays<br />• How to adapt a novel, a play, or an article into a saleable script<br />• Tips on protecting your work—three ways to establish legal ownership of screenplays<br />• Vital insights on writing authentic dialogue, crafting memorable characters, building strong yet flexible storylines (form, not formula), overcoming writer's block, and much more<br />&#xa0;<br />Syd Field is revered as the original master of screenplay story structure, and this guide continues to be the industry’s gold standard for learning the foundations of screenwriting."
+  },
+  "artwork": {
+    "width": 453,
+    "height": 720,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/e8/89/7d/mzi.subzckte.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/screenplay/id419290090",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 74,
+    "ratingCountList": [
+      4,
+      4,
+      4,
+      10,
+      52
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Screenplay",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Syd Field",
+  "primaryLocale": "en-US"
+}

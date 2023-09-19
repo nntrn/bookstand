@@ -1,0 +1,65 @@
+{
+  "id": "1576153364",
+  "title": "Cracking Complexity Now",
+  "subtitle": "The Breakthrough Formula for Solving Just About Anything Fast",
+  "author": "David Komlos & David Benjamin",
+  "isbn": "9781529381610",
+  "genreNames": [
+    "Anthropology",
+    "Books",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1576153364&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5358082
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2021-10-12",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Complexity has met its match! </b>Today, organizations are grappling with ambiguity, volatility and paradox surrounding the challenges they face. This is complexity. But too many leaders approach complexity the wrong way - they push their people harder and harder and tackle problems one-at-a-time over months, sometimes even years and nearly always in a linear fashion. It's like setting a pot of water on \"low\" and waiting for it to boil. To solve the seemingly intractable challenges that leaders bang their heads against for months - to get the metaphorical water to boil - you must generate a high amount of heat very quickly. In this book, the authors share their proven formula for dramatically shortening the process and solving an organization's toughest challenges in mere days.<br /><br />Fully updated to include highly successful and proven virtual methods and practices that have been used to solve real problems. This book serves up the mindset, steps and skills that you and your team will need to crack complexity, wherever you are in the world, so that you can find clarity and build momentum even in the most uncertain of times."
+  },
+  "artwork": {
+    "width": 1729,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/a2/e0/9e/a2e09e47-78de-e874-8612-a20f6295c5ed/9781529381610.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "cccccc",
+    "textColor2": "f6dac8",
+    "textColor4": "c5afa1",
+    "textColor1": "ffffff",
+    "bgColor": "040404",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/cracking-complexity-now/id1576153364",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Cracking Complexity Now",
+  "isPreorder": false,
+  "publisher": "Quercus",
+  "artistName": "David Komlos & David Benjamin",
+  "primaryLocale": "en-US"
+}

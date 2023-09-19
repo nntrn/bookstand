@@ -1,0 +1,66 @@
+{
+  "id": "1511940515",
+  "title": "Hype",
+  "subtitle": "How Scammers, Grifters, and Con Artists Are Taking Over the Internet—and Why We're Following",
+  "author": "Gabrielle Bluestone",
+  "isbn": "9781488059124",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Nonfiction",
+    "Social Science",
+    "True Crime"
+  ],
+  "seller": "Harlequin Digital Sales Corporation",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=1511940515&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1119092
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2021-04-06",
+  "isIBook": false,
+  "description": {
+    "standard": "\"Hype&#xa0;is the best kind of nonfiction: juicy, sharp, savage and wildly entertaining, with a celebrity behaving badly on every page. What more could you want?”&#xa0;-Cat Marnell,&#xa0;New York Times-bestselling author of&#xa0;How to Murder Your Life<br /><br />From former Vice journalist and executive producer of hit Netflix documentary Fyre comes an eye-opening look at the con artists, grifters and snake oil salesmen of the digital age—and why we can’t stop falling for them.<br /><br />We live in an age where scams are the new normal. A charismatic entrepreneur sells thousands of tickets to a festival that never happened. Respected investors pour millions into a start-up centered around fake blood tests. Reviewers and celebrities flock to London’s top-rated restaurant that’s little more than a backyard shed. These unsettling stories of today’s viral grifters have risen to fame and hit the front-page headlines, yet the curious conundrum remains: Why do these scams happen?<br /><br />Drawing from scientific research, marketing campaigns, and exclusive documents and interviews, former Vice reporter Gabrielle Bluestone delves into the irresistible hype that fuels our social media ecosystem, whether it’s from the trusted influencers that peddled Fyre or the consumer reviews that sold Juicero. A cultural examination that is as revelatory as it is relevant, Hype pulls back the curtain on the manipulation game behind the never-ending scam season—and how we as consumers can stop getting played."
+  },
+  "artwork": {
+    "width": 2458,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/5b/6e/58/5b6e584a-9f1f-f9ed-549b-eda6f6d7505a/9781488059124.jpg/{w}x{h}bb.{f}",
+    "height": 3724,
+    "textColor3": "143843",
+    "textColor2": "181817",
+    "textColor4": "133843",
+    "textColor1": "191717",
+    "bgColor": "00baf2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/hype/id1511940515",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 6,
+    "ratingCountList": [
+      0,
+      1,
+      1,
+      2,
+      2
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "Hype",
+  "publisher": "Hanover Square Press",
+  "isPreorder": false,
+  "artistName": "Gabrielle Bluestone",
+  "primaryLocale": "en-US"
+}

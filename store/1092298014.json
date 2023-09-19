@@ -1,0 +1,66 @@
+{
+  "id": "1092298014",
+  "title": "The Well-Spoken Thesaurus",
+  "subtitle": "The Most Powerful Ways to Say Everyday Words and Phrases",
+  "author": "Tom Heehler",
+  "isbn": "9781402262487",
+  "genreNames": [
+    "Dictionaries & Thesauruses",
+    "Books",
+    "Reference",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "Sourcebooks, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=18990&salableAdamId=1092298014&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$18.99",
+      "price": 18.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1789883
+        }
+      ]
+    }
+  ],
+  "pageCount": 400,
+  "releaseDate": "2011-02-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>The Well-Spoken Thesaurus</i> is designed to help you improve your communication skills by expanding your vocabulary.</b><br /><br />The book includes over 200 words, arranged in easy-to-use categories, such as \"positive emotions,\" \"negative emotions,\" \"intellectual terms,\" and \"descriptive terms.\" Each entry includes a definition, synonyms, antonyms, and usage examples.<br /><br /><i>The Well-Spoken Thesaurus</i> is particularly useful for writers who want to improve the precision and impact of their language. By providing a range of synonyms for common words and phrases, the book helps writers avoid repetition and clichés, while also encouraging them to use language that is more vivid, specific, and memorable.<br /><br /><b>Some of the benefits of using <i>The Well-Spoken Thesaurus</i> include:</b><br /><br />• <b>Making a stronger impression:</b> By choosing words that are more precise and impactful, you can help your writing stand out from the crowd and make a stronger impression.<br />• <b>Demonstrating your communication skills: </b>Using a wide range of vocabulary can demonstrate that you are articulate, sophisticated, and able to communicate effectively.<br />• <b>Conveying your personality:</b> Includes a range of descriptive terms that can help you convey your personality and character traits in your writing<br /><br />Overall, <i>The Well-Spoken Thesaurus</i> can be a valuable resource for anyone who wants to improve their writing and communication skills."
+  },
+  "artwork": {
+    "width": 600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/99/3b/7c/993b7cdf-6a5c-546e-2a3d-3c6ffdfe6e65/9781402262487.jpg/{w}x{h}bb.{f}",
+    "height": 893,
+    "textColor3": "333536",
+    "textColor2": "302f2d",
+    "textColor4": "595651",
+    "textColor1": "00060b",
+    "bgColor": "fef2e2",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-well-spoken-thesaurus/id1092298014",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Well-Spoken Thesaurus",
+  "publisher": "Sourcebooks",
+  "isPreorder": false,
+  "artistName": "Tom Heehler",
+  "primaryLocale": "en-US"
+}
