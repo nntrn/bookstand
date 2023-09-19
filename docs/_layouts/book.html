@@ -1,0 +1,54 @@
+---
+layout: default
+---
+{%- assign pagecreated = page.date | date_to_string: "ordinal", "US" -%}
+{%- assign pagemodified = page.modified |  date_to_string: "ordinal", "US" -%}
+{%- assign api = site.data.store | where: 'id', page.assetid |first -%}
+
+<div class="container">
+  <div class="sidebar box pt-0 mt-3">
+    {%- include postlist.html -%}
+    <div class="mt-2">{%- include social.html -%}</div>
+  </div>
+  <div class="page-content box pt-0 mt-3">
+    <h2 class="book-title">{{ page.title }}</h2>
+    <h3 class="book-subtitle">{{ api.subtitle}}</h3>
+    <h3 class="book-author">{{page.author}}</h3>
+    <p class="info">
+      <span>First annotation on <time datetime="{{page.date}}">{{pagecreated}}</time>.</span>
+      {%- if pagemodified != pagecreated %}
+      <span>Last on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
+      {%- endif -%}
+    </p>
+    <p>{%- assign pagecreated = page.date | relative -%}</p>
+    {% assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "rangestart" %}
+    <div class="tag-list">
+      {%- for tag in page.tags -%}
+      <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>
+      {%- endfor -%}
+    </div>
+    <hr>
+    {%- assign chapters = annotations | group_by: "chapter" -%}
+    {%- for chapter in chapters -%}
+    <h3>{{chapter.name}}</h3>
+    <ul class="annotations flex-list">
+      {%- for annotation in chapter.items -%}
+      <li id="{{annotation.id}}"
+          data-location="{{annotation.cfi}}"
+          data-created="{{annotation.created|date: '%F'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
+      {% endfor -%}
+    </ul>
+    {%- endfor -%}
+  </div>
+</div>
+<script type="application/json">{{api|jsonify}}</script>
+<script>
+  function highlightAnnotation() {
+    Array.from(document.querySelectorAll('.highlighted')).forEach(e => e.classList.remove('highlighted'))
+    if (location.hash) {
+      document.querySelector(`[id="${location.hash.substr(1)}"]`).classList.add('highlighted')
+    }
+  }
+  highlightAnnotation()
+  window.onhashchange = highlightAnnotation;
+</script>

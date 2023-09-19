@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+{% if page.layout == "book" -%}
+{%- assign booktitle = page.title |split: " (" | first |split: ","|first|split: ":" |first -%}
+<title>{{booktitle}} | Annotations</title>
+{%- endif -%}
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="description" content="{{site.description}}">
+<link rel="preconnect" href="https://raw.githubusercontent.com" />
+<link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+{% feed_meta %}
+{% seo %}
+</head>
+<body data-layout="{{page.layout}}">
+<div class="site-container">
+<header>
+<div class="flex column center">
+  <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{site.title}}</a></h1>
+  <h3 class="site-subtitle">{{site.subtitle}}</h3>
+</div>
+</header>
+<main>
+{{- content -}}
+</main>
+</div>
+</body>
+</html>

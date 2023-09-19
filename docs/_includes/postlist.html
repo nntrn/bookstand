@@ -1,0 +1,13 @@
+{%- assign pagetag = page.tags | first -%}
+{% assign books = site.data.books | where: 'tags', pagetag |sort: 'title' %}
+
+<h4>Other posts in <a href="{{ site.baseurl }}/tags/{{pagetag}}" class="dotted">{{pagetag}}</a></h4>
+<ul class="related-posts">
+  {%- for book in books -%}
+  {%- if book.slug == page.slug -%}
+  <li><u>{{book.title}}</u></li>
+  {%- else -%}
+  <li><a href="{{ site.baseurl }}/{{book.slug}}" title="{{book.title}}">{{book.title}}</a></li>
+  {%- endif -%}
+  {%- endfor -%}
+</ul>

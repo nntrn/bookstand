@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{%- assign pagetag = page.tags |first -%}
+{%- assign books = site.data.books | where: 'tags', pagetag |sort: 'title' -%}
+
+<div class="page-content box">
+  {% include breadcrumb.html -%}
+  <h2>#{{pagetag}}</h2>
+  <ul class="flex-list lh-120 px-0">
+    {% for book in books -%}
+    <li class="inline-flex column px-0">
+      <span><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}</span>
+      <span class="ss fs-80">Last update on {{book.modified|date_to_string: "ordinal", "US"}}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
