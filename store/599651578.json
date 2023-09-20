@@ -1,0 +1,74 @@
+{
+  "id": "599651578",
+  "title": "David and Goliath",
+  "subtitle": "Underdogs, Misfits, and the Art of Battling Giants",
+  "author": "Malcolm Gladwell",
+  "isbn": "9780316204385",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Nonfiction",
+    "Social Science",
+    "Sociology",
+    "Business & Personal Finance",
+    "Management & Leadership",
+    "Self-Improvement"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>Explore the power of the underdog in Malcolm Gladwell's dazzling examination of success, motivation, and the role of adversity in shaping our lives, from the bestselling author of&#xa0;<i>The Bomber Mafia</i>.</b><br /><br />Three thousand years ago on a battlefield in ancient Palestine, a shepherd boy felled a mighty warrior with nothing more than a stone and a sling, and ever since then the names of David and Goliath have stood for battles between underdogs and giants. David's victory was improbable and miraculous. He <i>shouldn't </i>have won.<br /><br />Or should he have?<br /><br />In <i>David and Goliath</i>, Malcolm Gladwell<i></i>challenges how we think about obstacles and disadvantages, offering a new interpretation of what it means to be discriminated against, or cope with a disability, or lose a parent, or attend a mediocre school, or suffer from any number of other apparent setbacks.<br /><br />Gladwell begins with the <i>real</i> story of what happened between the giant and the shepherd boy those many years ago. From there, <i>David and Goliath</i> examines Northern Ireland's Troubles, the minds of cancer researchers and civil rights leaders, murder and the high costs of revenge, and the dynamics of successful and unsuccessful classrooms—all to demonstrate how much of what is beautiful and important in the world arises from what looks like suffering and adversity.<br /><br />In the tradition of Gladwell's previous bestsellers—<i>The Tipping Point</i>, <i>Blink</i>, <i>Outliers</i> and <i>What the Dog Saw</i>—<i>David and Goliath</i> draws upon history, psychology, and powerful storytelling to reshape the way we think of the world around us."
+  },
+  "editorialNotes": {
+    "standard": "<i>David and Goliath</i> offers a provocative take on our cultural assumptions around power, influence, money, and even intelligence by examining why those attributes may not be the automatic advantages we often think they are. Through short vignettes and interviews, Gladwell identifies why some people succeed despite the odds, why others with immense resources struggle, and at what point bigger stops being better. Gladwell’s counterintuitive arguments are intentionally provocative—case in point, his theory that the children of the very rich are, in some ways, as disadvantaged as children raised in poverty—but he backs them up with admirable research. You can read this over a lazy weekend, but it leaves a lasting impression."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=599651578&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1946563
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2013-10-01",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1733,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/be/9b/5c/be9b5c4c-50c9-dbe6-97f3-3ca062d70274/9780316204385.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "3b390f",
+    "textColor2": "150e00",
+    "textColor4": "423a05",
+    "textColor1": "0c0c0c",
+    "bgColor": "f7ea1a",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/david-and-goliath/id599651578",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 1549,
+    "ratingCountList": [
+      132,
+      142,
+      221,
+      378,
+      676
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "name": "David and Goliath",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Malcolm Gladwell",
+  "primaryLocale": "en-US"
+}
