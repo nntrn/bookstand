@@ -4,11 +4,7 @@
   "subtitle": "A Dream, a Temptation, and the Longest Night of the Second World War",
   "author": "Malcolm Gladwell",
   "isbn": "9780316296939",
-  "genreNames": [
-    "History",
-    "Books",
-    "Military"
-  ],
+  "genreNames": ["History", "Books", "Military"],
   "seller": "Hachette Digital, Inc.",
   "description": {
     "standard": "<b>Dive into this “truly compelling” (<i>Good Morning America</i>) <i>New York Times </i>bestseller that explores how technology and best intentions collide in the heat of war—from the creator and host of the podcast <i>Revisionist History.</i></b><br /> In <i>The Bomber Mafia</i><i>,</i> Malcolm Gladwell weaves together the stories of a Dutch genius and his homemade computer, a band of brothers in central Alabama, a British psychopath, and pyromaniacal chemists at Harvard to examine one of the greatest moral challenges in modern American history.<br /> &#xa0;<br /> Most military thinkers in the years leading up to World War II saw the airplane as an afterthought. But a small band of idealistic strategists, the “Bomber Mafia,” asked: What if precision bombing could cripple the enemy <i>and</i> make war far less lethal? &#xa0;<br /> &#xa0;<br /> In contrast, the bombing of Tokyo on the deadliest night of the war was the brainchild of General Curtis LeMay, whose brutal pragmatism and scorched-earth tactics in Japan cost thousands of civilian lives, but may have spared even more by averting a planned US invasion. In <i>The Bomber Mafia, </i>Gladwell asks, “Was it worth it?”<br /> &#xa0;<br /> Things might have gone differently had LeMay’s predecessor, General Haywood Hansell, remained in charge. Hansell believed in precision bombing, but when he and Curtis LeMay squared off for a leadership handover in the jungles of Guam, LeMay emerged victorious, leading to the darkest night of World War II. <i>The Bomber Mafia </i>is a riveting tale of persistence, innovation, and the incalculable wages of war."
@@ -48,17 +44,10 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-bomber-mafia/id1550558754",
   "userRating": {
     "value": 4.2,
     "ratingCount": 858,
-    "ratingCountList": [
-      33,
-      36,
-      98,
-      227,
-      464
-    ],
+    "ratingCountList": [33, 36, 98, 227, 464],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "The Bomber Mafia",
