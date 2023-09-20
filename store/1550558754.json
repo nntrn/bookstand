@@ -1,0 +1,69 @@
+{
+  "id": "1550558754",
+  "title": "The Bomber Mafia",
+  "subtitle": "A Dream, a Temptation, and the Longest Night of the Second World War",
+  "author": "Malcolm Gladwell",
+  "isbn": "9780316296939",
+  "genreNames": [
+    "History",
+    "Books",
+    "Military"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>Dive into this “truly compelling” (<i>Good Morning America</i>) <i>New York Times </i>bestseller that explores how technology and best intentions collide in the heat of war—from the creator and host of the podcast <i>Revisionist History.</i></b><br /> In <i>The Bomber Mafia</i><i>,</i> Malcolm Gladwell weaves together the stories of a Dutch genius and his homemade computer, a band of brothers in central Alabama, a British psychopath, and pyromaniacal chemists at Harvard to examine one of the greatest moral challenges in modern American history.<br /> &#xa0;<br /> Most military thinkers in the years leading up to World War II saw the airplane as an afterthought. But a small band of idealistic strategists, the “Bomber Mafia,” asked: What if precision bombing could cripple the enemy <i>and</i> make war far less lethal? &#xa0;<br /> &#xa0;<br /> In contrast, the bombing of Tokyo on the deadliest night of the war was the brainchild of General Curtis LeMay, whose brutal pragmatism and scorched-earth tactics in Japan cost thousands of civilian lives, but may have spared even more by averting a planned US invasion. In <i>The Bomber Mafia, </i>Gladwell asks, “Was it worth it?”<br /> &#xa0;<br /> Things might have gone differently had LeMay’s predecessor, General Haywood Hansell, remained in charge. Hansell believed in precision bombing, but when he and Curtis LeMay squared off for a leadership handover in the jungles of Guam, LeMay emerged victorious, leading to the darkest night of World War II. <i>The Bomber Mafia </i>is a riveting tale of persistence, innovation, and the incalculable wages of war."
+  },
+  "editorialNotes": {
+    "standard": "There were so many outstanding technological achievements in the 20th century. Computers! Space travel! Aerial bombing? As he does on his podcast <i>Revisionist History</i>, Malcolm Gladwell asks us to reconsider the past, in this case prodding us to rethink everything we know about the air campaigns of World War II. The young, cool military leaders who created the air force saw a future in hitting strategic targets from the air, whereas the older generation argued for levelling much of Germany and Japan. While the establishment may have won that argument, we were fascinated to learn that the younger flyers’ thinking has ultimately shaped the modern military. (Unmanned drone strikes are the logical outcome.) Gladwell presents fascinating research into history and technology, letting the facts speak for themselves. This is the kind of revisionism we love—where a deeper look into the past gives us a better understanding of the present.",
+    "short": "The master of <i>Revisionist History</i> helps us see World War II air battles with fresh eyes."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1550558754&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 19704727
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2021-04-27",
+  "isIBook": false,
+  "artwork": {
+    "width": 1731,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/c3/a5/12/c3a5129f-f37c-6ce7-c019-bb64ec6079f7/9780316296939.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "b2bec3",
+    "textColor2": "faab1e",
+    "textColor4": "c99125",
+    "textColor1": "dde4e4",
+    "bgColor": "082642",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-bomber-mafia/id1550558754",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 858,
+    "ratingCountList": [
+      33,
+      36,
+      98,
+      227,
+      464
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "The Bomber Mafia",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Malcolm Gladwell",
+  "primaryLocale": "en-US"
+}
