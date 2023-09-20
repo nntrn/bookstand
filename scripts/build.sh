@@ -93,7 +93,7 @@ scrape_book_api() {
       sed s',>{,>\n{,' | grep -vE '<.?script' |
       jq 'to_entries|.[0].value|fromjson | (.d|.[0])
       | {id,type,title:.attributes.name,subtitle,author:.attributes.artistName,isbn,genreNames} + .attributes
-      | del(.relationships,.versionHistory,.screenshots,.bookSampleDownloadUrl,.criticalReviews,.editorialArtwork,.type)'
+      | del(.relationships,.versionHistory,.screenshots,.bookSampleDownloadUrl,.criticalReviews,.editorialArtwork,.type,.url)'
   else
     return 1
   fi
