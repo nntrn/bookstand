@@ -4,11 +4,7 @@
   "subtitle": "How Successful People Become Even More Successful",
   "author": "Marshall Goldsmith & Mark Reiter",
   "isbn": "9781401388775",
-  "genreNames": [
-    "Careers",
-    "Books",
-    "Business & Personal Finance"
-  ],
+  "genreNames": ["Careers", "Books", "Business & Personal Finance"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -43,17 +39,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/what-got-you-here-wont-get-you-there/id698941506",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 126,
-    "ratingCountList": [
-      4,
-      1,
-      11,
-      29,
-      81
-    ],
+    "ratingCountList": [4, 1, 11, 29, 81],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "What Got You Here Won't Get You There",

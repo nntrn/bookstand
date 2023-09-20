@@ -49,17 +49,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-art-of-war/id395534623",
+
   "userRating": {
     "value": 3.8,
     "ratingCount": 8048,
-    "ratingCountList": [
-      818,
-      739,
-      1099,
-      1608,
-      3784
-    ],
+    "ratingCountList": [818, 739, 1099, 1608, 3784],
     "ariaLabelForRatings": "3.8 stars"
   },
   "name": "The Art of War",

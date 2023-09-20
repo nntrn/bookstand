@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-anatomy-of-motive/id381461943",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 47,
-    "ratingCountList": [
-      0,
-      0,
-      7,
-      7,
-      33
-    ],
+    "ratingCountList": [0, 0, 7, 7, 33],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "The Anatomy Of Motive",

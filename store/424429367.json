@@ -45,17 +45,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-power-of-myth/id424429367",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 159,
-    "ratingCountList": [
-      14,
-      6,
-      8,
-      21,
-      110
-    ],
+    "ratingCountList": [14, 6, 8, 21, 110],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "The Power of Myth",

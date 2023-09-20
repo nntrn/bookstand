@@ -43,17 +43,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/genius/id418083293",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 45,
-    "ratingCountList": [
-      2,
-      2,
-      4,
-      11,
-      26
-    ],
+    "ratingCountList": [2, 2, 4, 11, 26],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Genius",

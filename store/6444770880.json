@@ -4,12 +4,7 @@
   "subtitle": "A Play About a Good Woman",
   "author": "Oscar Wilde",
   "isbn": null,
-  "genreNames": [
-    "Theater",
-    "Books",
-    "Arts & Entertainment",
-    "Humor"
-  ],
+  "genreNames": ["Theater", "Books", "Arts & Entertainment", "Humor"],
   "seller": "Standard Ebooks L3C",
   "offers": [
     {
@@ -44,17 +39,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/lady-windermeres-fan/id6444770880",
+
   "userRating": {
     "value": 4,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 1, 0],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Lady Windermere’s Fan",

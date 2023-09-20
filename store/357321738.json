@@ -4,11 +4,7 @@
   "subtitle": "Essential Wisdom from the Urban Wilderness",
   "author": "Lyanda Lynn Haupt",
   "isbn": "9780316053396",
-  "genreNames": [
-    "Nature",
-    "Books",
-    "Science & Nature"
-  ],
+  "genreNames": ["Nature", "Books", "Science & Nature"],
   "seller": "Hachette Digital, Inc.",
   "description": {
     "standard": "There are more crows now than ever. Their abundance is both an indicator of ecological imbalance and a generous opportunity to connect with the animal world. <i>Crow Planet</i> reminds us that we do not need to head to faraway places to encounter \"nature.\" Rather, even in the suburbs and cities where we live we are surrounded by wild life such as crows, and through observing them we can enhance our appreciation of the world's natural order. <br /><br /><i>Crow Planet</i> richly weaves Haupt's own \"crow stories\" as well as scientific and scholarly research and the history and mythology of crows, culminating in a book that is sure to make readers see the world around them in a very different way."
@@ -39,17 +35,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/crow-planet/id357321738",
+
   "userRating": {
     "value": 3.7,
     "ratingCount": 17,
-    "ratingCountList": [
-      2,
-      1,
-      4,
-      3,
-      7
-    ],
+    "ratingCountList": [2, 1, 4, 3, 7],
     "ariaLabelForRatings": "3.7 stars"
   },
   "name": "Crow Planet",

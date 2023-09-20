@@ -45,17 +45,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/steve-jobs/id431617578",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 20911,
-    "ratingCountList": [
-      720,
-      493,
-      781,
-      2570,
-      16347
-    ],
+    "ratingCountList": [720, 493, 781, 2570, 16347],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Steve Jobs",

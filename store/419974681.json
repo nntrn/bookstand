@@ -40,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/its-called-a-breakup-because-its-broken/id419974681",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 524,
-    "ratingCountList": [
-      4,
-      14,
-      34,
-      90,
-      382
-    ],
+    "ratingCountList": [4, 14, 34, 90, 382],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "It's Called a Breakup Because It's Broken",

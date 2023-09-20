@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-bogle-effect/id1578407773",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 3,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      2,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 2, 1],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "The Bogle Effect",

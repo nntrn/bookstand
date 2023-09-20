@@ -43,17 +43,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/stumbling-on-happiness/id419282386",
+
   "userRating": {
     "value": 3.8,
     "ratingCount": 187,
-    "ratingCountList": [
-      25,
-      15,
-      21,
-      46,
-      80
-    ],
+    "ratingCountList": [25, 15, 21, 46, 80],
     "ariaLabelForRatings": "3.8 stars"
   },
   "name": "Stumbling on Happiness",

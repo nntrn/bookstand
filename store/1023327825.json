@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-storytellers-secret/id1023327825",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 29,
-    "ratingCountList": [
-      0,
-      0,
-      2,
-      8,
-      19
-    ],
+    "ratingCountList": [0, 0, 2, 8, 19],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "The Storyteller's Secret",

@@ -4,11 +4,7 @@
   "subtitle": null,
   "author": "DK",
   "isbn": "9780744048513",
-  "genreNames": [
-    "World",
-    "Books",
-    "History"
-  ],
+  "genreNames": ["World", "Books", "History"],
   "seller": "PENGUIN GROUP USA, INC.  ",
   "offers": [
     {
@@ -46,17 +42,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-little-book-of-history/id1554216935",
+
   "userRating": {
     "value": 5,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 0, 1],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "The Little Book of History",

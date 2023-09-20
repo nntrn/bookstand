@@ -4,11 +4,7 @@
   "subtitle": "The Basic Handbook of Transactional Analysis",
   "author": "Eric Berne",
   "isbn": "9781618030061",
-  "genreNames": [
-    "Psychology",
-    "Books",
-    "Health, Mind & Body"
-  ],
+  "genreNames": ["Psychology", "Books", "Health, Mind & Body"],
   "seller": "Tantor Media, Inc.",
   "offers": [
     {
@@ -37,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/games-people-play/id477710521",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 71,
-    "ratingCountList": [
-      2,
-      5,
-      9,
-      9,
-      46
-    ],
+    "ratingCountList": [2, 5, 9, 9, 46],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Games People Play",

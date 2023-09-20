@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-data-detective/id1515014115",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 36,
-    "ratingCountList": [
-      1,
-      1,
-      2,
-      6,
-      26
-    ],
+    "ratingCountList": [1, 1, 2, 6, 26],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "The Data Detective",

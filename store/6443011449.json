@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/your-brain-on-art/id6443011449",
+
   "userRating": {
     "value": 4.7,
     "ratingCount": 7,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      2,
-      5
-    ],
+    "ratingCountList": [0, 0, 0, 2, 5],
     "ariaLabelForRatings": "4.7 stars"
   },
   "name": "Your Brain on Art",

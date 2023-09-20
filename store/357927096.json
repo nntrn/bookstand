@@ -41,17 +41,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/amusing-ourselves-to-death/id357927096",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 140,
-    "ratingCountList": [
-      8,
-      4,
-      6,
-      26,
-      96
-    ],
+    "ratingCountList": [8, 4, 6, 26, 96],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Amusing Ourselves to Death",

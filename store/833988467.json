@@ -39,17 +39,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-peter-principle/id833988467",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 24,
-    "ratingCountList": [
-      1,
-      1,
-      2,
-      5,
-      15
-    ],
+    "ratingCountList": [1, 1, 2, 5, 15],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "The Peter Principle",

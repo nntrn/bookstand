@@ -49,17 +49,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/originals/id993984553",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 272,
-    "ratingCountList": [
-      8,
-      7,
-      34,
-      83,
-      140
-    ],
+    "ratingCountList": [8, 7, 34, 83, 140],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Originals",

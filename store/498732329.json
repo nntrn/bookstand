@@ -4,10 +4,7 @@
   "subtitle": null,
   "author": "Oscar Wilde",
   "isbn": null,
-  "genreNames": [
-    "Fiction & Literature",
-    "Books"
-  ],
+  "genreNames": ["Fiction & Literature", "Books"],
   "seller": "Public Domain",
   "offers": [
     {
@@ -36,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/essays-and-lectures/id498732329",
+
   "userRating": {
     "value": 3.7,
     "ratingCount": 20,
-    "ratingCountList": [
-      2,
-      4,
-      0,
-      6,
-      8
-    ],
+    "ratingCountList": [2, 4, 0, 6, 8],
     "ariaLabelForRatings": "3.7 stars"
   },
   "name": "Essays and Lectures",

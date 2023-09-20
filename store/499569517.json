@@ -4,12 +4,7 @@
   "subtitle": null,
   "author": "Edward O. Wilson",
   "isbn": "9780871403308",
-  "genreNames": [
-    "Life Sciences",
-    "Books",
-    "Science & Nature",
-    "Biology"
-  ],
+  "genreNames": ["Life Sciences", "Books", "Science & Nature", "Biology"],
   "seller": "W.W. Norton & Company, Inc.",
   "offers": [
     {
@@ -38,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-social-conquest-of-earth/id499569517",
+
   "userRating": {
     "value": 4,
     "ratingCount": 77,
-    "ratingCountList": [
-      8,
-      4,
-      6,
-      24,
-      35
-    ],
+    "ratingCountList": [8, 4, 6, 24, 35],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "The Social Conquest of Earth",

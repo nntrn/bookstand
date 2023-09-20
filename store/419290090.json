@@ -42,17 +42,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/screenplay/id419290090",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 74,
-    "ratingCountList": [
-      4,
-      4,
-      4,
-      10,
-      52
-    ],
+    "ratingCountList": [4, 4, 4, 10, 52],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Screenplay",

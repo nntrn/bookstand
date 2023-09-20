@@ -4,11 +4,7 @@
   "subtitle": "Taking On Liberal Arguments with Logic and Humor",
   "author": "Will Witt",
   "isbn": "9781546000273",
-  "genreNames": [
-    "Political Science",
-    "Books",
-    "Politics & Current Events"
-  ],
+  "genreNames": ["Political Science", "Books", "Politics & Current Events"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -44,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/how-to-win-friends-and-influence-enemies/id1553728775",
+
   "userRating": {
     "value": 4.8,
     "ratingCount": 6,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      1,
-      5
-    ],
+    "ratingCountList": [0, 0, 0, 1, 5],
     "ariaLabelForRatings": "4.8 stars"
   },
   "name": "How to Win Friends and Influence Enemies",

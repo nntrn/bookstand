@@ -4,11 +4,7 @@
   "subtitle": null,
   "author": "Dan Hill",
   "isbn": "9785990336438",
-  "genreNames": [
-    "Design",
-    "Books",
-    "Professional & Technical"
-  ],
+  "genreNames": ["Design", "Books", "Professional & Technical"],
   "seller": "Bookwire Gesellschaft zum Vertrieb digitaler Medien mbH",
   "offers": [
     {
@@ -38,17 +34,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/dark-matter-and-trojan-horses-a-strategic/id624482249",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 6,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      2,
-      3
-    ],
+    "ratingCountList": [0, 0, 1, 2, 3],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Dark Matter and Trojan Horses. A Strategic Design Vocabulary.",

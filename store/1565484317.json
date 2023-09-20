@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/how-to-speak-science/id1565484317",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "How to Speak Science",

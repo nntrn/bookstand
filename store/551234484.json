@@ -4,10 +4,7 @@
   "subtitle": null,
   "author": "Christine Ammer",
   "isbn": "9781623095925",
-  "genreNames": [
-    "Reference",
-    "Books"
-  ],
+  "genreNames": ["Reference", "Books"],
   "seller": "DIY Media Group DBA BookBaby",
   "offers": [
     {
@@ -36,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/its-raining-cats-and-dogs-and-other-beastly-expressions/id551234484",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "It's Raining Cats and Dogs and Other Beastly Expressions",

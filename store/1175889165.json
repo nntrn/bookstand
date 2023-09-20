@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/option-b/id1175889165",
+
   "userRating": {
     "value": 4.1,
     "ratingCount": 243,
-    "ratingCountList": [
-      15,
-      19,
-      31,
-      36,
-      142
-    ],
+    "ratingCountList": [15, 19, 31, 36, 142],
     "ariaLabelForRatings": "4.1 stars"
   },
   "name": "Option B",

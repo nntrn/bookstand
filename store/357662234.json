@@ -4,12 +4,7 @@
   "subtitle": "And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
   "author": "Sam Kean",
   "isbn": "9780316089081",
-  "genreNames": [
-    "History",
-    "Books",
-    "Science & Nature",
-    "Chemistry"
-  ],
+  "genreNames": ["History", "Books", "Science & Nature", "Chemistry"],
   "seller": "Hachette Digital, Inc.",
   "description": {
     "standard": "<b>From <i>New York Times</i> bestselling author Sam Kean comes incredible stories of science, history, finance, mythology, the arts, medicine, and more, as told by the Periodic Table.</b><br /><br /> Why did Gandhi hate iodine (I, 53)? How did radium (Ra, 88) nearly ruin Marie Curie's reputation? And why is gallium (Ga, 31) the go-to element for laboratory pranksters? <br /><br /><i>The Periodic Table</i> is a crowning scientific achievement, but it's also a treasure trove of adventure, betrayal, and obsession. These fascinating tales follow every element on the table as they play out their parts in human history, and in the lives of the (frequently) mad scientists who discovered them. <i>The Disappearing Spoon</i> masterfully fuses science with the classic lore of invention, investigation, and discovery -- from the Big Bang through the end of time. <br /><br /> Though solid at room temperature, gallium is a moldable metal that melts at 84 degrees Fahrenheit. A classic science prank is to mold gallium spoons, serve them with tea, and watch guests recoil as their utensils disappear."
@@ -45,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-disappearing-spoon/id357662234",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 283,
-    "ratingCountList": [
-      18,
-      12,
-      16,
-      79,
-      158
-    ],
+    "ratingCountList": [18, 12, 16, 79, 158],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "The Disappearing Spoon",

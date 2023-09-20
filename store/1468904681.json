@@ -4,12 +4,7 @@
   "subtitle": "What Street Addresses Reveal About Identity, Race, Wealth, and Power",
   "author": "Deirdre Mask",
   "isbn": "9781250134783",
-  "genreNames": [
-    "History",
-    "Books",
-    "Nonfiction",
-    "Social Science"
-  ],
+  "genreNames": ["History", "Books", "Nonfiction", "Social Science"],
   "seller": "Macmillan",
   "description": {
     "standard": "<b>Finalist for the 2020 Kirkus Prize for Nonfiction | </b><b>One of <i>Time </i>Magazines's 100 Must-Read Books of 2020 | </b><b>Longlisted for the 2020 Porchlight Business Book Awards</b><br /><br /><b>\"An entertaining quest to trace the origins and implications of the names of the roads on which we reside.\" —Sarah Vowell, <i>The New York Times Book Review</i>  </b><br /><br />When most people think about street addresses, if they think of them at all, it is in their capacity to ensure that the postman can deliver mail or a traveler won’t get lost. But street addresses were not invented to help you find your way; they were created to find you. In many parts of the world, your address can reveal your race and class. <br /><br />In this wide-ranging and remarkable book, Deirdre Mask looks at the fate of streets named after Martin Luther King Jr., the wayfinding means of ancient Romans, and how Nazis haunt the streets of modern Germany. The flipside of having an address is not having one, and we also see what that means for millions of people today, including those who live in the slums of Kolkata and on the streets of London. Filled with fascinating people and histories, <i>The Address Book</i> illuminates the complex and sometimes hidden stories behind street names and their power to name, to hide, to decide who counts, who doesn’t—and why."
@@ -45,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-address-book/id1468904681",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 19,
-    "ratingCountList": [
-      1,
-      0,
-      2,
-      8,
-      8
-    ],
+    "ratingCountList": [1, 0, 2, 8, 8],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "The Address Book",

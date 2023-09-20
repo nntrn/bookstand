@@ -4,12 +4,7 @@
   "subtitle": "How Animal Cultures Raise Families, Create Beauty, and Achieve Peace",
   "author": "Carl Safina",
   "isbn": "9781250173348",
-  "genreNames": [
-    "Nature",
-    "Books",
-    "Science & Nature",
-    "Life Sciences"
-  ],
+  "genreNames": ["Nature", "Books", "Science & Nature", "Life Sciences"],
   "seller": "Macmillan",
   "description": {
     "standard": "<b>A <i>NEW YORK TIMES </i>NOTABLE BOOK OF 2020</b><br /><b><br />\"In this superbly articulate cri de coeur, Safina gives us a new way of looking at the natural world that is radically different.\"</b><b>—<i>The Washington Post</i></b><br /><br /><b><i>New York Times </i></b><b>bestselling author Carl Safina brings readers close to three non-human cultures—what they do, why they do it, and how life is for them.</b><br /><br /><b>A <i>New York Times</i> Notable Books of 2020</b><br /><br />Some believe that culture is strictly a human phenomenon. But this book reveals cultures of other-than-human beings in some of Earth’s remaining wild places. It shows how if you’re a sperm whale, a scarlet macaw, or a chimpanzee, you too come to understand yourself as an individual within a particular community that does things in specific ways, that has <i>traditions</i>. Alongside genes, culture is a second form of inheritance, passed through generations as pools of learned knowledge. As situations change, social learning—culture—allows behaviors to adjust much faster than genes can adapt.<br /><br /><i>Becoming Wild</i> brings readers into intimate proximity with various nonhuman individuals in their free-living communities. It presents a revelatory account of how animals function beyond our usual view. Safina shows that for non-humans and humans alike, <i>culture</i> comprises the answers to the question, “How do <i>we</i> live here?” It unites individuals within a group identity. But cultural groups often seek to avoid, or even be hostile toward, other factions. By showing that this is true across species, Safina illuminates why human cultural tensions remain maddeningly intractable despite the arbitrariness of many of our differences. <i>Becoming Wild</i> takes readers behind the curtain of life on Earth, to witness from a new vantage point the most world-saving of perceptions: how we are all connected."
@@ -45,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/becoming-wild/id1466627512",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 12,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      3,
-      8
-    ],
+    "ratingCountList": [0, 0, 1, 3, 8],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Becoming Wild",

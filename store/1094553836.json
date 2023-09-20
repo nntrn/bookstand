@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/how-to-be-miserable/id1094553836",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 6,
-    "ratingCountList": [
-      0,
-      1,
-      0,
-      0,
-      5
-    ],
+    "ratingCountList": [0, 1, 0, 0, 5],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "How to Be Miserable",

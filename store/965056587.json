@@ -4,11 +4,7 @@
   "subtitle": "Big Ideas Simply Explained",
   "author": "DK",
   "isbn": "9781465441065",
-  "genreNames": [
-    "Philosophy",
-    "Books",
-    "Nonfiction"
-  ],
+  "genreNames": ["Philosophy", "Books", "Nonfiction"],
   "seller": "PENGUIN GROUP USA, INC.  ",
   "offers": [
     {
@@ -46,17 +42,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-philosophy-book/id965056587",
+
   "userRating": {
     "value": 3.8,
     "ratingCount": 40,
-    "ratingCountList": [
-      4,
-      5,
-      4,
-      11,
-      16
-    ],
+    "ratingCountList": [4, 5, 4, 11, 16],
     "ariaLabelForRatings": "3.8 stars"
   },
   "name": "The Philosophy Book",

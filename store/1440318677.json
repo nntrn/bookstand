@@ -44,17 +44,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/writing-to-persuade-how-to-bring-people-over-to-your-side/id1440318677",
+
   "userRating": {
     "value": 3.5,
     "ratingCount": 6,
-    "ratingCountList": [
-      1,
-      0,
-      2,
-      1,
-      2
-    ],
+    "ratingCountList": [1, 0, 2, 1, 2],
     "ariaLabelForRatings": "3.5 stars"
   },
   "name": "Writing to Persuade: How to Bring People Over to Your Side",

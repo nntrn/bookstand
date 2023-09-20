@@ -48,17 +48,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-code-breaker/id1528025625",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 872,
-    "ratingCountList": [
-      40,
-      22,
-      67,
-      187,
-      556
-    ],
+    "ratingCountList": [40, 22, 67, 187, 556],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "The Code Breaker",

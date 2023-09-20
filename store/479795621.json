@@ -4,12 +4,7 @@
   "subtitle": null,
   "author": "Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previto, Scott Zigler & David Mamet",
   "isbn": "9780307499134",
-  "genreNames": [
-    "Theater",
-    "Books",
-    "Arts & Entertainment",
-    "Performing Arts"
-  ],
+  "genreNames": ["Theater", "Books", "Arts & Entertainment", "Performing Arts"],
   "seller": "Penguin Random House LLC",
   "offers": [
     {
@@ -38,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/a-practical-handbook-for-the-actor/id479795621",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 27,
-    "ratingCountList": [
-      0,
-      2,
-      3,
-      5,
-      17
-    ],
+    "ratingCountList": [0, 2, 3, 5, 17],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "A Practical Handbook for the Actor",

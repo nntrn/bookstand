@@ -4,12 +4,7 @@
   "subtitle": "Uncommon Advice from History's Least Likely Self-Help Guru",
   "author": "Catherine Baab-Muguira",
   "isbn": "9780762499083",
-  "genreNames": [
-    "Humor",
-    "Books",
-    "Health, Mind & Body",
-    "Self-Improvement"
-  ],
+  "genreNames": ["Humor", "Books", "Health, Mind & Body", "Self-Improvement"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -45,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/poe-for-your-problems/id1547218226",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "Poe for Your Problems",

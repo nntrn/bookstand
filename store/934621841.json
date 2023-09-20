@@ -4,12 +4,7 @@
   "subtitle": "Finding Nature's Deep Design",
   "author": "Frank Wilczek",
   "isbn": "9780698195622",
-  "genreNames": [
-    "Physics",
-    "Books",
-    "Science & Nature",
-    "History"
-  ],
+  "genreNames": ["Physics", "Books", "Science & Nature", "History"],
   "seller": "PENGUIN GROUP USA, INC.  ",
   "offers": [
     {
@@ -44,17 +39,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/a-beautiful-question/id934621841",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 7,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      1,
-      5
-    ],
+    "ratingCountList": [0, 0, 1, 1, 5],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "A Beautiful Question",

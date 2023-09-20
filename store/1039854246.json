@@ -48,17 +48,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/algorithms-to-live-by/id1039854246",
+
   "userRating": {
     "value": 4,
     "ratingCount": 77,
-    "ratingCountList": [
-      7,
-      6,
-      6,
-      20,
-      38
-    ],
+    "ratingCountList": [7, 6, 6, 20, 38],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Algorithms to Live By",

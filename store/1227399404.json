@@ -47,17 +47,11 @@
   "iBooksVersion": "1.5",
   "version": "3.2",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/alchemy/id1227399404",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 28,
-    "ratingCountList": [
-      0,
-      1,
-      2,
-      8,
-      17
-    ],
+    "ratingCountList": [0, 1, 2, 8, 17],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "Alchemy",

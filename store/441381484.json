@@ -41,17 +41,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/monoculture/id441381484",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 5,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      2,
-      3
-    ],
+    "ratingCountList": [0, 0, 0, 2, 3],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Monoculture",

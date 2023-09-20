@@ -4,11 +4,7 @@
   "subtitle": "A Memoir",
   "author": "Beck Dorey-Stein",
   "isbn": "9780525509134",
-  "genreNames": [
-    "Biographies & Memoirs",
-    "Books",
-    "Politics & Current Events"
-  ],
+  "genreNames": ["Biographies & Memoirs", "Books", "Politics & Current Events"],
   "seller": "Penguin Random House LLC",
   "description": {
     "standard": "<b><i>NEW YORK TIMES&#xa0;</i>BESTSELLER •&#xa0;What if you lived out the drama of your twenties on Air Force One?</b><br /><b>&#xa0;</b><br /><b>“[This] breezy&#xa0;page turner&#xa0;is essentially&#xa0;Bridget Jones goes to the White House.”—<i>The New York Times</i></b><br /><b><i>&#xa0;</i></b><br /><b>RECOMMENDED READING&#xa0;<i>theSkimm • Today • Entertainment Weekly • Refinery29 • Bustle • PopSugar • Vanity Fair •&#xa0; The New York Times Editors’ Choice •&#xa0;Paste</i></b><br /><br />In 2012, Beck Dorey-Stein is working five part-time jobs and just scraping by when a posting on Craigslist lands her, improbably, in the Oval Office as one of Barack Obama’s stenographers. The ultimate D.C. outsider, she joins the elite team who accompany the president wherever he goes, recorder and mic in hand. On whirlwind trips across time zones, Beck forges friendships with a dynamic group of fellow travelers—young men and women who, like her, leave their real lives behind to hop aboard Air Force One in service of the president.<br />&#xa0;<br />As she learns to navigate White House protocols and more than once runs afoul of the hierarchy, Beck becomes romantically entangled with a consummate D.C. insider, and suddenly the political becomes all too personal.<br /><br />Against a backdrop of glamour, drama, and intrigue, this is the story of a young woman learning what truly matters, and, in the process, discovering her voice.<br /><b><br />Praise for </b><i><b>From the Corner of the Oval</b></i><br /><br />“Who knew the West Wing could be so sexy? Beck Dorey-Stein’s unparalleled access is obvious on every page, along with her knife-sharp humor. I tore through the entire book on a four-hour flight and&#xa0;<i>loved</i>&#xa0;reading all about the brilliant yet hard-partying people who once surrounded the leader of the free world. Lots of books claim to give real insider glimpses, but this one actually delivers.”<b>—Lauren Weisberger, author of&#xa0;<i>The Devil Wears Prada</i></b><br /><br />“Dorey-Stein . . . writes with wit and self-deprecating humor.”<b>—<i>The Wall Street Journal</i></b><br /><br />“Addictively readable . . .&#xa0;Dorey-Stein’s spunk and her sparkling, crackling prose had me cheering for her through each adventure. . . . She never loses her starry-eyed optimism, her pinch-me wonderment, her&#xa0;<i>Working Girl&#xa0;</i>pluck.”<b>—Paul Begala,&#xa0;<i>The New York Times Book Review</i>&#xa0;(Editors’ Choice)</b>"
@@ -46,17 +42,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/from-the-corner-of-the-oval/id1299519071",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 306,
-    "ratingCountList": [
-      9,
-      7,
-      17,
-      65,
-      208
-    ],
+    "ratingCountList": [9, 7, 17, 65, 208],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "From the Corner of the Oval",

@@ -49,17 +49,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/smarter-faster-better/id1006365439",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 197,
-    "ratingCountList": [
-      4,
-      8,
-      25,
-      52,
-      108
-    ],
+    "ratingCountList": [4, 8, 25, 52, 108],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Smarter Faster Better",

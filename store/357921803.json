@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/reading-in-the-brain/id357921803",
+
   "userRating": {
     "value": 4,
     "ratingCount": 8,
-    "ratingCountList": [
-      1,
-      0,
-      2,
-      0,
-      5
-    ],
+    "ratingCountList": [1, 0, 2, 0, 5],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Reading in the Brain",

@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/no-beast-so-fierce/id1329400578",
+
   "userRating": {
     "value": 4.1,
     "ratingCount": 84,
-    "ratingCountList": [
-      3,
-      6,
-      10,
-      26,
-      39
-    ],
+    "ratingCountList": [3, 6, 10, 26, 39],
     "ariaLabelForRatings": "4.1 stars"
   },
   "name": "No Beast So Fierce",

@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/a-generation-of-sociopaths/id1131161557",
+
   "userRating": {
     "value": 4,
     "ratingCount": 31,
-    "ratingCountList": [
-      2,
-      3,
-      4,
-      6,
-      16
-    ],
+    "ratingCountList": [2, 3, 4, 6, 16],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "A Generation of Sociopaths",

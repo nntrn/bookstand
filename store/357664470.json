@@ -49,13 +49,7 @@
   "userRating": {
     "value": 4.2,
     "ratingCount": 906,
-    "ratingCountList": [
-      47,
-      37,
-      90,
-      228,
-      504
-    ],
+    "ratingCountList": [47, 37, 90, 228, 504],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "Blink",

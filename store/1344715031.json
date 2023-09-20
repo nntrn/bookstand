@@ -4,12 +4,7 @@
   "subtitle": "How to Know What's Really Real in a World Increasingly Full of Fake",
   "author": "Dr. Steven Novella, Bob Novella, Cara Santa Maria, Jay Novella & Evan Bernstein",
   "isbn": "9781538760512",
-  "genreNames": [
-    "Essays",
-    "Books",
-    "Science & Nature",
-    "History"
-  ],
+  "genreNames": ["Essays", "Books", "Science & Nature", "History"],
   "seller": "Hachette Digital, Inc.",
   "description": {
     "standard": "<b>An all-encompassing guide to skeptical thinking from podcast host and academic neurologist at Yale University School of Medicine Steven Novella and his SGU co-hosts, which Richard Wiseman calls \"the perfect primer for anyone who wants to separate fact from fiction.\"</b><br /><br /> It is intimidating to realize that we live in a world overflowing with misinformation, bias, myths, deception, and flawed knowledge. There really are no ultimate authority figures-no one has the secret, and there is no place to look up the definitive answers to our questions (not even Google).<br />  Luckily, <i>The Skeptic's Guide to the Universe</i> is your map through this maze of modern life. Here Dr. Steven Novella-along with Bob Novella, Cara Santa Maria, Jay Novella, and Evan Bernstein-will explain the tenets of skeptical thinking and debunk some of the biggest scientific myths, fallacies, and conspiracy theories-from anti-vaccines to homeopathy, UFO sightings to N- rays. You'll learn the difference between science and pseudoscience, essential critical thinking skills, ways to discuss conspiracy theories with that crazy co- worker of yours, and how to combat sloppy reasoning, bad arguments, and superstitious thinking. <br /><br />  So are you ready to join them on an epic scientific quest, one that has taken us from huddling in dark caves to setting foot on the moon? (Yes, we really did that.) DON'T PANIC! With <i>The Skeptic's Guide to the Universe</i>, we can do this together.<br /><br />  \"Thorough, informative, and enlightening, <i>The Skeptic's Guide to the Universe</i> inoculates you against the frailties and shortcomings of human cognition. If this book does not become required reading for us all, we may well see modern civilization unravel before our eyes.\" -- Neil deGrasse Tyson<br />  \"In this age of real and fake information, your ability to reason, to think in scientifically skeptical fashion, is the most important skill you can have. Read <i>The Skeptics' Guide Universe</i>; get better at reasoning. And if this claim about the importance of reason is wrong, <i>The Skeptics' Guide </i>will help you figure that out, too.\" -- Bill Nye"
@@ -45,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-skeptics-guide-to-the-universe/id1344715031",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 45,
-    "ratingCountList": [
-      1,
-      0,
-      4,
-      7,
-      33
-    ],
+    "ratingCountList": [1, 0, 4, 7, 33],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "The Skeptics' Guide to the Universe",

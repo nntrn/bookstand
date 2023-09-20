@@ -43,17 +43,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/writing-to-be-understood/id1408965308",
+
   "userRating": {
     "value": 4,
     "ratingCount": 2,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      2,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 2, 0],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Writing to Be Understood",

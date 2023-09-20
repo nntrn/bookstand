@@ -49,17 +49,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-expectation-effect/id1566879165",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 8,
-    "ratingCountList": [
-      1,
-      0,
-      0,
-      2,
-      5
-    ],
+    "ratingCountList": [1, 0, 0, 2, 5],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "The Expectation Effect",

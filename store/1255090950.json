@@ -44,17 +44,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/on-grand-strategy/id1255090950",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 46,
-    "ratingCountList": [
-      3,
-      2,
-      5,
-      9,
-      27
-    ],
+    "ratingCountList": [3, 2, 5, 9, 27],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "On Grand Strategy",
