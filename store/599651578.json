@@ -53,17 +53,10 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/david-and-goliath/id599651578",
   "userRating": {
     "value": 3.9,
     "ratingCount": 1549,
-    "ratingCountList": [
-      132,
-      142,
-      221,
-      378,
-      676
-    ],
+    "ratingCountList": [132, 142, 221, 378, 676],
     "ariaLabelForRatings": "3.9 stars"
   },
   "name": "David and Goliath",
