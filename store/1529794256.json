@@ -50,17 +50,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/think-again/id1529794256",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 705,
-    "ratingCountList": [
-      14,
-      19,
-      43,
-      179,
-      450
-    ],
+    "ratingCountList": [14, 19, 43, 179, 450],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "Think Again",

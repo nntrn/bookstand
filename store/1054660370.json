@@ -47,17 +47,11 @@
   "iBooksVersion": "1.5",
   "version": "1.0.1",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/only-dull-people-are-brilliant-at-breakfast/id1054660370",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 11,
-    "ratingCountList": [
-      0,
-      1,
-      0,
-      4,
-      6
-    ],
+    "ratingCountList": [0, 1, 0, 4, 6],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Only Dull People Are Brilliant at Breakfast",

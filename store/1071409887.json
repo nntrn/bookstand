@@ -55,17 +55,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-subtle-art-of-not-giving-a-f-ck/id1071409887",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 11461,
-    "ratingCountList": [
-      316,
-      280,
-      660,
-      2072,
-      8133
-    ],
+    "ratingCountList": [316, 280, 660, 2072, 8133],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "The Subtle Art of Not Giving a F*ck",

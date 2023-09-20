@@ -45,17 +45,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-happiness-advantage/id420522405",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 526,
-    "ratingCountList": [
-      16,
-      15,
-      34,
-      93,
-      368
-    ],
+    "ratingCountList": [16, 15, 34, 93, 368],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "The Happiness Advantage",

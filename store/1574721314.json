@@ -44,17 +44,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-psychology-of-the-simpsons/id1574721314",
+
   "userRating": {
     "value": 5,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 0, 1],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "The Psychology of the Simpsons",

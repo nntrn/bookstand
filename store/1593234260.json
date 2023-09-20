@@ -44,17 +44,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/quantum-shorts-collected-flash-fiction-inspired-by/id1593234260",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "Quantum Shorts: Collected Flash Fiction Inspired by Quantum Physics",

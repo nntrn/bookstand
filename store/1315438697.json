@@ -51,17 +51,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-plot-machine/id1315438697",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 2,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      1,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 1, 1],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "The Plot Machine",

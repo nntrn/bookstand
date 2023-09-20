@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/story-or-die/id1517287570",
+
   "userRating": {
     "value": 4,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 1, 0],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Story or Die",

@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-liars-of-nature-and-the-nature-of-liars/id6443726476",
+
   "userRating": {
     "value": 2,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 1, 0, 0, 0],
     "ariaLabelForRatings": "2.0 stars"
   },
   "name": "The Liars of Nature and the Nature of Liars",

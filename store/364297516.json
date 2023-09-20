@@ -4,11 +4,7 @@
   "subtitle": "A Practical Guide to the Art of Relationship",
   "author": "Don Miguel Ruiz",
   "isbn": "9781934408032",
-  "genreNames": [
-    "Self-Improvement",
-    "Books",
-    "Health, Mind & Body"
-  ],
+  "genreNames": ["Self-Improvement", "Books", "Health, Mind & Body"],
   "seller": "Amber-Allen Publishing, Inc.",
   "offers": [
     {
@@ -45,17 +41,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-mastery-of-love/id364297516",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 1580,
-    "ratingCountList": [
-      52,
-      50,
-      71,
-      170,
-      1237
-    ],
+    "ratingCountList": [52, 50, 71, 170, 1237],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "The Mastery of Love",

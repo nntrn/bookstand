@@ -47,17 +47,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-dictionary-of-clich%C3%A9s/id1516422589",
+
   "userRating": {
     "value": 3,
     "ratingCount": 2,
-    "ratingCountList": [
-      0,
-      0,
-      2,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 2, 0, 0],
     "ariaLabelForRatings": "3.0 stars"
   },
   "name": "The Dictionary of Clichés",

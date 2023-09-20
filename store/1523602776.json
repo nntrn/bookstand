@@ -4,11 +4,7 @@
   "subtitle": "An Intuitive Introduction to Einstein's Ideas, and Why They Matter",
   "author": "Jeffrey Bennett",
   "isbn": "9780231537032",
-  "genreNames": [
-    "Physics",
-    "Books",
-    "Science & Nature"
-  ],
+  "genreNames": ["Physics", "Books", "Science & Nature"],
   "seller": "OpenRoad Integrated Media, LLC",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/what-is-relativity/id1523602776",
+
   "userRating": {
     "value": 5,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 0, 1],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "What Is Relativity?",

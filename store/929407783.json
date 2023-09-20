@@ -4,11 +4,7 @@
   "subtitle": "Special 10th Anniversary Edition",
   "author": "John Green",
   "isbn": "9780698405875",
-  "genreNames": [
-    "Coming of Age",
-    "Books",
-    "Young Adult"
-  ],
+  "genreNames": ["Coming of Age", "Books", "Young Adult"],
   "seller": "PENGUIN GROUP USA, INC.  ",
   "description": {
     "standard": "To commemorate 10 years in print, John Green’s Printz Award-winning debut novel is being reissued in hardcover with a stunning new jacket by Rodrigo Corral and 50 pages of all-new content, including:<br /><br />\t- An introduction by John Green<br />\t- Updated backmatter and extensive Q&amp;A with John Green<br />\t- Deleted scenes from the original manuscript<br /><br />\tWinner of the 2006 Michael L. Printz Award<br />\t<i>Los Angeles Times</i> Book Prize Finalist, 2005<br />\tTop Ten, NPR’s 100 Best-Ever Teen Novels<br /><br />\tMiles Halter is fascinated by famous last words—and tired of his safe life at home. He leaves for boarding school to seek what the dying poet Francois Rabelais called “The Great Perhaps.” Much awaits Miles at Culver Creek, including Alaska Young, who will pull Miles inter her labyrinth and catapult him into the Great Perhaps.<br /><br />\t<i>Looking for Alaska</i> brilliantly chronicles the indelible impact one life can have on another. Winner of multiple awards including the Printz Medal, this stunning debut marked #1 bestselling author John Green’s arrival as a groundbreaking new voice in contemporary fiction."
@@ -46,17 +42,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/looking-for-alaska/id929407783",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 244,
-    "ratingCountList": [
-      8,
-      11,
-      11,
-      43,
-      171
-    ],
+    "ratingCountList": [8, 11, 11, 43, 171],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "Looking For Alaska ",

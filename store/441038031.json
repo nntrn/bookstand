@@ -4,12 +4,7 @@
   "subtitle": "Adapted Movie Tie-In Edition",
   "author": "Mark Peter Hughes",
   "isbn": "9780307974860",
-  "genreNames": [
-    "Fiction",
-    "Books",
-    "Young Adult",
-    "Coming of Age"
-  ],
+  "genreNames": ["Fiction", "Books", "Young Adult", "Coming of Age"],
   "seller": "Penguin Random House LLC",
   "offers": [
     {
@@ -38,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/lemonade-mouth/id441038031",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 72,
-    "ratingCountList": [
-      4,
-      1,
-      6,
-      12,
-      49
-    ],
+    "ratingCountList": [4, 1, 6, 12, 49],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Lemonade Mouth",

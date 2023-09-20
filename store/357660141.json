@@ -50,17 +50,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/connected/id357660141",
+
   "userRating": {
     "value": 3.8,
     "ratingCount": 35,
-    "ratingCountList": [
-      6,
-      2,
-      4,
-      5,
-      18
-    ],
+    "ratingCountList": [6, 2, 4, 5, 18],
     "ariaLabelForRatings": "3.8 stars"
   },
   "name": "Connected",

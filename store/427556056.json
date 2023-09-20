@@ -44,17 +44,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/good-self-bad-self/id427556056",
+
   "userRating": {
     "value": 4,
     "ratingCount": 52,
-    "ratingCountList": [
-      7,
-      5,
-      4,
-      3,
-      33
-    ],
+    "ratingCountList": [7, 5, 4, 3, 33],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Good Self, Bad Self",

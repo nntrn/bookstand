@@ -4,11 +4,7 @@
   "subtitle": "The Wisdom of Calculus in a Madcap World",
   "author": "Ben Orlin",
   "isbn": "9780316509060",
-  "genreNames": [
-    "Mathematics",
-    "Books",
-    "Science & Nature"
-  ],
+  "genreNames": ["Mathematics", "Books", "Science & Nature"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -44,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/change-is-the-only-constant/id1451477922",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 5,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      0,
-      4
-    ],
+    "ratingCountList": [0, 0, 1, 0, 4],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Change Is the Only Constant",

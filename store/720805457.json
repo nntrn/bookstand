@@ -51,17 +51,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-positive-trait-thesaurus-a-writers-guide/id720805457",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 7,
-    "ratingCountList": [
-      0,
-      0,
-      2,
-      0,
-      5
-    ],
+    "ratingCountList": [0, 0, 2, 0, 5],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "The Positive Trait Thesaurus: A Writer's Guide to Character Attributes",

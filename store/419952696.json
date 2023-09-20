@@ -40,17 +40,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/hbrs-10-must-reads-on-change-management-including-featured/id419952696",
+
   "userRating": {
     "value": 3.1,
     "ratingCount": 52,
-    "ratingCountList": [
-      16,
-      6,
-      5,
-      6,
-      19
-    ],
+    "ratingCountList": [16, 6, 5, 6, 19],
     "ariaLabelForRatings": "3.1 stars"
   },
   "name": "HBR's 10 Must Reads on Change Management (including featured article \"Leading Change,\" by John P. Kotter)",

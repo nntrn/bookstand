@@ -4,11 +4,7 @@
   "subtitle": "Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life",
   "author": "Eva Jablonka, Marion J. Lamb & Anna Zeligowski",
   "isbn": "9780262322690",
-  "genreNames": [
-    "Life Sciences",
-    "Books",
-    "Science & Nature"
-  ],
+  "genreNames": ["Life Sciences", "Books", "Science & Nature"],
   "seller": "Penguin Random House LLC",
   "offers": [
     {
@@ -45,17 +41,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/evolution-in-four-dimensions-revised-edition/id1521740396",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "Evolution in Four Dimensions, revised edition",

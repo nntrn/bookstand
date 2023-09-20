@@ -43,17 +43,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/fooling-houdini/id491043016",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 69,
-    "ratingCountList": [
-      5,
-      1,
-      7,
-      20,
-      36
-    ],
+    "ratingCountList": [5, 1, 7, 20, 36],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "Fooling Houdini",

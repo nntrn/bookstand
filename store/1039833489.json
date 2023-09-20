@@ -48,17 +48,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/creating-emotional-attraction/id1039833489",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 159,
-    "ratingCountList": [
-      9,
-      4,
-      17,
-      33,
-      96
-    ],
+    "ratingCountList": [9, 4, 17, 33, 96],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Creating Emotional Attraction",

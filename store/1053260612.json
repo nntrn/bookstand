@@ -4,11 +4,7 @@
   "subtitle": null,
   "author": "Bertrand Russell",
   "isbn": "9781631491481",
-  "genreNames": [
-    "Philosophy",
-    "Books",
-    "Nonfiction"
-  ],
+  "genreNames": ["Philosophy", "Books", "Nonfiction"],
   "seller": "W.W. Norton & Company, Inc.",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-conquest-of-happiness/id1053260612",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 18,
-    "ratingCountList": [
-      0,
-      0,
-      2,
-      4,
-      12
-    ],
+    "ratingCountList": [0, 0, 2, 4, 12],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "The Conquest of Happiness",

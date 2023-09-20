@@ -4,12 +4,7 @@
   "subtitle": "Understanding Philosophy Through Jokes",
   "author": "Thomas Cathcart & Daniel Klein",
   "isbn": "9781440634239",
-  "genreNames": [
-    "Philosophy",
-    "Books",
-    "Nonfiction",
-    "Humor"
-  ],
+  "genreNames": ["Philosophy", "Books", "Nonfiction", "Humor"],
   "seller": "PENGUIN GROUP USA, INC.  ",
   "offers": [
     {
@@ -44,17 +39,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/plato-and-a-platypus-walk-into-a-bar/id357992325",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 33,
-    "ratingCountList": [
-      1,
-      2,
-      1,
-      5,
-      24
-    ],
+    "ratingCountList": [1, 2, 1, 5, 24],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "Plato and a Platypus Walk into a Bar . . .",

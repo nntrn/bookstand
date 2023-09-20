@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "uncertain",
-  "url": "https://books.apple.com/us/book/spark/id1558472723",
+
   "userRating": {
     "value": 4,
     "ratingCount": 2,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
+    "ratingCountList": [0, 0, 1, 0, 1],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Spark",

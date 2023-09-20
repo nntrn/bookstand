@@ -48,17 +48,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-confidence-game/id987332972",
+
   "userRating": {
     "value": 3.8,
     "ratingCount": 67,
-    "ratingCountList": [
-      9,
-      1,
-      14,
-      14,
-      29
-    ],
+    "ratingCountList": [9, 1, 14, 14, 29],
     "ariaLabelForRatings": "3.8 stars"
   },
   "name": "The Confidence Game",

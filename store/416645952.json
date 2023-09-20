@@ -49,17 +49,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/blood-type-o-food-beverage-and-supplement-lists/id416645952",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 114,
-    "ratingCountList": [
-      6,
-      10,
-      13,
-      13,
-      72
-    ],
+    "ratingCountList": [6, 10, 13, 13, 72],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "Blood Type O Food, Beverage and Supplement Lists",

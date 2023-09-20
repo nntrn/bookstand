@@ -50,17 +50,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/weapons-of-math-destruction/id1067627008",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 74,
-    "ratingCountList": [
-      3,
-      0,
-      6,
-      27,
-      38
-    ],
+    "ratingCountList": [3, 0, 6, 27, 38],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Weapons of Math Destruction",

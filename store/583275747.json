@@ -43,17 +43,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/give-and-take/id583275747",
+
   "userRating": {
     "value": 4,
     "ratingCount": 275,
-    "ratingCountList": [
-      27,
-      18,
-      29,
-      48,
-      153
-    ],
+    "ratingCountList": [27, 18, 29, 48, 153],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Give and Take",

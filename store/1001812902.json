@@ -43,17 +43,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/year-of-yes/id1001812902",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 933,
-    "ratingCountList": [
-      19,
-      24,
-      41,
-      140,
-      709
-    ],
+    "ratingCountList": [19, 24, 41, 140, 709],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Year of Yes",

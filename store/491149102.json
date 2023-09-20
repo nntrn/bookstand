@@ -4,12 +4,7 @@
   "subtitle": "Sex and the Evolution of Human Nature",
   "author": "Matt Ridley",
   "isbn": "9780062200716",
-  "genreNames": [
-    "Biology",
-    "Books",
-    "Science & Nature",
-    "Life Sciences"
-  ],
+  "genreNames": ["Biology", "Books", "Science & Nature", "Life Sciences"],
   "seller": "HARPERCOLLINS PUBLISHERS  ",
   "offers": [
     {
@@ -38,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-red-queen/id491149102",
+
   "userRating": {
     "value": 3.9,
     "ratingCount": 34,
-    "ratingCountList": [
-      3,
-      2,
-      6,
-      6,
-      17
-    ],
+    "ratingCountList": [3, 2, 6, 6, 17],
     "ariaLabelForRatings": "3.9 stars"
   },
   "name": "The Red Queen",

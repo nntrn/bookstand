@@ -42,17 +42,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/a-general-theory-of-love/id419291771",
+
   "userRating": {
     "value": 4.1,
     "ratingCount": 30,
-    "ratingCountList": [
-      2,
-      1,
-      6,
-      5,
-      16
-    ],
+    "ratingCountList": [2, 1, 6, 5, 16],
     "ariaLabelForRatings": "4.1 stars"
   },
   "name": "A General Theory of Love",

@@ -46,17 +46,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-negative-trait-thesaurus-a-writers-guide/id719973904",
+
   "userRating": {
     "value": 4.8,
     "ratingCount": 10,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      2,
-      8
-    ],
+    "ratingCountList": [0, 0, 0, 2, 8],
     "ariaLabelForRatings": "4.8 stars"
   },
   "name": "The Negative Trait Thesaurus: A Writer's Guide to Character Flaws",

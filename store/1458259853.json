@@ -4,11 +4,7 @@
   "subtitle": "-",
   "author": "Seth Rogen",
   "isbn": "9781984825414",
-  "genreNames": [
-    "Biographies & Memoirs",
-    "Books",
-    "Humor"
-  ],
+  "genreNames": ["Biographies & Memoirs", "Books", "Humor"],
   "seller": "Penguin Random House LLC",
   "offers": [
     {
@@ -43,17 +39,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/yearbook/id1458259853",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 583,
-    "ratingCountList": [
-      15,
-      16,
-      41,
-      131,
-      380
-    ],
+    "ratingCountList": [15, 16, 41, 131, 380],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Yearbook",

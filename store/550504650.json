@@ -4,12 +4,7 @@
   "subtitle": null,
   "author": "Frances Ashcroft",
   "isbn": "9780393089547",
-  "genreNames": [
-    "Life Sciences",
-    "Books",
-    "Science & Nature",
-    "Physics"
-  ],
+  "genreNames": ["Life Sciences", "Books", "Science & Nature", "Physics"],
   "seller": "W.W. Norton & Company, Inc.",
   "offers": [
     {
@@ -38,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-spark-of-life-electricity-in-the-human-body/id550504650",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 9,
-    "ratingCountList": [
-      1,
-      0,
-      0,
-      3,
-      5
-    ],
+    "ratingCountList": [1, 0, 0, 3, 5],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "The Spark of Life: Electricity in the Human Body",

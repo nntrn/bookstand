@@ -39,17 +39,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-moral-landscape/id382785380",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 151,
-    "ratingCountList": [
-      10,
-      8,
-      8,
-      23,
-      102
-    ],
+    "ratingCountList": [10, 8, 8, 23, 102],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "The Moral Landscape",

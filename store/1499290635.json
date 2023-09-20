@@ -48,17 +48,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/thank-you-for-arguing-fourth-edition-revised-and-updated/id1499290635",
+
   "userRating": {
     "value": 4.1,
     "ratingCount": 20,
-    "ratingCountList": [
-      3,
-      0,
-      1,
-      4,
-      12
-    ],
+    "ratingCountList": [3, 0, 1, 4, 12],
     "ariaLabelForRatings": "4.1 stars"
   },
   "name": "Thank You for Arguing, Fourth Edition (Revised and Updated)",

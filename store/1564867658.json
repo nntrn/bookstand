@@ -44,17 +44,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-mind-of-the-mathematician/id1564867658",
+
   "userRating": {
     "value": 4,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 1, 0],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "The Mind of the Mathematician",

@@ -4,12 +4,7 @@
   "subtitle": "How Artificial Intelligence Works and Why It's Making the World a Weirder Place",
   "author": "Janelle Shane",
   "isbn": "9780316525237",
-  "genreNames": [
-    "Computers & Internet",
-    "Books",
-    "Computers",
-    "Humor"
-  ],
+  "genreNames": ["Computers & Internet", "Books", "Computers", "Humor"],
   "seller": "Hachette Digital, Inc.",
   "description": {
     "standard": "<b>As heard on NPR's \"Science Friday,\" discover the book recommended by&#xa0;Malcolm Gladwell, Susan Cain, Daniel Pink, and Adam Grant: an \"accessible, informative, and hilarious\" introduction to the weird and wonderful world of artificial intelligence (Ryan North).</b><br /><br />\"You look like a thing and I love you\" is one of the best pickup lines ever . . . according to an artificial intelligence trained by scientist Janelle Shane, creator of the popular blog <i>AI Weirdness</i>. She creates silly AIs that learn how to name paint colors, create the best recipes, and even flirt (badly) with humans—all to understand the technology that governs so much of our daily lives.<br /><br />We rely on AI every day for recommendations, for translations, and to put cat ears on our selfie videos. We also trust AI with matters of life and death, on the road and in our hospitals. But how smart is AI <i>really</i>... and how does it solve problems, understand humans, and even drive self-driving cars?<br /><br />Shane delivers the answers to every AI question you've ever asked, and some you definitely haven't. Like, how can a computer design the perfect sandwich? What does robot-generated Harry Potter fan-fiction look like? And is the world's best Halloween costume really \"Vampire Hog Bride\"?<br /><br />In this smart, often hilarious introduction to the most interesting science of our time, Shane shows how these programs learn, fail, and adapt—and how they reflect the best and worst of humanity.<br /><br /><i>You Look Like a Thing and I Love You </i>is the perfect book for anyone curious about what the robots in our lives are thinking.<br /><br /><b>\"I can't think of a better way to learn about artificial intelligence, and I've never had so much fun along the way.\" —Adam Grant, <i>New York Times </i>bestselling author of <i>Originals</i></b>"
@@ -48,17 +43,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/you-look-like-a-thing-and-i-love-you/id1455076486",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 18,
-    "ratingCountList": [
-      1,
-      1,
-      2,
-      3,
-      11
-    ],
+    "ratingCountList": [1, 1, 2, 3, 11],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "You Look Like a Thing and I Love You",

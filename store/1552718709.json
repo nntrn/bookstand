@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/talent/id1552718709",
+
   "userRating": {
     "value": 3.9,
     "ratingCount": 10,
-    "ratingCountList": [
-      0,
-      1,
-      2,
-      4,
-      3
-    ],
+    "ratingCountList": [0, 1, 2, 4, 3],
     "ariaLabelForRatings": "3.9 stars"
   },
   "name": "Talent",

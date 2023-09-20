@@ -4,12 +4,7 @@
   "subtitle": "The Science of Animal Personalities",
   "author": "John Shivik",
   "isbn": "9780807071526",
-  "genreNames": [
-    "Life Sciences",
-    "Books",
-    "Science & Nature",
-    "Nature"
-  ],
+  "genreNames": ["Life Sciences", "Books", "Science & Nature", "Nature"],
   "seller": "Penguin Random House LLC",
   "offers": [
     {
@@ -43,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/mousy-cats-and-sheepish-coyotes/id1227281901",
+
   "userRating": {
     "value": 5,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 0, 1],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "Mousy Cats and Sheepish Coyotes",

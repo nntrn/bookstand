@@ -4,11 +4,7 @@
   "subtitle": "Data Bias in a World Designed for Men",
   "author": "Caroline Criado Perez",
   "isbn": "9781683353140",
-  "genreNames": [
-    "Social Science",
-    "Books",
-    "Nonfiction"
-  ],
+  "genreNames": ["Social Science", "Books", "Nonfiction"],
   "seller": "Harry N. Abrams, Inc.",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/invisible-women/id1450370544",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 72,
-    "ratingCountList": [
-      2,
-      1,
-      7,
-      19,
-      43
-    ],
+    "ratingCountList": [2, 1, 7, 19, 43],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Invisible Women",

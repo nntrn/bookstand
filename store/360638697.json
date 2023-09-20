@@ -43,17 +43,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/predictably-irrational-revised-and-expanded-edition/id360638697",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 244,
-    "ratingCountList": [
-      14,
-      10,
-      16,
-      54,
-      150
-    ],
+    "ratingCountList": [14, 10, 16, 54, 150],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Predictably Irrational, Revised and Expanded Edition",

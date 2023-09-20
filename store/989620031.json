@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/superforecasting/id989620031",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 59,
-    "ratingCountList": [
-      4,
-      3,
-      3,
-      12,
-      37
-    ],
+    "ratingCountList": [4, 3, 3, 12, 37],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "Superforecasting",

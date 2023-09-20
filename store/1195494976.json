@@ -4,11 +4,7 @@
   "subtitle": "Your shortcut to the most important ideas on the mind, personality, and human nature",
   "author": "Tom Butler-Bowdon",
   "isbn": "9781473645332",
-  "genreNames": [
-    "Psychology",
-    "Books",
-    "Health, Mind & Body"
-  ],
+  "genreNames": ["Psychology", "Books", "Health, Mind & Body"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/50-psychology-classics-second-edition/id1195494976",
+
   "userRating": {
     "value": 5,
     "ratingCount": 3,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      3
-    ],
+    "ratingCountList": [0, 0, 0, 0, 3],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "50 Psychology Classics Second Edition",

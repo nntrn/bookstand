@@ -50,17 +50,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/if-nietzsche-were-a-narwhal/id1605554381",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 18,
-    "ratingCountList": [
-      1,
-      1,
-      0,
-      6,
-      10
-    ],
+    "ratingCountList": [1, 1, 0, 6, 10],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "If Nietzsche Were a Narwhal",

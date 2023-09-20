@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/rationality/id1553572817",
+
   "userRating": {
     "value": 4,
     "ratingCount": 38,
-    "ratingCountList": [
-      3,
-      2,
-      3,
-      14,
-      16
-    ],
+    "ratingCountList": [3, 2, 3, 14, 16],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Rationality",

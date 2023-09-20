@@ -50,17 +50,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-road-to-character/id951398384",
+
   "userRating": {
     "value": 4,
     "ratingCount": 252,
-    "ratingCountList": [
-      16,
-      25,
-      33,
-      53,
-      125
-    ],
+    "ratingCountList": [16, 25, 33, 53, 125],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "The Road to Character",

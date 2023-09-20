@@ -4,11 +4,7 @@
   "subtitle": null,
   "author": "Oscar Wilde",
   "isbn": null,
-  "genreNames": [
-    "Fiction",
-    "Books",
-    "Young Adult"
-  ],
+  "genreNames": ["Fiction", "Books", "Young Adult"],
   "seller": "Public Domain",
   "offers": [
     {
@@ -37,17 +33,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-importance-of-being-earnest/id395546791",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 2995,
-    "ratingCountList": [
-      92,
-      87,
-      233,
-      642,
-      1941
-    ],
+    "ratingCountList": [92, 87, 233, 642, 1941],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "The Importance of Being Earnest",

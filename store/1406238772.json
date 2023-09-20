@@ -50,17 +50,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/blueprint/id1406238772",
+
   "userRating": {
     "value": 3.9,
     "ratingCount": 15,
-    "ratingCountList": [
-      2,
-      0,
-      2,
-      5,
-      6
-    ],
+    "ratingCountList": [2, 0, 2, 5, 6],
     "ariaLabelForRatings": "3.9 stars"
   },
   "name": "Blueprint",

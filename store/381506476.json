@@ -45,17 +45,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/hes-just-not-that-into-you/id381506476",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 761,
-    "ratingCountList": [
-      27,
-      20,
-      49,
-      125,
-      540
-    ],
+    "ratingCountList": [27, 20, 49, 125, 540],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "He's Just Not That Into You",

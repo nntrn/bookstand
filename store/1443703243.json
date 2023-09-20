@@ -46,17 +46,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/forensics/id1443703243",
+
   "userRating": {
     "value": 4,
     "ratingCount": 10,
-    "ratingCountList": [
-      0,
-      0,
-      3,
-      4,
-      3
-    ],
+    "ratingCountList": [0, 0, 3, 4, 3],
     "ariaLabelForRatings": "4.0 stars"
   },
   "name": "Forensics",

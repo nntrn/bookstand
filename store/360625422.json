@@ -40,17 +40,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-secret-life-of-lobsters/id360625422",
+
   "userRating": {
     "value": 4.3,
     "ratingCount": 20,
-    "ratingCountList": [
-      0,
-      2,
-      1,
-      6,
-      11
-    ],
+    "ratingCountList": [0, 2, 1, 6, 11],
     "ariaLabelForRatings": "4.3 stars"
   },
   "name": "The Secret Life of Lobsters",

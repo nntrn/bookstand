@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/lost-in-math/id1291828020",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 44,
-    "ratingCountList": [
-      0,
-      1,
-      2,
-      14,
-      27
-    ],
+    "ratingCountList": [0, 1, 2, 14, 27],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "Lost in Math",

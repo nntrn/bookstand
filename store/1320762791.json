@@ -4,11 +4,7 @@
   "subtitle": "Illuminating the Ideas That Shape Our Reality",
   "author": "Ben Orlin",
   "isbn": "9780316509022",
-  "genreNames": [
-    "Mathematics",
-    "Books",
-    "Science & Nature"
-  ],
+  "genreNames": ["Mathematics", "Books", "Science & Nature"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -44,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/math-with-bad-drawings/id1320762791",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 8,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      3,
-      5
-    ],
+    "ratingCountList": [0, 0, 0, 3, 5],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Math with Bad Drawings",

@@ -44,17 +44,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-sense-of-style/id828749281",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 31,
-    "ratingCountList": [
-      1,
-      1,
-      4,
-      9,
-      16
-    ],
+    "ratingCountList": [1, 1, 4, 9, 16],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "The Sense of Style",

@@ -44,17 +44,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/what-makes-your-brain-happy-and-why-you-should-do/id1619640100",
+
   "userRating": {
     "value": 5,
     "ratingCount": 1,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
+    "ratingCountList": [0, 0, 0, 0, 1],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "What Makes Your Brain Happy and Why You Should Do the Opposite",

@@ -52,17 +52,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/maybe-you-should-talk-to-someone/id1602671221",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 278,
-    "ratingCountList": [
-      7,
-      1,
-      20,
-      52,
-      198
-    ],
+    "ratingCountList": [7, 1, 20, 52, 198],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Maybe You Should Talk to Someone",

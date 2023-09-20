@@ -46,17 +46,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/you-are-the-universe/id1121002955",
+
   "userRating": {
     "value": 4.2,
     "ratingCount": 76,
-    "ratingCountList": [
-      4,
-      4,
-      7,
-      19,
-      42
-    ],
+    "ratingCountList": [4, 4, 7, 19, 42],
     "ariaLabelForRatings": "4.2 stars"
   },
   "name": "You Are the Universe",

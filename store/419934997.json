@@ -45,17 +45,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/shadowfever/id419934997",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 746,
-    "ratingCountList": [
-      17,
-      17,
-      32,
-      106,
-      574
-    ],
+    "ratingCountList": [17, 17, 32, 106, 574],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Shadowfever",

@@ -4,11 +4,7 @@
   "subtitle": "75 1/4 Simple, Challenging, Go-Anywhere Games—And Why They Matter",
   "author": "Ben Orlin",
   "isbn": "9780762499854",
-  "genreNames": [
-    "Mathematics",
-    "Books",
-    "Science & Nature"
-  ],
+  "genreNames": ["Mathematics", "Books", "Science & Nature"],
   "seller": "Hachette Digital, Inc.",
   "offers": [
     {
@@ -44,17 +40,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/math-games-with-bad-drawings/id1579280550",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "Math Games with Bad Drawings",

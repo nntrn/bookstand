@@ -47,17 +47,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/word-by-word/id1143915925",
+
   "userRating": {
     "value": 4.8,
     "ratingCount": 24,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      4,
-      19
-    ],
+    "ratingCountList": [0, 0, 1, 4, 19],
     "ariaLabelForRatings": "4.8 stars"
   },
   "name": "Word by Word",

@@ -44,17 +44,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-stuff-of-thought/id361375948",
+
   "userRating": {
     "value": 3.9,
     "ratingCount": 16,
-    "ratingCountList": [
-      3,
-      1,
-      1,
-      1,
-      10
-    ],
+    "ratingCountList": [3, 1, 1, 1, 10],
     "ariaLabelForRatings": "3.9 stars"
   },
   "name": "The Stuff of Thought",

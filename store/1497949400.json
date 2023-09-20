@@ -4,11 +4,7 @@
   "subtitle": "Using Emotional Optics to Turn Political Vices into Virtues",
   "author": "Dr. Peter A. Wish",
   "isbn": "9781544507286",
-  "genreNames": [
-    "Political Science",
-    "Books",
-    "Politics & Current Events"
-  ],
+  "genreNames": ["Political Science", "Books", "Politics & Current Events"],
   "seller": "DIY Media Group DBA BookBaby",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-candidates-7-deadly-sins/id1497949400",
+
   "userRating": {
     "value": 0,
     "ratingCount": 0,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
+    "ratingCountList": [0, 0, 0, 0, 0],
     "ariaLabelForRatings": "0 stars"
   },
   "name": "The Candidate's 7 Deadly Sins",

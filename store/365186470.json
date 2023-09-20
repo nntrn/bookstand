@@ -4,11 +4,7 @@
   "subtitle": "A Practical Guide to the Fulfillment of Your Dreams",
   "author": "Deepak Chopra",
   "isbn": "9781934408124",
-  "genreNames": [
-    "Self-Improvement",
-    "Books",
-    "Health, Mind & Body"
-  ],
+  "genreNames": ["Self-Improvement", "Books", "Health, Mind & Body"],
   "seller": "Amber-Allen Publishing, Inc.",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/the-seven-spiritual-laws-of-success/id365186470",
+
   "userRating": {
     "value": 4.7,
     "ratingCount": 1646,
-    "ratingCountList": [
-      42,
-      24,
-      57,
-      202,
-      1321
-    ],
+    "ratingCountList": [42, 24, 57, 202, 1321],
     "ariaLabelForRatings": "4.7 stars"
   },
   "name": "The Seven Spiritual Laws of Success",

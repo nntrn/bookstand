@@ -44,17 +44,11 @@
   },
   "iBooksVersion": "1.5",
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/your-next-five-moves/id1495717210",
+
   "userRating": {
     "value": 4.5,
     "ratingCount": 150,
-    "ratingCountList": [
-      3,
-      4,
-      16,
-      17,
-      110
-    ],
+    "ratingCountList": [3, 4, 16, 17, 110],
     "ariaLabelForRatings": "4.5 stars"
   },
   "name": "Your Next Five Moves",

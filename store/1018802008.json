@@ -44,17 +44,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/sex-in-the-sea/id1018802008",
+
   "userRating": {
     "value": 5,
     "ratingCount": 2,
-    "ratingCountList": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
+    "ratingCountList": [0, 0, 0, 0, 2],
     "ariaLabelForRatings": "5.0 stars"
   },
   "name": "Sex in the Sea",

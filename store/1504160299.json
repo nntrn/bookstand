@@ -4,11 +4,7 @@
   "subtitle": "365 Essential Design Dos and Don'ts",
   "author": "Tony Seddon, Sean Adams, Peter Dawson & John Foster",
   "isbn": "9781616899233",
-  "genreNames": [
-    "Design",
-    "Books",
-    "Professional & Technical"
-  ],
+  "genreNames": ["Design", "Books", "Professional & Technical"],
   "seller": "Chronicle Books LLC",
   "offers": [
     {
@@ -42,17 +38,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/graphic-design-rules/id1504160299",
+
   "userRating": {
     "value": 4.6,
     "ratingCount": 5,
-    "ratingCountList": [
-      0,
-      0,
-      1,
-      0,
-      4
-    ],
+    "ratingCountList": [0, 0, 1, 0, 4],
     "ariaLabelForRatings": "4.6 stars"
   },
   "name": "Graphic Design Rules",

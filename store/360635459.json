@@ -43,17 +43,11 @@
     "hasP3": false
   },
   "versionDesktopSupportLevel": "supported",
-  "url": "https://books.apple.com/us/book/biomimicry/id360635459",
+
   "userRating": {
     "value": 4.4,
     "ratingCount": 25,
-    "ratingCountList": [
-      1,
-      2,
-      2,
-      2,
-      18
-    ],
+    "ratingCountList": [1, 2, 2, 2, 18],
     "ariaLabelForRatings": "4.4 stars"
   },
   "name": "Biomimicry",
