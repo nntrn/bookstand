@@ -12,7 +12,7 @@ layout: default
     {% for book in books -%}
     <li class="inline-flex column px-0">
       <span><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}</span>
-      <span class="ss fs-80">Last update on {{book.modified|date_to_string: "ordinal", "US"}}</span>
+      <span class="ss fs-75">Last update on {{book.modified|date_to_string: "ordinal", "US"}}</span>
     </li>
     {% endfor %}
   </ul>

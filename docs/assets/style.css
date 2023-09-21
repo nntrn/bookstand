@@ -36,6 +36,7 @@ time{font-weight:700}
 .flex-list{gap:.75rem;display:inline-flex;flex-direction:column;margin-bottom:1.5rem}
 .flex{display:flex}
 .flex-1{flex:1}
+.fs-75{font-size:.75rem}
 .fs-80{font-size:.8rem}
 .fs-90{font-size:.9em}
 .gap-lg{gap:1em}
