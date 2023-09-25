@@ -17,18 +17,13 @@
 </head>
 <body data-layout="{{page.layout}}">
 <div class="site-container">
-<header>
-<div class="flex column center">
-  <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{site.title}}</a></h1>
-  <h3 class="site-subtitle">{{site.subtitle}}</h3>
-</div>
-</header>
+{% include header.html %}
 <main>
 {{- content -}}
 </main>
 </div>
 <script>
-{% include scroll.js %}
+{% include collapse.js %}
 </script>
 </body>
 </html>
