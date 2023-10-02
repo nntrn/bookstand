@@ -1,0 +1,63 @@
+{
+  "id": "420550393",
+  "title": "It Was the Best of Sentences, It Was the Worst of Sentences",
+  "subtitle": "A Writer's Guide to Crafting Killer Sentences",
+  "author": "June Casagrande",
+  "isbn": "9781580083782",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=420550393&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7368120
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2010-07-27",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>In this wickedly humorous manual, language columnist June Casagrande  uses grammar and syntax to show exactly what makes some sentences  great—and other sentences suck.</b><br /><br />Great writing isn’t born, it’s built—sentence by sentence. But too many writers—and writing guides—overlook this most important unit. The result? Manuscripts that will never be published and writing careers that will never begin.&#xa0; <br />&#xa0;<br />With chapters on “Conjunctions That Kill” and “Words Gone Wild,” this lighthearted guide is perfect for anyone who’s dead serious about writing, from aspiring novelists to nonfiction writers, conscientious students to cheeky literati. So roll up your sleeves and prepare to craft one bold, effective sentence after another. Your readers will thank you."
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/d6/c5/aa/d6c5aa7a-d20f-ae50-c1c2-e3280d988531/9781580083782.jpg/{w}x{h}bb.{f}",
+    "height": 2100,
+    "textColor3": "cbcdd1",
+    "textColor2": "faa13d",
+    "textColor4": "c88437",
+    "textColor1": "fffdfe",
+    "bgColor": "000f1f",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.9,
+    "ratingCount": 7,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      6
+    ],
+    "ariaLabelForRatings": "4.9 stars"
+  },
+  "name": "It Was the Best of Sentences, It Was the Worst of Sentences",
+  "publisher": "Clarkson Potter/Ten Speed",
+  "isPreorder": false,
+  "artistName": "June Casagrande",
+  "primaryLocale": "en-US"
+}
