@@ -1,0 +1,68 @@
+{
+  "id": "1536395727",
+  "title": "Welcome to Dunder Mifflin",
+  "subtitle": "The Ultimate Oral History of The Office",
+  "author": "Brian Baumgartner & Ben Silverman",
+  "isbn": "9780063082212",
+  "genreNames": [
+    "TV",
+    "Books",
+    "Arts & Entertainment",
+    "Humor",
+    "Nonfiction",
+    "Social Science",
+    "Society",
+    "Performing Arts"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1536395727&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 94423353
+        }
+      ]
+    }
+  ],
+  "pageCount": 464,
+  "releaseDate": "2021-11-16",
+  "isIBook": false,
+  "description": {
+    "standard": "New York Times Bestseller<br /><br />\"The ultimate behind-the-scenes account.” —Washington Post<br /><br />“The definitive history of the landmark TV show.” —USA Today<br /><br />Join the entire Dunder Mifflin gang on a journey back to Scranton: here's the hilarious and improbable inside story behind the beloved series.<br /><br />Based on hundreds of hours of exclusive interviews with the cast and creators and&#xa0;illustrated with 100 behind-the-scenes photographs, here, at last, is the untold inside story of The Office, featuring a foreword by Greg Daniels, who adapted the series for the U.S. and was its guiding creative force, and narrated by star Brian Baumgartner (aka “Kevin Malone”) and executive producer Ben Silverman..<br /><br />In Welcome to Dunder Mifflin, the entire Office gang reunite after nearly a decade to share their favorite untold stories, spill secrets, and reveal how a little show that barely survived its first season became the most watched series in the universe. This ultimate fan companion pulls back the curtain as never before on all the absurdity, genius, love, passion, and dumb luck that went into creating America's beloved The Office.<br /><br />Featuring the memories of Steve Carell, John Krasinkski, Jenna Fischer, Greg Daniels, Ricky Gervais, Rainn Wilson, Angela Kinsey, Craig Robinson, Brian Baumgartner, Phyllis Smith, Kate Flannery, Ed Helms, Oscar Nunez, Amy Ryan, Ellie Kemper, Creed Bratton, Paul Lieberstein, Ben Silverman, Mike Schur, and many more."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/87/a5/be/87a5bef5-8780-02ac-ec18-f92e18dbc583/9780063082212.jpg/{w}x{h}bb.{f}",
+    "height": 2052,
+    "textColor3": "363733",
+    "textColor2": "2c2d29",
+    "textColor4": "53534e",
+    "textColor1": "090a08",
+    "bgColor": "edede3",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 18,
+    "ratingCountList": [
+      1,
+      0,
+      0,
+      6,
+      11
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Welcome to Dunder Mifflin",
+  "publisher": "Custom House",
+  "isPreorder": false,
+  "artistName": "Brian Baumgartner & Ben Silverman",
+  "primaryLocale": "en-US"
+}
