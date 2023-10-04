@@ -4,11 +4,11 @@ layout: home
 
 {%- assign githubcoverurl = 'https://raw.githubusercontent.com/'| append: site.repository | append: '/'| append: site.book.branch | append: '/' | append: site.book.dir -%}
 {%- assign books = site.data.books | sort: "created" | reverse -%}
-<link rel="stylesheet" href="{{ '/assets/books.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/books.css' | absolute_url }}">
 <div class="books">
   {%- for book in books -%}
   {%- assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first %}
-  <div class="book" data-count="{{book.count}}" data-modified="{{book.modified | date: "%F" }}" data-created="{{book.created|date:'%F'}}">
+  <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: "%F" }}" data-created="{{book.created|date:'%F'}}">
     <span class="sort-label" data-after="{{book.count}}"></span>
     <a href="{{ site.baseurl }}/{{ book.slug }}">
       <img src="{{githubcoverurl}}/{{book.assetid}}.jpg"
@@ -23,9 +23,4 @@ layout: home
   </div>
   {%- endfor %}
 </div>
-<script src="{{ '/assets/sort.js' | relative_url }}"></script>
-<script>
-  if (location.search) {
-    sortElements()
-  }
-</script>
+{% include sort-script.html %}
