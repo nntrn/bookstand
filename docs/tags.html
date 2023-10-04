@@ -9,14 +9,15 @@ layout: default
 .column-group{page-break-inside:avoid;margin-bottom:1rem}
 .posts li a:hover{text-decoration:underline}
 .posts li a:visited{color:purple}
-.posts li a{text-decoration:none;font-weight:700}
-.posts li{padding:0 0;margin:0 0;line-height:1.1}
+.posts li a{text-decoration:none;font-weight:700;letter-spacing: .25px;}
+.posts li{padding:0 0;margin:0 0;line-height:1.15}
 .posts{margin-top:.75rem}
 h2{border-bottom:1px solid #222}
 h2>a{color:#222;text-decoration:none;font-weight:700}
 li span{font-family:sans-serif}
 li{display:flex;justify-content:space-between;padding-right:.75rem;column-gap:1rem}
 ul{margin:.25rem 0;padding:.2rem .5rem;display:flex;flex-direction:column;gap:.75rem}
+small.up{font-size:.85em;margin-top: 2px;font-family: helvetica neue,helvetica,sans-serif;font-variation-settings: "wght" 401.5, "wdth" 100, "opsz" 30;font-stretch: expanded;font-feature-settings: "tnum";}
 @media (min-width:600px){
 .hidden-md{display:none!important}
 .column-container{column-count:4}
@@ -36,7 +37,7 @@ ul{margin:.25rem 0;padding:.2rem .5rem;display:flex;flex-direction:column;gap:.7
           <div class="flex column">
             <a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
             <span class="clamp fs-90">{{book.author}}</span>
-            <span class="up muted fs-80">{{book.created|date: '%b %-d %Y' }}</span>
+            <small class="up muted">{{book.created|date: '%b %-d %Y' }}</small>
           </div>
           <span class="fs-80">{{book.count}}</span>
         </li>
