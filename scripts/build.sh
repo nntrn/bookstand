@@ -73,7 +73,7 @@ download_asset_page() {
   APPLE_STORE_URL=https://books.apple.com/us/book
   CACHESTOREHTML=$CACHEDIR/${ASSETID}.html
   if [[ ! -f $CACHESTOREHTML ]]; then
-    curl -s --create-dirs -o $CACHESTOREHTML "${APPLE_STORE_URL}/id${ASSETID}"
+    curl -L -s --create-dirs -o $CACHESTOREHTML "${APPLE_STORE_URL}/id${ASSETID}"
   fi
   if [[ -f $CACHESTOREHTML ]]; then
     echo "$CACHESTOREHTML"
