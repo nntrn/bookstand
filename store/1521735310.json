@@ -1,0 +1,73 @@
+{
+  "id": "1521735310",
+  "title": "Critical Thinking",
+  "subtitle": null,
+  "author": "Jonathan Haber",
+  "isbn": "9780262357357",
+  "genreNames": [
+    "Education",
+    "Books",
+    "Professional & Technical",
+    "Nonfiction",
+    "Philosophy",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1521735310&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1053289
+        }
+      ]
+    }
+  ],
+  "pageCount": 232,
+  "releaseDate": "2020-03-24",
+  "seriesInfo": {
+    "seriesName": "The MIT Press Essential Knowledge series"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b>An insightful guide to the practice, teaching, and history of critical thinking—from Aristotle and Plato to Thomas Dewey—for teachers, students, and anyone looking to hone their critical thinking skills.</b><br /><br />Critical thinking is regularly cited as an essential 21st century skill, the key to success in school and work. Given the propensity to believe fake news, draw incorrect conclusions, and make decisions based on emotion rather than reason, it might even be said that critical thinking is vital to the survival of a democratic society.<br /><br />But what, exactly, is critical thinking? Jonathan Haber explains how the concept of critical thinking emerged, how it has been defined, and how critical thinking skills can be taught and assessed.&#xa0;Haber describes the term's origins in such disciplines as philosophy, psychology, and science. He examines the components of critical thinking, including<br /><br />• structured thinking<br />•&#xa0;language skills&#xa0;<br />•&#xa0;background knowledge<br />•&#xa0;information literacy<br />•&#xa0;intellectual humility<br />•&#xa0;empathy and open-mindedness<br /><br />Haber argues that the most important critical thinking issue today is that not enough people are doing enough of it. Fortunately, critical thinking can be taught, practiced, and evaluated. This book offers a guide for teachers, students, and aspiring critical thinkers everywhere, including advice for educational leaders and policy makers on how to make the teaching and learning of critical thinking an educational priority and practical reality."
+  },
+  "artwork": {
+    "width": 1536,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/3d/d8/3e/3dd83eee-93ec-8102-1f22-294649be12f4/9780262357357.d.jpg/{w}x{h}bb.{f}",
+    "height": 2150,
+    "textColor3": "c8c11f",
+    "textColor2": "c9c9c9",
+    "textColor4": "a0a0a0",
+    "textColor1": "faf127",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "sellerInfo": {
+    "name": "Penguin Random House LLC"
+  },
+  "userRating": {
+    "value": 3.7,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "3.7 stars"
+  },
+  "name": "Critical Thinking",
+  "publisher": "MIT Press",
+  "isPreorder": false,
+  "artistName": "Jonathan Haber",
+  "primaryLocale": "en-US"
+}

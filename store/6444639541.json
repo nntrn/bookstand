@@ -1,0 +1,65 @@
+{
+  "id": "6444639541",
+  "title": "The New York Times Book of Mathematics",
+  "subtitle": "More Than 100 Years of Writing by the Numbers",
+  "author": "Gina Kolata",
+  "isbn": "9781402793288",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6444639541&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5807657
+        }
+      ]
+    }
+  ],
+  "pageCount": 498,
+  "releaseDate": "2013-06-04",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Some of the pieces included here are important and some are curiosities, but all are absorbing&#xa0;.&#xa0;.&#xa0;. Recommended for casual and serious math enthusiasts.” —<i>Library Journal</i></b><br /><br />From the archives of the world’s most famous newspaper comes a collection of its very best writing on mathematics. Big and informative,&#xa0;<i>The New York Times Book of Mathematics</i>&#xa0;gathers more than 110 articles written from 1892 to 2010 that cover statistics, coincidences, chaos theory, famous problems, cryptography, computers, and many other topics. Edited by Pulitzer Prize finalist and senior&#xa0;<i>Times</i>&#xa0;writer Gina Kolata, and featuring renowned contributors such as James Gleick, William L. Laurence, Malcolm W. Browne, George Johnson, and John Markoff, it’s a must-have for any math and science enthusiast.<br /><br />“Many fascinating problems are explained in language that the layperson will understand&#xa0;.&#xa0;.&#xa0;. This compilation of real-world applications will interest those with an inclination toward mathematics or problem-solving.” —<i>Publishers Weekly</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/18/8f/a2/188fa2f1-eea2-8a32-9142-04beb93076f8/9781402793288.jpg/{w}x{h}bb.{f}",
+    "height": 2315,
+    "textColor3": "002731",
+    "textColor2": "011d27",
+    "textColor4": "013848",
+    "textColor1": "00070b",
+    "bgColor": "00a5ca",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "sellerInfo": {
+    "name": "OpenRoad Integrated Media, LLC"
+  },
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The New York Times Book of Mathematics",
+  "publisher": "Union Square & Co.",
+  "isPreorder": false,
+  "artistName": "Gina Kolata",
+  "primaryLocale": "en-US"
+}
