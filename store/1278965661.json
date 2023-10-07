@@ -1,0 +1,69 @@
+{
+  "id": "1278965661",
+  "title": "Origin Story",
+  "subtitle": "A Big History of Everything",
+  "author": "David Christian",
+  "isbn": "9780316392020",
+  "genreNames": [
+    "World",
+    "Books",
+    "History",
+    "Science & Nature",
+    "History"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>This <i>New York Times</i> bestseller \"elegantly weaves evidence and insights . . . into a single, accessible historical narrative\" (Bill Gates) and presents a captivating history of the universe -- from the Big Bang to dinosaurs to mass globalization and beyond.</b><br /><br /> Most historians study the smallest slivers of time, emphasizing specific dates, individuals, and documents. But what would it look like to study the whole of history, from the big bang through the present day -- and even into the remote future? How would looking at the full span of time change the way we perceive the universe, the earth, and our very existence? <br /><br /> These were the questions David Christian set out to answer when he created the field of \"Big History,\" the most exciting new approach to understanding where we have been, where we are, and where we are going. In <i>Origin Story</i>, Christian takes readers on a wild ride through the entire 13.8 billion years we've come to know as \"history.\" By focusing on defining events (thresholds), major trends, and profound questions about our origins, Christian exposes the hidden threads that tie everything together -- from the creation of the planet to the advent of agriculture, nuclear war, and beyond. <br /><br /> With stunning insights into the origin of the universe, the beginning of life, the emergence of humans, and what the future might bring, <i>Origin Story</i> boldly reframes our place in the cosmos."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=3990&salableAdamId=1278965661&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$3.99",
+      "price": 3.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3113820
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2018-05-22",
+  "isIBook": false,
+  "artwork": {
+    "width": 1613,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/c0/e1/70/c0e17090-e9bd-5b84-a04c-a5ba57624eaa/9780316392020.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "3d474f",
+    "textColor2": "202020",
+    "textColor4": "4c4c4c",
+    "textColor1": "0c1923",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "sellerInfo": {
+    "name": "Hachette Digital, Inc."
+  },
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 70,
+    "ratingCountList": [
+      4,
+      3,
+      3,
+      19,
+      41
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Origin Story",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "David Christian",
+  "primaryLocale": "en-US"
+}
