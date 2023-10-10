@@ -48,6 +48,7 @@ time{font-weight:700}
 .highlighted span{background:#fff0b1}
 .icon{fill:currentColor}
 .inline-flex{display:inline-flex}
+.lh-1{line-height:1}
 .lh-120{line-height:1.3}
 .loc:after{content:"]"}
 .loc:before{content:"["}
