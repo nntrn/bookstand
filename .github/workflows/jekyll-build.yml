@@ -2,6 +2,10 @@ name: Build page
 
 on:
   workflow_dispatch:
+    inputs:
+      main_branch:
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -19,7 +23,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: ${{env.GITHUB_REF_NAME}}
+          ref: ${{inputs.main_branch || env.GITHUB_REF_NAME}}
           path: main
       - name: Checkout data branch
         uses: actions/checkout@v3
@@ -69,6 +73,7 @@ jobs:
           source: ./main/docs
           destination: ./main/docs/_site
           verbose: false
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
