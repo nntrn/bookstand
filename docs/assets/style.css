@@ -31,15 +31,15 @@ time{font-weight:700}
 .ai-center{align-items:center}
 .ac-center{align-items:center}
 .clamp.c2{-webkit-line-clamp:2}
-.clamp{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}
+.clamp{display:-webkit-box!important;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}
 .column{flex-direction:column}
 .container{background:#fff;display:flex;flex:4;gap:0;scrollbar-width:thin;touch-action:manipulation;scroll-behavior:smooth}
 .dotted{text-decoration-thickness:1px;text-decoration-skip-ink:none;text-underline-offset:3px}
 .flex-1{flex:1}
 .flex-list{gap:.75rem;display:inline-flex;flex-direction:column;margin-bottom:1.5rem}
 .flex{display:flex}
-.fs-75{font-size:.75rem}
-.fs-80{font-size:.8rem}
+.fs-75{font-size:.75em}
+.fs-80{font-size:.8em}
 .fs-90{font-size:.9em}
 .gap-lg{gap:1em}
 .gap-md{gap:.5em}
@@ -73,6 +73,7 @@ time{font-weight:700}
 .related-posts li{margin-bottom:.4rem;list-style:none;padding-left:0}
 .related-posts{padding:0 0;line-height:1.15}
 .row{display:flex;flex-direction:row;flex-wrap:wrap}
+.sb{justify-content:space-between}
 .serif{font-family:times,serif}
 .sidebar ul{margin:auto;margin-bottom:1rem;display:flex;flex-direction:column;gap:.15rem}
 .sidebar{flex:3;height:70vh}
@@ -93,10 +94,10 @@ time{font-weight:700}
 [data-layout=book] .page-content li{margin:0;white-space:normal;font-weight:400}
 [data-layout=book] .page-content{border-bottom:1px solid gray}
 [data-layout=tag] .container ul{gap:1.15rem;margin:.5rem 0}
-header{padding:0 0}
-header{transition:.4s all ease;z-index:10000;width:100%;margin:auto;display:flex;align-items:center;align-content:center}
-.header-container{border-bottom:3px solid #000;transition:all .4s ease;font-style:normal;z-index:1000;height:70px;line-height:1;display:flex;width:100%;height:65px;align-content:start;align-items:center;gap:.25rem;text-decoration: none;color: #222;}
-.site-icon{fill:rgba(0,0,0,.3);width:50px;height:50px;display:block;stroke:rgba(0,0,0,.6)}
+header{transition:.4s all ease;z-index:10000;width:100%;margin:auto;display:flex;align-content:center;padding:0 0}
+.header-container{border-bottom:3px solid #000;transition:all .4s ease;font-style:normal;z-index:1000;height:70px;line-height:1;display:flex;width:100%;height:65px;align-content:start;align-items:center;gap:.25rem;text-decoration:none;color:#222}
+header a{text-decoration:none;color:#222}
+.site-icon{fill:#fff;width:50px;height:50px;display:block;stroke:#222}
 @media (min-width:776px){
 .book-author:before{display:inline}
 .page-content{border-bottom:none;flex:7}
