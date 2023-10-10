@@ -24,9 +24,9 @@ time{font-weight:700}
 .book-subtitle{font-weight:500}
 .book-title{font-size:1.6em;line-height:1.15;letter-spacing:-.2px}
 .box{width:100%;padding:1.25rem;margin:0 auto}
-.breadcrumb a:hover{color:#222}
+.baseline{align-items:baseline}
 .breadcrumb a{text-decoration:none;display:inline-block}
-.breadcrumb{display:flex;margin-bottom:1rem;font-size:.85em;color:#888;gap:.5rem;font-family: sans-serif;text-transform: uppercase;}
+.breadcrumb{display:flex;margin-bottom:1rem;font-size:.8em;color:#888;gap:.3rem;font-family:sans-serif;text-transform:uppercase}
 .center{justify-content:center;align-items:center;text-align:center}
 .ai-center{align-items:center}
 .ac-center{align-items:center}
