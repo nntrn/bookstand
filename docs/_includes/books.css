@@ -1,5 +1,5 @@
 main{letter-spacing:-.022em}
-#select-container{padding-bottom:.3rem;background:rgba(255,255,255,.8)}
+#select-container{padding-bottom:.3rem;background:#fff;padding: .2rem .2rem;}
 #select-container .flex-2{flex:1}
 #select-container label{font-family:sans-serif;line-height:1;font-size:.8em;text-transform:uppercase;text-align:right;white-space:pre}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
