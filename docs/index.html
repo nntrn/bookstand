@@ -3,8 +3,10 @@ layout: home
 ---
 
 {%- assign githubcoverurl = 'https://raw.githubusercontent.com/'| append: site.repository | append: '/'| append: site.book.branch | append: '/' | append: site.book.dir -%}
-{%- assign books = site.data.books | sort: "created" | reverse -%}
-<link rel="stylesheet" href="{{ '/assets/books.css' | absolute_url }}">
+{%- assign books = site.data.books | sort: "created" | reverse %}
+<style>
+  {% include books.css %}
+</style>
 {% include select.html %}
 <div class="books">
   {%- for book in books -%}
