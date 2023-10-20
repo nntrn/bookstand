@@ -1,0 +1,67 @@
+{
+  "id": "522380506",
+  "title": "Antifragile",
+  "subtitle": "Things That Gain from Disorder",
+  "author": "Nassim Nicholas Taleb",
+  "isbn": "9780679645276",
+  "genreNames": [
+    "Investing",
+    "Books",
+    "Business & Personal Finance",
+    "Nonfiction",
+    "Philosophy",
+    "Management & Leadership"
+  ],
+  "seller": "Penguin Random House LLC",
+  "seriesInfo": {
+    "seriesName": "Incerto"
+  },
+  "description": {
+    "standard": "<b><i>Antifragile&#xa0;</i>is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are&#xa0;<i>Fooled by Randomness,&#xa0;The Black Swan, Skin in the Game,&#xa0;</i>and&#xa0;<i>The Bed of Procrustes</i>.</b><br /><br />Nassim Nicholas Taleb, the bestselling author of <i>The Black Swan</i> and one of the foremost thinkers of our time, reveals how to thrive in an uncertain world.<br /><br /> Just as human bones get stronger when subjected to stress and tension, and rumors or riots intensify when someone tries to repress them, many things in life benefit from stress, disorder, volatility, and turmoil. What Taleb has identified and calls “antifragile” is that category of things that not only gain from chaos but need it in order to survive and flourish.&#xa0; <br /><br /> In <i>The Black Swan, </i>Taleb showed us that highly improbable and unpredictable events underlie almost everything about our world. In <i>Antifragile,</i> Taleb stands uncertainty on its head, making it desirable, even necessary, and proposes that things be built in an antifragile manner. The antifragile is beyond the resilient or robust. The resilient resists shocks and stays the same; the antifragile gets better and better. <br /><br /> Furthermore, the antifragile is immune to prediction errors and protected from adverse events. Why is the city-state better than the nation-state, why is debt bad for you, and why is what we call “efficient” not efficient at all? Why do government responses and social policies protect the strong and hurt the weak? Why should you write your resignation letter before even starting on the job? How did the sinking of the <i>Titanic</i> save lives? The book spans innovation by trial and error, life decisions, politics, urban planning, war, personal finance, economic systems, and medicine. And throughout, in addition to the street wisdom of Fat Tony of Brooklyn, the voices and recipes of ancient wisdom, from Roman, Greek, Semitic, and medieval sources, are loud and clear.<br /><br /> <i>Antifragile</i> is a blueprint for living in a Black Swan world.<br /><br /> Erudite, witty, and iconoclastic, Taleb’s message is revolutionary: The antifragile, and only the antifragile, will make it.<br /><br /><b>Praise for <i>Antifragile</i></b><br /><br />“Ambitious and thought-provoking . . . highly entertaining.”<b>—<i>The Economist</i></b><br /><br /> “A bold book explaining how and why we should embrace uncertainty, randomness, and error . . . It may just change our lives.”<b>—<i>Newsweek</i></b>"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=522380506&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 27749339
+        }
+      ]
+    }
+  ],
+  "pageCount": 544,
+  "releaseDate": "2012-11-27",
+  "isIBook": false,
+  "artwork": {
+    "width": 1556,
+    "height": 2400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/22/a6/ab/22a6ab51-242d-ab53-65da-d78796963af4/9780679645276.jpg/{w}x{h}bb.{f}",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "sellerInfo": {
+    "name": "Penguin Random House LLC"
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 217,
+    "ratingCountList": [
+      18,
+      18,
+      25,
+      38,
+      118
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Antifragile",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "Nassim Nicholas Taleb",
+  "primaryLocale": "en-US"
+}
