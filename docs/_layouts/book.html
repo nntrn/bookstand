@@ -20,7 +20,6 @@ layout: default
       <span>Last on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
       {%- endif -%}
     </p>
-    <p>{%- assign pagecreated = page.date | relative -%}</p>
     {% assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "rangestart" %}
     <div class="tag-list">
       {%- for tag in page.tags -%}
@@ -41,7 +40,6 @@ layout: default
     {%- endfor -%}
   </div>
 </div>
-<script type="application/json">{{api|jsonify}}</script>
 <script>
   function highlightAnnotation() {
     Array.from(document.querySelectorAll('.highlighted')).forEach(e => e.classList.remove('highlighted'))
