@@ -67,6 +67,10 @@ jobs:
             git push
           fi
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
