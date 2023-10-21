@@ -5,10 +5,8 @@
       <path d="M18,8.07v8.67a6,6,0,0,0-6,0,6,6,0,0,0-6,0V8.07a6,6,0,0,1,6,0A6,6,0,0,1,18,8.07Z" fill-opacity=".2" />
     </svg>
     <div class="flex column">
-      <a href="{{ '/' | relative_url }}">
-        <h1 class="site-title">{{site.title}}</h1>
-      </a>
-      <h3 class="site-subtitle">{{site.subtitle}}</h3>
+      <h1 class="site-title"> <a href="{{ '/' | relative_url }}">{{site.title}} </a></h1>
+      <h3 class="site-subtitle">{{page.title|default:site.subtitle}}</h3>
     </div>
   </div>
 </header>
