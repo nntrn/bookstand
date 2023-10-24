@@ -7,7 +7,10 @@ layout: home
 <style>
   {% include books.css %}
 </style>
-{% include select.html %}
+<div style="padding: .5rem 1rem">
+  <p>Highlights from books I've read :)</p>
+  {% include select.html %}
+</div>
 <div class="books">
   {%- for book in books -%}
   {%- assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first %}
