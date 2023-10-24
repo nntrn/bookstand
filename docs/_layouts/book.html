@@ -34,7 +34,7 @@ layout: default
       {%- for annotation in chapter.items -%}
       <li id="{{annotation.id}}"
           data-location="{{annotation.cfi}}"
-          data-created="{{annotation.created|date: '%F'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
+          data-created="{{annotation.created|date_to_xmlschema}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
       {% endfor -%}
     </ul>
     {%- endfor -%}
