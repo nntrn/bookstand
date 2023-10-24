@@ -1,10 +1,9 @@
 main{letter-spacing:-.022em}
-#select-container{padding-bottom:.3rem;padding:.5rem .85rem;position:sticky;display:flex;justify-content:end}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a:hover{filter:opacity(.8)}
 .book a{cursor:pointer;text-decoration:none;font-family:helvetica neue,helvetica,sans-serif;color:#444;gap:.85rem;display:flex;flex-direction:column}
-.book img:hover{filter:opacity(1) saturate(1.15);box-shadow:-1px 3px 8px rgba(0,0,0,.3);transition:all .15s ease}
-.book img{width:110px;box-shadow:-2px 3px 3px rgba(0,0,0,.25);border-radius:4px;filter:opacity(.75);user-select:none}
+.book img:hover{filter:opacity(1) saturate(1.15);box-shadow:0 0 5px rgba(0,0,0,.5);transition:all .15s ease}
+.book img{width:110px;box-shadow:0 0 5px rgba(0,0,0,.35);border-radius:4px;filter:opacity(.75);user-select:none}
 .book label span{overflow:hidden;font-size:.7rem;font-weight:400;color:#717171;line-height:1.2;width:80%;margin:auto;font-family:sans-serif}
 .book label{display:flex;flex-direction:column;gap:.35rem;cursor:text;margin:auto;justify-content:center;line-height:1.1;text-align:center;letter-spacing:-.025px}
 .book label{width:130%;margin:auto;margin-left:-15%}
@@ -14,18 +13,17 @@ main{letter-spacing:-.022em}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.4rem;line-height:1.2;display:flex;justify-content:center}
 .books.box{padding:2rem 1.5rem}
 .books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:2rem 1rem;row-gap:2rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin}
-.form-select{background:#fff;appearance:none;background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23aaa' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e"),none;background-position-x:calc(100% - .1rem);background-position-y:50%;background-repeat:no-repeat;background-size:16px 12px,16px 12px;box-sizing:border-box;padding:.35rem .75rem;display:block;width:max(150px,12vw);border-radius:4px;border:1px solid #ddd;outline:0;color:#7d7d7d;font-size:.8rem}
+.form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:.8rem;border:none;font-weight:700;text-align:center}
 .sort-label:after{content:attr(data-after)}
-.sort-label:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1V4Zm10 1v14h8V5h-8Zm1 2h6v2h-6V7Zm0 3h6v2h-6v-2Z"/></svg>')}
-.sort-label:before{left:0;content:'';filter:opacity(.6);width:.85rem;height:.85rem;background-size:contain;display:block;left:0}
+.sort-label:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M2.5 1A1.5 1.5 0 0 0 1 2.5v11A1.5 1.5 0 0 0 2.5 15h6.086a1.5 1.5 0 0 0 1.06-.44l4.915-4.914A1.5 1.5 0 0 0 15 8.586V2.5A1.5 1.5 0 0 0 13.5 1h-11zm6 8.5a1 1 0 0 1 1-1h4.396a.25.25 0 0 1 .177.427l-5.146 5.146a.25.25 0 0 1-.427-.177V9.5z"/></svg>')}
+.sort-label:before{left:0;content:'';filter:opacity(.6);width:.65rem;height:.65rem;background-size:contain;display:block;left:0}
 .sort-label{font-size:.75rem;display:flex;align-items:center;font-family:helvetica neue,helvetica,sans-serif;column-gap:.15rem;line-height:1;height:fit-content}
 .sticky{position:sticky;top:0;z-index:1000}
 [data-count="1"]{display:none}
-[data-sort=created] .sort-label:before,[data-sort=updated] .sort-label:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"  width="18" height="18" viewBox="0 0 18 18"><path d="M14 2h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h1V0h2v2h6V0h2v2ZM3 6v9h12V6H3Zm2 2h2v2H5V8Zm0 3h2v2H5v-2Zm3 0h2v2H8v-2Zm3 0h2v2h-2v-2Zm0-3h2v2h-2V8ZM8 8h2v2H8V8Z"/></svg>')}
+[data-sort=created] .sort-label:before,[data-sort=updated] .sort-label:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 18 18"><path d="M14 2h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h1V0h2v2h6V0h2v2ZM3 6v9h12V6H3Zm2 2h2v2H5V8Zm0 3h2v2H5v-2Zm3 0h2v2H8v-2Zm3 0h2v2h-2v-2Zm0-3h2v2h-2V8ZM8 8h2v2H8V8Z"/></svg>')}
 @media (min-width:776px){
 .books.box{padding:3rem 3rem}
 .books{justify-content:space-between;column-gap:4rem;row-gap:2.5rem;padding:1.5rem 3vw}
 .books img{width:max(100px,8vw)}
 #select-container .flex-2{flex:2}
-#select-container{padding-right:.05rem}
 }
