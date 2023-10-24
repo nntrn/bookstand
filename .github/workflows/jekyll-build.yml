@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: 'pages'
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -25,7 +25,8 @@ jobs:
         with:
           ref: ${{inputs.main_branch || env.GITHUB_REF_NAME}}
           path: main
-      - name: Checkout data branch
+
+      - name: Checkout assets branch
         uses: actions/checkout@v3
         with:
           ref: assets
@@ -39,20 +40,18 @@ jobs:
       - name: Build files in main dir
         run: >
           ${{env.MAINDIR}}/scripts/build.sh --all-data-tasks --all-file-tasks
-          --genre-file ${{env.MAINDIR}}/docs/_data/genre.json
           --out ${{env.MAINDIR}}/docs
           ${{env.ASSETSDIR}}/annotations.json
 
       - name: Build bookcovers
         run: >
-          ${{env.MAINDIR}}/scripts/build.sh
-          --book-covers
+          ${{env.MAINDIR}}/scripts/build.sh --book-covers
           --out ${{env.ASSETSDIR}}
           ${{env.ASSETSDIR}}/annotations.json
 
       - name: Create store.json
-        run: >
-          cat ${{env.ASSETSDIR}}/store/*.json | jq -s '.' > ${{env.MAINDIR}}/docs/_data/store.json
+        run: |
+          jq -s '.' ${{env.ASSETSDIR}}/store/*.json > ${{env.MAINDIR}}/docs/_data/store.json
 
       - name: Commit and push
         working-directory: assets

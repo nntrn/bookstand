@@ -8,7 +8,6 @@ CACHEDIR=$HOME/.cache/bookstand
 MINWIDTH=${MINWIDTH:-200}
 FORCE=${FORCE:-0}
 CANCEL_ON_ERROR=1
-GENREFILE=$OUTDIR/_data/genre.json
 RUN_ALL=0
 RUN_CREATE_ANNOTATION_PAGES=0
 RUN_CREATE_TAG_PAGES=0
@@ -104,12 +103,18 @@ jq_bc_url() {
     "\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg"' 2>/dev/null
 }
 
+ignore_dir() {
+  if [[ ! -f $1/.gitignore ]]; then
+    echo "*" >$1/.gitignore
+  fi
+}
 get_book_cover() {
   local ASSETID=$1
   STOREPATH="${OUTDIR}/store/${ASSETID}.json"
   COVERPATH="${OUTDIR}/covers/${ASSETID}.jpg"
   IMGCACHEPATH="${CACHEDIR}/jpg/${MINWIDTH}/${ASSETID}.jpg"
   RC=0
+
   mkdir -p $OUTDIR/store
   mkdir -p $OUTDIR/covers
   mkdir -p "${CACHEDIR}/jpg/${MINWIDTH}"
@@ -120,15 +125,15 @@ get_book_cover() {
       BOOKCOVERJPG="$(jq_bc_url $STOREPATH)"
       if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
         curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
-        check_job $? "Download $BOOKCOVERJPG"
+        check_job $? "Downloading $BOOKCOVERJPG"
         cp "$IMGCACHEPATH" "$COVERPATH"
-        check_job $? "Copy  $IMGCACHEPATH to $COVERPATH"
       fi
     fi
     [[ -f $IMGCACHEPATH ]] && cp "$IMGCACHEPATH" "$COVERPATH"
   fi
-  [[ ! -f $COVERPATH ]] && RC=1
-  CANCEL_ON_ERROR=0 check_job $RC "Write $COVERPATH"
+  if [[ ! -f $COVERPATH ]]; then
+    check_job 1 "Missing bookcover for $ASSETID"
+  fi
 }
 
 create_book_data() {
@@ -174,7 +179,7 @@ create_tag_files() {
   mkdir -p $OUTDIR/_tags
   source <(
     jq -L $DIR -r --arg out $OUTDIR/_tags \
-      'include "bookstand"; create_tag_markdown($out)' $GENREFILE
+      'include "bookstand"; create_tag_markdown($out)' $OUTDIR/_data/genre.json
   )
   check_job $? "Create markdown files $OUTDIR/_tags"
   [[ ! -f $OUTDIR/_tags/.gitignore ]] && echo "*" >$OUTDIR/_tags/.gitignore
@@ -203,10 +208,8 @@ if [[ $# -gt 0 ]]; then
     --tags) RUN_CREATE_TAG_PAGES=1 ;;
     --annotations) RUN_CREATE_ANNOTATION_PAGES=1 ;;
     --book-covers) RUN_FETCH_BOOKCOVER=1 ;;
-    --genre-file) GENREFILE="$next" ;;
     --all-data-tasks) RUN_DATA_TASKS=1 ;;
     --all-file-tasks) RUN_FILE_TASKS=1 ;;
-    -a | --all) RUN_ALL=1 ;;
 
     *.json) ANNOTATIONS_FILE="${cur}" ;;
     [0-9][0-9][0-9][0-9][0-9]*) IDS+=("$cur") ;;
@@ -219,16 +222,27 @@ fi
 mkdir -p $CACHEDIR
 
 if [[ -z $ANNOTATIONS_FILE ]]; then
-  curl -s -o /tmp/annotations.json https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
+  ANNOTATIONS_FILE=$(mktemp)
+  curl -s -o $ANNOTATIONS_FILE https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
   check_job $? "Download annotations.json from remote"
-  ANNOTATIONS_FILE=/tmp/annotations.json
 fi
 
-[[ $((RUN_ALL + RUN_FILE_TASKS + RUN_CREATE_TAG_PAGES)) -gt 0 ]] && create_tag_files
-[[ $((RUN_ALL + RUN_FILE_TASKS + RUN_CREATE_ANNOTATION_PAGES)) -gt 0 ]] && create_annotation_files
-[[ $((RUN_ALL + RUN_DATA_TASKS + RUN_DATA_BOOK)) -gt 0 ]] && create_book_data
-[[ $((RUN_ALL + RUN_DATA_TASKS + RUN_DATA_GENRE)) -gt 0 ]] && create_genre_data
-[[ $((RUN_ALL + RUN_DATA_TASKS + RUN_DATA_ACTIVITY)) -gt 0 ]] && create_activity_data
+if [[ $RUN_FILE_TASKS -eq 1 ]]; then
+  RUN_CREATE_TAG_PAGES=1
+  RUN_CREATE_ANNOTATION_PAGES=1
+fi
+
+if [[ $RUN_DATA_TASKS -eq 1 ]]; then
+  RUN_DATA_BOOK=1
+  RUN_DATA_GENRE=1
+  RUN_DATA_ACTIVITY=1
+fi
+
+[[ RUN_CREATE_TAG_PAGES -eq 1 ]] && create_tag_files
+[[ RUN_CREATE_ANNOTATION_PAGES -eq 1 ]] && create_annotation_files
+[[ RUN_DATA_BOOK -eq 1 ]] && create_book_data
+[[ RUN_DATA_GENRE -eq 1 ]] && create_genre_data
+[[ RUN_DATA_ACTIVITY -eq 1 ]] && create_activity_data
 
 if [[ $((RUN_ALL + RUN_FETCH_BOOKCOVER)) -gt 0 ]]; then
   if [[ ${#IDS[@]} -eq 0 ]] && [[ -f $ANNOTATIONS_FILE ]]; then
