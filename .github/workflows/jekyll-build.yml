@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: 'pages'
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -26,10 +26,11 @@ jobs:
         with:
           ref: ${{vars.MAIN_BRANCH}}
           path: main
-      - name: Checkout data branch
+
+      - name: Checkout assets branch
         uses: actions/checkout@v3
         with:
-          ref: ${{env.GITHUB_REF_NAME}}
+          ref: assets
           path: assets
 
       - name: Set env
@@ -37,23 +38,21 @@ jobs:
           echo "ASSETSDIR=$PWD/assets" >>$GITHUB_ENV
           echo "MAINDIR=$PWD/main" >>$GITHUB_ENV
 
-      - name: Build files in main dir
+      - name: Build _site files
         run: >
           ${{env.MAINDIR}}/scripts/build.sh --all-data-tasks --all-file-tasks
-          --genre-file ${{env.MAINDIR}}/docs/_data/genre.json
           --out ${{env.MAINDIR}}/docs
           ${{env.ASSETSDIR}}/annotations.json
 
       - name: Build bookcovers
         run: >
-          ${{env.MAINDIR}}/scripts/build.sh
-          --book-covers
+          ${{env.MAINDIR}}/scripts/build.sh --book-covers
           --out ${{env.ASSETSDIR}}
           ${{env.ASSETSDIR}}/annotations.json
 
       - name: Create store.json
-        run: >
-          cat ${{env.ASSETSDIR}}/store/*.json | jq -s '.' > ${{env.MAINDIR}}/docs/_data/store.json
+        run: |
+          jq -s '.' ${{env.ASSETSDIR}}/store/*.json > ${{env.MAINDIR}}/docs/_data/store.json
 
       - name: Commit and push
         working-directory: assets
@@ -74,6 +73,7 @@ jobs:
           source: ./main/docs
           destination: ./main/docs/_site
           verbose: false
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
