@@ -1,4 +1,5 @@
 main{letter-spacing:-.022em}
+label{font-weight:500}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a:hover{filter:opacity(.8)}
 .book a{cursor:pointer;text-decoration:none;font-family:helvetica neue,helvetica,sans-serif;color:#444;gap:.85rem;display:flex;flex-direction:column}

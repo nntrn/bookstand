@@ -5,7 +5,7 @@ layout: home
 {%- assign githubcoverurl = 'https://raw.githubusercontent.com/'| append: site.repository | append: '/'| append: site.book.branch | append: '/' | append: site.book.dir -%}
 {%- assign books = site.data.books | sort: "created" | reverse %}
 <style>
-  {% include books.css %}
+  {%- include books.css -%}
 </style>
 <div style="padding: .5rem 1rem">
   <p>Highlights from books I've read :)</p>
@@ -13,7 +13,7 @@ layout: home
 </div>
 <div class="books">
   {%- for book in books -%}
-  {%- assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first %}
+  {%- assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
   <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: "%F" }}" data-created="{{book.created|date:'%F'}}">
     <span class="sort-label" data-after="{{book.count}}"></span>
     <a href="{{ site.baseurl }}/{{ book.slug }}">
@@ -30,5 +30,5 @@ layout: home
   {%- endfor %}
 </div>
 <script>
-{% include sort.js %}
+{%- include sort.js -%}
 </script>
