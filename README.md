@@ -16,8 +16,7 @@ $ git clone -b assets https://github.com/nntrn/bookstand.git /path/to/bookstand-
 
 $ cd bookstand
 
-$ ./scripts/build.sh --all-data-tasks
-$ ./scripts/build.sh --all-file-tasks --genre-file docs/_data/genre.json
+$ ./scripts/build.sh --all-data-tasks --all-file-tasks  
 $ ./scripts/build.sh --book-covers --out /path/to/bookstand-assets
 
 $ jq -s '.' /path/to/bookstand-assets/store/*.json >docs/_data/store.json
