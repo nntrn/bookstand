@@ -33,7 +33,7 @@ function sortElements(url = location.search) {
   sortParent.dataset.sort = sortkey
 }
 
-document.querySelector("#sel").addEventListener('change', function (e) {
+document.querySelector("#sort-by").addEventListener('change', function (e) {
   sortElements(`?sort=${e.target.value}`)
 })
 
