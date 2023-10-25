@@ -1,0 +1,70 @@
+{
+  "id": "1392859745",
+  "title": "The American Heritage Dictionary of Idioms",
+  "subtitle": "American English Idiomatic Expressions & Phrases",
+  "author": "Christine Ammer",
+  "isbn": "9780547677538",
+  "genreNames": [
+    "Dictionaries & Thesauruses",
+    "Books",
+    "Reference",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=17990&salableAdamId=1392859745&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$17.99",
+      "price": 17.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3860928
+        }
+      ]
+    }
+  ],
+  "pageCount": 512,
+  "releaseDate": "2013-05-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From “all systems go” to “senior moment”—a comprehensive reference to idiomatic English.</b><br /> &#xa0;<br /> The <i>American Heritage® Dictionary of Idioms</i> explores the meanings and origins of idioms that may not make literal sense but play an important role in the language—including phrasal verbs such as <i>kick back</i>, proverbs such as <i>too many cooks spoil the broth</i>, interjections such as <i>tough beans</i>, and figures of speech such as <i>elephant in the room</i>.<br /> &#xa0;<br /> With extensive revisions that reflect new historical scholarship and changes in the English language, this second edition defines over 10,000 idiomatic expressions in greater detail than any other dictionary available today—a remarkable reference for those studying the English language, or anyone who enjoys learning its many wonderful quirks and expressions.<br /> &#xa0;<br /> “Invaluable as a teaching tool.” —<i>School Library Journal</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/52/5a/71/525a71ec-81bf-72c7-23f0-055e0c3a40b2/9780547677538.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "3a290c",
+    "textColor2": "332813",
+    "textColor4": "57441a",
+    "assetToken": "Publication125/v4/52/5a/71/525a71ec-81bf-72c7-23f0-055e0c3a40b2/9780547677538.jpg",
+    "textColor1": "0f0700",
+    "bgColor": "e5b438",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "sellerInfo": {
+    "name": "OpenRoad Integrated Media, LLC"
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "3.0 stars"
+  },
+  "name": "The American Heritage Dictionary of Idioms",
+  "isPreorder": false,
+  "publisher": "Houghton Mifflin Harcourt",
+  "artistName": "Christine Ammer",
+  "primaryLocale": "en-US"
+}

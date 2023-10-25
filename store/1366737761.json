@@ -1,0 +1,69 @@
+{
+  "id": "1366737761",
+  "title": "Plastic",
+  "subtitle": "A Toxic Love Story",
+  "author": "Susan Freinkel",
+  "isbn": "9780547549149",
+  "genreNames": [
+    "Nature",
+    "Books",
+    "Science & Nature",
+    "Professional & Technical",
+    "Engineering"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "description": {
+    "standard": "<b>“This eloquent, elegant book thoughtfully plumbs the .&#xa0;.&#xa0;. consequences of our dependence on plastics” (<i>The Boston Globe,</i> A Best Nonfiction Book of 2011).</b><br /> &#xa0;<br /> From pacemakers to disposable bags, plastic built the modern world. But a century into our love affair, we’re starting to realize it’s not such a healthy relationship. As journalist Susan Freinkel points out in this eye-opening book, we’re at a crisis point. Plastics draw on dwindling fossil fuels, leach harmful chemicals, litter landscapes, and destroy marine life. We’re drowning in the stuff, and we need to start making some hard choices.<br /> &#xa0;<br /> Freinkel tells her story through eight familiar plastic objects: a comb, a chair, a Frisbee, an IV bag, a disposable lighter, a grocery bag, a soda bottle, and a credit card. With a blend of lively anecdotes and analysis, she sifts through scientific studies and economic data, reporting from China and across the United States to assess the real impact of plastic on our lives.<br /> &#xa0;<br /> Her conclusion is severe, but not without hope. <i>Plastic</i> points the way toward a new creative partnership with the material we love, hate, and can’t seem to live without.<br /> &#xa0;<br /> “When you write about something so ubiquitous as plastic, you must be prepared to write in several modes, and Freinkel rises to this task. .&#xa0;.&#xa0;. She manages to render the most dull chemical reaction into vigorous, breathless sentences.” —<i>SF Gate</i><br /> &#xa0;<br /> “Freinkel’s smart, well-written analysis of this love-hate relationship is likely to make plastic lovers take pause, plastic haters reluctantly realize its value, and all of us understand the importance of individual action, political will, and technological innovation in weaning us off our addiction to synthetics.” —<i>Publishers Weekly</i><br /> &#xa0;<br /> “A compulsively interesting story. Buy it (with cash).” —Bill McKibben, author of <i>The End of Nature</i><br /> &#xa0;<br /> “What a great read—rigorous, smart, inspiring, and as seductive as plastic itself.” —Karim Rashid, designer<br /> &#xa0;"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=17990&salableAdamId=1366737761&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$17.99",
+      "price": 17.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1424922
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2011-04-18",
+  "isIBook": false,
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/80/cf/5b/80cf5b34-e2bc-b4b1-c2e3-3c63149faf4e/9780547549149.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "415220",
+    "textColor2": "4a2849",
+    "textColor4": "6b4e42",
+    "assetToken": "Publication118/v4/80/cf/5b/80cf5b34-e2bc-b4b1-c2e3-3c63149faf4e/9780547549149.jpg",
+    "textColor1": "162d1f",
+    "bgColor": "f1e926",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "sellerInfo": {
+    "name": "OpenRoad Integrated Media, LLC"
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 8,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      5,
+      1
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "name": "Plastic",
+  "publisher": "Houghton Mifflin Harcourt",
+  "isPreorder": false,
+  "artistName": "Susan Freinkel",
+  "primaryLocale": "en-US"
+}
