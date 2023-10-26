@@ -4,12 +4,13 @@ layout: home
 
 {%- assign githubcoverurl = 'https://raw.githubusercontent.com/'| append: site.repository | append: '/'| append: site.book.branch | append: '/' | append: site.book.dir -%}
 {%- assign books = site.data.books | sort: "created" | reverse %}
+{%- assign maxcount = site.data.books | sort: "count" | last %}
 <style>
   {%- include books.css -%}
 </style>
 <div style="padding: .5rem 1rem">
   <p>Highlights from books I've read :)</p>
-  {% include select.html %}
+  {% include filtersort.html %}
 </div>
 <div class="books">
   {%- for book in books -%}
@@ -17,18 +18,18 @@ layout: home
   <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: "%F" }}" data-created="{{book.created|date:'%F'}}">
     <span class="sort-label" data-after="{{book.count}}"></span>
     <a href="{{ site.baseurl }}/{{ book.slug }}">
-      <img src="{{githubcoverurl}}/{{book.assetid}}.jpg"
-        crossorigin="anonymous"
-        referrerpolicy="no-referrer"
-        title="{{title}} by {{book.author}}"/>
-      <label>
-        <strong>{{ title }}</strong>
-        <span class="clamp c2">{{ book.author }}</span>
-      </label>
+      <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" crossorigin="anonymous" referrerpolicy="no-referrer" title="{{title}} by {{book.author}}" />
     </a>
+    <label>
+      <a href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
+      <span class="clamp c2">{{ book.author }}</span>
+    </label>
   </div>
   {%- endfor %}
 </div>
 <script>
+const urlquery = (query = location.search) => Object.fromEntries(query.split(/[?&]/).filter(Boolean).map(e => e.split("=")));
+
 {%- include sort.js -%}
+{%- include filter.js -%}
 </script>

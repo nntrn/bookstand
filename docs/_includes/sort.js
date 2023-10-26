@@ -19,24 +19,23 @@ function prettyDate(dt) {
   return dt
 }
 
-function sortElements(url = location.search) {
-  const search = Object.fromEntries([...new URLSearchParams(url).entries()])
-  const sortkey = search.sort
-  const fnkey = sort.map[sortkey]
-  const sortParent = document.querySelector(`[data-${sortkey}]`).parentElement
+function sortElements(search = urlquery().sort) {
+
+  const fnkey = sort.map[search]
+  const sortParent = document.querySelector(`[data-${search}]`).parentElement
   Array.from(sortParent.children)
-    .sort((a, b) => sort[fnkey](a.dataset[sortkey], b.dataset[sortkey]))
+    .sort((a, b) => sort[fnkey](a.dataset[search], b.dataset[search]))
     .forEach((node) => {
       sortParent.appendChild(node)
-      node.querySelector(".sort-label").dataset.after = prettyDate(node.dataset[sortkey])
+      node.querySelector(".sort-label").dataset.after = prettyDate(node.dataset[search])
     })
-  sortParent.dataset.sort = sortkey
+  sortParent.dataset.sort = search
 }
 
 document.querySelector("#sort-by").addEventListener('change', function (e) {
-  sortElements(`?sort=${e.target.value}`)
+  sortElements(e.target.value)
 })
 
-if (location.search) {
+if (urlquery().sort) {
   sortElements()
 }
