@@ -4,7 +4,7 @@ layout: default
 ---
 
 <style>
-.box{padding:1rem 1rem}
+.box{padding:1rem 1.25rem}
 .column-container{margin:auto;column-width:max(250px,20vw);column-fill:balance;gap:2rem;column-count:1}
 .column-group{page-break-inside:avoid;margin-bottom:1rem}
 .posts li a:hover{text-decoration:underline}
@@ -39,7 +39,7 @@ small.up{font-size:.85em;margin-top: 2px;font-family: helvetica neue,helvetica,s
             <span class="clamp fs-90">{{book.author}}</span>
             <small class="up muted">{{book.created|date: '%b %-d %Y' }}</small>
           </div>
-          <span class="fs-80">{{book.count}}</span>
+          <span class="fs-90">{{book.count}}</span>
         </li>
         {%- endfor -%}
       </ul>
