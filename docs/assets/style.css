@@ -46,7 +46,7 @@ time{font-weight:700}
 .gap-lg{gap:1rem;row-gap:.25rem}
 .gap-md{gap:.5rem}
 .gap-sm{gap:.25rem}
-.header-container{border-bottom:1px solid #ccc;transition:all .4s ease;font-style:normal;z-index:1000;line-height:1.1;width:100%;text-decoration:none;color:#222;padding:.5rem 4%}
+.header-container{border-bottom:1px solid #ccc;transition:all .4s ease;font-style:normal;z-index:1000;line-height:1.1;width:100%;text-decoration:none;color:#222;padding:.5rem 1rem}
 .highlighted .loc{display:none}
 .highlighted span{background:#fff0b1}
 .icon{fill:currentColor}
