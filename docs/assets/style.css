@@ -108,7 +108,7 @@ header{padding:0 5rem}
 main{padding:0 5rem}
 }
 @media (orientation:portrait){
-[data-layout=book] .box{padding:0rem 2rem}
+[data-layout=book] .box{padding:0rem 1rem}
 [data-layout=book] .container{flex-direction:column-reverse;justify-content:flex-end}
 [data-layout=book] .page-content{border-bottom:1px solid #aaa}
 }
