@@ -1,0 +1,68 @@
+{
+  "id": "1543836062",
+  "title": "Crows",
+  "subtitle": "Encounters with the Wise Guys of the Avian World",
+  "author": "Candace Savage",
+  "isbn": "9781771640862",
+  "genreNames": [
+    "Nature",
+    "Books",
+    "Science & Nature",
+    "Fiction & Literature",
+    "Poetry"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1543836062&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 19187587
+        }
+      ]
+    }
+  ],
+  "pageCount": 136,
+  "releaseDate": "2015-04-20",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A treasure trove of stories, poems, and information on the brainy, black-feathered bird that’s rich in insight and humor.</b><br /><br /> This revised and expanded edition of Candace Savage’s best-selling book about ravens and crows is enhanced by additional paintings, drawings, and photos, as well as a fascinating selection of first-person stories and poems about remarkable encounters with crows. In one story, a pack of crows brilliantly thwarts an attack by a Golden Eagle; in another, a mischievous crow rescues the author from grief. And in a third piece, after nursing a battered baby crow back to health until it flies off with other crows, Louise Erdrich hauntingly describes her altered awareness as she listens for the “dark laugh” of crows while she works.<br /><br /> Based on two decades of audacious research by scientists around the world, the book also provides an unprecedented, evidence-based glimpse into corvids’ intellectual, social, and emotional lives. But whether viewed through the lens of science, myth, or everyday experience, the result is always the same. These birds are so smart—and so mysterious—they take your breath away.<br /><br /><b>Published in Partnership with the David Suzuki Institute</b>.<br /><br /><b>Praise for <i>Crows</i></b><br /><br /> “A beautifully crafted celebration of these birds.” —<i>Nature</i><br /><br /> “A deft juxtaposition of interesting anecdotes and firsthand accounts of scientific discoveries.” —<i>Canadian Literature</i><br /><br /> “Surprising avian revelations are contained within the pages of Savage’s glorious festival of crow arcana.” —<i>Alberta Views</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/ce/89/a1/ce89a194-badd-7e75-124c-a0f7ac51c115/9781771640862.jpg/{w}x{h}bb.{f}",
+    "height": 2059,
+    "textColor3": "3b3a34",
+    "textColor2": "2a2b27",
+    "textColor4": "525248",
+    "assetToken": "Publication114/v4/ce/89/a1/ce89a194-badd-7e75-124c-a0f7ac51c115/9781771640862.jpg",
+    "textColor1": "0d0d0e",
+    "bgColor": "f3efcc",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "sellerInfo": {
+    "name": "OpenRoad Integrated Media, LLC"
+  },
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 15,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      5,
+      8
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Crows",
+  "publisher": "Greystone Books",
+  "isPreorder": false,
+  "artistName": "Candace Savage",
+  "primaryLocale": "en-US"
+}
