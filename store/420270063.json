@@ -1,0 +1,64 @@
+{
+  "id": "420270063",
+  "title": "Who",
+  "subtitle": "The A Method for Hiring",
+  "author": "Geoff Smart & Randy Street",
+  "isbn": "9780345510440",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Economics",
+    "Industries & Professions"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=420270063&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2800239
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2008-09-30",
+  "isIBook": false,
+  "description": {
+    "standard": "In this instant <i>New York Times</i> Bestseller, Geoff Smart and Randy Street provide a simple, practical, and effective solution to what The Economist calls “the single biggest problem in business today”: unsuccessful hiring. The average hiring mistake costs a company $1.5 million or more a year and countless wasted hours. This statistic becomes even more startling when you consider that the typical hiring success rate of managers is only 50 percent. <br /><br />The silver lining is that “who” problems are easily preventable. Based on more than 1,300 hours of interviews with more than 20 billionaires and 300 CEOs, Who presents Smart and Street’s A Method for Hiring. Refined through the largest research study of its kind ever undertaken, the A Method stresses fundamental elements that anyone can implement–and it has a 90 percent success rate.<br /><br />Whether you’re a member of a board of directors looking for a new CEO, the owner of a small business searching for the right people to make your company grow, or a parent in need of a new babysitter, it’s all about Who. Inside you’ll learn how to<br /><br />• avoid common “voodoo hiring” methods<br />• define the outcomes you seek<br />• generate a flow of A Players to your team–by implementing the #1 tactic used by successful businesspeople<br />• ask the right interview questions to dramatically improve your ability to quickly distinguish an A Player from a B or C candidate<br />• attract the person you want to hire, by emphasizing the points the candidate cares about most<br /><br />In business, you are who you hire. In Who, Geoff Smart and Randy Street offer simple, easy-to-follow steps that will put the right people in place for optimal success."
+  },
+  "artwork": {
+    "width": 1878,
+    "height": 2849,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/54/8d/92/548d92a0-4b4f-2c21-702b-08ff7cbe2c6e/9780345510440.jpg/{w}x{h}bb.{f}",
+    "assetToken": "Publication4/v4/54/8d/92/548d92a0-4b4f-2c21-702b-08ff7cbe2c6e/9780345510440.jpg",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "sellerInfo": {
+    "name": "Penguin Random House LLC"
+  },
+  "userRating": {
+    "value": 4,
+    "ratingCount": 113,
+    "ratingCountList": [
+      13,
+      4,
+      10,
+      30,
+      56
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Who",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Geoff Smart & Randy Street",
+  "primaryLocale": "en-US"
+}
