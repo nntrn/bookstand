@@ -18,7 +18,8 @@ layout: home
   <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: "%F" }}" data-created="{{book.created|date:'%F'}}">
     <span class="sort-label" data-after="{{book.count}}"></span>
     <a href="{{ site.baseurl }}/{{ book.slug }}">
-      <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" crossorigin="anonymous" referrerpolicy="no-referrer" title="{{title}} by {{book.author}}" />
+      <span class="sort-label">{{book.count}}</span>
+      <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
     </a>
     <label>
       <a href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
