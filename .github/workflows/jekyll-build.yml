@@ -6,6 +6,9 @@ on:
       main_branch:
         required: false
         type: string
+  push:
+    paths:
+      - 'docs/**'
 
 permissions:
   contents: write
