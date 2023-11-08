@@ -1,0 +1,6 @@
+<script>
+  const urlquery = (query = location.search) => Object.fromEntries(query.split(/[?&]/).filter(Boolean).map(e => e.split("=")));
+
+  {%- include sort.js -%}
+  {%- include filter.js -%}
+</script>

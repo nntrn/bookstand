@@ -2,7 +2,7 @@ main{letter-spacing:-.022em}
 label{font-weight:500}
 #filter-range{max-width:calc(100vw / 4)}
 #filter-value:focus{outline:0;background:#f2f2f2}
-#filter-value{width:35px;font-size:12px;border:0;box-shadow:none;text-align:center;color:#aaa;margin-left:-4px}
+#filter-value{width:30px;font-size:12px;border:0;box-shadow:none;text-align:center;color:#aaa;margin-left:-4px}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{cursor:pointer;text-decoration:none;color:#4c4c4c;display:flex;flex-direction:column;font-weight:700;font-size:.9em;line-height:1.1}
 .book img:hover{filter:opacity(1) saturate(1.15);box-shadow:0 0 4px 2px rgba(0,0,0,.35);transition:all .15s ease}
@@ -14,10 +14,11 @@ label{font-weight:500}
 .book:hover{filter:opacity(.7)}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.4rem;line-height:1.2;display:flex;justify-content:center;row-gap:.6rem}
 .books.box{padding:2rem 1.5rem}
-.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:2rem 1.25rem;row-gap:2rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%}
+.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:2rem .5rem;row-gap:2rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
-.form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:.8rem;border:none;font-weight:700;text-align:center}
+.form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
+.panel{position:sticky;top:0;z-index:1;background:#fff;padding-bottom:.3rem}
 .sort-label:after{content:attr(data-after)}
 .sort-label:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M2.5 1A1.5 1.5 0 0 0 1 2.5v11A1.5 1.5 0 0 0 2.5 15h6.086a1.5 1.5 0 0 0 1.06-.44l4.915-4.914A1.5 1.5 0 0 0 15 8.586V2.5A1.5 1.5 0 0 0 13.5 1h-11zm6 8.5a1 1 0 0 1 1-1h4.396a.25.25 0 0 1 .177.427l-5.146 5.146a.25.25 0 0 1-.427-.177V9.5z"/></svg>')}
 .sort-label:before{left:0;content:'';width:.6rem;height:.6rem;background-size:contain;display:flex;left:0}
