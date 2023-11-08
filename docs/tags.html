@@ -29,21 +29,21 @@ small.up{font-size:.85em;margin-top: 2px;font-family: helvetica neue,helvetica,s
   <div class="column-container">
     {%- for genre in genres -%}
     <div class="column-group">
-      <h2 class="fs-80 up ss"><a href="{{ site.baseurl }}/tags/{{genre.name}}" class="tag">{{genre.name}}</a></h2>
+      <h2 class="up ss fsr-80"><a href="{{ site.baseurl }}/tags/{{genre.name}}" class="tag">{{genre.name}}</a></h2>
       <ul class="posts" data-tag="{{genre.name}}">
         {%- assign books = site.data.books|where: 'tags', genre.name |sort:"title" %}
         {%- for book in books -%}
         <li class="flex" data-modified="{{book.modified|date: '%F' }}">
           <div class="flex column">
             <a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
-            <span class="clamp fs-90">{{book.author}}</span>
-            <small class="up muted">{{book.created|date: '%b %-d %Y' }}</small>
+            <span class="clamp">{{book.author}}</span>
+            <span class="up muted">{{book.created|date: '%b %-d %Y' }}</span>
           </div>
-          <span class="fs-90">{{book.count}}</span>
+          <span class="">{{book.count}}</span>
         </li>
         {%- endfor -%}
       </ul>
-      <p class="hidden-md no-underline text-right ss fs-80 my-0"><a href="#tags" class="no">[TOP]</a></p>
+      <p class="hidden-md no-underline text-right ss my-0"><a href="#tags" class="no">[TOP]</a></p>
     </div>
     {%- endfor -%}
   </div>

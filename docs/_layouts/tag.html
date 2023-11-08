@@ -12,7 +12,7 @@ layout: default
     {% for book in books -%}
     <li>
       <span><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}</span>
-      <div class="flex gap-md fs-80 baseline ss"><span>{{book.created|date_to_string: "ordinal", "US"}}</span>&bullet;<span>{{book.count}} annotation{%- if book.count > 1 -%}s{%- endif -%}</span></div>
+      <div class="flex gap-md baseline ss"><span>{{book.created|date_to_string: "ordinal", "US"}}</span>&bullet;<span>{{book.count}} annotation{%- if book.count > 1 -%}s{%- endif -%}</span></div>
     </li>
     {% endfor %}
   </ul>
