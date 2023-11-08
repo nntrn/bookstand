@@ -12,6 +12,8 @@ DIR="${SCRIPT%/*}"
 
 cd $DIR || exit 1
 
+git pull
+
 if [[ -n "$(git ls-files -m annotations.json)" ]]; then
 
   IFS=$'\n' CHANGE_SUMMARY=($(
