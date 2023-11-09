@@ -8,16 +8,11 @@ layout: home
 <style>
 {% include books.css -%}
 </style>
-<div class="panel">
-  {% include filtersort.html %}
-</div>
-
-<div>
-  <strong>{{site.subtitle}}</strong>
-  <p>Highlights from books I've read :)</p>
-  
+<div class="box pt-0">
+  <div class="panel">
+    {% include filtersort.html %}
+  </div>
   <div class="books">
-  
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
     <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: '%F' }}" data-created="{{book.created|date:'%F'}}">
@@ -34,6 +29,4 @@ layout: home
   </div>
 </div>
 
-
 {% include urlscript.html %}
-

@@ -1,22 +1,18 @@
 function filterCount(n) {
-  Array.from(document.querySelectorAll('.books .book')).forEach(book => {
-    if (Number(book.dataset.count) > Number(n)) {
+  const num = typeof n === "object" ? n.target.value : n
+  $$(".books .book").forEach((book) => {
+    if (Number(book.dataset.count) > Number(num)) {
       book.hidden = false
     } else {
       book.hidden = true
     }
   })
-  document.querySelector("#filter-range").value = n
-  document.querySelector("#filter-value").value = n
+  $("#filter-range").value = num
+  $("#filter-value").value = num
 }
 
-document.querySelector("#filter-range").addEventListener('mouseup', function (ev) {
-  filterCount(ev.target.value)
-})
-
-document.querySelector("#filter-value").addEventListener('change', function (ev) {
-  filterCount(ev.target.value)
-})
+$("#filter-range").addEventListener("mouseup", filterCount)
+$("#filter-value").addEventListener("change", filterCount)
 
 if (urlquery().min) {
   filterCount(urlquery().min)

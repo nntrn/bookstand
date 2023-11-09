@@ -20,9 +20,8 @@ function prettyDate(dt) {
 }
 
 function sortElements(search = urlquery().sort) {
-
   const fnkey = sort.map[search]
-  const sortParent = document.querySelector(`[data-${search}]`).parentElement
+  const sortParent = $(`[data-${search}]`).parentElement
   Array.from(sortParent.children)
     .sort((a, b) => sort[fnkey](a.dataset[search], b.dataset[search]))
     .forEach((node) => {
@@ -32,7 +31,7 @@ function sortElements(search = urlquery().sort) {
   sortParent.dataset.sort = search
 }
 
-document.querySelector("#sort-by").addEventListener('change', function (e) {
+$("#sort-by").addEventListener('change', function (e) {
   sortElements(e.target.value)
 })
 

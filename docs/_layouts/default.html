@@ -15,8 +15,10 @@
 </head>
 <body data-layout="{{page.layout}}">
 <div class="site-container">
-{% include header.html %}
-<main>
+<header class="px-wide">
+  {% include header.html %}
+</header>
+<main class="px-wide">
 {{- content -}}
 </main>
 </div>
