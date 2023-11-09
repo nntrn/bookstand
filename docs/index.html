@@ -8,27 +8,32 @@ layout: home
 <style>
 {% include books.css -%}
 </style>
-<div>
-  <h2>{{site.subtitle}}</h2>
-  <p>Highlights from books I've read :)</p>
-</div>
 <div class="panel">
   {% include filtersort.html %}
 </div>
-<div class="books">
-  {% for book in books %}
-  {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
-  <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: '%F' }}" data-created="{{book.created|date:'%F'}}">
-    <a href="{{ site.baseurl }}/{{ book.slug }}">
-      <span class="sort-label"  data-after="{{book.count}}"></span>
-      <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
-    </a>
-    <label>
-      <a href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
-      <span class="clamp c2">{{ book.author }}</span>
-    </label>
+
+<div>
+  <strong>{{site.subtitle}}</strong>
+  <p>Highlights from books I've read :)</p>
+  
+  <div class="books">
+  
+    {% for book in books %}
+    {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
+    <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: '%F' }}" data-created="{{book.created|date:'%F'}}">
+      <a href="{{ site.baseurl }}/{{ book.slug }}">
+        <span class="sort-label"  data-after="{{book.count}}"></span>
+        <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
+      </a>
+      <label>
+        <a href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
+        <span class="clamp c2">{{ book.author }}</span>
+      </label>
+    </div>
+    {%- endfor %}
   </div>
-  {%- endfor %}
 </div>
+
+
 {% include urlscript.html %}
 
