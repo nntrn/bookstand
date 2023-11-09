@@ -6,7 +6,7 @@ layout: home
 {%- assign books = site.data.books | sort: "created" | reverse %}
 {%- assign maxcount = site.data.books | sort: "count" | last %}
 <style>
-  {% include books.css -%}
+{% include books.css -%}
 </style>
 <div>
   <h2>{{site.subtitle}}</h2>
