@@ -1,0 +1,68 @@
+{
+  "id": "1477631612",
+  "title": "The Science of Storytelling",
+  "subtitle": "Why Stories Make Us Human and How to Tell Them Better",
+  "author": "Will Storr",
+  "isbn": "9781683358183",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Harry N. Abrams, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1477631612&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1318573
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2020-03-10",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The compelling, groundbreaking guide to creative writing that reveals how the brain responds to storytelling</b><br />Stories shape who we are. They drive us to act out our dreams and ambitions and mold our beliefs. Storytelling is an essential part of what makes us human. So, how do master storytellers compel us? In <i>The Science of Storytelling</i>, award-winning writer and acclaimed teacher of creative writing Will Storr applies dazzling psychological research and cutting-edge neuroscience to our myths and archetypes to show how we can write better stories, revealing, among other things, how storytellers—and also our brains—create worlds by being attuned to moments of unexpected change.<br /><br />Will Storr’s superbly chosen examples range from Harry Potter to Jane Austen to Alice Walker, Greek drama to Russian novels to Native American folk tales, <i>King Lear</i> to <i>Breaking Bad</i> to children’s stories. With sections such as “The Dramatic Question,” “Creating a World,” and “Plot, Endings, and Meaning,” as well as a practical, step-by-step appendix dedicated to “The Sacred Flaw Approach,” <i>The Science of Storytelling</i> reveals just what makes stories work, placing it alongside such creative writing classics as John Yorke’s <i>Into the Woods: A Five-Act Journey into Story</i> and Lajos Egri’s <i>The Art of Dramatic Writing</i>. Enlightening and empowering, <i>The Science of Storytelling</i> is destined to become an invaluable resource for writers of all stripes, whether novelist, screenwriter, playwright, or writer of creative or traditional nonfiction."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/81/c4/85/81c485f8-c252-923a-139c-e4dd192b4304/9781683358183.jpg/{w}x{h}bb.{f}",
+    "height": 2100,
+    "textColor3": "d0d2d3",
+    "textColor2": "feea00",
+    "textColor4": "d1c107",
+    "assetToken": "Publication125/v4/81/c4/85/81c485f8-c252-923a-139c-e4dd192b4304/9781683358183.jpg",
+    "textColor1": "feffff",
+    "bgColor": "1c1f24",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "sellerInfo": {
+    "name": "Harry N. Abrams, Inc."
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 17,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      1,
+      13
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "The Science of Storytelling",
+  "isPreorder": false,
+  "publisher": "ABRAMS",
+  "artistName": "Will Storr",
+  "primaryLocale": "en-US"
+}
