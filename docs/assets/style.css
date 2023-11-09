@@ -17,7 +17,7 @@ hr{margin:.75rem 0;border:0}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scrollbar-width:thin}
 li{padding-left:.5rem;color:#1f2328}
 li>p{margin:0}
-main{transition:all .4s ease;overflow-y:auto;display:flex;flex-direction:column;justify-content:space-between;height:100vh;margin:auto;width:100%;scrollbar-width:thin;touch-action:manipulation;font-size:12px;padding:0 1rem}
+main{transition:all .4s ease;overflow-y:auto;display:flex;flex-direction:column;justify-content:space-between;height:100vh;margin:auto;width:100%;scrollbar-width:thin;touch-action:manipulation;font-size:12px/*! padding:0 1rem */}
 p.info{font-family:var(--font-family);font-size:.8rem}
 p{margin:.25rem 0}
 pre{overflow-x:hidden;white-space:pre-wrap}
@@ -104,6 +104,7 @@ time{font-weight:700}
 [data-layout=book] .page-content li{margin:0;white-space:normal;font-weight:400}
 [data-layout=tag] .container ul{gap:1.15rem;margin:.5rem 0}
 [data-layout=book] .container{flex-direction:column-reverse}
+[data-layout=home] main{padding:0 1rem}
 .hidden,[hidden]{display:none!important}
 @media (min-width:776px){
 .book-author:before{display:inline}
