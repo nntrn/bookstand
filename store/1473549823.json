@@ -1,0 +1,64 @@
+{
+  "id": "1473549823",
+  "title": "On Language",
+  "subtitle": "Chomsky's Classic Works: Language and Responsibility and Reflections on Language",
+  "author": "Noam Chomsky",
+  "isbn": "9781595587619",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1473549823&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1488365
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2017-02-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The two most popular titles by the noted linguist and critic in one volume—an ideal introduction to his work.</b><br /> &#xa0;<br /><i>On Language</i>&#xa0;features some of Noam Chomsky’s most informal and highly accessible work. In Part I,&#xa0;<i>Language and Responsibility</i>, Chomsky presents a fascinating self-portrait of his political, moral, and linguistic thinking. In Part II,&#xa0;<i>Reflections on Language</i>, Chomsky explores the more general implications of the study of language and offers incisive analyses of the controversies among psychologists, philosophers, and linguists over fundamental questions of language.<br /> &#xa0;<br /> “<i>Language and Responsibility</i>&#xa0;is a well-organized, clearly written and comprehensive introduction to Chomsky’s thought.” —<i>The New York Times Book Review</i><br /> &#xa0;<br /> “<i>Language and Responsibility</i>&#xa0;brings together in one readable volume Chomsky’s positions on issues ranging from politics and philosophy of science to recent advances in linguistic theory.&#xa0;.&#xa0;.&#xa0;. The clarity of presentation at times approaches that of Bertrand Russell in his political and more popular philosophical essays.” —<i>Contemporary Psychology</i><br /> &#xa0;<br /> “<i>Reflections on Language</i>&#xa0;is profoundly satisfying and impressive. It is the clearest and most developed account of the case of universal grammar and of the relations between his theory of language and the innate faculties of mind responsible for language acquisition and use.” —Patrick Flanagan"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/2c/7c/f6/2c7cf65b-981b-c052-c079-74d85e94fa0b/9781595587619.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "cccbcc",
+    "textColor2": "ceab80",
+    "textColor4": "a68967",
+    "assetToken": "Publication113/v4/2c/7c/f6/2c7cf65b-981b-c052-c079-74d85e94fa0b/9781595587619.jpg",
+    "textColor1": "feffff",
+    "bgColor": "060002",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "On Language",
+  "publisher": "The New Press",
+  "isPreorder": false,
+  "artistName": "Noam Chomsky",
+  "primaryLocale": "en-US"
+}
