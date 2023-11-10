@@ -1,0 +1,64 @@
+{
+  "id": "1501480708",
+  "title": "The Chicago Guide to Grammar, Usage, and Punctuation",
+  "subtitle": null,
+  "author": "Bryan A. Garner",
+  "isbn": "9780226191294",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1501480708&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 14557605
+        }
+      ]
+    }
+  ],
+  "pageCount": 552,
+  "releaseDate": "2016-05-16",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The authoritative guide to using the English language effectively, from “the greatest writer on grammar and usage that this country has ever produced” (David Yerkes, Columbia University).</b><br /> &#xa0;<br /> The author of&#xa0;<i>The Chicago Manual of Style</i>’s popular “Grammar and Usage” chapter, Bryan A. Garner is renowned for explaining the vagaries of English with absolute precision and utmost clarity. With&#xa0;<i>The Chicago Guide to Grammar, Usage, and Punctuation</i>, he has written the definitive guide for writers who want their prose to be both memorable and correct.<br /><br /> Garner describes standard literary English—the forms that mark writers and speakers as educated users of the language. He also offers historical context for understanding the development of these forms. The section on grammar explains how the canonical parts of speech came to be identified, while the section on syntax covers the nuances of sentence patterns as well as both traditional sentence diagramming and transformational grammar. The usage section provides an unprecedented trove of empirical evidence in the form of Google Ngrams, diagrams that illustrate the changing prevalence of specific terms over decades and even centuries of English literature. Garner also treats punctuation and word formation, and concludes the book with an exhaustive glossary of grammatical terms and a bibliography of suggested further reading and references.<br /><br /><i>The Chicago Guide to Grammar, Usage, and Punctuation</i>&#xa0;is a magisterial work, the culmination of Garner’s lifelong study of the English language. The result is a landmark resource that will offer clear guidelines to students, writers, and editors alike.<br /> &#xa0;<br /> “[A manual] for those of us laboring to produce expository prose: nonfiction books, journalistic articles, memorandums, business letters. The conservatism of his advice pushes you to consider audience and occasion, so that you will understand when to follow convention and when you can safely break it.”—John E. McIntyre,&#xa0;<i>Baltimore Sun</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/03/7b/8c/037b8c4b-1334-7c87-ed9f-31d0ecef9762/9780226191294.jpg/{w}x{h}bb.{f}",
+    "height": 2250,
+    "textColor3": "312511",
+    "textColor2": "1e1b0d",
+    "textColor4": "493310",
+    "assetToken": "Publication114/v4/03/7b/8c/037b8c4b-1334-7c87-ed9f-31d0ecef9762/9780226191294.jpg",
+    "textColor1": "00090e",
+    "bgColor": "f7941d",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 4,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      4
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The Chicago Guide to Grammar, Usage, and Punctuation",
+  "publisher": "The University of Chicago Press",
+  "isPreorder": false,
+  "artistName": "Bryan A. Garner",
+  "primaryLocale": "en-US"
+}
