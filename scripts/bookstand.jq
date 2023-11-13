@@ -79,7 +79,7 @@ def markdown_tmpl:
     "modified: \(.modified)",
     "tags: \(.tags|@json)",
     "slug: \(.slug)",
-    "description: \(dquote("Book highlights for "+.title+" by "+.author))",
+    "description: \(dquote("Bookmarks by @nntrn for "+.title+" by "+.author))",
     "---",
     ""
   ] | join("\n");

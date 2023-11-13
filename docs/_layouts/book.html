@@ -4,6 +4,7 @@ layout: default
 {%- assign pagecreated = page.date | date_to_string: "ordinal", "US" -%}
 {%- assign pagemodified = page.modified |  date_to_string: "ordinal", "US" -%}
 {%- assign api = site.data.store | where: 'id', page.assetid |first -%}
+{%- assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "rangestart" -%}
 
 <div class="container">
   <div class="sidebar pt-0 mt-1">
@@ -20,8 +21,8 @@ layout: default
       <span>Last on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
       {%- endif -%}
     </p>
-    {% assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "rangestart" %}
-    <div class="tag-list">
+    <p><span>{{annotations.size}} annotation{%- if annotations.size > 1 -%}s{%- endif -%}</span></p>
+    <div class="tag-list mt-1">
       {%- for tag in page.tags -%}
       <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>
       {%- endfor -%}
