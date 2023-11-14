@@ -4,7 +4,6 @@ layout: default
 ---
 
 <style>
-.box{padding:1rem 1.25rem}
 .column-container{margin:auto;column-width:max(250px,20vw);column-fill:balance;gap:2rem;column-count:1}
 .column-group{page-break-inside:avoid;margin-bottom:1rem}
 .posts li a:hover{text-decoration:underline}
@@ -25,7 +24,7 @@ small.up{font-size:.85em;margin-top: 2px;font-family: helvetica neue,helvetica,s
 </style>
 {% assign genres = site.data.genre %}
 <div class="box">
-  <h1 id="tags">tags</h1>
+  <h1 id="tags" style="font-size:1.3rem">tags</h1>
   <div class="column-container">
     {%- for genre in genres -%}
     <div class="column-group">
@@ -33,11 +32,18 @@ small.up{font-size:.85em;margin-top: 2px;font-family: helvetica neue,helvetica,s
       <ul class="posts" data-tag="{{genre.name}}">
         {%- assign books = site.data.books|where: 'tags', genre.name |sort:"title" %}
         {%- for book in books -%}
+        {%- assign bookcreated = book.created | date_to_string: "ordinal", "US" -%}
+        {%- assign bookmodified = book.modified |  date_to_string: "ordinal", "US" -%}
         <li class="flex" data-modified="{{book.modified|date: '%F' }}">
-          <div class="flex column">
+          <div class="flex column w-100">
             <a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
             <span class="clamp">{{book.author}}</span>
-            <span class="up muted">{{book.created|date: '%b %-d %Y' }}</span>
+            <div class="up flex gap-md ai-center">
+              <span class="">{{book.created|date: '%b %-d %Y' }}</span>
+              {%- if bookmodified != bookcreated %}
+              <span class="muted fs-90">(updated {{book.modified|date: '%b %-d %Y'}})</span>
+              {%- endif -%}
+            </div>
           </div>
           <span class="">{{book.count}}</span>
         </li>

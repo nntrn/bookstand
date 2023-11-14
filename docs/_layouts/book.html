@@ -7,9 +7,10 @@ layout: default
 {%- assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "rangestart" -%}
 
 <div class="container">
-  <div class="sidebar pt-0 mt-1">
+  <div class="sidebar pt-0 mt-1 pr-0">
+    <div style="padding-right:1.5rem;border-right:1px solid #222">
     {%- include postlist.html -%}
-    <div class="mt-2">{%- include social.html -%}</div>
+    </div>
   </div>
   <div class="page-content box pt-0 mt-1">
     <h2 class="book-title">{{ page.title }}</h2>
@@ -21,7 +22,7 @@ layout: default
       <span>Last on <time datetime="{{page.modified}}">{{pagemodified}}</time>.</span>
       {%- endif -%}
     </p>
-    <p><span>{{annotations.size}} annotation{%- if annotations.size > 1 -%}s{%- endif -%}</span></p>
+    <p><span class="fs-90 up muted">{{annotations.size}} annotation{%- if annotations.size > 1 -%}s{%- endif -%}</span></p>
     <div class="tag-list mt-1">
       {%- for tag in page.tags -%}
       <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>
