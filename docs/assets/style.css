@@ -22,6 +22,9 @@ p.info{font-family:var(--font-family);font-size:.8rem}
 p{margin:.25rem 0}
 pre{overflow-x:hidden;white-space:pre-wrap}
 time{font-weight:700}
+footer{border-top:1px solid #ddd;width:100%;margin:auto;z-index:1000;margin:2rem 0;padding-right:1.5rem;padding:1rem 1.25rem}
+footer ul{display:flex;margin:0 0;padding:0 0;flex:10;flex-direction:row}
+footer ul li{display:block;padding:0 0}
 .ac-center{align-content:center}
 .ai-center{align-items:center}
 .annotations li span{white-space:pre-wrap}

@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>{{page.title|default:site.title}} | @nntrn</title>
+<title>{{page.title|default:site.title}} | bookstand</title>
+<meta name="author" content="Annie Tran (@nntrn)" />
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
@@ -20,6 +21,8 @@
 </header>
 <main class="px-wide">
 {{- content -}}
+
+{% include footer.html %}
 </main>
 </div>
 </body>
