@@ -52,10 +52,6 @@ jobs:
           --out ${{env.ASSETSDIR}}
           ${{env.ASSETSDIR}}/annotations.json
 
-      - name: Create store.json
-        run: |
-          jq -s '.' ${{env.ASSETSDIR}}/store/*.json > ${{env.MAINDIR}}/docs/_data/store.json
-
       - name: Commit and push
         working-directory: assets
         run: |

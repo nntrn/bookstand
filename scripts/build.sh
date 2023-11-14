@@ -7,16 +7,12 @@ OUTDIR=${SCRIPT%/*/*}/docs
 CACHEDIR=$HOME/.cache/bookstand
 MINWIDTH=${MINWIDTH:-200}
 FORCE=${FORCE:-0}
-CANCEL_ON_ERROR=1
-RUN_ALL=0
+CANCEL_ON_ERROR=1s
 RUN_CREATE_ANNOTATION_PAGES=0
 RUN_CREATE_TAG_PAGES=0
 RUN_DATA_ACTIVITY=0
 RUN_DATA_BOOK=0
 RUN_DATA_GENRE=0
-RUN_DATA_TASKS=0
-RUN_FETCH_BOOKCOVER=0
-RUN_FILE_TASKS=0
 
 _usage() {
   echo "
@@ -185,8 +181,26 @@ create_tag_files() {
   [[ ! -f $OUTDIR/_tags/.gitignore ]] && echo "*" >$OUTDIR/_tags/.gitignore
 }
 
+create_store_data() {
+  cd $DIR
+  cd "$(git rev-parse --show-toplevel)"
+  REMOTE_URL=$(git config --local --get remote.origin.url)
+  mkdir -p $OUTDIR/_data
+  (
+    cd "$(mktemp -d)"
+    git clone --depth 1 -b assets $REMOTE_URL assets &>/dev/null
+    jq -s 'map({
+    id,title,subtitle,
+    author,isbn,genreNames,pageCount, 
+    cover: (.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg")
+  })' ./assets/store/*.json
+  ) >$OUTDIR/_data/store.json
+}
+
 ARGS=($@)
 IDS=()
+
+mkdir -p $CACHEDIR
 
 if [[ $# -gt 0 ]]; then
   for i in "${!ARGS[@]}"; do
@@ -197,58 +211,70 @@ if [[ $# -gt 0 ]]; then
     case "$cur" in
     -h | --help) _usage ;;
     -f | --force) FORCE=1 ;;
-
     -o | --out) OUTDIR="${next}" ;;
     -w | --width) MINWIDTH=$next ;;
     -c | --clean) CLEAN_BUILD=1 ;;
 
+    *.json) ANNOTATIONS_FILE="${cur}" ;;
+
+    [0-9][0-9][0-9][0-9][0-9]*) IDS+=("$cur") ;;
+
     --books) RUN_DATA_BOOK=1 ;;
     --genre) RUN_DATA_GENRE=1 ;;
+    --store) RUN_DATA_STORE=1 ;;
     --activity) RUN_DATA_ACTIVITY=1 ;;
+
     --tags) RUN_CREATE_TAG_PAGES=1 ;;
     --annotations) RUN_CREATE_ANNOTATION_PAGES=1 ;;
-    --book-covers) RUN_FETCH_BOOKCOVER=1 ;;
-    --all-data-tasks) RUN_DATA_TASKS=1 ;;
-    --all-file-tasks) RUN_FILE_TASKS=1 ;;
 
-    *.json) ANNOTATIONS_FILE="${cur}" ;;
-    [0-9][0-9][0-9][0-9][0-9]*) IDS+=("$cur") ;;
+    --all-data-tasks)
+      RUN_DATA_BOOK=1
+      RUN_DATA_GENRE=1
+      RUN_DATA_ACTIVITY=1
+      RUN_DATA_STORE=1
+      ;;
+    --all-file-tasks)
+      RUN_CREATE_TAG_PAGES=1
+      RUN_CREATE_ANNOTATION_PAGES=1
+      ;;
+
+    --book-covers) RUN_DOWNLOAD_BOOKCOVERS=1 ;;
+
+    # --all-data-tasks) RUN_DATA_TASKS=1 ;;
+    # --all-file-tasks) RUN_FILE_TASKS=1 ;;
+
     esac
   done
 else
   _usage
 fi
 
-mkdir -p $CACHEDIR
-
 if [[ -z $ANNOTATIONS_FILE ]]; then
   ANNOTATIONS_FILE=$(mktemp)
   curl -s -o $ANNOTATIONS_FILE https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
-  check_job $? "Download annotations.json from remote"
 fi
 
-if [[ $RUN_FILE_TASKS -eq 1 ]]; then
-  RUN_CREATE_TAG_PAGES=1
-  RUN_CREATE_ANNOTATION_PAGES=1
-fi
+[[ $RUN_CREATE_TAG_PAGES -eq 1 ]] && create_tag_files
+[[ $RUN_CREATE_ANNOTATION_PAGES -eq 1 ]] && create_annotation_files
+[[ $RUN_DATA_BOOK -eq 1 ]] && create_book_data
+[[ $RUN_DATA_GENRE -eq 1 ]] && create_genre_data
+[[ $RUN_DATA_ACTIVITY -eq 1 ]] && create_activity_data
+[[ $RUN_DATA_STORE -eq 1 ]] && create_store_data
 
-if [[ $RUN_DATA_TASKS -eq 1 ]]; then
-  RUN_DATA_BOOK=1
-  RUN_DATA_GENRE=1
-  RUN_DATA_ACTIVITY=1
-fi
-
-[[ RUN_CREATE_TAG_PAGES -eq 1 ]] && create_tag_files
-[[ RUN_CREATE_ANNOTATION_PAGES -eq 1 ]] && create_annotation_files
-[[ RUN_DATA_BOOK -eq 1 ]] && create_book_data
-[[ RUN_DATA_GENRE -eq 1 ]] && create_genre_data
-[[ RUN_DATA_ACTIVITY -eq 1 ]] && create_activity_data
-
-if [[ $((RUN_ALL + RUN_FETCH_BOOKCOVER)) -gt 0 ]]; then
-  if [[ ${#IDS[@]} -eq 0 ]] && [[ -f $ANNOTATIONS_FILE ]]; then
+if [[ $RUN_DOWNLOAD_BOOKCOVERS -eq 1 ]]; then
+  if [[ ${#IDS[@]} -eq 0 ]]; then
     IDS=($(jq -r 'map(select(.ZASSETID)|.ZASSETID)|unique|join("\n")' $ANNOTATIONS_FILE))
   fi
   for id in "${IDS[@]}"; do
     get_book_cover $id
   done
 fi
+
+# if [[ $((RUN_ALL + RUN_FETCH_BOOKCOVER)) -gt 0 ]]; then
+#   if [[ ${#IDS[@]} -eq 0 ]] && [[ -f $ANNOTATIONS_FILE ]]; then
+#     IDS=($(jq -r 'map(select(.ZASSETID)|.ZASSETID)|unique|join("\n")' $ANNOTATIONS_FILE))
+#   fi
+#   for id in "${IDS[@]}"; do
+#     get_book_cover $id
+#   done
+# fi

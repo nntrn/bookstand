@@ -4,33 +4,18 @@ set -e
 
 ARGS=("$@")
 SCRIPT="$(realpath "$0")"
+DIR="${SCRIPT%/*}"
 
-cd "${SCRIPT%/*}"
+BUILD_SCRIPT=$DIR/build.sh
 
-if [[ -f build.sh ]]; then
-  BUILD_SCRIPT=$PWD/build.sh
-fi
-
-DIR="$(git rev-parse --show-toplevel)"
-REMOTE_URL=$(git config --local --get remote.origin.url)
-
-get_store_data() {
-  (
-    cd "$(mktemp -d)"
-    git clone --depth 1 -b assets $REMOTE_URL assets &>/dev/null
-    jq -s 'map({id,title,subtitle,author,isbn,genreNames,pageCount,
-      cover: (.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg") 
-    })' ./assets/store/*.json
-  )
-}
+cd "$(git rev-parse --show-toplevel)"
 
 if grep -q 'rebuild' <<<"${ARGS[@]}"; then
   echo "Removing _site and .jekyll-cache"
-  [[ -d $DIR/docs/_site ]] && rm -rf $DIR/docs/_site
-  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $DIR/docs/.jekyll-cache
-  $BUILD_SCRIPT --all-data-tasks --all-file-tasks --out $DIR/docs
-  get_store_data >$DIR/docs/_data/store.json
+  [[ -d $DIR/docs/_site ]] && rm -rf $PWD/docs/_site
+  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $PWD/docs/.jekyll-cache
+  $BUILD_SCRIPT --all-data-tasks --all-file-tasks --out $PWD/docs
 fi
 
-cd $DIR/docs || exit
+cd docs || exit
 bundle exec jekyll serve

@@ -134,7 +134,8 @@ def chaptername($location):
   | gsub("[_-]+";" ")
   | gsub("[\\s ]$";"";"x")
   | gsub("(?<w>[a-zA-Z])(?<d>[0-9])"; .w + " " + .d)
-  | gsub("^[xc][hapter ]+";"Chapter ";"xi")
+  | gsub("^[Ccx]([hapter ]+)? ";"Chapter ";"xi")
+  | gsub("^[iI][nt][cdinortu]+(?<s>[\\s])?";"Introduction" + .s;"xi")
   | gsub(" [0]+(?<n>[1-9])";" " +.n)
   ;
 
@@ -146,7 +147,9 @@ def activity_list:
     assetid: .ZASSETID,
     text: (.ZANNOTATIONSELECTEDTEXT|remove_citations|format_text),
     created: .ZANNOTATIONCREATIONDATE,
+    location: .ZANNOTATIONLOCATION,
     cfi: (epublocation(.ZANNOTATIONLOCATION)),
+    chapter2: chaptername(.ZANNOTATIONLOCATION) ,
     chapter: (if ((.ZFUTUREPROOFING5|length)>0) then .ZFUTUREPROOFING5 else chaptername(.ZANNOTATIONLOCATION) end),
     rangestart: .ZPLLOCATIONRANGESTART
   })
