@@ -4,7 +4,7 @@ a:focus{color:#1f2328}
 a:hover:not(img){filter:opacity(.9);color:#aaa}
 a.header-container{display:flex}
 a,u{text-decoration-skip-ink:none;text-decoration-thickness:1.2px}
-a{color:#06c}
+a{color:var(--link-color)}
 body{font-family:var(--font-family);font-size:14px;padding:0;margin:0;line-height:1.35;scrollbar-width:thin;overflow-y:hidden;scroll-behavior:smooth;overflow-x:hidden;word-spacing:-.25px;overscroll-behavior:contain}
 footer{padding-bottom:2em}
 h1,h2,h3{margin:0 0}
@@ -100,7 +100,6 @@ footer ul li{display:block;padding:0 0}
 .site-title a{color:#222;text-decoration:none;color:#222;letter-spacing:-.25px;font-weight:800}
 .site-title{display:block;font-weight:700;font-size:1.35rem;-webkit-font-smoothing:antialiased}
 .social svg{width:16px;height:16px}
-.social{color:#222;background:0 0}
 .ss{font-family:var(--font-family)}
 .tag-list .tag:before{content:"#"}
 .tag-list .tag{display:block;padding:0;margin:0;background:#eee;color:#222;padding:.1em .3em;font-family:var(--font-family);border-radius:1px;text-decoration:none}
