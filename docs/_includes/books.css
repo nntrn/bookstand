@@ -1,7 +1,8 @@
 label{font-weight:500}
 #filter-value:focus{background:#f2f2f2}
-#filter-value{width:25px;font-size:.9em;border:none;box-shadow:none;color:#aaa;padding:1px 3px;border-radius:4px;outline:0}
+#filter-value{width:25px;font-size:.85em;border:none;box-shadow:none;color:#aaa;padding:1px 3px;border-radius:4px;outline:0}
 #filter-value:hover{background:#f2f2f2}
+#filter-range{max-width:35vw}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{cursor:pointer;text-decoration:none;color:#4c4c4c;display:flex;flex-direction:column;font-weight:700;font-size:.9em;line-height:1.1}
 .book img:hover{filter:opacity(.95) saturate(1.05);box-shadow:0 0 2px 1px rgba(0,0,0,.25);transition:all .35s ease}
@@ -12,7 +13,7 @@ label{font-weight:500}
 .book strong{color:#444;font-size:.8rem;font-weight:600}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.4rem;line-height:1.2;display:flex;justify-content:center;row-gap:.6rem}
 .books.box{padding:2rem 1.5rem}
-.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%;width:100%}
+.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:10vw;scrollbar-width:thin;height:100%;width:100%}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
 .form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
@@ -25,7 +26,7 @@ label{font-weight:500}
 [data-sort=created] .sort-label:before,[data-sort=updated] .sort-label:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><path d="M14 2h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h1V0h2v2h6V0h2v2ZM3 6v9h12V6H3Zm2 2h2v2H5V8Zm0 3h2v2H5v-2Zm3 0h2v2H8v-2Zm3 0h2v2h-2v-2Zm0-3h2v2h-2V8ZM8 8h2v2H8V8Z"/></svg>')}
 @media (min-width:776px){
 .books.box{padding:3rem 3rem}
-.books{column-gap:2.5rem;row-gap:1.5rem}
+.books{column-gap:2.5rem;row-gap:1.5rem;justify-content:space-between;padding: 0 .15rem;}
 .books img{width:100px}
 }
 input[type=range]{-webkit-appearance:none;appearance:none;background:#ddd;border-radius:10px;cursor:pointer;height:4px}
