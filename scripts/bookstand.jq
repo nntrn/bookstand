@@ -148,8 +148,8 @@ def activity_list:
     text: (.ZANNOTATIONSELECTEDTEXT|remove_citations|format_text),
     created: .ZANNOTATIONCREATIONDATE,
     location: .ZANNOTATIONLOCATION,
-    cfi: (epublocation(.ZANNOTATIONLOCATION)),
-    chapter2: chaptername(.ZANNOTATIONLOCATION) ,
+    cfiarr: (epublocation(.ZANNOTATIONLOCATION)),
+    cfi:(epublocation(.ZANNOTATIONLOCATION)),
     chapter: (if ((.ZFUTUREPROOFING5|length)>0) then .ZFUTUREPROOFING5 else chaptername(.ZANNOTATIONLOCATION) end),
     rangestart: .ZPLLOCATIONRANGESTART
   })

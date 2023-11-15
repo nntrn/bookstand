@@ -4,7 +4,7 @@ layout: default
 {%- assign pagecreated = page.date | date_to_string: "ordinal", "US" -%}
 {%- assign pagemodified = page.modified |  date_to_string: "ordinal", "US" -%}
 {%- assign api = site.data.store | where: 'id', page.assetid |first -%}
-{%- assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "rangestart" -%}
+{%- assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "cfi" -%}
 
 <div class="container">
   <div class="sidebar pt-0 mt-1 pr-0">
@@ -25,18 +25,19 @@ layout: default
     <p><span class="fs-90 up muted">{{annotations.size}} annotation{%- if annotations.size > 1 -%}s{%- endif -%}</span></p>
     <div class="tag-list mt-1">
       {%- for tag in page.tags -%}
-      <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag">{{ tag }}</a>
+      <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag fs-90">{{ tag }}</a>
       {%- endfor -%}
     </div>
     <hr>
     {%- assign chapters = annotations | group_by: "chapter" -%}
     {%- for chapter in chapters -%}
+    {%- assign sortedchapteritems = chapter.items | sort: "cfiarr" -%}
     <h3>{{chapter.name}}</h3>
     <ul class="annotations flex-list">
-      {%- for annotation in chapter.items -%}
+      {%- for annotation in sortedchapteritems -%}
       <li id="{{annotation.id}}"
           data-location="{{annotation.cfi}}"
-          data-created="{{annotation.created|date_to_xmlschema}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
+          data-created="{{annotation.created|date: '%F %-I:%M%p'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
       {% endfor -%}
     </ul>
     {%- endfor -%}
