@@ -27,8 +27,7 @@ footer ul{display:flex;margin:0 0;padding:0 0;flex:10;flex-direction:row}
 footer ul li{display:block;padding:0 0}
 .ac-center{align-content:center}
 .ai-center{align-items:center}
-.annotations li span{white-space:pre-wrap}
-.annotations{width:97%}
+.annotations li{position:relative}
 .baseline{align-items:baseline}
 .book-author:before{content:"by";font-size:12px;font-weight:500;font-family:georgia,serif;margin-right:.3em;font-style:italic}
 .book-author{font-size:1em;line-height:2}
@@ -64,7 +63,7 @@ footer ul li{display:block;padding:0 0}
 .inline-flex{display:inline-flex}
 .lh-1{line-height:1}
 .lh-120{line-height:1.3}
-.loc{text-decoration:none;font-family:georgia;line-height:1;font-size:.95em;/*! margin-left:4px; */color:#7b7b7b;float:inline-end;width:11px;display:inline-flex;justify-content:center;align-content:center;height:11px;align-items:center;padding:0;background:#ddd;border-radius:1px}
+.loc{text-decoration:none;font-family:georgia;line-height:1;font-size:.95em;color:#7b7b7b;width:11px;justify-content:center;align-content:center;height:11px;align-items:center;padding:0;background:#ddd;border-radius:1px;display:inline-flex;margin-left:3px}
 .loc:hover{background:#bbbbbb2b;filter:opacity(1)}
 .loc:focus{color:#fff}
 .mt-1{margin-top:1rem}
