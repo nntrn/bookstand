@@ -38,10 +38,10 @@ small.up{font-size:.85em;margin-top: 2px;font-family: helvetica neue,helvetica,s
           <div class="flex column w-100">
             <a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
             <span class="clamp">{{book.author}}</span>
-            <div class="up flex gap-md ai-center">
+            <div class="up flex gap-md ai-center ws-pre">
               <span class="">{{book.created|date: '%b %-d %Y' }}</span>
               {%- if bookmodified != bookcreated %}
-              <span class="muted fs-90">(updated {{book.modified|date: '%b %-d %Y'}})</span>
+              <span class="updated">{{book.modified|date: '%b %-d %Y'}}</span>
               {%- endif -%}
             </div>
           </div>
