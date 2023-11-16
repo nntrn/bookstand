@@ -1,0 +1,65 @@
+{
+  "id": "1338665637",
+  "title": "Dent's Modern Tribes",
+  "subtitle": "The Secret Languages of Britain",
+  "author": "Susie Dent",
+  "isbn": "9781473623880",
+  "genreNames": [
+    "Humor",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1338665637&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1592866
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2016-10-20",
+  "isIBook": false,
+  "description": {
+    "standard": "Did you know that . . . a soldier's biggest social blunder is called <b>jack brew</b> - making yourself a cuppa without making one for anyone else? That twitchers have an expression for a bird that can't be identified - <b>LBJ</b> (the letters stand for <b>L</b>ittle <b>B</b>rown <b>J</b>ob)? Or that builders call plastering the ceiling <b>doing Lionel Richie's dancefloor</b>? Susie Dent does.<br /><br />Ever wondered why football managers all speak the same way, what a cabbie calls the Houses of Parliament, or how ticket inspectors discreetly request back-up? We are surrounded by hundreds of tribes, each speaking their own distinct slanguage of colourful words, jokes and phrases, honed through years of conversations on the battlefield, in A&amp;E, backstage, or at ten-thousand feet in the air. <br /><br />Susie Dent has spent years interviewing hundreds of professionals, hobbyists and enthusiasts, and the result is an idiosyncratic phrasebook like no other. From the Freemason's handshake to the publican's banter, <i>Dent's Modern Tribes</i> takes us on a whirlwind tour of Britain, decoding its secret languages and, in the process, finds out what really makes us all tick."
+  },
+  "artwork": {
+    "width": 1681,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/8e/d5/ba/8ed5bab1-a8a5-7a0f-a12f-a0dc3fbbda34/9781473623880.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "192b2f",
+    "textColor2": "0d1c1f",
+    "textColor4": "223e43",
+    "assetToken": "Publication128/v4/8e/d5/ba/8ed5bab1-a8a5-7a0f-a12f-a0dc3fbbda34/9781473623880.jpg",
+    "textColor1": "020407",
+    "bgColor": "76c9d1",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Dent's Modern Tribes",
+  "isPreorder": false,
+  "publisher": "John Murray Press",
+  "artistName": "Susie Dent",
+  "primaryLocale": "en-US"
+}
