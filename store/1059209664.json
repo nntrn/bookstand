@@ -1,0 +1,66 @@
+{
+  "id": "1059209664",
+  "title": "Story Genius",
+  "subtitle": "How to Use Brain Science to Go Beyond Outlining and Write a Riveting Novel (Before You Waste Three Years Writing 327 Pages That Go Nowhere)",
+  "author": "Lisa Cron",
+  "isbn": "9781607748908",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Science & Nature"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=1059209664&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7995979
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2016-08-09",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Following on the heels of Lisa Cron's breakout first book, <i>Wired for Story</i>, this writing guide reveals how to use cognitive storytelling strategies to build a scene-by-scene blueprint for a riveting story</b>. <br /><br />It’s every novelist’s greatest fear: pouring their blood, sweat, and tears into writing hundreds of pages only to realize that their story has no sense of urgency, no internal logic, and so is a page one rewrite.&#xa0;<br /><br />The prevailing wisdom in the writing community is that there are just two ways around this problem: pantsing (winging it) and plotting (focusing on the external plot). Story coach Lisa Cron has spent her career discovering why these methods don’t work and coming up with a powerful alternative, based on the science behind what our brains are wired to crave in every story we read (and it’s not what you think).&#xa0;<br /><br />In <i>Story Genius </i>Cron takes you, step-by-step, through the creation of a novel from the first glimmer of an idea, to a complete multilayered blueprint—including fully realized scenes—that evolves into a first draft with the authority, richness, and command of a riveting sixth or seventh draft."
+  },
+  "artwork": {
+    "width": 1625,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/8c/4a/16/8c4a16c6-3188-2ccf-d5bb-303e7cd802c3/9781607748908.jpg/{w}x{h}bb.{f}",
+    "height": 2438,
+    "textColor3": "51514d",
+    "textColor2": "31312d",
+    "textColor4": "5a5952",
+    "assetToken": "Publication128/v4/8c/4a/16/8c4a16c6-3188-2ccf-d5bb-303e7cd802c3/9781607748908.jpg",
+    "textColor1": "252626",
+    "bgColor": "fffce9",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 28,
+    "ratingCountList": [
+      2,
+      0,
+      2,
+      5,
+      19
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Story Genius",
+  "publisher": "Clarkson Potter/Ten Speed",
+  "isPreorder": false,
+  "artistName": "Lisa Cron",
+  "primaryLocale": "en-US"
+}

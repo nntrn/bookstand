@@ -1,0 +1,66 @@
+{
+  "id": "6443078930",
+  "title": "An Emotional Dictionary",
+  "subtitle": "Real Words for How You Feel, from Angst to Zwodder",
+  "author": "Susie Dent",
+  "isbn": "9781529379693",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Humor"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=7990&salableAdamId=6443078930&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$7.99",
+      "price": 7.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3596468
+        }
+      ]
+    }
+  ],
+  "pageCount": 400,
+  "releaseDate": "2022-10-13",
+  "isIBook": false,
+  "description": {
+    "standard": "Whether it's the distress of a bad haircut (AGE-OTORI) or longing for the food someone else is eating (GROAKING), the pleasure found in other people's happiness (CONFELICITY) or the shock of jumping into icy water (CURGLAFF), there are real words to pinpoint exactly how you feel and Susie Dent, Queen of <i>Countdown</i>'s Dictionary Corner and lexicographer extraordinaire, is going to help you find them.<br /><br /> Here are 1001 terms everyone needs, whether it's the best kind of hug (CWTCH), the relief found in swearing (LALOCHEZIA), or the ability to endure till the end (PERTOLERANCE).<br /><br /> It's time to rediscover the lost positives of language (and be more GORM); find out how a stork gave us the word for the love between parent and child, and who the first MAVERICK was. Packed with unexpected stories and unforgettable words, on a mission to describe the indescribable, this life-enhancing book will deepen your vocabulary as much as it extends it. <br /><br /> Welcome to the first truly human dictionary, as idiosyncratic and unusual as you are."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/63/b1/29/63b12946-10a5-d5a6-84f4-61193842b85f/9781529379693.jpg/{w}x{h}bb.{f}",
+    "height": 2253,
+    "textColor3": "0a3434",
+    "textColor2": "2b1334",
+    "textColor4": "223954",
+    "assetToken": "Publication112/v4/63/b1/29/63b12946-10a5-d5a6-84f4-61193842b85f/9781529379693.jpg",
+    "textColor1": "0d0d0d",
+    "bgColor": "00d0d2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "ariaLabelForRatings": "3.5 stars"
+  },
+  "name": "An Emotional Dictionary",
+  "isPreorder": false,
+  "publisher": "John Murray Press",
+  "artistName": "Susie Dent",
+  "primaryLocale": "en-US"
+}
