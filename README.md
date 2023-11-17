@@ -10,7 +10,7 @@ queryibooks >annotations.json
 
 ## Usage
 
-### Create collections
+### Build collection files
 
 ```sh
 # Create files in docs/_tags/*.html
@@ -53,8 +53,8 @@ cd bookstand
 ./scripts/start.sh
 ./scripts/start.sh --rebuild
 
-./scripts/build.sh --all-data-tasks --all-file-tasks --out $TESTDIR-all $ANNOTATIONS_FILE
-./scripts/build.sh --book-covers --out $TESTDIR-all $ANNOTATIONS_FILE
+./scripts/build.sh --all-data-tasks --all-file-tasks --out ./docs
+./scripts/build.sh --book-covers --out /path/to/asset/branch/covers
 ```
 
 See how this project is built in [workflows/jekyll-build.yml](.github/workflows/jekyll-build.yml)
