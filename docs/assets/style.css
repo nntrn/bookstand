@@ -1,6 +1,6 @@
 *,::after,::before{box-sizing:border-box}
 :root{--font-family:'arial nova','helvetica neue',helvetica,sans-serif;--link-color:#0074D9}
-body{font-weight:500;font-family:var(--font-family);font-size:14px;padding:0;margin:0;line-height:1.35;scrollbar-width:thin;overflow-y:hidden;scroll-behavior:smooth;overflow-x:hidden;word-spacing:-.25px;overscroll-behavior:contain;word-break:break-word;font-kerning:auto;font-variant:normal;color:#444}
+body{font-family:var(--font-family);font-size:14px;padding:0;margin:0;line-height:1.35;scrollbar-width:thin;overflow-y:hidden;scroll-behavior:smooth;overflow-x:hidden;word-spacing:-.25px;overscroll-behavior:contain;word-break:break-word;font-kerning:auto;font-variant:normal;color:#444}
 a:focus{color:#1f2328}
 a:hover:not(img){filter:opacity(.9);color:#aaa}
 a.header-container{display:flex}
@@ -95,7 +95,7 @@ footer ul li{display:block;padding:0 0}
 .serif{font-family:times,serif}
 .sidebar{padding:0 1.05rem}
 .sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.5rem;font-family:var(--font-family)}
-.site-container{overflow-y:auto;position:relative;scrollbar-width:thin}
+.site-container{overflow-y:auto;position:relative;scrollbar-width:thin;box-shadow:inset 0 0 12px rgba(0,0,0,.2)}
 .site-subtitle{font-style:italic;font-size:12px;font-family:var(--font-family);font-weight:400;display:block}
 .site-title a{color:#222;text-decoration:none;color:#222;letter-spacing:-.25px;font-weight:700}
 .site-title{display:block;font-weight:700;font-size:1.35rem;-webkit-font-smoothing:antialiased}
@@ -110,7 +110,7 @@ footer ul li{display:block;padding:0 0}
 .ws-pre{white-space:pre}
 .w-100{width:100%}
 [data-layout=tag] .container ul{gap:1.15rem;margin:.5rem 0}
-[data-layout=book] .container{flex-direction:column-reverse}
+[data-layout=book] .container{flex-direction:column}
 [data-layout=book] .page-content{border-bottom:1px solid #ddd}
 [data-layout=book] .page-content li{margin:0;white-space:pre-wrap;font-weight:400}
 @media (min-width:776px){
@@ -121,7 +121,7 @@ footer ul li{display:block;padding:0 0}
 }
 @media (orientation:portrait){
 [data-layout=book] .box{padding:0rem 1rem}
-[data-layout=book] .container{flex-direction:column-reverse;justify-content:flex-start}
+[data-layout=book] .container{flex-direction:column;justify-content:flex-start}
 }
 @media (orientation:landscape){
 .related-posts{padding:0 0}
@@ -129,7 +129,7 @@ footer ul li{display:block;padding:0 0}
 @media (orientation:landscape) and (min-width:700px){
 .separator{border-width:3px 1px 100px 0}
 [data-layout=book] .box{padding-left:2rem;padding-right:2rem}
-[data-layout=book] .container{flex-direction:row}
+[data-layout=book] .container{flex-direction:row-reverse}
 [data-layout=book] .sidebar{flex:3;display:block;border-top:0;max-width:320px;position:sticky;top:1rem;height:fit-content}
 [data-layout=book] .page-content{flex:7;border:0}
 .separator{min-height:70vh}
