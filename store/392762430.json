@@ -1,0 +1,62 @@
+{
+  "id": "392762430",
+  "title": "How the Mind Works",
+  "subtitle": null,
+  "author": "Steven Pinker",
+  "isbn": "9780393069730",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Health, Mind & Body",
+    "Psychology",
+    "Professional & Technical",
+    "Medical"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=392762430&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7039169
+        }
+      ]
+    }
+  ],
+  "pageCount": 672,
+  "releaseDate": "2009-06-22",
+  "isIBook": false,
+  "description": {
+    "standard": "\"A model of scientific writing: erudite, witty, and clear.\" —New York Review of Books<br /><br />In this Pulitzer Prize finalist and national bestseller, one of the world's leading cognitive scientists tackles the workings of the human mind. What makes us rational—and why are we so often irrational? How do we see in three dimensions? What makes us happy, afraid, angry, disgusted, or sexually aroused? Why do we fall in love? And how do we grapple with the imponderables of morality, religion, and consciousness? How the Mind Works synthesizes the most satisfying explanations of our mental life from cognitive science, evolutionary biology, and other fields to explain what the mind is, how it evolved, and how it allows us to see, think, feel, laugh, interact, enjoy the arts, and contemplate the mysteries of life.<br /><br />This edition of Pinker's bold and buoyant classic is updated with a new foreword by the author."
+  },
+  "artwork": {
+    "width": 448,
+    "height": 680,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/aa/99/7b/mzi.zhdujvfr.jpg/{w}x{h}bb.{f}",
+    "assetToken": "Publication/aa/99/7b/mzi.zhdujvfr.jpg",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 30,
+    "ratingCountList": [
+      1,
+      1,
+      4,
+      8,
+      16
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "How the Mind Works",
+  "isPreorder": false,
+  "publisher": "W. W. Norton & Company",
+  "artistName": "Steven Pinker",
+  "primaryLocale": "en-US"
+}

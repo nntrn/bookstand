@@ -1,0 +1,64 @@
+{
+  "id": "1478356905",
+  "title": "45 Master Characters, Revised Edition",
+  "subtitle": "Mythic Models for Creating Original Characters",
+  "author": "Victoria Lynn Schmidt",
+  "isbn": "9781599635361",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1478356905&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6768982
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2011-12-15",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Create unforgettable characters your readers will love!</b><br /><br />Want to make your characters and their stories more compelling, complex, and original than ever before? <i>45 Master Characters</i> is here to help you explore the most common male and female archetypes--the mythic, cross-cultural models from which all characters originate.<br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;Explore a wide variety of character profiles including heroes, villains, and supporting characters.<br />&#xa0;&#xa0;&#xa0;•&#xa0;Learn how to use archetypes as foundations for your own unique characters<br />&#xa0;&#xa0;&#xa0;•&#xa0;Examine the mythic journeys of heroes and heroines--the progression of events upon which each archetype's character arc develops--and learn how to use them to enhance your story.<br /><br />Complete with examples culled from literature, television, and film, <i>45 Master Characters</i> illustrates just how memorable and effective these archetypes can be--from \"Gladiators\" and \"Kings\" like Rocky Balboa and Captain Ahab to \"Amazons\" and \"Maidens\" like Wonder Woman and Guinevere. Great heroes and villains are necessary to bring any story to life; let this guide help you create characters that stand the test of time."
+  },
+  "artwork": {
+    "width": 1644,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/a4/2a/75/a42a752f-b42b-5454-05ce-37f968e9bae7/9781599635361.d.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "1d2b2d",
+    "textColor2": "140d0f",
+    "textColor4": "202c2f",
+    "assetToken": "Publication113/v4/a4/2a/75/a42a752f-b42b-5454-05ce-37f968e9bae7/9781599635361.d.jpg",
+    "textColor1": "100c0d",
+    "bgColor": "53a6ac",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "45 Master Characters, Revised Edition",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Victoria Lynn Schmidt",
+  "primaryLocale": "en-US"
+}

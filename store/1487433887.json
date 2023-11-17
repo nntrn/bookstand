@@ -1,0 +1,66 @@
+{
+  "id": "1487433887",
+  "title": "The Secret Life of Pronouns",
+  "subtitle": "What Our Words Say About Us",
+  "author": "James W. Pennebaker",
+  "isbn": "9781608194971",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "Bookwire Gesellschaft zum Vertrieb digitaler Medien mbH",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1487433887&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3967027
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2011-08-23",
+  "isIBook": false,
+  "description": {
+    "standard": "A surprising and entertaining explanation of how the words we use (even the ones we don&#39;t notice) reveal our personalities, emotions, and identities.<br/>\n<br/>\nWe spend our lives communicating. In the last fifty years, we&#39;ve zoomed through radically different forms of communication, from typewriters to tablet computers, text messages to tweets. We generate more and more words with each passing day. Hiding in that deluge of language are amazing insights into who we are, how we think, and what we feel.<br/>\n<br/>\nIn The Secret Life of Pronouns, social psychologist and language expert James W. Pennebaker uses his groundbreaking research in computational linguistics-in essence, counting the frequency of words we use-to show that our language carries secrets about our feelings, our self-concept, and our social intelligence. Our most forgettable words, such as pronouns and prepositions, can be the most revealing: their patterns are as distinctive as fingerprints.<br/>\n<br/>\nUsing innovative analytic techniques, Pennebaker X-rays everything from Craigslist advertisements to the Federalist Papers-or your own writing, in quizzes you can take yourself-to yield unexpected insights. Who would have predicted that the high school student who uses too many verbs in her college admissions essay is likely to make lower grades in college? Or that a world leader&#39;s use of pronouns could reliably presage whether he led his country into war? You&#39;ll learn why it&#39;s bad when politicians use &#34;we&#34; instead of &#34;I,&#34; what Lady Gaga and William Butler Yeats have in common, and how Ebenezer Scrooge&#39;s syntax hints at his self-deception and repressed emotion. Barack Obama, Sylvia Plath, and King Lear are among the figures who make cameo appearances in this sprightly, surprising tour of what our words are saying-whether we mean them to or not."
+  },
+  "artwork": {
+    "width": 3000,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/fa/6f/ed/fa6fedd5-421b-9e62-637e-db914e119a59/1030017980.jpg/{w}x{h}bb.{f}",
+    "height": 4560,
+    "textColor3": "2f1a0d",
+    "textColor2": "2c0b07",
+    "textColor4": "532313",
+    "assetToken": "Publication123/v4/fa/6f/ed/fa6fedd5-421b-9e62-637e-db914e119a59/1030017980.jpg",
+    "textColor1": "000000",
+    "bgColor": "ee8241",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Secret Life of Pronouns",
+  "isPreorder": false,
+  "publisher": "Bloomsbury Press",
+  "artistName": "James W. Pennebaker",
+  "primaryLocale": "en-US"
+}
