@@ -21,11 +21,12 @@ label{font-weight:500}
 .books.box{padding:3rem 3rem}
 .books{column-gap:2.5rem;row-gap:1.5rem;justify-content:space-between;padding:1.75rem .15rem}
 .books img{width:100px}
+#filter-range{max-width:50vw;min-width:20vw}
 }
 input:focus,select:focus{color:#aaa!important}
-input[type=range]{background:#ddd;border-radius:10px;cursor:pointer;height:4px}
+input[type=range]{background:#ddd;border-radius:5px;cursor:pointer;height:4px;border-radius:5px}
 input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-color:#555;height:9px;width:9px}
-input[type=range]::-moz-range-track{background-color:#ddd;border-radius:10px;height:5px}
+input[type=range]::-moz-range-track{background-color:#ddd;border-radius:5px;height:4px}
 .sort-label:before{left:0;content:'';background-size:contain;display:block;width:.65rem;height:.65rem}
 .sort-label{z-index:1;padding:0;font-weight:400;display:inline-flex;align-items:center;column-gap:.2rem;margin-bottom:4px;line-height:1;justify-content:flex-start}
 .sort-label:after{content:attr(data-after);white-space:pre;color:gray}
