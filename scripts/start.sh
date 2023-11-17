@@ -5,17 +5,18 @@ set -e
 ARGS=("$@")
 SCRIPT="$(realpath "$0")"
 DIR="${SCRIPT%/*}"
+CWD=${DIR%/*}
 
 BUILD_SCRIPT=$DIR/build.sh
 
-cd "$(git rev-parse --show-toplevel)"
+cd "$(git -C $DIR rev-parse --show-toplevel)"
 
 if grep -q 'rebuild' <<<"${ARGS[@]}"; then
   echo "Removing _site and .jekyll-cache"
-  [[ -d $DIR/docs/_site ]] && rm -rf $PWD/docs/_site
-  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $PWD/docs/.jekyll-cache
-  $BUILD_SCRIPT --all-data-tasks --all-file-tasks --out $PWD/docs
+  [[ -d $DIR/docs/_site ]] && rm -rf $CWD/docs/_site
+  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $CWD/docs/.jekyll-cache
+  $BUILD_SCRIPT --all-data-tasks --all-file-tasks --out $CWD/docs
 fi
 
-cd docs || exit
+cd $CWD/docs || exit
 bundle exec jekyll serve

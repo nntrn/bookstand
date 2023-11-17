@@ -7,7 +7,7 @@ OUTDIR=${SCRIPT%/*/*}/docs
 CACHEDIR=$HOME/.cache/bookstand
 MINWIDTH=${MINWIDTH:-200}
 FORCE=${FORCE:-0}
-CANCEL_ON_ERROR=1s
+# CANCEL_ON_ERROR=1
 RUN_CREATE_ANNOTATION_PAGES=0
 RUN_CREATE_TAG_PAGES=0
 RUN_DATA_ACTIVITY=0
@@ -51,7 +51,7 @@ check_job() {
     _success "${_FUNCNAME}: ${2}"
   else
     _error "${_FUNCNAME}: ${2}"
-    [[ $CANCEL_ON_ERROR -eq 1 ]] && exit $RC
+    # [[ $CANCEL_ON_ERROR -eq 1 ]] && exit $RC
   fi
 }
 
@@ -104,29 +104,21 @@ ignore_dir() {
     echo "*" >$1/.gitignore
   fi
 }
+
 get_book_cover() {
   local ASSETID=$1
   STOREPATH="${OUTDIR}/store/${ASSETID}.json"
   COVERPATH="${OUTDIR}/covers/${ASSETID}.jpg"
-  IMGCACHEPATH="${CACHEDIR}/jpg/${MINWIDTH}/${ASSETID}.jpg"
-  RC=0
 
   mkdir -p $OUTDIR/store
   mkdir -p $OUTDIR/covers
-  mkdir -p "${CACHEDIR}/jpg/${MINWIDTH}"
 
   if [[ ! -f $COVERPATH ]] || [[ $FORCE -eq 1 ]]; then
     [[ ! -f $STOREPATH ]] && scrape_book_api $ASSETID >$STOREPATH
-    if [[ -s $STOREPATH ]]; then
-      BOOKCOVERJPG="$(jq_bc_url $STOREPATH)"
-      if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
-        curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
-        check_job $? "Downloading $BOOKCOVERJPG"
-        cp "$IMGCACHEPATH" "$COVERPATH"
-      fi
-    fi
-    [[ -f $IMGCACHEPATH ]] && cp "$IMGCACHEPATH" "$COVERPATH"
+    BOOKCOVERJPG="$(jq '(.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg")' $STOREPATH)"
+    [[ -n $BOOKCOVERJPG ]] && curl -s --create-dirs -o $COVERPATH "$BOOKCOVERJPG"
   fi
+
   if [[ ! -f $COVERPATH ]]; then
     check_job 1 "Missing bookcover for $ASSETID"
   fi
@@ -227,21 +219,19 @@ if [[ $# -gt 0 ]]; then
     --tags) RUN_CREATE_TAG_PAGES=1 ;;
     --annotations) RUN_CREATE_ANNOTATION_PAGES=1 ;;
 
+    --book-covers) RUN_DOWNLOAD_BOOKCOVERS=1 ;;
+
     --all-data-tasks)
       RUN_DATA_BOOK=1
       RUN_DATA_GENRE=1
       RUN_DATA_ACTIVITY=1
       RUN_DATA_STORE=1
       ;;
+
     --all-file-tasks)
       RUN_CREATE_TAG_PAGES=1
       RUN_CREATE_ANNOTATION_PAGES=1
       ;;
-
-    --book-covers) RUN_DOWNLOAD_BOOKCOVERS=1 ;;
-
-    # --all-data-tasks) RUN_DATA_TASKS=1 ;;
-    # --all-file-tasks) RUN_FILE_TASKS=1 ;;
 
     esac
   done
@@ -269,12 +259,3 @@ if [[ $RUN_DOWNLOAD_BOOKCOVERS -eq 1 ]]; then
     get_book_cover $id
   done
 fi
-
-# if [[ $((RUN_ALL + RUN_FETCH_BOOKCOVER)) -gt 0 ]]; then
-#   if [[ ${#IDS[@]} -eq 0 ]] && [[ -f $ANNOTATIONS_FILE ]]; then
-#     IDS=($(jq -r 'map(select(.ZASSETID)|.ZASSETID)|unique|join("\n")' $ANNOTATIONS_FILE))
-#   fi
-#   for id in "${IDS[@]}"; do
-#     get_book_cover $id
-#   done
-# fi
