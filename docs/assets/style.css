@@ -42,7 +42,7 @@ footer ul li{display:block;padding:0 0}
 .clamp.c2{-webkit-line-clamp:2}
 .clamp{display:-webkit-box!important;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}
 .column{flex-direction:column}
-.container{background:#fff;display:flex;gap:0;scrollbar-width:thin;touch-action:manipulation;scroll-behavior:smooth}
+.container{display:flex;gap:0;scrollbar-width:thin;touch-action:manipulation;scroll-behavior:smooth}
 .dotted{text-decoration-thickness:1px;text-decoration-skip-ink:none;text-underline-offset:3px}
 .flex-1{flex:1}
 .flex-list{gap:.75rem;display:inline-flex;flex-direction:column;margin-bottom:1.5rem}
