@@ -95,7 +95,7 @@ footer ul li{display:block;padding:0 0}
 .serif{font-family:times,serif}
 .sidebar{padding:0 1.05rem}
 .sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.5rem;font-family:var(--font-family)}
-.site-container{overflow-y:auto;position:relative;scrollbar-width:thin;box-shadow:inset 0 0 12px rgba(0,0,0,.2)}
+.site-container{overflow-y:auto;position:relative;scrollbar-width:thin}
 .site-subtitle{font-style:italic;font-size:12px;font-family:var(--font-family);font-weight:400;display:block}
 .site-title a{color:#222;text-decoration:none;color:#222;letter-spacing:-.25px;font-weight:700}
 .site-title{display:block;font-weight:700;font-size:1.35rem;-webkit-font-smoothing:antialiased}
