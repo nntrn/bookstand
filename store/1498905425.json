@@ -1,0 +1,67 @@
+{
+  "id": "1498905425",
+  "title": "Keywords",
+  "subtitle": "The New Language of Capitalism",
+  "author": "John Patrick Leary",
+  "isbn": "9781608469635",
+  "genreNames": [
+    "Political Science",
+    "Books",
+    "Politics & Current Events",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines",
+    "Business & Personal Finance"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1498905425&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3480302
+        }
+      ]
+    }
+  ],
+  "pageCount": 216,
+  "releaseDate": "2019-01-08",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“A clever, even witty examination of the manipulation of language in these days of neoliberal or late stage capitalism” (<i>Counterpunch</i>).</b><br /> &#xa0;<br /> From Silicon Valley to the White House, from kindergarten to college, and from the factory floor to the church pulpit, we are all called to be <i>innovators</i> and <i>entrepreneurs</i>, to be <i>curators</i> of an ever-expanding roster of <i>competencies</i>, and to become <i>resilient</i> and <i>flexible</i> in the face of the insults and injuries we confront at work. In the midst of increasing inequality, these keywords teach us to thrive by applying the lessons of a competitive <i>marketplace</i> to every sphere of life. What’s more, by celebrating the values of <i>grit</i>, <i>creativity</i>, and <i>passion</i> at school and at work, they assure us that economic success is nothing less than a moral virtue.<br /> &#xa0;<br /> Organized alphabetically as a lexicon, <i>Keywords</i> explores the history and common usage of major terms in the everyday language of capitalism. Because these words have infiltrated everyday life, their meanings may seem self-evident, even benign. Who could be against <i>empowerment</i>, after all? <i>Keywords</i> uncovers the histories of words like <i>innovation</i>, which was once synonymous with “false prophecy” before it became the prevailing faith of Silicon Valley. Other words, like <i>best practices</i> and <i>human capital</i>, are relatively new coinages that subtly shape our way of thinking. As this book makes clear, the new language of capitalism burnishes hierarchy, competition, and exploitation as <i>leadership</i>, <i>collaboration</i>, and <i>sharing</i>, modeling for us the habits of the economically successful person: be visionary, be self-reliant—and never, ever stop working."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/cd/b6/e6/cdb6e6e6-76cd-3ff4-59c7-1fa09270e165/9781608469635.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "f0d3cf",
+    "textColor2": "fae6df",
+    "textColor4": "edc0b6",
+    "assetToken": "Publication124/v4/cd/b6/e6/cdb6e6e6-76cd-3ff4-59c7-1fa09270e165/9781608469635.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "b82510",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Keywords",
+  "publisher": "Haymarket Books",
+  "isPreorder": false,
+  "artistName": "John Patrick Leary",
+  "primaryLocale": "en-US"
+}

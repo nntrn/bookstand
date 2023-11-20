@@ -1,0 +1,65 @@
+{
+  "id": "625605112",
+  "title": "Language and Silence",
+  "subtitle": "Essays on Language, Literature, and the Inhuman",
+  "author": "George Steiner",
+  "isbn": "9781480412040",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction",
+    "Fiction & Literature",
+    "Literary Criticism"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=625605112&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4798368
+        }
+      ]
+    }
+  ],
+  "pageCount": 426,
+  "releaseDate": "2013-04-16",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The evolution and manipulation of language from the celebrated author of <i>After Babel</i>. “A keenly discriminating literary mind at work on what it loves” (<i>The New York Times Book Review</i>).</b><br /><i>Language and Silence </i>is a book about language—and politics, meaning, silence, and the future of literature. Originally published between 1958 and 1966, the essays that make up this collection ponder whether we have passed out of an era of verbal primacy and into one of post-linguistic forms—or partial silence. Steiner explores the idea of the abandonment of contemporary literary criticism, from the classics to the works of William Shakespeare, Lawrence Durell, Thomas Mann, Leon Trotsky, and more."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/d0/99/f2/d099f22e-fc8c-bc32-2f92-a72c0b50295f/9781480412040.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "362e2c",
+    "textColor2": "4e0809",
+    "textColor4": "6d3533",
+    "assetToken": "Publication128/v4/d0/99/f2/d099f22e-fc8c-bc32-2f92-a72c0b50295f/9781480412040.jpg",
+    "textColor1": "090000",
+    "bgColor": "ebe9dd",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Language and Silence",
+  "publisher": "Open Road Media",
+  "isPreorder": false,
+  "artistName": "George Steiner",
+  "primaryLocale": "en-US"
+}
