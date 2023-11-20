@@ -1,9 +1,15 @@
 <script>
-  const urlquery = (query = location.search) => Object.fromEntries(query.split(/[?&]/).filter(Boolean).map(e => e.split("=")));
-  
   const $ = query=>document.querySelector(query)
   const $$ = query=>Array.from(document.querySelectorAll(query))
 
+  const urlquery = (query = location.search) => Object.fromEntries(query.split(/[?&]/).filter(Boolean).map(e => e.split("=")));
+  const urlparse = obj => Object.entries(obj).map(e => `${e[0]}=${e[1]}`).join("&")
+  
+  function replaceLocation(obj) {
+    const parse = urlparse({ ...urlquery(), ...obj })
+    location.replace(`${location.origin}${location.pathname}?${parse}`)
+  }
+  
   {% include sort.js %}
   {% include filter.js %}
 </script>
