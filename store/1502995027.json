@@ -1,0 +1,69 @@
+{
+  "id": "1502995027",
+  "title": "Write Great Beginnings",
+  "subtitle": "How to start a novel, hook readers from page one, and avoid common first-chapter problems",
+  "author": "Sandra Gerth",
+  "isbn": "9783963243417",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Astrid Ohletz",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=3990&salableAdamId=1502995027&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$3.99",
+      "price": 3.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 724917
+        }
+      ]
+    }
+  ],
+  "pageCount": 189,
+  "releaseDate": "2020-03-18",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Writers’ Guide Series",
+    "sequenceNumber": "5",
+    "sequenceDisplayLabel": "Book 5"
+  },
+  "description": {
+    "standard": "The beginning is the most important part of your book. The first chapter—probably even the first page—is what makes agents and editors accept or reject a manuscript, and it’s what makes readers decide to buy a book or pick another. But writing a compelling opening is hard because there are so many things a great beginning needs to do and so many mistakes to avoid.<br />\n&#xa0;<br />\nIn this book, Sandra Gerth draws on her experience as an editor and best-selling author to teach you where to start your novel, how to avoid common first chapter problems, and how to hook your readers from the very first page.<br />\n&#xa0;<br />\nEach chapter of this practical guide includes concrete examples and exercises that will help you write an irresistible beginning.<br />\n&#xa0;<br />\nWhether you’re a novice writer working on your first story or an established author with several novels under your belt, this book will help you:<br />\n&#xa0;\n\nDecide where to start your book,\nUnderstand important elements of every powerful opening such as the inciting incident,\nWrite a kickass first line,\nHook your readers from the very first page,\nIntroduce your characters and get readers to care about them,\nEstablish the time and place of your story,\nGet your readers emotionally involved in your story as soon as possible,\nDescribe your setting and your characters without stopping the momentum of the story,\nIncorporate backstory and reveal your characters’ pasts without overwhelming readers,\nCreate chapter endings that will make readers keep reading.\nAvoid openings that are boring, confusing, clichéd, or misleading,\nDiscover what types of openings to avoid,\nFind out why prologues and flashbacks can be problematic and how to handle them effectively."
+  },
+  "artwork": {
+    "width": 1563,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/48/56/7a/48567a74-6de7-df20-41c0-0e8bf0bccee2/Write-Great-Beginnings_1563x2500.jpg/{w}x{h}bb.{f}",
+    "height": 2500,
+    "textColor3": "383637",
+    "textColor2": "5c0a14",
+    "textColor4": "7a373f",
+    "assetToken": "Publication113/v4/48/56/7a/48567a74-6de7-df20-41c0-0e8bf0bccee2/Write-Great-Beginnings_1563x2500.jpg",
+    "textColor1": "0a0909",
+    "bgColor": "f3eaed",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Write Great Beginnings",
+  "publisher": "Ylva Publishing",
+  "isPreorder": false,
+  "artistName": "Sandra Gerth",
+  "primaryLocale": "en-US"
+}
