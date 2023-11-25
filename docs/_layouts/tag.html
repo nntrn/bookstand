@@ -10,10 +10,11 @@ layout: default
   <h2>#{{pagetag}}</h2>
   <ul class="tag-page-list flex-list lh-120">
     {% for book in books -%}
-    <li>
+    <li class="ci">
       <span><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}</span>
       <div class="flex gap-sm baseline ss"><span>{{book.created|date_to_string: "ordinal", "US"}}</span>&bullet;<span>{{book.count}} annotation{%- if book.count > 1 -%}s{%- endif -%}</span></div>
     </li>
     {% endfor %}
   </ul>
+  <div class="cc" data-counter-label="book(s)"></div>
 </div>

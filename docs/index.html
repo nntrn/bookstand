@@ -9,14 +9,14 @@ layout: home
 <style>
 {% include books.css -%}
 </style>
-<div class="box">
+<div class="box cc" data-counter-label="book(s)">
   <div class="panel ai-center ac-center">
     {% include filtersort.html %}
   </div>
   <div class="books">
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
-    <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: '%F' }}" data-created="{{book.created|date:'%F'}}">
+    <div class="book ci" data-count="{{book.count}}" data-updated="{{book.modified | date: '%F' }}" data-created="{{book.created|date:'%F'}}">
       <a href="{{ site.baseurl }}/{{ book.slug }}">
         <span class="sort-label"  data-after="{{book.count}}"></span>
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
