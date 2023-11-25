@@ -109,16 +109,25 @@ get_book_cover() {
   local ASSETID=$1
   STOREPATH="${OUTDIR}/store/${ASSETID}.json"
   COVERPATH="${OUTDIR}/covers/${ASSETID}.jpg"
+  IMGCACHEPATH="${CACHEDIR}/jpg/${MINWIDTH}/${ASSETID}.jpg"
+  RC=0
 
   mkdir -p $OUTDIR/store
   mkdir -p $OUTDIR/covers
+  mkdir -p "${CACHEDIR}/jpg/${MINWIDTH}"
 
   if [[ ! -f $COVERPATH ]] || [[ $FORCE -eq 1 ]]; then
     [[ ! -f $STOREPATH ]] && scrape_book_api $ASSETID >$STOREPATH
-    BOOKCOVERJPG="$(jq '(.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg")' $STOREPATH)"
-    [[ -n $BOOKCOVERJPG ]] && curl -s --create-dirs -o $COVERPATH "$BOOKCOVERJPG"
+    if [[ -s $STOREPATH ]]; then
+      BOOKCOVERJPG="$(jq_bc_url $STOREPATH)"
+      if [[ ! -f $IMGCACHEPATH ]] && [[ -n $BOOKCOVERJPG ]]; then
+        curl -s --create-dirs -o "$IMGCACHEPATH" "$BOOKCOVERJPG"
+        check_job $? "Downloading $BOOKCOVERJPG"
+        cp "$IMGCACHEPATH" "$COVERPATH"
+      fi
+    fi
+    [[ -f $IMGCACHEPATH ]] && cp "$IMGCACHEPATH" "$COVERPATH"
   fi
-
   if [[ ! -f $COVERPATH ]]; then
     check_job 1 "Missing bookcover for $ASSETID"
   fi
