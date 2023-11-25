@@ -55,10 +55,6 @@ function filterCount(n) {
   })
   $("#filter-range").value = num
   $("#filter-value").value = num
-
-  if (n) {
-    replaceLocation({ min: num })
-  }
 }
 
 $("#filter-range").addEventListener("mouseup", filterCount)
@@ -66,7 +62,6 @@ $("#filter-value").addEventListener("change", filterCount)
 
 $("#sort-by").addEventListener("change", function (e) {
   sortElements(e.target.value)
-  replaceLocation({ sort: e.target.value })
 })
 
 if (location.search) {
