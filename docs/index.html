@@ -9,7 +9,7 @@ layout: home
 <style>
 {% include books.css -%}
 </style>
-<div class="box cc py-0" data-counter-label="book(s)">
+<div class="box py-0 relative">
   <div class="panel ai-center ac-center">
     {% include filtersort.html %}
   </div>
@@ -28,6 +28,7 @@ layout: home
     </div>
     {%- endfor %}
   </div>
+  <div class="cc" data-counter-label="book(s)"></div>
 </div>
 
 <script>

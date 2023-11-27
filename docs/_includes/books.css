@@ -1,4 +1,3 @@
-
 label{font-weight:500}
 #filter-value{width:30px;font-weight:600;font-size:calc(.95em + .25pt);border:none;box-shadow:none;color:#222;padding:1pt 2px;border-radius:4px;outline:0;min-width:auto;max-width:max-content}
 #filter-range{max-width:50vw}
@@ -12,15 +11,15 @@ label{font-weight:500}
 .book strong{color:#444;font-size:.8rem;font-weight:600}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.4rem;line-height:1.2;display:flex;justify-content:center;row-gap:.6rem}
 .books.box{padding:2rem 1.5rem}
-.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%;width:100%}
+.books{display:flex;flex-wrap:wrap;justify-content:space-between;padding:1.25rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%;width:99%}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
 .form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
-.panel{position:sticky;top:0;z-index:1000;background:#fff;padding:.4rem 0}
+.panel{position:sticky;top:0;z-index:1000;background:#fff;padding:.5rem 0}
 .sticky{position:sticky;top:0;z-index:1000}
 @media (min-width:776px){
 .books.box{padding:3rem 3rem}
-.books{column-gap:2.5rem;row-gap:1.5rem;justify-content:space-between;padding:1.75rem .15rem}
+.books{/*! column-gap:2.5rem; */row-gap:1.5rem;/*! justify-content:flex-start; */padding:1.25rem .15rem}
 .books img{width:100px}
 #filter-range{max-width:50vw;min-width:20vw}
 }
@@ -28,4 +27,3 @@ input:focus,select:focus{color:#aaa!important}
 input[type=range]{background:#ddd;border-radius:5px;cursor:pointer;height:4px;border-radius:5px}
 input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-color:var(--color-icon);height:9px;width:9px}
 input[type=range]::-moz-range-track{background-color:#ddd;border-radius:5px;height:4px}
-
