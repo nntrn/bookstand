@@ -27,10 +27,5 @@ label{font-weight:500}
 input:focus,select:focus{color:#aaa!important}
 input[type=range]{background:#ddd;border-radius:5px;cursor:pointer;height:4px;border-radius:5px}
 input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-color:var(--color-icon);height:9px;width:9px}
-input[type=range]::-moz-range-track{background-color:var(--color-icon);border-radius:5px;height:4px}
-.sort-label:before{left:0;content:'';background-size:contain;display:block;width:13px;height:13px;-webkit-mask:var(--svg);overflow:hidden;color:transparent;background-color:var(--color-icon);transition:background-color .2s;mask:var(--svg)}
-.sort-label{z-index:1;padding:0;font-weight:400;display:inline-flex;align-items:center;column-gap:.2rem;margin-bottom:4px;line-height:1;justify-content:flex-start}
-.sort-label:after{content:attr(data-after);white-space:pre;color:var(--color-icon)}
-.sort-label:before{--svg:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 18h10v-2H7v2ZM17 14H7v-2h10v2ZM7 10h4V8H7v2Z"/><path fill-rule="evenodd" d="M6 2C4.3431 2 3 3.3432 3 5v14c0 1.6569 1.3431 3 3 3h12c1.6569 0 3-1.3431 3-3V9c0-3.866-3.134-7-7-7H6Zm0 2h7v5h6v10c0 .5523-.4477 1-1 1H6c-.5523 0-1-.4477-1-1V5c0-.5523.4477-1 1-1Zm9 .1c1.6113.3271 2.9413 1.429 3.584 2.9H15V4.1Z" clip-rule="evenodd"/></svg>')}
-[data-sort=created] .sort-label:before{--svg:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><rect opacity="0"/><path d="M18 4h-1V3a1 1 0 0 0-2 0v1H9V3a1 1 0 0 0-2 0v1H6a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zM6 6h1v1a1 1 0 0 0 2 0V6h6v1a1 1 0 0 0 2 0V6h1a1 1 0 0 1 1 1v4H5V7a1 1 0 0 1 1-1zm12 14H6a1 1 0 0 1-1-1v-6h14v6a1 1 0 0 1-1 1z"/><circle cx="8" cy="16" r="1"/><path d="M16 15h-4a1 1 0 0 0 0 2h4a1 1 0 0 0 0-2z"/></svg>')}
-[data-sort=updated] .sort-label:before{--svg:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><rect transform="rotate(180 12 12)" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M16 11h-3V8a1 1 0 0 0-2 0v4a1 1 0 0 0 1 1h4a1 1 0 0 0 0-2z"/></svg>')}
+input[type=range]::-moz-range-track{background-color:#ddd;border-radius:5px;height:4px}
+
