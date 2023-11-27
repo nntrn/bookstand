@@ -144,5 +144,5 @@ footer ul li{display:block;padding:0 0}
 .separator{min-height:70vh}
 }
 @media not (hover:hover){
-.container,main{touch-action:none}
+.container,main{touch-action:manipulation}
 }
