@@ -2,7 +2,7 @@ label{font-weight:500}
 #filter-value{width:30px;font-weight:600;font-size:calc(.95em + .25pt);border:none;box-shadow:none;color:#222;padding:1pt 2px;border-radius:4px;outline:0;min-width:auto;max-width:max-content}
 #filter-range{max-width:50vw}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
-.book a{cursor:pointer;text-decoration:none;color:#4c4c4c;display:flex;flex-direction:column;font-weight:700;font-size:.9em;line-height:1.1}
+.book a{filter:opacity(1)!important;cursor:pointer;text-decoration:none;color:#4c4c4c;display:flex;flex-direction:column;font-weight:700;font-size:.9em;line-height:1.1}
 .book img:hover{filter:opacity(.95) saturate(1.05);box-shadow:0 0 2px 1px rgba(0,0,0,.25);transition:all .35s ease}
 .book img{width:max(95px,8vw);box-shadow:0 0 2px 1px rgba(0,0,0,.15);border-radius:4px;filter:opacity(.75);user-select:none}
 .book label span{overflow:hidden;font-size:.7rem;font-weight:400;color:#717171;line-height:1.2;margin:auto;font-family:sans-serif}
@@ -11,7 +11,7 @@ label{font-weight:500}
 .book strong{color:#444;font-size:.8rem;font-weight:600}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.4rem;line-height:1.2;display:flex;justify-content:center;row-gap:.6rem}
 .books.box{padding:2rem 1.5rem}
-.books{display:flex;flex-wrap:wrap;justify-content:space-between;padding:1.25rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%;width:99%}
+.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:3rem;scrollbar-width:thin;height:100%;width:99%}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
 .form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
@@ -25,5 +25,5 @@ label{font-weight:500}
 }
 input:focus,select:focus{color:#aaa!important}
 input[type=range]{background:#ddd;border-radius:5px;cursor:pointer;height:4px;border-radius:5px}
-input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-color:var(--color-icon);height:9px;width:9px}
+input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-color:#222;height:9px;width:9px}
 input[type=range]::-moz-range-track{background-color:#ddd;border-radius:5px;height:4px}

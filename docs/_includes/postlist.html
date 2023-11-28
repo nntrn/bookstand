@@ -7,7 +7,7 @@
   {%- if book.slug == page.slug %}
   <li><u>{{book.title}}</u></li>
   {% else -%}
-  <li><a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a></li>
+  <li><a class="hover-italic hover-dark" href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a></li>
   {% endif -%}
   {%- endfor -%}
 </ul>
