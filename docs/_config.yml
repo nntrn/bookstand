@@ -32,6 +32,9 @@ collections:
     output: true
     permalink: tags/:name
 
+include:
+  - _pages
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
