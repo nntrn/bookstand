@@ -1,0 +1,68 @@
+{
+  "id": "1160261565",
+  "title": "Show, Don't Tell",
+  "subtitle": "How to write vivid descriptions, handle backstory, and describe your characters’ emotions",
+  "author": "Sandra Gerth",
+  "isbn": "9783955337490",
+  "genreNames": [
+    "Writing",
+    "Books",
+    "Reference"
+  ],
+  "seller": "Astrid Ohletz",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=990&salableAdamId=1160261565&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$0.99",
+      "price": 0.99,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 463513
+        }
+      ]
+    }
+  ],
+  "pageCount": 95,
+  "releaseDate": "2016-10-19",
+  "seriesInfo": {
+    "seriesName": "Writers’ Guide Series",
+    "sequenceNumber": "3",
+    "sequenceDisplayLabel": "Book 3"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<i>Show, don’t tell</i> is probably the single most-important piece of advice given to writers. But many writers struggle to understand this powerful principle or have difficulty applying it to their own work. Even experienced authors sometimes don’t grasp the finer nuances of showing and telling.<br />\n&#xa0;<br />\nIn this book, Sandra Gerth draws on her experience as an editor and a best-selling author to show you how to show and tell you when to tell.<br />\n&#xa0;<br />\nEach chapter includes concrete examples and exercises that will hone your writing skills.<br />\n&#xa0;<br />\nWhether you’re a novice writer working on your first story or an established author who has already learned the basics of <i>showing</i> and <i>telling</i>, this book will help you to:<br />\n\nGrasp the difference between <i>showing</i> and <i>telling</i>.\nUnderstand why <i>showing</i> is such a powerful tool.\nSpot <i>telling</i> in your own manuscript.\nFix bland passages and turn them into compelling scenes.\nKeep from <i>telling</i> what you have already <i>shown</i>.\nAvoid the three danger areas of <i>telling</i>.\nDescribe your characters and your setting in interesting ways.\nPut powerful emotions into your writing.\nIncorporate backstory into your novel without resorting to <i>telling</i>.\nRecognize <i>telling</i> in dialogue.\nAvoid <i>overshowing</i> and swamping your readers with too many details.\nLearn when <i>telling</i> is actually a good thing.\nImmerse your readers into your story and keep them captivated from beginning to end"
+  },
+  "artwork": {
+    "width": 1563,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/ff/f0/46/fff04648-455d-a05b-3036-7a748f5ff27b/cover_ShowDontTell_1563x2500_05-08-2016.jpg/{w}x{h}bb.{f}",
+    "height": 2500,
+    "textColor3": "325567",
+    "textColor2": "60090b",
+    "textColor4": "7c3738",
+    "assetToken": "Publication62/v4/ff/f0/46/fff04648-455d-a05b-3036-7a748f5ff27b/cover_ShowDontTell_1563x2500_05-08-2016.jpg",
+    "textColor1": "032e45",
+    "bgColor": "efeeec",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 8,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      0,
+      7
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Show, Don't Tell",
+  "publisher": "Ylva Publishing",
+  "isPreorder": false,
+  "artistName": "Sandra Gerth",
+  "primaryLocale": "en-US"
+}
