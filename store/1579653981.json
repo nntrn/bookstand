@@ -1,0 +1,69 @@
+{
+  "id": "1579653981",
+  "title": "How to Tell a Story",
+  "subtitle": "The Essential Guide to Memorable Storytelling from The Moth",
+  "author": "The Moth, Meg Bowles, Catherine Burns, Jenifer Hixson, Sarah Austin Jenness, Kate Tellers & Chenjerai Kumanyika",
+  "isbn": "9780593139011",
+  "genreNames": [
+    "Performing Arts",
+    "Books",
+    "Arts & Entertainment",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=1579653981&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8168440
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "releaseDate": "2022-04-26",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES </i>BESTSELLER • The definitive guide to telling an unforgettable story in any setting, drawing on twenty-five years of experience from the storytelling experts at The Moth</b> <br /><br /><b>“From toasts to eulogies, from job interviews to social events, this book will help you with ideas, structure, delivery and more.”—CNN</b><br /><br /><b>LONGLISTED FOR THE PORCHLIGHT BUSINESS BOOK AWARD</b><br /><br />Over the past twenty-five years, the directors of The Moth have worked with people from all walks of life—including astronauts, hairdressers, rock stars, a retired pickpocket, high school students, and Nobel Prize winners—to develop true personal stories that have moved and delighted live audiences and listeners of The Moth’s Peabody Award–winning radio hour and podcast. A leader in the modern storytelling movement, The Moth inspires thousands of people around the globe to share their stories each year.<br />&#xa0;<br />Now, with <i>How to Tell a Story</i>, The Moth will help you learn how to uncover and craft your own unique stories, like Moth storytellers Mike Birbiglia, Rosanne Cash, Neil Gaiman, Elizabeth Gilbert, Padma Lakshmi, Darryl “DMC” McDaniels, Hasan Minhaj, Tig Notaro, Boots Riley, Betty Reid Soskin, John Turturro, and more.<br />&#xa0;<br />Whether your goal is to make it to the Moth stage, deliver the perfect wedding toast, wow clients at a business dinner, give a moving eulogy, ace a job interview, be a hit at parties, change the world, or simply connect more deeply to those around you, stories are essential. Sharing secrets of The Moth’s time-honed process and using examples from beloved storytellers, a team of Moth directors will show you how to<br />&#xa0;<br />• <b>mine your memories for your best stories</b><br />•<b> explore structures that will boost the impact of your story</b><br />•<b> deliver your stories with confidence</b><br />• <b>tailor your stories for any occasion</b><br />&#xa0;<br />Filled with empowering, easy-to-follow tips for crafting stories that forge lasting bonds with friends, family, and colleagues alike, this book will help you connect authentically with the world around you and unleash the power of story in your life."
+  },
+  "artwork": {
+    "width": 1684,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/4c/7b/02/4c7b02a5-11aa-0c62-39c6-fadaff1502a3/9780593139011.d.jpg/{w}x{h}bb.{f}",
+    "height": 2556,
+    "textColor3": "c7c8c7",
+    "textColor2": "d7a24d",
+    "textColor4": "b28843",
+    "assetToken": "Publication112/v4/4c/7b/02/4c7b02a5-11aa-0c62-39c6-fadaff1502a3/9780593139011.d.jpg",
+    "textColor1": "f2f2f2",
+    "bgColor": "1e1f1a",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 6,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      2,
+      2
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "How to Tell a Story",
+  "isPreorder": false,
+  "publisher": "Crown",
+  "artistName": "The Moth, Meg Bowles, Catherine Burns, Jenifer Hixson, Sarah Austin Jenness, Kate Tellers & Chenjerai Kumanyika",
+  "primaryLocale": "en-US"
+}

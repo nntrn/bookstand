@@ -1,0 +1,64 @@
+{
+  "id": "1396139457",
+  "title": "Sex on Six Legs",
+  "subtitle": "Lessons on Life, Love, and Language from the Insect World",
+  "author": "Marlene Zuk",
+  "isbn": "9780547549170",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1396139457&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1357141
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2011-08-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A biologist presents a “consistently delightful” look at the mysteries of insect behavior (<i>The New York Times Book Review</i>).</b><br /> &#xa0;<br /> Insects have inspired fear, fascination, and enlightenment for centuries. They are capable of incredibly complex behavior, even with brains often the size of a poppy seed. How do they accomplish feats that look like human activity—personality, language, childcare—with completely different pathways from our own? What is going on inside the mind of those ants that march like boot-camp graduates across your kitchen floor? How does the lead ant know exactly where to take her colony, to that one bread crumb that your nightly sweep missed? Can insects be taught new skills as easily as your new puppy?<br /> &#xa0;<br /><i>Sex on Six Legs</i> is a startling and exciting book that provides answers to these questions and many more, examining not only the bedroom lives of creepy crawlies but also some of our own long-held assumptions about learning, the nature of personality, and what our own large brains might be for.<br /> &#xa0;<br /> “Smart, engaging&#xa0;.&#xa0;.&#xa0;. Zuk approaches her subject with such humor and enthusiasm for the intricacies of insect life, even bug-phobes will relish her account.” —<i>Publishers Weekly</i>, starred review"
+  },
+  "artwork": {
+    "width": 993,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/0d/ab/62/0dab620d-be6f-abf5-121a-9f55c1b56f25/9780547549170.jpg/{w}x{h}bb.{f}",
+    "height": 1500,
+    "textColor3": "3b3b3a",
+    "textColor2": "551911",
+    "textColor4": "76463f",
+    "assetToken": "Publication115/v4/0d/ab/62/0dab620d-be6f-abf5-121a-9f55c1b56f25/9780547549170.jpg",
+    "textColor1": "0b0b0b",
+    "bgColor": "fafcf7",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Sex on Six Legs",
+  "publisher": "Houghton Mifflin Harcourt",
+  "isPreorder": false,
+  "artistName": "Marlene Zuk",
+  "primaryLocale": "en-US"
+}
