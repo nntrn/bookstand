@@ -10,7 +10,7 @@ layout: home
 {% include books.css -%}
 </style>
 <div class="box py-0">
-  <div class="panel ai-center ac-center">
+  <div class="panel ai-center ac-center ss">
     {% include filtersort.html %}
   </div>
   <div class="books">
@@ -22,7 +22,7 @@ layout: home
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
       </a>
       <label>
-        <a class="hover-underline" href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
+        <a class="hover-underline ss" href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
         <span class="clamp c2">{{ book.author }}</span>
       </label>
     </div>
