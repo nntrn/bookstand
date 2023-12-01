@@ -19,6 +19,11 @@
 <header class="px-wide">
   {% include header.html %}
 </header>
+{%- if page.show_panel %}
+<div class="panel ai-center ac-center ss px-wide">
+  {% include filtersort.html %}
+</div>
+{%- endif -%}
 <main class="px-wide">
 {{- content -}}
 
