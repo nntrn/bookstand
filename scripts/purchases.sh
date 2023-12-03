@@ -34,5 +34,4 @@ run_sqlite() {
 
 run_sqlite $LIBRARY_DBPATH ZBKLIBRARYASSET | format_book_list >$OUTDIR/book_purchases.json
 
-jq 'group_by(.date|strflocaltime("%Y %m"))|map({month: .[0].month, count: length, books: map(.title)})' $OUTDIR/book_purchases.json |
-  tee $OUTDIR/purchase_group.json
+jq 'group_by(.date|strflocaltime("%Y %m"))|map({month: .[0].month, count: length, books: map(.title)})' $OUTDIR/book_purchases.json

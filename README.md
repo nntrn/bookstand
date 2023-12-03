@@ -10,6 +10,11 @@ queryibooks >annotations.json
 
 ## Usage
 
+```sh
+./scripts/build.sh --all-data-tasks
+./scripts/build.sh --all-collection-tasks
+```
+
 ### Build collection files
 
 ```sh
@@ -18,10 +23,6 @@ queryibooks >annotations.json
 
 # Create files in docs/_annotations/*.md
 ./scripts/build.sh --annotations
-```
-
-```sh
-./scripts/build.sh --all-file-tasks
 ```
 
 ### Create data files
@@ -38,10 +39,6 @@ queryibooks >annotations.json
 
 # Create docs/_data/store.json
 ./scripts/build.sh --store
-```
-
-```sh
-./scripts/build.sh --all-data-tasks
 ```
 
 ## Build

@@ -81,7 +81,7 @@ def markdown_tmpl:
     "modified: \(.modified)",
     "tags: \(.tags|@json)",
     "slug: \(.slug)",
-    "description: \(dquote("Quotes taken from "+.title+" by "+.author))",
+    "description: \(dquote("Saved quotes from "+.title+" by "+.author))",
     "---",
     ""
   ] | join("\n");
@@ -137,6 +137,7 @@ def chaptername($location):
   | gsub("[\\s ]$";"";"x")
   | gsub("(?<w>[a-zA-Z])(?<d>[0-9])"; .w + " " + .d)
   | gsub("^[Ccx]([hapter ]+)? ";"Chapter ";"xi")
+  | gsub("^[Ss]([ection ]+)? ";"Section ";"xi")
   | gsub("^[iI][nt][cdinortu]+(?<s>[\\s])?";"Introduction" + .s;"xi")
   | gsub(" [0]+(?<n>[1-9])";" " +.n)
   ;
