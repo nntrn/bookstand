@@ -1,5 +1,6 @@
+main{height:calc(100vh - var(--header-height) - 35px)}
 label{font-weight:500}
-#filter-value{width:30px;font-weight:600;font-size:calc(.95em + .25pt);border:none;box-shadow:none;color:#222;padding:1pt 2px;border-radius:4px;outline:0;min-width:auto;max-width:max-content}
+#filter-value{width:30px;font-weight:600;font-size:12px;border:none;box-shadow:none;color:#222;padding:1pt 2px;border-radius:4px;outline:0;min-width:auto;max-width:max-content}
 #filter-range{max-width:50vw}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{filter:opacity(1)!important;cursor:pointer;text-decoration:none;color:#4c4c4c;font-size:.9em;line-height:1.1;display:block}
@@ -14,7 +15,7 @@ label{font-weight:500}
 .books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:4rem;scrollbar-width:thin;height:100%;width:100%}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
-.form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;border:1px solid #ddd;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
+.form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
 .panel{position:sticky;top:0;z-index:1000;background:#fff;padding:.5rem 0;border-bottom:1px solid #eee}
 .sticky{position:sticky;top:0;z-index:1000}
 @media (min-width:776px){
