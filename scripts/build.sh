@@ -7,7 +7,7 @@ OUTDIR=${SCRIPT%/*/*}/docs
 CACHEDIR=$HOME/.cache/bookstand
 MINWIDTH=${MINWIDTH:-200}
 FORCE=${FORCE:-0}
-CANCEL_ON_ERROR=1s
+# CANCEL_ON_ERROR=1
 RUN_CREATE_ANNOTATION_PAGES=0
 RUN_CREATE_TAG_PAGES=0
 RUN_DATA_ACTIVITY=0
@@ -43,6 +43,7 @@ _usage() {
 
 _success() { echo -e "\e[38;5;28m[✔]\e[0m $*"; }
 _error() { echo -e "\e[38;5;160m[✘]\e[0m $*"; }
+delete_empty() { [[ -f $1 ]] && [[ ! -s $1 ]] && rm $1; }
 
 check_job() {
   RC=$1
@@ -51,11 +52,9 @@ check_job() {
     _success "${_FUNCNAME}: ${2}"
   else
     _error "${_FUNCNAME}: ${2}"
-    [[ $CANCEL_ON_ERROR -eq 1 ]] && exit $RC
+    # [[ $CANCEL_ON_ERROR -eq 1 ]] && exit $RC
   fi
 }
-
-delete_empty() { [[ -f $1 ]] && [[ ! -s $1 ]] && rm $1; }
 
 clean() {
   echo "Cleaning $OUTDIR"
@@ -104,6 +103,13 @@ ignore_dir() {
     echo "*" >$1/.gitignore
   fi
 }
+
+gitignore_dir() {
+  if [[ -d $1 ]] && [[ ! -f $1/.gitignore ]]; then
+    echo "*" >$1/.gitignore
+  fi
+}
+
 get_book_cover() {
   local ASSETID=$1
   STOREPATH="${OUTDIR}/store/${ASSETID}.json"
@@ -133,27 +139,50 @@ get_book_cover() {
 }
 
 create_book_data() {
+  local OUTPUTFILE=$OUTDIR/_data/books.json
   mkdir -p $OUTDIR/_data
   [[ ! -f $ANNOTATIONS_FILE ]] && check_job 1 "Missing file"
-  jq -L $DIR 'include "bookstand"; book_list' $ANNOTATIONS_FILE >$OUTDIR/_data/books.json
-  check_job $? "Write $OUTDIR/_data/books.json"
-  [[ ! -f $OUTDIR/_data/.gitignore ]] && echo "*" >$OUTDIR/_data/.gitignore
+  jq -L $DIR 'include "bookstand"; book_list' $ANNOTATIONS_FILE >$OUTPUTFILE
+  [[ -f $OUTPUTFILE ]] && _success "$OUTPUTFILE" || _error "$OUTPUTFILE"
+  gitignore_dir $OUTDIR/_data
 }
 
 create_genre_data() {
+  local OUTPUTFILE=$OUTDIR/_data/genre.json
   mkdir -p $OUTDIR/_data
   [[ ! -f $ANNOTATIONS_FILE ]] && check_job 1 "Missing file"
-  jq -L $DIR 'include "bookstand"; annotation_tags' $ANNOTATIONS_FILE >$OUTDIR/_data/genre.json
-  check_job $? "Write $OUTDIR/_data/genre.json"
-  [[ ! -f $OUTDIR/_data/.gitignore ]] && echo "*" >$OUTDIR/_data/.gitignore
+  jq -L $DIR 'include "bookstand"; annotation_tags' $ANNOTATIONS_FILE >$OUTPUTFILE
+  [[ -f $OUTPUTFILE ]] && _success "$OUTPUTFILE" || _error "$OUTPUTFILE"
+  gitignore_dir $OUTDIR/_data
 }
 
 create_activity_data() {
+  local OUTPUTFILE=$OUTDIR/_data/activity.json
   mkdir -p $OUTDIR/_data
   [[ ! -f $ANNOTATIONS_FILE ]] && check_job 1 "Missing file"
-  jq -L $DIR 'include "bookstand"; activity_list' $ANNOTATIONS_FILE >$OUTDIR/_data/activity.json
-  check_job $? "Write $OUTDIR/_data/activity.json"
-  [[ ! -f $OUTDIR/_data/.gitignore ]] && echo "*" >$OUTDIR/_data/.gitignore
+  jq -L $DIR 'include "bookstand"; activity_list' $ANNOTATIONS_FILE >$OUTPUTFILE
+  [[ -f $OUTPUTFILE ]] && _success "$OUTPUTFILE" || _error "$OUTPUTFILE"
+  gitignore_dir $OUTDIR/_data
+}
+
+create_store_data() {
+  local OUTPUTFILE=$OUTDIR/_data/store.json
+  cd $DIR
+  cd "$(git rev-parse --show-toplevel)"
+  REMOTE_URL=$(git config --local --get remote.origin.url)
+  mkdir -p $OUTDIR/_data
+  (
+    cd "$(mktemp -d)"
+    git clone --depth 1 -b assets $REMOTE_URL assets &>/dev/null
+    jq -s 'map({
+    id,title,subtitle,
+    author,isbn,genreNames,pageCount, 
+    cover: (.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg")
+  })' ./assets/store/*.json
+  ) >$OUTPUTFILE
+  [[ -f $OUTPUTFILE ]] && _success "$OUTPUTFILE" || _error "$OUTPUTFILE"
+
+  gitignore_dir $OUTDIR/_data
 }
 
 create_annotation_files() {
@@ -164,8 +193,8 @@ create_annotation_files() {
     jq -L $DIR -r --arg out $OUTDIR/_annotations \
       'include "bookstand"; create_annotations_markdown($out)' $ANNOTATIONS_FILE
   )
-  check_job $? "Create markdown files to $OUTDIR/_annotations"
-  [[ ! -f $OUTDIR/_annotations/.gitignore ]] && echo "*" >$OUTDIR/_annotations/.gitignore
+  check_job $? "Create collection files in $OUTDIR/_annotations"
+  gitignore_dir $OUTDIR/_annotations
 }
 
 create_tag_files() {
@@ -177,8 +206,8 @@ create_tag_files() {
     jq -L $DIR -r --arg out $OUTDIR/_tags \
       'include "bookstand"; create_tag_markdown($out)' $OUTDIR/_data/genre.json
   )
-  check_job $? "Create markdown files $OUTDIR/_tags"
-  [[ ! -f $OUTDIR/_tags/.gitignore ]] && echo "*" >$OUTDIR/_tags/.gitignore
+  check_job $? "Create collection files $OUTDIR/_tags"
+  gitignore_dir $OUTDIR/_tags
 }
 
 create_store_data() {
@@ -227,21 +256,19 @@ if [[ $# -gt 0 ]]; then
     --tags) RUN_CREATE_TAG_PAGES=1 ;;
     --annotations) RUN_CREATE_ANNOTATION_PAGES=1 ;;
 
+    --book-covers) RUN_DOWNLOAD_BOOKCOVERS=1 ;;
+
     --all-data-tasks)
       RUN_DATA_BOOK=1
       RUN_DATA_GENRE=1
       RUN_DATA_ACTIVITY=1
       RUN_DATA_STORE=1
       ;;
-    --all-file-tasks)
+
+    --all-file-tasks | --all-collection-tasks)
       RUN_CREATE_TAG_PAGES=1
       RUN_CREATE_ANNOTATION_PAGES=1
       ;;
-
-    --book-covers) RUN_DOWNLOAD_BOOKCOVERS=1 ;;
-
-    # --all-data-tasks) RUN_DATA_TASKS=1 ;;
-    # --all-file-tasks) RUN_FILE_TASKS=1 ;;
 
     esac
   done
@@ -254,12 +281,13 @@ if [[ -z $ANNOTATIONS_FILE ]]; then
   curl -s -o $ANNOTATIONS_FILE https://raw.githubusercontent.com/nntrn/bookstand/assets/annotations.json
 fi
 
-[[ $RUN_CREATE_TAG_PAGES -eq 1 ]] && create_tag_files
-[[ $RUN_CREATE_ANNOTATION_PAGES -eq 1 ]] && create_annotation_files
 [[ $RUN_DATA_BOOK -eq 1 ]] && create_book_data
 [[ $RUN_DATA_GENRE -eq 1 ]] && create_genre_data
 [[ $RUN_DATA_ACTIVITY -eq 1 ]] && create_activity_data
 [[ $RUN_DATA_STORE -eq 1 ]] && create_store_data
+
+[[ $RUN_CREATE_TAG_PAGES -eq 1 ]] && create_tag_files
+[[ $RUN_CREATE_ANNOTATION_PAGES -eq 1 ]] && create_annotation_files
 
 if [[ $RUN_DOWNLOAD_BOOKCOVERS -eq 1 ]]; then
   if [[ ${#IDS[@]} -eq 0 ]]; then

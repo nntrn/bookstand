@@ -1,19 +1,20 @@
 ---
 title: Tags
 layout: default
+permalink: /tags/
 ---
 
 <style>
 .column-container{margin:auto;column-width:max(250px,20vw);column-fill:balance;gap:2rem;column-count:1}
 .column-group{page-break-inside:avoid;margin-bottom:1rem}
-.posts li a:hover{text-decoration:underline}
+.posts li a:hover{text-decoration:underline;filter:opacity(1)}
 .posts li a:visited{color:purple}
 .posts li div a{text-decoration:none;font-weight:700}
 .posts li{padding:0 0;margin:0 0;line-height:1.2}
 .posts{margin-top:.75rem}
 h2{border-bottom:1px solid #222}
 h2>a{color:#222;text-decoration:none;font-weight:700}
-li span{font-family:var(--font-family); font-weight: 500; font-size: ;}
+li span{font-weight: 500}
 li{display:flex;justify-content:space-between;padding-right:.75rem;column-gap:1rem}
 ul{margin:.25rem 0;padding:.2rem .5rem;display:flex;flex-direction:column;gap:.75rem}
 @media (min-width:600px){
@@ -24,7 +25,7 @@ ul{margin:.25rem 0;padding:.2rem .5rem;display:flex;flex-direction:column;gap:.7
 {% assign genres = site.data.genre %}
 <div class="box">
   <h1 id="tags" style="font-size:1.3rem">tags</h1>
-  <div class="column-container">
+  <div class="column-container fs-90 ss">
     {%- for genre in genres -%}
     <div class="column-group">
       <h2 class="up ss fsr-80"><a href="{{ site.baseurl }}/tags/{{genre.name}}" class="tag">{{genre.name}}</a></h2>
@@ -35,7 +36,7 @@ ul{margin:.25rem 0;padding:.2rem .5rem;display:flex;flex-direction:column;gap:.7
         {%- assign bookmodified = book.modified |  date_to_string: "ordinal", "US" -%}
         <li class="flex" data-modified="{{book.modified|date: '%F' }}">
           <div class="flex column w-100">
-            <a href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
+            <a class="hover-underline" href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
             <span class="clamp fs-90">{{book.author}}</span>
             <div class="up flex gap-sm ai-center muted fs-90">
               <span class="">{{book.created|date: '%b %-d %Y' }}</span>

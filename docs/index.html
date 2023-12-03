@@ -1,5 +1,7 @@
 ---
-layout: home
+title: Home
+layout: default
+show_panel: true
 ---
 
 {%- assign githubcoverurl = 'https://raw.githubusercontent.com/'| append: site.repository | append: '/'| append: site.book.branch | append: '/' | append: site.book.dir -%}
@@ -8,25 +10,24 @@ layout: home
 <style>
 {% include books.css -%}
 </style>
-<div class="box pt-0">
-  <div class="panel">
-    {% include filtersort.html %}
-  </div>
+<div class="box py-0">
   <div class="books">
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
-    <div class="book" data-count="{{book.count}}" data-updated="{{book.modified | date: '%F' }}" data-created="{{book.created|date:'%F'}}">
-      <a href="{{ site.baseurl }}/{{ book.slug }}">
-        <span class="sort-label"  data-after="{{book.count}}"></span>
+    <div class="book ci" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
+      <a class="ss flex column gap-md" href="{{ site.baseurl }}/{{ book.slug }}">
+        <span class="sort-label ss fs-90"  data-after="{{book.count}}"></span>
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
+        <label data-after="{{book.count}}">
+          <strong>{{ title }}</strong>
+          <span class="clamp c2">{{ book.author }}</span>
+        </label>
       </a>
-      <label>
-        <a href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
-        <span class="clamp c2">{{ book.author }}</span>
-      </label>
     </div>
     {%- endfor %}
   </div>
+  <div class="cc" data-counter-label="book(s)"></div>
 </div>
-
-{% include urlscript.html %}
+<script>
+{% include url.js %}
+</script>
