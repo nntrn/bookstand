@@ -1,0 +1,68 @@
+{
+  "id": "6445178039",
+  "title": "50 Math Tricks That Will Change Your Life",
+  "subtitle": "Mentally Solve the Impossible in Seconds",
+  "author": "Tanya Zakowich",
+  "isbn": "9781645678298",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature",
+    "Arts & Entertainment",
+    "Games",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=6445178039&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 43334414
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2023-11-21",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Insane Number Hacks For Curious Adults And Daring Students!</b><br /><br />In this epic book, you’ll uncover 50 unbelievable ways you can manipulate numbers to solve equations, word problems and brain teasers in a flash, no calculator required. Math wizard Tanya Zakowich uses colorful diagrams and quirky explanations to help you see math as a creative tool you can use to quickly solve problems without confusion. Whether you want to divide huge numbers in your head, instantly know the square root of 5,489 or mentally calculate how much you’ll spend on a Spotify subscription this year, you’ll be able to get your answer in a matter of seconds. These mind-blowing tricks will teach you that numbers aren’t just magical, they are an awesome resource for hacking the world around you!"
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/a6/3a/c6/a63ac6a7-ca8e-7e5d-56bb-a23944180155/9781645678298.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "333130",
+    "textColor2": "431f1f",
+    "textColor4": "694a49",
+    "assetToken": "Publication126/v4/a6/3a/c6/a63ac6a7-ca8e-7e5d-56bb-a23944180155/9781645678298.jpg",
+    "textColor1": "000000",
+    "bgColor": "fff8f2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "50 Math Tricks That Will Change Your Life",
+  "isPreorder": false,
+  "publisher": "Page Street Publishing",
+  "artistName": "Tanya Zakowich",
+  "primaryLocale": "en-US"
+}
