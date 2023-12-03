@@ -8,7 +8,7 @@ layout: default
 <div class="page-content box">
   {% include breadcrumb.html -%}
   <h2>#{{pagetag}}</h2>
-  <ul class="tag-page-list flex-list lh-120">
+  <ul class="flex-list">
     {% for book in books -%}
     <li class="ci">
       <span><a href="{{ site.baseurl }}/{{book.slug}}"><strong>{{book.title}}</strong></a> by {{book.author}}</span>

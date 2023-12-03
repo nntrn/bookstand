@@ -15,14 +15,14 @@ show_panel: true
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
     <div class="book ci" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
-      <a href="{{ site.baseurl }}/{{ book.slug }}">
+      <a class="ss flex column gap-md" href="{{ site.baseurl }}/{{ book.slug }}">
         <span class="sort-label ss fs-90"  data-after="{{book.count}}"></span>
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
+        <label data-after="{{book.count}}">
+          <strong>{{ title }}</strong>
+          <span class="clamp c2">{{ book.author }}</span>
+        </label>
       </a>
-      <label data-after="{{book.count}}">
-        <a class="hover-underline ss flex gap-sm fw-700" href="{{ site.baseurl }}/{{ book.slug }}">{{ title }}</a>
-        <span class="clamp c2">{{ book.author }}</span>
-      </label>
     </div>
     {%- endfor %}
   </div>
