@@ -1,5 +1,5 @@
 *,::after,::before{box-sizing:border-box}
-:root{--font-serif:times,serif;--font-sans-serif:'helvetica neue',helvetica,sans-serif;--font-family:var(--font-serif);--link-color:#0074D9;--color-icon:#928d94;--body-color:#222222;--header-height:60px}
+:root{--font-serif:times,serif;--font-sans-serif:'helvetica neue',helvetica,sans-serif;--font-family:var(--font-serif);--link-color:#0074D9;--color-icon:#928d94;--body-color:#222222;--header-height:60px;--border-color:#ddd}
 body{font-family:var(--font-family);font-size:14px;padding:0;margin:0;line-height:1.25;scrollbar-width:thin;overflow-y:hidden;scroll-behavior:smooth;overflow-x:hidden;word-spacing:-.25px;word-break:normal;color:var(--body-color)}
 a:hover:not(img){filter:opacity(.75)}
 .hover-underline:hover{text-decoration:underline;text-decoration-thickness:1.5px!important}
@@ -12,7 +12,7 @@ h1,h2,h3{margin:0 0}
 h2{margin:.15rem 0;padding-top:.4rem}
 h4 a{text-decoration-style:dotted;text-decoration-thickness:1px;text-decoration-skip-ink:none;color:var(--body-color);font-weight:700;text-underline-offset:3px}
 h4{margin-top:0;font-family:var(--font-family);text-transform:uppercase;font-weight:400;line-height:1.4;margin-bottom:.95rem}
-header{border-bottom:1px solid #ddd;height:var(--header-height);background:#fff;margin:auto;padding:auto;display:flex;position:sticky;top:0}
+header{border-bottom:1px solid var(--border-color);height:var(--header-height);background:#fff;margin:auto;padding:auto;display:flex;position:sticky;top:0}
 hr:before{content:"---"}
 hr{margin:.75rem 0;border:0}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scrollbar-width:thin}
@@ -23,7 +23,7 @@ p.info{font-family:var(--font-family)}
 p{margin:.35rem 0}
 pre{overflow-x:hidden;white-space:pre-wrap}
 time{font-weight:700}
-footer{background:#f1f1f1;border-top:1px solid #ddd;width:100%;margin:auto;z-index:1000;margin:1rem 0;padding:1.5rem 1.05rem}
+footer{background:#f1f1f1;border-top:1px solid var(--border-color);width:100%;margin:auto;z-index:1000;margin:1rem 0;padding:1.5rem 1.05rem}
 footer ul{display:flex;margin:0 0;padding:0 0;flex:10;flex-direction:row}
 footer ul li{display:block;padding:0 0}
 .ac-center{align-content:center}
@@ -84,7 +84,7 @@ footer ul li{display:block;padding:0 0}
 .related-posts{padding:0 1rem;line-height:1.25}
 .row{display:flex;flex-direction:row;flex-wrap:wrap}
 .sb{justify-content:space-between}
-.separator{padding-right:2rem;border-width:0;border-style:solid;border-image:linear-gradient(to bottom,#999,rgba(0,0,0,0)) 1 100%}
+.separator{padding-right:2rem;border-width:0;border-style:solid;border-image:linear-gradient(to bottom,var(--border-color),rgba(0,0,0,0)) 1 100%}
 .serif{font-family:var(--font-serif)!important}
 .sidebar{padding:0 1.05rem}
 .sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.35rem;font-family:var(--font-family)}
@@ -107,7 +107,7 @@ footer ul li{display:block;padding:0 0}
 .cc:after{content:counter(section) " " attr(data-counter-label);color:#aaa}
 [data-layout=tag] .container ul{gap:1.15rem;margin:.5rem 0}
 [data-layout=book] .container{flex-direction:column}
-[data-layout=book] .page-content{border-bottom:1px solid #ddd}
+[data-layout=book] .page-content{border-bottom:1px solid var(--border-color)}
 [data-layout=book] .page-content li{margin:0;white-space:pre-wrap;font-weight:400}
 .sort-label:before{left:0;content:'';background-size:contain;display:block;width:13px;height:13px;-webkit-mask:var(--svg);overflow:hidden;color:transparent;background-color:var(--color-icon);transition:background-color .2s;mask:var(--svg)}
 .sort-label{z-index:1;padding:0;font-weight:400;display:inline-flex;align-items:center;column-gap:.2rem;line-height:1;justify-content:flex-start}
@@ -130,6 +130,7 @@ footer{background:#fff}
 .related-posts{padding:0 0}
 }
 @media (orientation:landscape) and (min-width:700px){
+.separator{border-width:3px 1px 100px 0}
 [data-layout=book] .box{padding-left:2rem;padding-right:2rem}
 [data-layout=book] .container{flex-direction:row-reverse}
 [data-layout=book] .sidebar{flex:3;display:block;border-top:0;max-width:320px;position:sticky;top:1rem;height:fit-content}
@@ -137,5 +138,5 @@ footer{background:#fff}
 .separator{min-height:70vh}
 }
 @media not (hover:hover){
-.container,body,main{touch-action:manipulation}
+.container,body,main,div{touch-action:manipulation}
 }

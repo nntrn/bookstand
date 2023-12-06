@@ -16,7 +16,7 @@ label{font-weight:500}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
 .form-select{background:#fff;box-sizing:border-box;display:block;border-radius:0;outline:0;color:#222;font-size:12px;border:none;font-weight:700;text-align:center}
-.panel{position:sticky;top:0;z-index:1000;background:#fff;padding:.5rem 0;border-bottom:1px solid #eee}
+.panel{position:sticky;top:0;z-index:1000;background:#fff;padding:.35rem 0;border-bottom:1px solid #eee}
 .sticky{position:sticky;top:0;z-index:1000}
 @media (min-width:776px){
 .books.box{padding:3rem 3rem}
