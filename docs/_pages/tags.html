@@ -7,20 +7,16 @@ permalink: /tags/
 <style>
 .column-container{margin:auto;column-width:max(250px,20vw);column-fill:balance;gap:2rem;column-count:1}
 .column-group{page-break-inside:avoid;margin-bottom:1rem}
-.posts li a:hover{text-decoration:underline;filter:opacity(1)}
-.posts li a:visited{color:purple}
-.posts li div a{text-decoration:none;font-weight:700}
+.posts li div a{font-weight:700}
 .posts li{padding:0 0;margin:0 0;line-height:1.2}
 .posts{margin-top:.75rem}
 h2{border-bottom:1px solid #222}
 h2>a{color:#222;text-decoration:none;font-weight:700}
-li span{font-weight: 500}
+li span{font-weight:500}
 li{display:flex;justify-content:space-between;padding-right:.75rem;column-gap:1rem}
 ul{margin:.25rem 0;padding:.2rem .5rem;display:flex;flex-direction:column;gap:.75rem}
-@media (min-width:600px){
-.hidden-md{display:none!important}
-.column-container{column-count:4}
-}
+@media (min-width:600px){ .hidden-md{display:none!important} .column-container{column-count:4} }
+.fs-90{font-size:unset} @media (min-width:51rem){ .fs-90{font-size:.9rem} }
 </style>
 {% assign genres = site.data.genre %}
 <div class="box">

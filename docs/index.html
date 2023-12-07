@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-panel: filtersort.html
 inline_css: ["books.css"]
 inline_js: ["url.js"]
 ---
@@ -10,23 +9,41 @@ inline_js: ["url.js"]
 {%- assign books = site.data.books | sort: "created" | reverse %}
 {%- assign maxcount = site.data.books | sort: "count" | last %}
 
+<div class="panel ai-center ac-center ss">
+  <div class="form-container flex wrap gap-md box py-0 lh-1">
+    <div class="flex ai-center">
+      <label class="fs-90 ws-pre">Sort By</label>
+      <select class="form-select" id="sort-by">
+        <option value="count" data-type="number">Count</option>
+        <option value="updated" data-type="date">Updated</option>
+        <option value="created" data-type="date" selected>Created</option>
+      </select>
+    </div>
+    <div class="flex ai-center gap-sm">
+      <label class="fs-90 ws-pre flex center">LIMIT<span class="note-icon"></span></label>
+      <input id="filter-range" type="range" min="0" max="{{maxcount.count}}" step="5" value="1" />
+      <input id="filter-value" value="1"/>
+    </div>
+  </div>
+  
+</div>
 <div class="box py-0">
   <div class="books" data-sort="created">
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
-    <div class="book ci gap-sm" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
-      <div class="flex sb book-info fs-10 lh-1">
+    <div class="ss book ci gap-sm" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
+      <div class="flex sb book-info lh-1 ai-end ss fs-90">
         <span class="icon icon-note">{{book.count}}</span>
         <span class="flex column">
           <span data-label="created">{{book.created|date:'%F'}}</span>
           <span data-label="updated">{{book.modified|date:'%F'}}</span>
         </span>
       </div>
-      <a class="ss flex column gap-md" href="{{ site.baseurl }}/{{ book.slug }}">
+      <a class="flex column gap-md" href="{{ site.baseurl }}/{{ book.slug }}">
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
         <label>
           <strong>{{ title }}</strong>
-          <span class="clamp c2 fs-90 ss" title="{{book.author}}">{{ book.author }}</span>
+          <span class="clamp c2 fs-90" title="{{book.author}}">{{ book.author }}</span>
         </label>
       </a>
     </div>
