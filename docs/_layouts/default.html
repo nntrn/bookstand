@@ -13,22 +13,37 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | absolute_url }}">
 {% feed_meta %}
 {% seo %}
+
+{%- if page.inline_css %}
+<style>
+  {% for css in page.inline_css -%}
+  {% include {{css}} %}
+  {%- endfor -%}  
+</style>
+{%- endif %}
 </head>
 <body data-layout="{{page.layout}}">
 <div class="site-container">
 <header class="px-wide">
   {% include header.html %}
 </header>
-{%- if page.show_panel %}
+
+{%- if page.panel %}
 <div class="panel ai-center ac-center ss px-wide">
-  {% include filtersort.html %}
+  {% include {{page.panel}} %}
 </div>
 {%- endif -%}
+
 <main class="px-wide">
 {{- content -}}
-
 {% include footer.html %}
 </main>
 </div>
+
+{%- if page.inline_js -%}<script>
+  {% for js in page.inline_js -%}
+  {% include {{js}} %}
+  {% endfor %}  
+</script>{%- endif %}
 </body>
 </html>
