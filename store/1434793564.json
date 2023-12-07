@@ -1,0 +1,64 @@
+{
+  "id": "1434793564",
+  "title": "The Comedies",
+  "subtitle": "Lady Windermere's Fan, An Ideal Husband, A Woman of No Importance, and The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "isbn": "9781504055918",
+  "genreNames": [
+    "Theater",
+    "Books",
+    "Arts & Entertainment"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=1434793564&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 11977420
+        }
+      ]
+    }
+  ],
+  "pageCount": 970,
+  "releaseDate": "2018-09-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Experience the wit of Wilde in these four delightfully satiric plays—including his masterpiece, <i>The Importance of Being Earnest</i>.</b><br /> &#xa0;<br /> In the late nineteenth century, Oscar Wilde’s plays were the toast of London, celebrated for the Irish playwright’s mischievous wit, pointed social satire, and gift for energetic farce.<br /> &#xa0;<br /><i>Lady Windermere’s Fan</i>: Gossip leads Lady Windermere to believe her husband is having an affair, and when the woman in question appears at her party, she makes an impulsive choice that threatens to destroy her reputation.<br /> &#xa0;<br /><i>An Ideal Husband</i>: When a femme fatale blackmails prestigious politician Sir Robert Chittern, his wife is forced to re-evaluate her standards for “an ideal husband.”<br /> &#xa0;<br /><i>A Woman of No Importance</i>: Young Gerald Arbuthnot is honored to be chosen as secretary to the sophisticated—and flirtatious—Lord Illingworth. So why does Gerald’s mother oppose the appointment?<br /> &#xa0;<br /><i>The Importance of Being Earnest</i>: In the playful sendup of Victorian courtship and manners, bachelors Jack and Algernon each woo ladies using the ironic alias of “Ernest.”"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/3b/4d/e8/3b4de80f-6d61-116b-860b-f1e5e795f5f7/9781504055918.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "302700",
+    "textColor2": "182f3a",
+    "textColor4": "444c2e",
+    "assetToken": "Publication128/v4/3b/4d/e8/3b4de80f-6d61-116b-860b-f1e5e795f5f7/9781504055918.jpg",
+    "textColor1": "000000",
+    "bgColor": "f3c300",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The Comedies",
+  "isPreorder": false,
+  "publisher": "Open Road Media",
+  "artistName": "Oscar Wilde",
+  "primaryLocale": "en-US"
+}
