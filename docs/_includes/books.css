@@ -5,11 +5,11 @@ label{font-weight:500}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{filter:opacity(1)!important;cursor:pointer;text-decoration:none;color:#4c4c4c;font-size:.9em;line-height:1.1}
 .book img:hover{filter:opacity(.95);box-shadow:0 0 4px rgba(0,0,0,.4);transition:all .25s ease}
-.book img{width:110px;box-shadow:0 0 4px rgba(0,0,0,.2);border-radius:4px;filter:opacity(.7);user-select:none;transition:all .25s ease}
-.book label span{overflow:hidden;font-weight:400;color:#717171;line-height:1.2;margin:auto;font-family:sans-serif}
+.book img{width:120px;box-shadow:0 0 4px rgba(0,0,0,.2);border-radius:4px;filter:opacity(.7);user-select:none;transition:all .25s ease}
+.book label span{overflow:hidden;font-weight:400;color:#717171;line-height:1.2;margin:auto;font-family:var(--body-font)}
 .book label{display:flex;flex-direction:column;gap:.2rem;cursor:text;margin:auto;justify-content:center;text-align:center;letter-spacing:-.025px/*! font-size:.85rem */}
 .book label{margin:auto}
-.book strong{color:#b4b4b4;font-weight:600}
+.book strong{color:#222;font-weight:600}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.2rem;line-height:1.2;display:flex;justify-content:center;row-gap:.2rem}
 .books.box{padding:2rem 1.5rem}
 .books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 0;row-gap:1.5rem;align-items:flex-start;margin:auto;column-gap:4rem;scrollbar-width:thin;height:100%;width:100%}

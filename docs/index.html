@@ -15,18 +15,18 @@ inline_js: ["url.js"]
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
     <div class="book ci gap-sm" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
-      <div class="flex sb book-info fs-10 lh-1 ss ai-end">
+      <div class="flex sb book-info fs-10 lh-1">
         <span class="icon icon-note">{{book.count}}</span>
-        <span class="icon icon-cal lh-1 ai-end"><span class="flex sb column">
+        <span class="flex column">
           <span data-label="created">{{book.created|date:'%F'}}</span>
           <span data-label="updated">{{book.modified|date:'%F'}}</span>
-        </span></span>
+        </span>
       </div>
       <a class="ss flex column gap-md" href="{{ site.baseurl }}/{{ book.slug }}">
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
         <label>
           <strong>{{ title }}</strong>
-          <span class="clamp c2 fs-90" title="{{book.author}}">{{ book.author }}</span>
+          <span class="clamp c2 fs-90 ss" title="{{book.author}}">{{ book.author }}</span>
         </label>
       </a>
     </div>
