@@ -1,23 +1,9 @@
-const $ = (query) => document.querySelector(query)
-const $$ = (query) => Array.from(document.querySelectorAll(query))
+const $ = query => document.querySelector(query)
+const $$ = query => Array.from(document.querySelectorAll(query))
 
-const urlquery = (query = location.search) =>
-  Object.fromEntries(
-    query
-      .split(/[?&]/)
-      .filter(Boolean)
-      .map((e) => e.split("="))
-  )
-const urlparse = (obj) =>
-  "?" +
-  Object.entries(obj)
-    .map((e) => `${e[0]}=${e[1]}`)
-    .join("&")
+const urlquery = (query = location.search) => Object.fromEntries(query.split(/[?&]/).filter(Boolean).map(e => e.split("=")));
+const urlparse = obj => '?' + Object.entries(obj).map(e => `${e[0]}=${e[1]}`).join("&")
 
-function replaceLocation(obj) {
-  const parse = urlparse(Object.assign(urlquery(), obj))
-  history.pushState(obj, "", parse)
-}
 const sort = {
   number: (a, b) => (Number(a) > Number(b) ? -1 : 1),
   date: (a, b) => (new Date(a) > new Date(b) ? -1 : 1),
@@ -26,7 +12,7 @@ const sort = {
 
 function prettyDate(dt) {
   if (/[0-9]{4}-[0-9]{2}-[0-9]{2}/.test(dt)) {
-    return new Date(dt).toLocaleDateString("en-us", { year: "numeric", month: "short", day: "numeric" }).toUpperCase()
+    return new Date(`${dt.replace(/Z$/, '')}-06:00`).toLocaleDateString("en-us", { year: "numeric", month: "short", day: "numeric" }).toUpperCase()
   }
   return dt
 }
@@ -38,7 +24,6 @@ function sortElements(search = urlquery().sort) {
     .sort((a, b) => sort[sortType](a.dataset[search], b.dataset[search]))
     .forEach((node) => {
       sortParent.appendChild(node)
-      node.querySelector(".sort-label").dataset.after = prettyDate(node.dataset[search])
     })
   sortParent.dataset.sort = search
 }
@@ -78,6 +63,3 @@ if (location.search) {
 } else {
   filterCount()
 }
-
-
-
