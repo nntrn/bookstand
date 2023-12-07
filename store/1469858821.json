@@ -1,0 +1,70 @@
+{
+  "id": "1469858821",
+  "title": "Catch and Kill",
+  "subtitle": "Lies, Spies, and a Conspiracy to Protect Predators",
+  "author": "Ronan Farrow",
+  "isbn": "9780316486668",
+  "genreNames": [
+    "True Crime",
+    "Books",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>Now an HBO documentary series streaming on HBO Max.&#xa0;<br /><br />One of the Best Books of the Year </b>&#xa0;<b>Time * </b><b>NPR </b><b>* </b><b>Washington Post </b><b>* </b><b>Bloomberg News </b><b>* </b><b>Chicago Tribune </b><b>* </b><b><b></b></b><b>Chicago Public Library </b><b>* </b><b>Fortune </b><b>* </b><b>Los Angeles Times </b><b>* </b><b>E! News </b><b>* </b><b>The Telegraph </b><b>* </b><b>Apple </b><b>* </b><b>Library Journal </b>&#xa0;<b>In this newly updated edition of the \"meticulous and devastating\" (Associated Press) account of violence and espionage that spent months on the <i>New York Times</i> Bestsellers list, Ronan Farrow exposes serial abusers and a cabal of powerful interests hell-bent on covering up the truth, at any cost - from Hollywood to Washington and beyond. </b><br />&#xa0;&#xa0;In 2017, a routine network television investigation led to a story only whispered about: one of Hollywood's most power­ful producers was a predator, protected by fear, wealth, and a conspiracy of silence. As Farrow drew closer to the truth, shadowy operatives, from high-priced lawyers to elite war-hardened spies, mounted a secret campaign of intimidation, threatening his career, following his every move, and weaponizing an account of abuse in his own family. This is the untold story of the exotic tactics of surveillance and intimidation deployed by wealthy and connected men to threaten journalists, evade accountability, and silence victims of abuse. And it's the story of the women who risked everything to expose the truth and spark a global movement<br />&#xa0;&#xa0;<b><i>Los Angeles Times</i> Book Prize Finalist<br />Finalist for the National Book Critics Circle Award in Autobiography</b><b>Indie Bound #1 Bestseller</b><b><i>USA Today </i>Bestseller</b><b><i>Wall Street Journal </i>Bestseller</b>"
+  },
+  "editorialNotes": {
+    "standard": "Warning: At times, <i>Catch and Kill</i> will make you want to throw your phone across the room in a rage. And although Farrow reveals disturbing new allegations about the misdeeds of men like Harvey Weinstein and Matt Lauer, that’s not the most infuriating part of his buzzed-about book. Instead, it’s the actions of these men’s bosses and henchmen that made us absolutely livid; Farrow maps out myriad instances of them using tactics—legal and otherwise—to intimidate and silence women who suffered sexual harassment and assault. (If you needed more context for why so many victims choose to stay silent, look no further.) Much like Jodi Kantor and Megan Twohey’s <i>She Said</i>, Farrow’s book details his investigations into these stories and how powerful people tried to quash his reporting when it hit too close to home. The book feels like a thriller at times, unfolding at a breathless pace in short, snappy chapters. That, and Farrow’s smart, likable personality, makes <i>Catch and Kill</i> a genuinely entertaining read, even at its most maddening.",
+    "short": "The journalist’s riling deep dive into his Weinstein investigation reads like a thriller."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1469858821&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3378379
+        }
+      ]
+    }
+  ],
+  "pageCount": 464,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2019-10-15",
+  "isIBook": false,
+  "artwork": {
+    "width": 1734,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/e1/6a/c3/e16ac3ab-8fb6-cb46-4c20-964b0f5a326a/9780316486668.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "cccccc",
+    "textColor2": "d8d8d8",
+    "textColor4": "adadad",
+    "assetToken": "Publication125/v4/e1/6a/c3/e16ac3ab-8fb6-cb46-4c20-964b0f5a326a/9780316486668.jpg",
+    "textColor1": "fefefe",
+    "bgColor": "040404",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 1356,
+    "ratingCountList": [
+      55,
+      45,
+      108,
+      236,
+      912
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Catch and Kill",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Ronan Farrow",
+  "primaryLocale": "en-US"
+}

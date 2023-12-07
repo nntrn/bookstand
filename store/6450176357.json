@@ -1,0 +1,67 @@
+{
+  "id": "6450176357",
+  "title": "Interesting Stories about Curious Words",
+  "subtitle": "From Stealing Thunder to Red Herrings",
+  "author": "Susie Dent",
+  "isbn": "9781399811699",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Reference",
+    "Dictionaries & Thesauruses"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6450176357&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9122843
+        }
+      ]
+    }
+  ],
+  "pageCount": 432,
+  "releaseDate": "2023-09-28",
+  "isIBook": false,
+  "description": {
+    "standard": "Join Susie Dent, lexicographer extraordinaire and Queen of <i>Countdown</i>'s Dictionary Corner, on a curious and exceedingly interesting adventure through all the very best RED HERRINGS, COCK AND BULL STORIES and NINE-DAY WONDERS in the English language.<br /><b><br />Who was SWEET FANNY ADAMS?</b><br /><b><br />What's the dramatic true story behind STEALING THUNDER?</b><br /><b><br />Why is it CHANCING YOUR ARM when you take a risk?</b><br /><b><br />What do bears have to do with LICKING INTO SHAPE?</b><br /><b><br />Or robbers with PULLING SOMEONE'S LEG?</b><br /><b><br />Why are CIRCLES VICIOUS?</b><br /><b><br />And, what's so bad about a WHITE ELEPHANT? </b><br /><br /> 'Nobody on earth knows more about the English language than Susie Dent' Gyles Brandreth"
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/47/08/04/4708040d-46a9-0ad8-3a2a-58e8ea8fec6a/9781399811699.jpg/{w}x{h}bb.{f}",
+    "height": 2206,
+    "textColor3": "333408",
+    "textColor2": "620004",
+    "textColor4": "812f03",
+    "assetToken": "Publication116/v4/47/08/04/4708040d-46a9-0ad8-3a2a-58e8ea8fec6a/9781399811699.jpg",
+    "textColor1": "00060a",
+    "bgColor": "ffee00",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Interesting Stories about Curious Words",
+  "publisher": "John Murray Press",
+  "isPreorder": false,
+  "artistName": "Susie Dent",
+  "primaryLocale": "en-US"
+}
