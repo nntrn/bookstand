@@ -21,10 +21,11 @@ template{display:none}
 *{box-sizing:border-box}
 html{font-size:.75rem;scroll-behavior:smooth}
 @media (min-width:51rem){
-html{font-size:.9rem}
+html{font-size:.85rem}
 }
 body{font-size:inherit;line-height:1.4;color:#5c5962;background-color:#fff;overflow-wrap:break-word}
 h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:1em;font-weight:500;line-height:1.25;color:#27262b}
+h3{font-weight:bolder}
 p{margin-top:1em;margin-bottom:1em}
 body{font-family:var(--font-family);line-height:1.25;scrollbar-width:thin;overflow-y:auto;overflow-x:hidden;word-spacing:-.25px;color:var(--body-color)}
 a:hover:not(img){filter:opacity(.5)}
@@ -55,7 +56,8 @@ footer ul li{display:block;padding:0 0}
 .baseline{align-items:baseline}
 .book-author:before{content:"by";font-weight:500;font-family:georgia,serif;margin-right:.3em;font-style:italic}
 .book-author{font-size:1em;line-height:2}
-.book-title{font-size:1.6em;line-height:1.15;letter-spacing:-.2px;margin-top:0;padding-top:0}
+.book-title{font-size:1.6em;line-height:1.15;letter-spacing:-.2px;margin-top:0;padding-top:0;font-weight:700}
+.book-subtitle{font-weight:600}
 .box{width:100%;padding:1rem;margin:0 auto}
 .breadcrumb a{text-decoration:none;display:inline-block}
 .breadcrumb{display:flex;margin-bottom:1rem;color:#888;gap:.3rem;font-family:sans-serif;text-transform:uppercase}
@@ -141,7 +143,7 @@ footer ul li{display:block;padding:0 0}
 [data-layout=book] main{padding:0 2rem}
 }
 @media (orientation:portrait){
-[data-layout=book] .box{padding:0rem 1rem}
+[data-layout=book] .box{padding:0rem 1.5rem}
 [data-layout=book] .container{flex-direction:column;justify-content:flex-start}
 }
 @media (orientation:landscape){
@@ -149,7 +151,7 @@ footer ul li{display:block;padding:0 0}
 }
 @media (orientation:landscape) and (min-width:700px){
 .separator{border-width:3px 1px 100px 0}
-[data-layout=book] .box{padding-left:2rem;padding-right:2rem}
+[data-layout=book] .box{padding-left:3rem;padding-right:3rem}
 [data-layout=book] .container{flex-direction:row-reverse}
 [data-layout=book] .sidebar{flex:3;display:block;border-top:0;max-width:320px;position:sticky;top:1rem;height:fit-content}
 [data-layout=book] .page-content{flex:7;border:0}
