@@ -1,0 +1,66 @@
+{
+  "id": "1565484331",
+  "title": "How We Eat With Our Eyes and Think With Our Stomach",
+  "subtitle": "The Hidden Influences That Shape Your Eating Habits",
+  "author": "Melanie Mühl & Diana von Kopp",
+  "isbn": "9781615194247",
+  "genreNames": [
+    "Diet & Nutrition",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature",
+    "Life Sciences",
+    "Psychology"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1565484331&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1100017
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2017-11-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“A remarkable book, which in an entertaining way takes a deep dive into our bodies .&#xa0;.&#xa0;. you’ll never see (or taste) food the same way again!” —Martin Lindstrom,&#xa0;<i>New York Times</i>–bestselling author </b><br /><br />A Belgian chocolate cake topped with a velvety homemade mousse catches your eye on the menu. The next thing you know, you’ve ordered it—despite the hefty price. But do you know why?<br /><br />Through over 40 compelling questions, this book explores how our eating decisions tread the line between conscious and subconscious, and enables us to be more intelligent about food. With expert insights that draw from psychology, neuroscience, popular culture, and more, learn to see the innumerable influences behind your diet and cravings—from the size and color of your plate, to the placement of products in a supermarket, to the order in which you sit when out with friends.<br /><br />And the chocolate cake? Would you believe research shows that regional descriptions (Belgian!) and emotive, sensory language (homemade! velvety!) subtly affect your appetite? Know what and why you eat, when and how you do—before you next sit down to dine.<br /><br /><b>“We make 200 conscious and unconscious decisions about food every day. Clearly, eating is no fun anymore. The authors want to cut through the juice cleanses and paleo diets to bring back some common sense.” —<i>The New York Times Book Review</i></b><br /><br /><b>“The connections between our emotions and the foods we choose are explored in fascinating detail.” —<i>Parade.com</i></b><br /><br /><b>“Offers easily digestible insights to help you make more conscious choices about what goes in your stomach.” —<i>The Atlanta Journal-Constitution</i></b>"
+  },
+  "artwork": {
+    "width": 1572,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/62/a3/29/62a32995-0bf9-adcd-9189-cb7ebf54dd3f/9781615194247.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "421b0f",
+    "textColor2": "1d0902",
+    "textColor4": "48190d",
+    "assetToken": "Publication125/v4/62/a3/29/62a32995-0bf9-adcd-9189-cb7ebf54dd3f/9781615194247.jpg",
+    "textColor1": "160b05",
+    "bgColor": "f35a39",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "How We Eat With Our Eyes and Think With Our Stomach",
+  "publisher": "The Experiment",
+  "isPreorder": false,
+  "artistName": "Melanie Mühl & Diana von Kopp",
+  "primaryLocale": "en-US"
+}
