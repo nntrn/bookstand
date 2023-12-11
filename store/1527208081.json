@@ -1,0 +1,65 @@
+{
+  "id": "1527208081",
+  "title": "The Secret Poisoner",
+  "subtitle": "A Century of Murder",
+  "author": "Linda Stratmann",
+  "isbn": "9780300219548",
+  "genreNames": [
+    "True Crime",
+    "Books",
+    "Nonfiction",
+    "History",
+    "Europe"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1527208081&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6851168
+        }
+      ]
+    }
+  ],
+  "pageCount": 344,
+  "releaseDate": "2016-03-22",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“This fine social history charts the changing patterns of using poison” and the forensic methods developed to detect it in the Victorian Era (<i>The Guardian</i>, UK).</b><br /> &#xa0;<br /> Murder by poison alarmed, enthralled, and in some ways even defined the Victorian age. Linda Stratmann’s dark and splendid social history reveals the nineteenth century as a gruesome battleground where poisoners went head-to-head with scientific and legal authorities who strove to detect poisons, control their availability, and bring the guilty to justice.<br /> &#xa0;<br /> Separating fact from Hollywood fiction, Stratmann corrects many misconceptions about particular poisons and their deadly effects. She also documents how the motives for poisoning—which often involved domestic unhappiness—evolved as marriage and child protection laws began to change. Combining archival research with vivid storytelling, Stratmann charts the era’s inexorable rise of poison cases."
+  },
+  "artwork": {
+    "width": 1571,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/54/37/fb/5437fb20-c62c-e549-69e9-ed4a88874663/9780300219548.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "19302a",
+    "textColor2": "32211b",
+    "textColor4": "3d402c",
+    "assetToken": "Publication124/v4/54/37/fb/5437fb20-c62c-e549-69e9-ed4a88874663/9780300219548.jpg",
+    "textColor1": "050d18",
+    "bgColor": "6cbc72",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Secret Poisoner",
+  "isPreorder": false,
+  "publisher": "Yale University Press",
+  "artistName": "Linda Stratmann",
+  "primaryLocale": "en-US"
+}
