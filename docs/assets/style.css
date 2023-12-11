@@ -1,5 +1,5 @@
 *,::after,::before{box-sizing:border-box}
-:root{--font-serif:times,serif;--font-sans-serif:'helvetica neue',helvetica,sans-serif;--font-family:monospace;--body-font:monospace;--link-color:#0074D9;--color-icon:#928d94;--body-color:#222222;--header-height:60px;--border-color:#ddd;--accent-color:25,208,165}
+:root{--font-serif:times,serif;--font-sans-serif:'helvetica neue',helvetica,sans-serif;--font-family:monospace;--body-font:monospace;--link-color:#0074D9;--color-icon:#928d94;--body-color:#222222;--header-height:60px;--border-color:#ddd;--accent-color:37,99,235}
 html{line-height:1.15;-webkit-text-size-adjust:100%}
 body{margin:0}
 main{display:block}
@@ -20,6 +20,9 @@ template{display:none}
 .hidden,[hidden]{display:none!important}
 *{box-sizing:border-box}
 html{font-size:.75rem;scroll-behavior:smooth}
+@media (max-width:600px){
+html{font-size:.71rem}
+}
 @media (min-width:51rem){
 html{font-size:.85rem}
 }
@@ -72,7 +75,7 @@ footer ul li{display:block;padding:0 0}
 .form-container{flex-direction:row-reverse;justify-content:space-between;align-items:center;align-content:center}
 .fs-80{font-size:.8em}
 .fs-90{font-size:.9em}
-.fsr-80{font-size:.8rem}
+.fsr-80{font-size:.9rem}
 .fw-700{font-weight:700!important}
 .gap-xl{gap:1rem!important}
 .gap-lg{gap:.75rem!important}
