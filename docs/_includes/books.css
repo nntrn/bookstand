@@ -4,15 +4,15 @@ label{font-weight:500}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{filter:opacity(1)!important;cursor:pointer;text-decoration:none;color:#4c4c4c;line-height:1.1}
 .book img:hover{filter:opacity(.95);box-shadow:0 0 4px rgba(0,0,0,.4);transition:all .25s ease}
-.book img{width:110px;box-shadow:0 0 4px rgba(0,0,0,.2);border-radius:4px;filter:opacity(.8);user-select:none;transition:all .25s ease}
+.book img{width:100px;box-shadow:0 0 4px rgba(0,0,0,.2);border-radius:4px;filter:opacity(.8);user-select:none;transition:all .25s ease}
 .book label span{overflow:hidden;font-weight:400;color:#717171;line-height:1.2;margin:auto;font-family:var(--body-font)}
 .book label{display:flex;flex-direction:column;gap:.2rem;cursor:text;margin:auto;justify-content:center;text-align:center;letter-spacing:-.025px}
 .book label{margin:auto}
 .book strong{color:#222;font-weight:600}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.2rem;line-height:1.2;display:flex;justify-content:center;row-gap:.2rem}
 .books.box{padding:2rem 1.5rem}
-.book-info{color:var(--color-icon)}
-.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 0;row-gap:3rem;align-items:flex-start;margin:auto;column-gap:5rem;scrollbar-width:thin;height:100%;width:100%}
+.book-info{color:var(--color-icon);font-family:monospace}
+.books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 1.85rem;row-gap:3rem;align-items:flex-start;margin:auto;column-gap:5rem;scrollbar-width:thin;height:100%;width:100%}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
 .form-select{background:0 0;box-sizing:border-box;display:block;border-radius:0;outline:0;color:#222;border:none;font-weight:700;text-align:center}
@@ -29,3 +29,7 @@ input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-co
 input[type=range]::-moz-range-track{background-color:#ddd;border-radius:5px;height:4px}
 [data-sort=created] [data-label=updated]{display:none}
 [data-sort=updated] [data-label=created]{display:none}
+[data-sort=count] [data-label=created]{display:none}
+[data-label]:before{color:var(--border-color);font-weight:600;font-family:monospace;letter-spacing:-1px}
+[data-label=created]:before{content:"c/"}
+[data-label=updated]:before{content:"u/"}
