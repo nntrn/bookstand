@@ -1,0 +1,64 @@
+{
+  "id": "6445206884",
+  "title": "The Restless Clock",
+  "subtitle": "A History of the Centuries-Long Argument over What Makes Living Things Tick",
+  "author": "Jessica Riskin",
+  "isbn": "9780226303086",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "History",
+    "Life Sciences"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6445206884&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 10656113
+        }
+      ]
+    }
+  ],
+  "pageCount": 544,
+  "releaseDate": "2016-03-10",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A “wide-ranging, witty, and astonishingly learned” scientific and cultural history of the concept of the capacity to act in nature (<i>London Review of Books</i>).</b><br /><br />Today, a scientific explanation is not meant to ascribe agency to natural phenomena: we would not say a rock falls because it seeks the center of the earth. Even for living things, in the natural sciences and often in the social sciences, the same is true. A modern botanist would not say that plants pursue sunlight. This has not always been the case, nor, perhaps, was it inevitable. Since the seventeenth century, many thinkers have made agency, in various forms, central to science.<br /><br /><i>The Restless Clock</i> examines the history of this principle, banning agency, in the life sciences. It also tells the story of dissenters embracing the opposite idea: that agency is essential to nature. The story begins with the automata of early modern Europe, as models for the new science of living things, and traces questions of science and agency through Descartes, Leibniz, Lamarck, and Darwin, among many others. Mechanist science, Jessica Riskin shows, had an associated theology: the argument from design, which found evidence for a designer in the mechanisms of nature. Rejecting such appeals to a supernatural God, the dissenters sought to naturalize agency rather than outsourcing it to a “divine engineer.” Their model cast living things not as passive but as <i>active</i>, self-making machines.<br /><br />The conflict between passive- and active-mechanist approaches maintains a subterranean life in current science, shaping debates in fields such as evolutionary biology, cognitive science, and artificial intelligence. This history promises not only to inform such debates, but also our sense of the possibilities for what it means to engage in science—and even what it means to be alive.<br /><br /><b>Praise for <i>The Restless Clock</i></b><br /><br />“A wonderful contribution—and much needed corrective—to the history of European ideas about life and matter.” —Evelyn Fox Keller, author of <i>The Mirage of a Space between Nature and Nurture</i><br /><br />“Engrossing and illuminating.” —<i>Nature</i><br /><br />“A sweeping survey of the search for answers to the mystery of life. Riskin writes with clarity and wit, and the breadth of her scholarship is breathtaking.” —<i>Times Higher Education </i>(UK)"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/8c/1f/55/8c1f5534-b224-0b18-fa07-11c9e69f79b5/9780226303086.jpg/{w}x{h}bb.{f}",
+    "height": 2361,
+    "textColor3": "434341",
+    "textColor2": "2d2f24",
+    "textColor4": "55564a",
+    "assetToken": "Publication113/v4/8c/1f/55/8c1f5534-b224-0b18-fa07-11c9e69f79b5/9780226303086.jpg",
+    "textColor1": "181818",
+    "bgColor": "f2f0e4",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Restless Clock",
+  "isPreorder": false,
+  "publisher": "The University of Chicago Press",
+  "artistName": "Jessica Riskin",
+  "primaryLocale": "en-US"
+}
