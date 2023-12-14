@@ -9,7 +9,7 @@ inline_js: ["url.js"]
 {%- assign books = site.data.books | sort: "created" | reverse %}
 {%- assign maxcount = site.data.books | sort: "count" | last %}
 
-<div class="panel ai-center ac-center ss">
+<div class="panel">
   <div class="form-container flex wrap gap-md box py-0 lh-1">
     <div class="flex ai-center">
       <label class="fs-90 ws-pre">Sort By</label>
@@ -32,7 +32,7 @@ inline_js: ["url.js"]
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
     <div class="book ci" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
-      <div class="flex sb book-info lh-1 ss wrap ss">
+      <div class="book-info">
         <span class="icon icon-note">{{book.count}}</span>
         <span class="flex column">
           <span data-label="created">{{book.created|date:'%F'}}</span>
