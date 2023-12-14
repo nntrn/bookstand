@@ -1,6 +1,6 @@
 label{font-weight:500}
-#filter-value{background:0 0;width:30px;font-weight:600;border:none;box-shadow:none;color:#222;padding:1pt 2px;border-radius:4px;outline:0;min-width:auto;max-width:max-content;text-align:left}
-#filter-range{max-width:50vw}
+#rangenumber{background:0 0;width:50px;font-weight:600;border:none;box-shadow:none;color:#222;padding:1pt 2px;border-radius:4px;outline:0;min-width:auto;max-width:max-content;text-align:left;background:#fff;font-size:inherit}
+#rangeinput{max-width:50vw}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{filter:opacity(1)!important;cursor:pointer;text-decoration:none;color:#4c4c4c;line-height:1.1}
 .book img:hover{filter:opacity(.95);box-shadow:0 0 4px rgba(0,0,0,.4);transition:box-shadow .2s ease}
@@ -22,12 +22,10 @@ label{font-weight:500}
 @media (min-width:776px){
 .books.box{padding:3rem 3rem}
 .books{row-gap:3.5rem;padding:1.25rem .15rem}
-#filter-range{max-width:50vw;min-width:20vw}
+#rangeinput{max-width:50vw;min-width:20vw}
 }
 input:focus,select:focus{color:#aaa!important}
-input[type=range]{background:#ddd;border-radius:5px;cursor:pointer;height:4px;border-radius:5px}
-input[type=range]::-moz-range-thumb{border:none;border-radius:10px;background-color:#222;height:9px;width:9px}
-input[type=range]::-moz-range-track{background-color:#ddd;border-radius:5px;height:4px}
+input[type=range]{background:#ddd;border-radius:5px;cursor:pointer;height:6px;border-radius:5px}
 [data-sort=created] [data-label=updated]{display:none}
 [data-sort=updated] [data-label=created]{display:none}
 [data-sort=count] [data-label=created]{display:none}

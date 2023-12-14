@@ -18,7 +18,7 @@ function prettyDate(dt) {
 }
 
 function sortElements(search = urlquery().sort) {
-  const sortType = $(`#sort-by [value=${search}]`).dataset.type
+  const sortType = $(`#selectsort [value=${search}]`).dataset.type
   const sortParent = $(`[data-${search}]`).parentElement
   Array.from(sortParent.children)
     .sort((a, b) => sort[sortType](a.dataset[search], b.dataset[search]))
@@ -38,16 +38,9 @@ function filterCount(n) {
       book.hidden = true
     }
   })
-  $("#filter-range").value = num
-  $("#filter-value").value = num
+  $("#rangeinput").value = num
+  $("#rangenumber").value = num
 }
-
-$("#filter-range").addEventListener("mouseup", filterCount)
-$("#filter-value").addEventListener("change", filterCount)
-
-$("#sort-by").addEventListener("change", function (e) {
-  sortElements(e.target.value)
-})
 
 if (location.search) {
   const { min, sort } = urlquery()
@@ -57,8 +50,8 @@ if (location.search) {
 
   if (sort) {
     sortElements()
-    var index = $(`#sort-by [value=${sort}]`).index
-    $("#sort-by").options.selectedIndex = index
+    var index = $(`#selectsort [value=${sort}]`).index
+    $("#selectsort").options.selectedIndex = index
   }
 } else {
   filterCount()

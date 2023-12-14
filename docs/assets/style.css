@@ -19,9 +19,9 @@ summary{display:list-item}
 template{display:none}
 .hidden,[hidden]{display:none!important}
 *{box-sizing:border-box}
-html{font-size:.75rem;scroll-behavior:smooth}
-@media (min-width:51rem){
-html{font-size:.85rem}
+html{font-size:14px;scroll-behavior:smooth}
+@media (max-width:500px){
+html{font-size:.75rem}
 }
 body{font-size:inherit;line-height:1.4;color:var(--body-color);background-color:var(--bg-color);overflow-wrap:break-word}
 h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:1em;font-weight:500;line-height:1.25;color:var(--body-color)}
@@ -43,7 +43,7 @@ hr{margin:.75rem 0;border:0}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scrollbar-width:thin}
 li{padding-left:.5rem}
 li>p{margin:0}
-main{overflow-y:auto;height:calc(100vh - var(--header-height));margin:auto;width:100%;scrollbar-width:thin;display:flex;flex-direction:column;justify-content:space-between;gap:1rem;z-index: -1;}
+main{overflow-y:auto;height:calc(100vh - var(--header-height));margin:auto;width:100%;scrollbar-width:thin;display:flex;flex-direction:column;justify-content:space-between;gap:1rem;z-index:-1}
 pre{overflow-x:hidden;white-space:pre-wrap}
 time{font-weight:700}
 footer{border-top:1px solid var(--border-color);width:100%;margin:auto;z-index:1000;margin:1rem 0;padding:1.5rem 1.05rem}
@@ -51,12 +51,13 @@ footer ul{display:flex;margin:0 0;padding:0 0;flex:10;flex-direction:row}
 footer ul li{display:block;padding:0 0}
 .ac-center{align-content:center}
 .ai-center{align-items:center}
+.ai-baseline{align-items:baseline}
 .ai-end{align-items:flex-end!important}
 .annotations li{position:relative;width:97%;line-height:1.4;font-family:var(--font-sans-serif)}
 .baseline{align-items:baseline}
 .book-author:before{content:"by";font-weight:500;font-family:georgia,serif;margin-right:.3em;font-style:italic}
 .book-author{font-size:1em;line-height:2}
-.book-title{font-size:1.6em;line-height:1.15;letter-spacing:-.2px;margin-top:0;padding-top:0;font-weight:700}
+.book-title{font-size:1.6em;line-height:1.15;letter-spacing:-.2px;margin-top:0;padding-top:0;font-weight:500}
 .book-subtitle{font-weight:600}
 .box{width:100%;padding:1rem;margin:0 auto}
 .breadcrumb a{text-decoration:none;display:inline-block}
@@ -78,6 +79,7 @@ footer ul li{display:block;padding:0 0}
 .gap-md{gap:.5rem!important}
 .gap-sm{gap:.25rem!important}
 .header-container{font-style:normal;z-index:1000;width:100%;text-decoration:none;color:var(--body-color);padding:auto;padding-right:1rem;padding-left:1rem;margin:auto;display:flex}
+.loc{width:15px!important;display:inline-block;text-align:center}
 .highlighted .loc{display:none}
 .highlighted span{background:#fff0b1}
 .inline-flex{display:inline-flex}
