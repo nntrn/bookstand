@@ -18,7 +18,7 @@ function prettyDate(dt) {
 }
 
 function sortElements(search = urlquery().sort) {
-  const sortType = $(`#selectsort [value=${search}]`).dataset.type
+  const sortType = $(`#sortby [value=${search}]`).dataset.type
   const sortParent = $(`[data-${search}]`).parentElement
   Array.from(sortParent.children)
     .sort((a, b) => sort[sortType](a.dataset[search], b.dataset[search]))
@@ -38,8 +38,8 @@ function filterCount(n) {
       book.hidden = true
     }
   })
-  $("#rangeinput").value = num
-  $("#rangenumber").value = num
+  $("#rangefilter").value = num
+  $("#numfilter").value = num
 }
 
 if (location.search) {
@@ -50,8 +50,8 @@ if (location.search) {
 
   if (sort) {
     sortElements()
-    var index = $(`#selectsort [value=${sort}]`).index
-    $("#selectsort").options.selectedIndex = index
+    var index = $(`#sortby [value=${sort}]`).index
+    $("#sortby").options.selectedIndex = index
   }
 } else {
   filterCount()

@@ -10,22 +10,7 @@ inline_js: ["url.js"]
 {%- assign maxcount = site.data.books | sort: "count" | last %}
 
 <div class="panel">
-  <div class="form-container flex wrap gap-md box py-0 lh-1">
-    <div class="flex ai-center">
-      <label class="fs-90 ws-pre">Sort By</label>
-      <select class="form-select" id="selectsort">
-        <option value="count" data-type="number">Count</option>
-        <option value="updated" data-type="date">Updated</option>
-        <option value="created" data-type="date" selected>Created</option>
-      </select>
-    </div>
-    <div class="flex ai-center gap-sm">
-      <label class="fs-90 ws-pre flex center">LIMIT<span class="note-icon"></span></label>
-      <input id="rangeinput" type="range" min="0" max="{{maxcount.count}}" step="5" value="1" />
-      <input id="rangenumber" value="1"/>
-    </div>
-  </div>
-  
+  {% include filtersort.html %} 
 </div>
 <div class="box py-0">
   <div class="books" data-sort="created">
