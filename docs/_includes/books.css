@@ -8,7 +8,7 @@ label{font-weight:500}
 .book label span{overflow:hidden;font-weight:400;color:#717171;line-height:1.2;margin:auto;font-family:var(--body-font)}
 .book label{display:flex;flex-direction:column;gap:.2rem;cursor:text;margin:auto;justify-content:center;text-align:center;letter-spacing:-.025px}
 .book label{margin:auto}
-.book strong{color:var(--body-color);font-weight:600;line-height:1.25}
+.book strong{color:var(--body-color);font-weight:600/*! line-height:1.25 */}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.2rem;display:flex;justify-content:center;row-gap:.4rem}
 .books.box{padding:2rem 1.5rem}
 .book-info{color:var(--color-icon);font-family:monospace;line-height:1;font-family:var(--font-sans-serif);flex-wrap:wrap;display:flex;justify-content:space-between}
