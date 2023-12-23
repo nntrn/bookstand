@@ -1,0 +1,68 @@
+{
+  "id": "1081700739",
+  "title": "The Literature Book",
+  "subtitle": "Big Ideas Simply Explained",
+  "author": "DK",
+  "isbn": "9781465454553",
+  "genreNames": [
+    "Literary Criticism",
+    "Books",
+    "Fiction & Literature",
+    "Biographies & Memoirs"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=1081700739&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 93057570
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2016-05-26",
+  "seriesInfo": {
+    "seriesName": "Big Ideas Simply Explained"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "<b>\"<i>Books, let's face it, are better than anything else.</i>\" Nick Hornby</b><br /><br />Turn the pages of <i>The Literature Book</i> to discover over 100 of the world's most enthralling reads and the literary geniuses behind them.  <br /><br />Storytelling is as old as humanity itself. Part of the Big Ideas Simply Explained series, <i>The Literature Book</i> introduces you to ancient classics from the Epic of Gilgamesh written 4,000 years ago, as well as the works of Shakespeare, Voltaire, Tolstoy, and more, and 20th-century masterpieces, including <i>Catch-22, Beloved,</i> and <i>On the Road.</i> The perfect reference for your bookshelf, it answers myriad questions such as what is stream of consciousness, who wrote <i>To Kill a Mockingbird</i>, and what links the poetry of Wordsworth with that of TS Eliot. <br /><br />Losing yourself in a great book transports you to another time and place, and <i>The Literature Book </i>sets each title in its social and political context. It helps you appreciate, for example, how Dickens' <i>Bleak House </i>paints a picture of deprivation in 19th-century England, or how Stalin's climb to power was the backdrop for George Orwell's 1984.<br /><br />With succinct plot summaries, graphics, and inspiring quotations, this is a must-have reference for literature students and the perfect gift for book-lovers everywhere.<br /><br /><b>Series Overview:</b> Big Ideas Simply Explained series uses creative design and innovative graphics along with straightforward and engaging writing to make complex subjects easier to understand. With over 7 million copies worldwide sold to date, these award-winning books provide just the information needed for students, families, or anyone interested in concise, thought-provoking refreshers on a single subject."
+  },
+  "artwork": {
+    "width": 2303,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/3f/3d/a7/3f3da71a-2768-6774-abb1-f34421315101/9781465454553.jpg/{w}x{h}bb.{f}",
+    "height": 2736,
+    "textColor3": "603649",
+    "textColor2": "431427",
+    "textColor4": "5c3b4d",
+    "assetToken": "Publication122/v4/3f/3d/a7/3f3da71a-2768-6774-abb1-f34421315101/9781465454553.jpg",
+    "textColor1": "480d22",
+    "bgColor": "c0d9e5",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 7,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      4,
+      2
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "The Literature Book",
+  "publisher": "DK Publishing",
+  "isPreorder": false,
+  "artistName": "DK",
+  "primaryLocale": "en-US"
+}
