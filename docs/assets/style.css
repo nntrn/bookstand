@@ -53,6 +53,7 @@ footer ul li{display:block;padding:0 0}
 .ai-center{align-items:center}
 .ai-baseline{align-items:baseline}
 .ai-end{align-items:flex-end!important}
+.highlighted:before{content:attr(data-created);display:block;text-transform:uppercase;color:var(--color-icon);}
 .annotations li{position:relative;width:97%;line-height:1.4;font-family:var(--font-sans-serif)}
 .baseline{align-items:baseline}
 .book-author:before{content:"by";font-weight:500;font-family:georgia,serif;margin-right:.3em;font-style:italic}
@@ -110,7 +111,7 @@ footer ul li{display:block;padding:0 0}
 .separator{padding-right:2rem;border-width:0;border-style:solid;border-image:linear-gradient(to bottom,var(--border-color),rgba(0,0,0,0)) 1 100%}
 .serif{font-family:var(--font-serif)!important}
 .sidebar{padding:0 1.05rem}
-.sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.5rem;font-family:var(--font-serif);font-size:1rem}
+.sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.35rem;font-family:var(--font-serif);font-size:1rem}
 .site-container{overflow-y:auto;position:relative;scrollbar-width:thin;height:100%}
 .site-subtitle{font-style:italic;font-family:var(--font-family);font-weight:400;display:block}
 .site-title{display:flex;font-weight:600;gap:.15rem;line-height:1.25;align-items:center;letter-spacing:-.25px;font-size:20px}

@@ -32,7 +32,7 @@ layout: default
       {%- for annotation in sortedchapteritems %}
       <li id="{{annotation.id}}"
           data-location="{{annotation.cfi}}"
-          data-created="{{annotation.created|date: '%F %-I:%M%p'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
+          data-created="{{annotation.created|date: '%b %-d %Y %-I:%M%p'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
       {%- endfor %}
     </ul>
     {%- endfor %}
