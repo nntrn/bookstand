@@ -1,0 +1,65 @@
+{
+  "id": "1533622674",
+  "title": "Word Perfect",
+  "subtitle": "Etymological Entertainment For Every Day of the Year",
+  "author": "Susie Dent",
+  "isbn": "9781529311501",
+  "genreNames": [
+    "Humor",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1533622674&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1243753
+        }
+      ]
+    }
+  ],
+  "pageCount": 416,
+  "releaseDate": "2020-10-15",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>'Susie Dent is a one-off. She breathes life and fun into words and language' Pam Ayres</b><br /><br />'<b>Susie Dent is a national treasure' Richard Osman</b><br /><br />Welcome to a year of wonder with Susie Dent, lexicographer, logophile, and longtime queen of Countdown's Dictionary Corner.<br /><br />From the real <b>Jack the Lad</b> to the theatrically literal story behind <b>stealing someone's thunder</b>, from<b> tartle </b>(forgetting someone's name at the very moment you need it) to <b>snaccident</b> (the unintentional eating of an entire packet of biscuits), WORD PERFECT is a brilliant linguistic almanac full of unforgettable stories, fascinating facts, and surprising etymologies tied to every day of the year. You'll never be lost for words again."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/f8/3b/96/f83b9646-d9e8-20e7-76e8-dbe18dd8bac1/9781529311501.jpg/{w}x{h}bb.{f}",
+    "height": 2125,
+    "textColor3": "f1c9c4",
+    "textColor2": "ffcac4",
+    "textColor4": "f1aba5",
+    "assetToken": "Publication112/v4/f8/3b/96/f83b9646-d9e8-20e7-76e8-dbe18dd8bac1/9781529311501.jpg",
+    "textColor1": "fff0eb",
+    "bgColor": "bc3129",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Word Perfect",
+  "isPreorder": false,
+  "publisher": "John Murray Press",
+  "artistName": "Susie Dent",
+  "primaryLocale": "en-US"
+}
