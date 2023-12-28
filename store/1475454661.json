@@ -1,0 +1,66 @@
+{
+  "id": "1475454661",
+  "title": "Intangibles",
+  "subtitle": "Unlocking the Science and Soul of Team Chemistry",
+  "author": "Joan Ryan",
+  "isbn": "9780316434904",
+  "genreNames": [
+    "Sports & Outdoors",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1475454661&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1480594
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2020-04-28",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From baseball to biology, an award-winning journalist highlights the power of team chemistry in this \"terrific\" data-driven investigation of human relationships (Billie Jean King).</b><br /><i>Does team chemistry actually exist? Is there scientific or mathematical proof? Is team chemistry as real and relevant as on-base percentages and wins above replacement?</i><br />In Joan Ryan's groundbreaking book we discover that the answer to all of the above is a resounding yes. As Ryan puts it, team chemistry, or the combination of biological and social forces that boosts selfless effort among more players over more days of a season, is what drives sports teams toward a common goal, encouraging the players to be the best versions of themselves. These are the elements of teams that make them \"click,\" the ones that foster trust and respect, and push players to exceed their own potential when they work well together.<br />Team chemistry alone won't win a World Series, but talent alone won't win it, either. And by interviewing more than 100 players, coaches, managers, and statisticians, as well as over five years of extensive research in neuroscience, biology, physiology, and psychology, Ryan proves that the social and emotional state of a team <i>does</i> affect performance. Grit, passion, selflessness, and effort matter -- but never underestimate the power of chemistry."
+  },
+  "artwork": {
+    "width": 1677,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/85/15/fb/8515fbae-4818-8081-6387-1377b49707f5/9780316434904.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "404657",
+    "textColor2": "530f13",
+    "textColor4": "753f42",
+    "assetToken": "Publication114/v4/85/15/fb/8515fbae-4818-8081-6387-1377b49707f5/9780316434904.jpg",
+    "textColor1": "10182d",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 12,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      1,
+      9
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Intangibles",
+  "publisher": "Little, Brown and Company",
+  "isPreorder": false,
+  "artistName": "Joan Ryan",
+  "primaryLocale": "en-US"
+}
