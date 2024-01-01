@@ -1,0 +1,65 @@
+{
+  "id": "6444051675",
+  "title": "The Art of Brevity",
+  "subtitle": "Crafting the Very Short Story",
+  "author": "Grant Faulkner",
+  "isbn": "9780826364746",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "University of New Mexico Press",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=6444051675&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2109787
+        }
+      ]
+    }
+  ],
+  "pageCount": 192,
+  "releaseDate": "2023-02-15",
+  "isIBook": false,
+  "description": {
+    "standard": "With increased compression, every word, every sentence matters more. A writer must learn how to form narratives around caesuras and crevices instead of strings of connections, to move a story through the symbolic weight of images, to master the power of suggestion.<br /><br />With elegant prose, deep readings of other writers, and scaffolded writing exercises, The Art of Brevity takes the reader on a lyrical exploration of compact storytelling, guiding readers to heighten their awareness of not only what appears on the page but also what doesn’t."
+  },
+  "artwork": {
+    "width": 1000,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/bd/6e/1e/bd6e1e9a-fb4a-23ab-4277-527a45c537e0/9780826364746.jpg/{w}x{h}bb.{f}",
+    "height": 1546,
+    "textColor3": "333333",
+    "textColor2": "2c2c2c",
+    "textColor4": "565656",
+    "assetToken": "Publication123/v4/bd/6e/1e/bd6e1e9a-fb4a-23ab-4277-527a45c537e0/9780826364746.jpg",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The Art of Brevity",
+  "isPreorder": false,
+  "publisher": "University of New Mexico Press",
+  "artistName": "Grant Faulkner",
+  "primaryLocale": "en-US"
+}
