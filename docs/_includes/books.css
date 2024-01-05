@@ -12,13 +12,13 @@ label{font-weight:500}
 .book strong{color:var(--body-color);font-weight:600/*! line-height:1.25 */}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.2rem;display:flex;justify-content:center;row-gap:.4rem}
 .books.box{padding:2rem 1.5rem}
-.book-info{color:var(--border-color);font-family:monospace;line-height:1;font-family:var(--font-monospace);flex-wrap:wrap;display:flex;justify-content:space-between}
+.book-info{color:var(--border-color);font-family:monospace;line-height:1;font-family:var(--font-sans-serif);flex-wrap:wrap;display:flex;justify-content:space-between}
 .books{display:flex;flex-wrap:wrap;justify-content:space-around;padding:1.25rem 1.85rem;row-gap:2.5rem;align-items:flex-start;margin:0 auto;column-gap:5rem;scrollbar-width:thin;height:100%;width:100%;min-height:60vh}
 .form-container{flex-direction:row-reverse;justify-content:space-between;align-items:center;align-content:center;display:flex;flex-wrap:wrap;line-height:1}
 .form-container label{text-transform:uppercase;letter-spacing:.15px;color:#555}
 .form-item{display:flex;align-items:center;align-content:center}
 .form-select{background:0 0;box-sizing:border-box;display:block;border-radius:0;outline:0;color:#222;border:none;font-weight:700;text-align:center}
-.panel{position:sticky;top:0;z-index:1000;background:var(--bg-color);padding:.35rem 0;border-bottom:1px solid #eee;display:flex;align-content:center;align-items:center;font-family:var(--font-monospace)}
+.panel{position:sticky;top:0;z-index:1000;background:var(--bg-color);padding:.5rem 0;border-bottom:1px solid #eee;display:flex;align-content:center;align-items:center;font-family:var(--font-monospace)}
 .sticky{position:sticky;top:0;z-index:1000}
 @media (min-width:776px){
 .books.box{padding:3rem 3rem}
