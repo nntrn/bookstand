@@ -1,5 +1,5 @@
 *,::after,::before{box-sizing:border-box}
-:root{--font-serif:times,serif;--font-monospace: courier, courier new; --font-sans-serif:courier,'helvetica neue',helvetica,sans-serif; --body-font:var(--font-monospace);--link-color:#0074D9;--color-icon:#b6b6b6;--header-height:60px;--border-color:#333;--accent-color:37,99,235;--bg-color:#fff;--bg-header:#ddd;--rgb-body:0,0,0;--body-color:#393939}
+:root{--font-serif:times,serif;--font-monospace:courier,courier new;--font-sans-serif:'helvetica neue',helvetica,sans-serif;--body-font:var(--font-sans-serif);--link-color:#0074D9;--color-icon:#b6b6b6;--header-height:60px;--border-color:#333;--accent-color:37,99,235;--bg-color:#fff;--bg-header:#ddd;--rgb-body:0,0,0;--body-color:#393939}
 html{font-size:14px;line-height:1.15;-webkit-text-size-adjust:100%;scroll-behavior:smooth}
 html.mac{font-size:12px}
 @media (max-width:500px){
@@ -22,8 +22,7 @@ details{display:block}
 summary{display:list-item}
 template{display:none}
 .hidden,[hidden]{display:none!important}
-h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:1em;
-line-height:1.25;color:var(--body-color)}
+h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:1em;line-height:1.25;color:var(--body-color)}
 h3{font-weight:bolder}
 p{margin-top:1em;margin-bottom:1em}
 body{font-family:var(--body-font);line-height:1.25;scrollbar-width:thin;overflow-y:auto;overflow-x:hidden;word-spacing:-.25px;color:var(--body-color)}
@@ -52,8 +51,8 @@ footer ul li{display:block;padding:0 0}
 .ai-center{align-items:center}
 .ai-baseline{align-items:baseline}
 .ai-end{align-items:flex-end!important}
-.highlighted:before{content:attr(data-created);display:block;text-transform:uppercase;color:var(--color-icon);}
-.annotations li{position:relative;width:97%;line-height:1.4;font-family:var(--font-monospace)}
+.highlighted:before{content:attr(data-created);display:block;text-transform:uppercase;color:var(--color-icon)}
+.annotations li{position:relative;width:97%;line-height:1.4}
 .baseline{align-items:baseline}
 .book-author:before{content:"by";font-weight:500;font-family:georgia,serif;margin-right:.3em;font-style:italic}
 .book-author{font-size:1em;line-height:2}
