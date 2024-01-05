@@ -1,0 +1,69 @@
+{
+  "id": "1590065928",
+  "title": "An Immense World",
+  "subtitle": "How Animal Senses Reveal the Hidden Realms Around Us",
+  "author": "Ed Yong",
+  "isbn": "9780593133248",
+  "genreNames": [
+    "Nature",
+    "Books",
+    "Science & Nature",
+    "Life Sciences"
+  ],
+  "seller": "Penguin Random House LLC",
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES</i> BESTSELLER •&#xa0;A “thrilling” (<i>The New York Times</i>), “dazzling” (<i>The Wall Street Journal</i>) tour of the radically different ways that animals perceive the world that will fill you with wonder and forever alter your perspective, by Pulitzer Prize–winning science journalist Ed Yong</b><br />&#xa0;<br /><b>“One of this year’s finest works of narrative nonfiction.”—<i>Oprah Daily</i></b><br /><br /><b>ONE OF THE TEN BEST BOOKS OF THE YEAR: <i>The Wall Street Journal, The New York Times, Time, People, The Philadelphia Inquirer, Slate, Reader’s Digest, </i>Chicago Public Library, <i>Outside, Publishers Weekly, BookPage<br /></i></b><br /><b>ONE OF THE BEST BOOKS OF THE YEAR: <i>Oprah Daily, The New Yorker, The Washington Post, The Guardian, The Economist, Smithsonian Magazine</i>, <i>Prospect </i>(UK), <i>Globe &amp; Mail,&#xa0;Esquire, Mental Floss, <i>Marginalian, </i>She Reads, Kirkus Reviews, Library Journal</i></b><br /><br />The Earth teems with sights and textures, sounds and vibrations, smells and tastes, electric and magnetic fields. But every kind of animal, including humans, is enclosed within its own unique sensory bubble, perceiving but a tiny sliver of our immense world.<br /><br />In <i>An Immense World,</i> Ed Yong coaxes us beyond the confines of our own senses, allowing us to perceive the skeins of scent, waves of electromagnetism, and pulses of pressure that surround us. We encounter beetles that are drawn to fires, turtles that can track the Earth’s magnetic fields, fish that fill rivers with electrical messages, and even humans who wield sonar like bats. We discover that a crocodile’s scaly face is as sensitive as a lover’s fingertips, that the eyes of a giant squid evolved to see sparkling whales, that plants thrum with the inaudible songs of courting bugs, and that even simple scallops have complex vision. We learn what bees see in flowers, what songbirds hear in their tunes, and what dogs smell on the street. We listen to stories of pivotal discoveries in the field, while looking ahead at the many mysteries that remain unsolved.<br /><br />Funny, rigorous, and suffused with the joy of discovery, <i>An Immense World</i> takes us on what Marcel Proust called “the only true voyage . . . not to visit strange lands, but to possess other eyes.”<br /><b><br />WINNER OF THE ANDREW CARNEGIE MEDAL • <b>FINALIST FOR THE KIRKUS PRIZE • FINALIST FOR THE NATIONAL BOOK CRITICS CIRCLE AWARD • </b>LONGLISTED FOR THE PEN/E.O. WILSON AWARD</b>"
+  },
+  "editorialNotes": {
+    "standard": "In this breathtaking book, Pulitzer-winning science journalist Ed Yong explains how other species’ senses reveal things normally hidden to us humans. Did you know that dolphins can “hear” our skeletons through echolocation and that snakes can “see” heat by identifying infrared radiation? Also, how cool is it that birds know when it’s time to migrate by feeling the earth’s magnetic field? Each chapter of this amazing book is dedicated to a different sensory experience like light, color, pain, and heat, and the sheer delight Yong takes in these explorations comes through loud and clear in his writing, as does his sense of humor. With the vision of a philosopher and the heart of a poet, Yong shows us why we should be a lot humbler about our place in the planet and more appreciative of the details even the tiniest insects can perceive. <i>An Immense World</i> makes our everyday world look a lot more exciting than we’d ever imagined.",
+    "short": "Did you know snakes “see” heat? Discover the astonishing world of animal senses."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1590065928&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 30609213
+        }
+      ]
+    }
+  ],
+  "pageCount": 464,
+  "releaseDate": "2022-06-21",
+  "isIBook": false,
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b5/28/97/b528977b-e813-a471-5a5a-b75243417dc1/9780593133248.d.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "dde1d0",
+    "textColor2": "f6eddb",
+    "textColor4": "d7d4b6",
+    "assetToken": "Publication116/v4/b5/28/97/b528977b-e813-a471-5a5a-b75243417dc1/9780593133248.d.jpg",
+    "textColor1": "fefefc",
+    "bgColor": "586f22",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 132,
+    "ratingCountList": [
+      3,
+      4,
+      11,
+      28,
+      86
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "An Immense World",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "Ed Yong",
+  "primaryLocale": "en-US"
+}
