@@ -1,0 +1,58 @@
+{
+  "id": "395547695",
+  "title": "A Tale of Two Cities",
+  "subtitle": null,
+  "author": "Charles Dickens",
+  "isbn": null,
+  "genreNames": [
+    "Fiction & Literature",
+    "Books",
+    "Classics"
+  ],
+  "seller": "Public Domain",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=395547695&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 1583079
+        }
+      ]
+    }
+  ],
+  "pageCount": 551,
+  "releaseDate": "2000-01-01",
+  "isIBook": false,
+  "description": {
+    "standard": "The novel depicts the plight of the French peasantry demoralised by the French aristocracy in the years leading up to the revolution, the corresponding brutality demonstrated by the revolutionaries toward the former aristocrats in the early years of the revolution, and many unflattering social parallels with life in London during the same time period. It follows the lives of several characters through these events."
+  },
+  "artwork": {
+    "width": 1400,
+    "height": 2100,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/ae/cc/4f/aecc4ffc-dc34-6267-a87f-bdde12966509/cover.png/{w}x{h}bb.{f}",
+    "assetToken": "Publication5/v4/ae/cc/4f/aecc4ffc-dc34-6267-a87f-bdde12966509/cover.png",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 1894,
+    "ratingCountList": [
+      92,
+      92,
+      133,
+      326,
+      1251
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "A Tale of Two Cities",
+  "publisher": "Public Domain",
+  "isPreorder": false,
+  "artistName": "Charles Dickens",
+  "primaryLocale": "en-US"
+}

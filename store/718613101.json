@@ -1,0 +1,73 @@
+{
+  "id": "718613101",
+  "title": "Verbal Judo, Second Edition",
+  "subtitle": "The Gentle Art of Persuasion",
+  "author": "George J. Thompson, PhD",
+  "isbn": "9780062331434",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Psychology",
+    "Reference",
+    "Foreign Languages",
+    "Linguistics",
+    "Nonfiction",
+    "Social Science",
+    "Sociology"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=718613101&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 578499
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2013-12-17",
+  "isIBook": false,
+  "description": {
+    "standard": "Verbal Judo is the martial art of the mind and mouth that can show you how to be better prepared in every verbal encounter. Listen and speak more effectively, engage people through empathy (the most powerful word in the English language), avoid the most common conversational disasters, and use proven strategies that allow you to successfully communicate your point of view and take the upper hand in most disputes.<br /><br />Verbal Judo offers a creative look at conflict that will help you defuse confrontations and generate cooperation from your spouse, your boss, and even your teenager. As the author says, \"when you react, the event controls you. When you respond, you’re in control.\"<br /><br />This new edition features a fresh new cover and a foreword demonstrating the legacy of Verbal Judo founder and author George Thompson, as well as a never-before-published final chapter presenting Thompson’s \"Five Universal Truths\" of human interaction."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/f5/e0/38/f5e0387e-c827-4cb2-6cfb-b3476748a995/9780062331434.jpg/{w}x{h}bb.{f}",
+    "height": 2409,
+    "textColor3": "cbe0eb",
+    "textColor2": "d1e7f8",
+    "textColor4": "a7cde6",
+    "assetToken": "Publication/v4/f5/e0/38/f5e0387e-c827-4cb2-6cfb-b3476748a995/9780062331434.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "0068a0",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 92,
+    "ratingCountList": [
+      3,
+      4,
+      5,
+      28,
+      52
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Verbal Judo, Second Edition",
+  "isPreorder": false,
+  "publisher": "William Morrow Paperbacks",
+  "artistName": "George J. Thompson, PhD",
+  "primaryLocale": "en-US"
+}
