@@ -51,7 +51,7 @@ footer ul li{display:block;padding:0 0}
 .ai-center{align-items:center}
 .ai-baseline{align-items:baseline}
 .ai-end{align-items:flex-end!important}
-.highlighted:before{content:attr(data-created);display:block;text-transform:uppercase;color:var(--color-icon)}
+.highlighted:after{position:absolute;content:attr(data-created);display:block;text-transform:uppercase;color:var(--color-icon);font-size:.8rem}
 .annotations li{position:relative;width:97%;line-height:1.4}
 .baseline{align-items:baseline}
 .book-author:before{content:"by";font-weight:500;font-family:georgia,serif;margin-right:.3em;font-style:italic}
@@ -66,10 +66,10 @@ footer ul li{display:block;padding:0 0}
 .column{flex-direction:column}
 .container{display:flex;gap:0;scrollbar-width:thin;scroll-behavior:smooth}
 .dotted{text-decoration-style:dotted;text-decoration-thickness:1.2px;text-decoration-skip-ink:none;text-underline-offset:1.5px;text-decoration-color:rgba(0,0,0,.5)}
-.flex-list{gap:.75rem;display:flex;flex-direction:column;margin-bottom:1.5rem}
+.flex-list{gap:1.45rem;display:flex;flex-direction:column}
 .flex{display:flex!important}
 .fs-80{font-size:.8em}
-.fs-90{font-size:.9em;}
+.fs-90{font-size:.9em}
 .fsr-80{font-size:.9rem}
 .fw-700{font-weight:700!important}
 .gap-xl{gap:1rem!important}
