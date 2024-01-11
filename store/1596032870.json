@@ -1,0 +1,63 @@
+{
+  "id": "1596032870",
+  "title": "The Restaurant",
+  "subtitle": "A 2,000-Year History of Dining Out",
+  "author": "William Sitwell",
+  "isbn": "9781635767094",
+  "genreNames": [
+    "History",
+    "Books",
+    "Cookbooks, Food & Wine"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1596032870&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 12131835
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2020-04-21",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The acclaimed food critic’s two-thousand-year history of going out to eat, from the ancient Romans in Pompeii to the luxurious Michelin-starred restaurants of today.</b><br /><br />Starting with the surprisingly sophisticated dining scene in the city of Pompeii, William Sitwell embarks on a romp through culinary history, meeting the characters and discovering the events that shape the way we eat today. The <i>Daily Telegraph</i> restaurant critic and famously acerbic <i>MasterChef</i> commentator, Sitwell discusses everything from the far-reaching influences of the Muslim world to the unintended consequences of the French Revolution. He reveals the full hideous glory of Britain’s post-WWII dining scene and fathoms the birth of sensitive gastronomy in the counterculture of 1960’s America.<br /> This is a story of human ingenuity as individuals endeavor to do that most fundamental of things: to feed people. It is a story of art, politics, revolution, desperate need, and decadent pleasure. <i>The Restaurant</i> is jam-packed with extraordinary facts and colorful episodes; an accessible and humorous history of a truly universal subject."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/5e/87/22/5e87222f-598d-f510-7425-55e09d11d221/9781635767094.jpg/{w}x{h}bb.{f}",
+    "height": 2341,
+    "textColor3": "403b3a",
+    "textColor2": "273448",
+    "textColor4": "525b68",
+    "assetToken": "Publication126/v4/5e/87/22/5e87222f-598d-f510-7425-55e09d11d221/9781635767094.jpg",
+    "textColor1": "110d0e",
+    "bgColor": "fef6ea",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "ariaLabelForRatings": "3.5 stars"
+  },
+  "name": "The Restaurant",
+  "isPreorder": false,
+  "publisher": "Diversion Books",
+  "artistName": "William Sitwell",
+  "primaryLocale": "en-US"
+}
