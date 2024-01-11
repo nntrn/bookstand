@@ -1,0 +1,63 @@
+{
+  "id": "6473186962",
+  "title": "Kluge",
+  "subtitle": "The Haphazard Construction of the Human Mind",
+  "author": "Gary Marcus",
+  "isbn": "9780547348087",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6473186962&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 961422
+        }
+      ]
+    }
+  ],
+  "pageCount": 226,
+  "releaseDate": "2009-04-07",
+  "isIBook": false,
+  "description": {
+    "standard": "How is it that we can recognize photos from our high school yearbook decades later, but cannot remember what we ate for breakfast yesterday? And why are we inclined to buy more cans of soup if the sign says \"LIMIT 12 PER CUSTOMER\" rather than \"LIMIT 4 PER CUSTOMER?\" In <i>Kluge, </i>Gary Marcus argues convincingly that our minds are not as elegantly designed as we may believe. The imperfections result from a haphazard evolutionary process that often proceeds by piling new systems on top of old ones—and those systems don’t always work well together. The end product is a \"kluge,\" a clumsy, cobbled-together contraption. Taking us on a tour of the essential areas of human experience—memory, belief, decision making, language, and happiness—Marcus unveils a fundamentally new way of looking at the evolution of the human mind and simultaneously sheds light on some of the most mysterious aspects of human nature."
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/32/4c/a3/324ca32d-b050-49b3-44a7-cf54f47099c8/9780547348087.jpg/{w}x{h}bb.{f}",
+    "height": 2248,
+    "textColor3": "403524",
+    "textColor2": "251f0b",
+    "textColor4": "514527",
+    "assetToken": "Publication126/v4/32/4c/a3/324ca32d-b050-49b3-44a7-cf54f47099c8/9780547348087.jpg",
+    "textColor1": "110a08",
+    "bgColor": "fee195",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Kluge",
+  "isPreorder": false,
+  "publisher": "HarperCollins",
+  "artistName": "Gary Marcus",
+  "primaryLocale": "en-US"
+}
