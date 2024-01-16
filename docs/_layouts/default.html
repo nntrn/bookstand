@@ -24,7 +24,7 @@
 </head>
 
 <body data-layout="{{page.layout}}">
-  <header class="px-wide">
+  <header class="sm-px-0">
     {% include header.html %}
   </header>
   <main class="px-wide">
@@ -33,8 +33,10 @@
   </main>
 
   <script>
-    if (navigator.userAgent.indexOf("Mac") > -1) {
-      document.querySelector('html').classList.add("mac")
+    if (navigator.userAgent.indexOf("Window") > -1) {
+      document.getRootNode().firstElementChild.style.setProperty("font-size","15px")
+    } else if (navigator.userAgent.indexOf("Mac") > -1) {
+      document.getRootNode().firstElementChild.style.setProperty("font-size","12px")
     }
   </script>
   {% if page.inline_js %}
