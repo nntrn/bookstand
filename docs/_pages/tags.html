@@ -8,7 +8,7 @@ permalink: /tags/
 html.mac{font-size:12px}
 .column-container{margin:auto;column-width:max(250px,20vw);column-fill:balance;gap:3rem;column-count:1;}
 .column-group{page-break-inside:avoid;margin-bottom:1rem}
-.posts li div a{font-weight:700;font-family:var(--font-sans-serif)}
+.posts li div a{font-family:var(--font-monospace);width: fit-content;text-underline-offset: 1px;}
 .posts li{padding:0 0;margin:0 0;line-height:1.3}
 .posts{margin-top:.75rem;gap:1.25rem}
 h2{border-bottom:2px solid #222;font-size:1rem}
@@ -38,8 +38,8 @@ ul{margin:.25rem 0;padding:.2rem .1rem;display:flex;flex-direction:column;gap:.7
         <li class="flex" data-modified="{{book.modified|date: '%F' }}">
           <div class="flex column w-100">
             <a class="hover-underline" href="{{ site.baseurl }}/{{book.slug}}">{{book.title}}</a>
-            <span class="clamp">{{book.author}}</span>
-            <div class="up flex gap-sm ai-center muted">
+            <span class="clamp fs-90">{{book.author}}</span>
+            <div class="up flex gap-sm ai-center muted fs-90">
               <span class="">{{book.created|date: '%b %-d %Y' }}</span>
               {%- if bookmodified != bookcreated %}
               <span>&bullet;</span><span class="updated">{{book.modified|date: '%b %-d %Y'}}</span>
