@@ -30,9 +30,7 @@ layout: default
     <h3>{{chapter.name}}</h3>
     <ul class="annotations flex-list">
       {%- for annotation in sortedchapteritems %}
-      <li id="{{annotation.id}}"
-          data-location="{{annotation.cfi}}"
-          data-created="{{annotation.created|date: '%b %-d %Y %-I:%M%p'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
+      <li id="{{annotation.id}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">{{annotation.created|date: '%b %-d %Y %-I:%M%p'}}</a></li>
       {%- endfor %}
     </ul>
     {%- endfor %}
