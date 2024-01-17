@@ -1,0 +1,67 @@
+{
+  "id": "413010614",
+  "title": "Moonwalking with Einstein",
+  "subtitle": "The Art and Science of Remembering Everything",
+  "author": "Joshua Foer",
+  "isbn": "9781101475973",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Health, Mind & Body",
+    "Psychology",
+    "Self-Improvement"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=413010614&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 938265
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2011-03-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The blockbuster phenomenon that charts an amazing journey of the mind while revolutionizing our concept of memory<br /><br />“Highly entertaining.” —Adam Gopnik, <i>The New Yorker</i><br /><br />“Funny, curious, erudite, and full of useful details about ancient techniques of training memory.” —<i>The Boston Globe<br /></i><br /></b>An instant bestseller that has now become a classic, <i>Moonwalking with Einstein</i> recounts Joshua Foer's yearlong quest to improve his memory under the tutelage of top \"mental athletes.\" He draws on cutting-edge research, a surprising cultural history of remembering, and venerable tricks of the mentalist's trade to transform our understanding of human memory. From the United States Memory Championship to deep within the author's own mind, this is an electrifying work of journalism that reminds us that, in every way that matters, we are the sum of our memories.<b><br /></b>"
+  },
+  "artwork": {
+    "width": 1649,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/ee/c7/86/eec7864d-8b99-117c-e887-bc0d3bcbda17/9781101475973.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "3e3e3d",
+    "textColor2": "252410",
+    "textColor4": "504f40",
+    "assetToken": "Publication124/v4/ee/c7/86/eec7864d-8b99-117c-e887-bc0d3bcbda17/9781101475973.jpg",
+    "textColor1": "0e0e0d",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 880,
+    "ratingCountList": [
+      76,
+      55,
+      94,
+      223,
+      432
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Moonwalking with Einstein",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Joshua Foer",
+  "primaryLocale": "en-US"
+}
