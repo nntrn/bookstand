@@ -12,7 +12,7 @@ inline_js: ["url.js"]
 <div class="panel" style="--range-width:120px">
   {% include filtersort.html %} 
 </div>
-<div class="py-0 box" style="z-index:1">
+<div class="py-0 pb-2 box" style="z-index:1">
   <div class="books" data-sort="created">
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}

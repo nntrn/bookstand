@@ -1,7 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
+  {% if page.title != 'Home' -%}
   <title>{{page.title|default:site.title}} | bookstand</title>
+  {% else -%}
+  <title>{{site.title}}</title>
+  {%- endif -%}
   <meta name="author" content="Annie Tran (@nntrn)" />
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
