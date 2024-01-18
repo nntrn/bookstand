@@ -1,0 +1,67 @@
+{
+  "original_id": "1105104909",
+  "id": "1505465930",
+  "title": "If This Isn't Nice What Is? (Much) Expanded Second Edition",
+  "subtitle": "The Graduation Speeches and Other Words to Live By",
+  "author": "Kurt Vonnegut",
+  "isbn": "9780795348648",
+  "genreNames": [
+    "Essays",
+    "Books",
+    "Fiction & Literature",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "ROSETTABOOKS, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1105104909&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3171996
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2016-04-05",
+  "isIBook": false,
+  "description": {
+    "standard": "<i>“Like his literary ancestor Mark Twain, Kurt Vonnegut’s crankiness is good-humored and sharp-witted.”</i><br /><i>—A.O. Scott in The New York Times Book Review</i><br /><br />Master storyteller and satirist Kurt Vonnegut was one of the most in-demand commencement speakers of his time. For each occasion, Vonnegut's words were unfailingly unique, insightful, and witty, and they stayed with audience members long after graduation.<br /><br />This expanded second edition includes more than sixty pages of further thoughts from Kurt (whose good advice wasn’t limited to graduation speeches).<br /><br />As edited by Dan Wakefield, this book reads like a narrative in the unique voice that made Vonnegut a hero to readers of all ages. At times hilarious, razor-sharp, freewheeling, and deeply serious, these reflections are ideal for anyone undergoing what Vonnegut would call their “long-delayed puberty ceremony”—marking the passage from student to full-time adult.<br /><br />This book makes the perfect gift for people on the precipice of change/growth—from high school students to college graduates—or for anyone who will appreciate Vonnegut’s playful, profound wisdom."
+  },
+  "artwork": {
+    "width": 1820,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/54/55/e5/5455e554-6dbc-a6b1-18e8-c32b44929926/9780795348648.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "3f3c37",
+    "textColor2": "610b0e",
+    "textColor4": "803a38",
+    "assetToken": "Publication1/v4/54/55/e5/5455e554-6dbc-a6b1-18e8-c32b44929926/9780795348648.jpg",
+    "textColor1": "0f0d0e",
+    "bgColor": "fdf5de",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "If This Isn't Nice What Is? (Much) Expanded Second Edition",
+  "publisher": "RosettaBooks",
+  "isPreorder": false,
+  "artistName": "Kurt Vonnegut",
+  "primaryLocale": "en-US"
+}
