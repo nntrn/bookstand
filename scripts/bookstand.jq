@@ -190,7 +190,7 @@ def create_tag_markdown($out):
     title: .name,
     content: ([
       "---",
-      "title: \"Tag: \(.name)\"",
+      "title: \"#\(.name)\"",
       "tags: \(.name)",
       "layout: tag",
       "---"
