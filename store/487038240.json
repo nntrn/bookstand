@@ -1,0 +1,64 @@
+{
+  "id": "487038240",
+  "title": "The Strategist",
+  "subtitle": "Be the Leader Your Business Needs",
+  "author": "Cynthia Montgomery",
+  "isbn": "9780062071002",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Economics"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=21990&salableAdamId=487038240&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$21.99",
+      "price": 21.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4438934
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2012-05-08",
+  "isIBook": false,
+  "description": {
+    "standard": "Based on an acclaimed professor's legendary strategy course at Harvard Business School, The Strategist offers a radically new perspective on a leader's most vital role.<br /><br />\"Are you a strategist?\" That's the first question Cynthia Montgomery asks the business owners and senior executives from all over the world who participate in her highly regarded executive education course. It's not a question they anticipate or care much about on opening day. But by the time the program ends, they cannot imagine leading their companies to success without being—and living the role of—a strategist.<br /><br />Over a series of weeks and months, Montgomery puts these accomplished executives through their paces. Using case discussions, after-hours talks, and participants' own strategy dilemmas, she illuminates what strategy is, why it's important, and what it takes to lead the effort. En route, she equips them to confront the most essential question facing every business leader: Does this company truly matter? In doing so, she shows that strategy is not just a tool for outwitting the competition; it is the most powerful means a leader has for shaping a company itself.<br /><br />The Strategist exposes all business leaders—whether they run a global enterprise or a small business—to the invaluable insights Montgomery shares with these privileged executives. By distilling the experiences and insights gleaned in the classroom, Montgomery helps leaders develop the skills and sensibilities they need to become strategists themselves. It is a difficult role, but little else one does as a leader is likely to matter more. &#xa0;"
+  },
+  "artwork": {
+    "width": 461,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/36/e1/19/36e11983-7246-4601-3e12-06fbcc691dea/9780062071002.jpg/{w}x{h}bb.{f}",
+    "height": 700,
+    "textColor3": "062624",
+    "textColor2": "071f22",
+    "textColor4": "0c3c3e",
+    "assetToken": "Publication/v4/36/e1/19/36e11983-7246-4601-3e12-06fbcc691dea/9780062071002.jpg",
+    "textColor1": "000401",
+    "bgColor": "1eaeaf",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.6,
+    "ratingCount": 30,
+    "ratingCountList": [
+      5,
+      4,
+      3,
+      4,
+      14
+    ],
+    "ariaLabelForRatings": "3.6 stars"
+  },
+  "name": "The Strategist",
+  "publisher": "Harper Business",
+  "isPreorder": false,
+  "artistName": "Cynthia Montgomery",
+  "primaryLocale": "en-US"
+}
