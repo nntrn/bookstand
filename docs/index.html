@@ -10,14 +10,30 @@ inline_js: ["url.js"]
 {%- assign maxcount = site.data.books | sort: "count" | last %}
 
 <div class="panel" style="--range-width:120px">
-  {% include filtersort.html %} 
+  <div class="flex sb gap-md ss w-100">
+    <div class="flex ai-center center gap-sm lh-1">
+      <label for="rangefilter" class="fs-90 ws-pre">LIMIT</label>
+      <input type="range" id="rangefilter" min="0" max="{{maxcount.count}}" step="5" value="1"
+            oninput="numfilter.value=value" onchange="filterCount(value)" />
+      <input type="number" id="numfilter" min="0" max="{{maxcount.count}}" step="5" value="1"
+            oninput="rangefilter.value=value" onchange="filterCount(value)" />
+    </div>
+    <div class="flex ai-baseline">
+      <label for="sortby" class="fs-90 ws-pre">Sort By</label>
+      <select id="sortby" class="form-select" onchange="sortElements(value)">
+        <option value="count" data-type="number">Count</option>
+        <option value="updated" data-type="date">Updated</option>
+        <option value="created" data-type="date" selected>Created</option>
+      </select>
+    </div>
+  </div>
 </div>
-<div class="py-0 pb-2 box" style="z-index:1">
+<div class="py-0 pb-2" style="z-index:1">
   <div class="books" data-sort="created">
     {% for book in books %}
     {% assign title = book.title | replace: '"', "" | split: " (" | first | split: "," | first | split: ":" | first -%}
     <div class="book ci" data-count="{{book.count}}" data-updated="{{book.modified | upcase }}" data-created="{{book.created|upcase}}">
-      <div class="book-info fs-90">
+      <div class="book-info fs-90 w-100">
         <span class="icon icon-note">{{book.count}}</span>
         <span class="flex column">
           <span data-label="created">{{book.created|date:'%F'}}</span>
@@ -26,11 +42,9 @@ inline_js: ["url.js"]
       </div>
       <a class="flex column gap-lg" href="{{ site.baseurl }}/{{ book.slug }}">
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
-        <label>
-          <strong>{{ title }}</strong>
-          <span class="clamp fs-90" title="{{book.author}}">{{ book.author }}</span>
-        </label>
+        <label><strong>{{ title }}</strong></label>
       </a>
+      <span class="clamp fs-90 w-100 center muted" title="{{book.author}}">{{ book.author }}</span>
     </div>
     {%- endfor %}
   </div>
