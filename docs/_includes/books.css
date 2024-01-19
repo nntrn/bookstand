@@ -7,9 +7,9 @@ label{font-weight:500}
 .book img:hover{filter:opacity(.75) contrast(.9);box-shadow:0 0 2px rgba(0,0,0,.4);transition:box-shadow .2s ease}
 .book img{width:calc(1rem * 8.25);box-shadow:0 0 1px 1px rgba(0,0,0,.1);border-radius:4px;user-select:none;transition:box-shadow .2s ease;text-align:center;display:block}
 .book label span{overflow:hidden;font-weight:400;color:#aaa;line-height:1.2;margin:auto;font-family:var(--body-font)}
-.book label{display:flex;flex-direction:column;gap:.3rem;cursor:text;margin:auto;justify-content:center;text-align:center;letter-spacing:-.025px;/*! word-break: break-word; */hyphens:auto}
+.book label{display:flex;flex-direction:column;gap:.3rem;justify-content:center;text-align:center;letter-spacing:-.025px;hyphens:auto;cursor:pointer}
 .book label{margin:auto;width:120%;margin:auto;margin-left:-10%}
-.book strong{color:var(--body-color);font-weight:400;font-size:1.05rem;font-family:var(--font-monospace);line-height:1.2;hyphens:auto;word-break:break-word}
+.book strong{color:var(--body-color);font-weight:500;font-size:1.05rem;font-family:var(--font-monospace);line-height:1.2;hyphens:auto;word-break:break-word}
 .book{position:relative;width:min-content;display:flex;flex-direction:column;gap:.2rem;display:flex;justify-content:center;row-gap:.4rem}
 .books.box{padding:2rem 1.5rem}
 .book-info{color:var(--color-icon);font-family:monospace;line-height:1;font-family:var(--font-sans-serif);flex-wrap:wrap;display:flex;justify-content:space-between}

@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:1em;line-height:1.25;color:var(--bo
 h3{font-weight:bolder}
 h1{font-family:var(--font-sans-serif)}
 p{margin-top:1em;margin-bottom:1em}
-body{font-family:var(--body-font);line-height:1.25;scrollbar-width:thin;overflow-y:auto;overflow-x:hidden;word-spacing:-.25px;color:var(--body-color)}
+body{font-family:var(--body-font);line-height:1.25;scrollbar-width:thin;overflow-y:auto;overflow-x:hidden;word-spacing:-.25px;color:var(--body-color);background:var(--bg-color)}
 a.header-container{display:flex}
 a,u{text-decoration-skip-ink:none;text-decoration-thickness:1.5px;text-decoration-color:rgba(var(--accent-color),.3)}
 u{text-decoration-color:rgba(0,0,0,.15)}
@@ -79,7 +79,7 @@ footer ul li{display:block;padding:0 0}
 .header-container{font-style:normal;z-index:1000;width:100%;text-decoration:none;color:var(--body-color);padding:auto;margin:auto;display:flex}
 .loc{display:block;font-size:.8rem;text-decoration:none;color:var(--color-icon);text-transform:uppercase;width:fit-content}
 .highlighted .loc{display:none}
-.highlighted span{background:#fff0b1}
+.highlighted span{background:#fff0b1;color:#7b660d}
 .inline-flex{display:inline-flex}
 .annotations li span{margin-right:2px}
 .lh-1{line-height:1!important}
