@@ -210,22 +210,6 @@ create_tag_files() {
   gitignore_dir $OUTDIR/_tags
 }
 
-create_store_data() {
-  cd $DIR
-  cd "$(git rev-parse --show-toplevel)"
-  REMOTE_URL=$(git config --local --get remote.origin.url)
-  mkdir -p $OUTDIR/_data
-  (
-    cd "$(mktemp -d)"
-    git clone --depth 1 -b assets $REMOTE_URL assets &>/dev/null
-    jq -s 'map({
-    id,title,subtitle,
-    author,isbn,genreNames,pageCount, 
-    cover: (.artwork|"\(.url|gsub("{w}.*";""))\(200)x\(.height/(.width/200)|ceil)bb.jpg")
-  })' ./assets/store/*.json
-  ) >$OUTDIR/_data/store.json
-}
-
 ARGS=($@)
 IDS=()
 

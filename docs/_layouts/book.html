@@ -7,7 +7,7 @@ layout: default
 {%- assign annotations = site.data.activity | where: 'assetid', page.assetid  | sort: "cfi" -%}
 
 <div class="container">
-  <div class="page-content box pt-0 mt-1">
+  <div class="page-content pt-0 mt-1 pb-2 sm-px-0">
     <h2 class="book-title">{{ page.title }}</h2>
     <h3 class="book-subtitle">{{ api.subtitle}}</h3>
     <h3 class="book-author">{{page.author}}</h3>
@@ -20,19 +20,17 @@ layout: default
     <p><span class="fs-90 up muted">{{annotations.size}} quote{%- if annotations.size > 1 -%}s{%- endif -%}</span></p>
     <div class="tag-list mt-1">
       {%- for tag in page.tags -%}
-      <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag fs-90">{{ tag }}</a>
+      <a href="{{ site.baseurl }}/tags/{{tag}}" class="tag fs-90 gc">{{ tag }}</a>
       {%- endfor -%}
     </div>
     <hr>
     {%- assign chapters = annotations | group_by: "chapter" -%}
     {%- for chapter in chapters -%}
     {%- assign sortedchapteritems = chapter.items | sort: "cfi" %}
-    <h3>{{chapter.name}}</h3>
+    <h3 class="chapter-title">{{chapter.name}}</h3>
     <ul class="annotations flex-list">
       {%- for annotation in sortedchapteritems %}
-      <li id="{{annotation.id}}"
-          data-location="{{annotation.cfi}}"
-          data-created="{{annotation.created|date: '%F %-I:%M%p'}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc">#</a></li>
+      <li id="{{annotation.id}}"><span>{{annotation.text}}</span><a href="#{{annotation.id}}" class="loc gc">{{annotation.created|date: '%b %-d %Y %-I:%M%p'}}</a></li>
       {%- endfor %}
     </ul>
     {%- endfor %}

@@ -4,12 +4,12 @@
     {%- if forloop.last %}
       <span class="title">{{ crumb }}</span>
     {% elsif forloop.first %}
-      <a href="{{ '/' | relative_url}}">home</a><span>&#47;</span>
+      <a class="gc" href="{{ '/' | relative_url}}">home</a><span>&#47;</span>
     {%- else -%}
       {%- assign crumb_limit = forloop.index  %}
       {%- assign crumburl = '' -%}
       {% for crumb in crumbs limit: crumb_limit -%}{% assign crumburl = crumburl| append: crumb  %}{%- endfor %}
-      <a href="{{crumburl | absolute_url }}">{{ crumb | replace: '-', ' ' | remove: '.html' }}</a><span>&#47;</span>
+      <a class="gc" href="{{crumburl | absolute_url }}">{{ crumb | replace: '-', ' ' | remove: '.html' }}</a><span>&#47;</span>
     {%- endif -%}
   {%- endfor -%}
 </div>

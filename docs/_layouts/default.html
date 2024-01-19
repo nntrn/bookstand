@@ -1,34 +1,59 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>{{page.title|default:site.title}} | bookstand</title>
-<meta name="author" content="Annie Tran (@nntrn)" />
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<meta name="description" content="{{site.description}}">
-<link rel="preconnect" href="https://raw.githubusercontent.com/" crossorigin />
-<link rel="dns-prefetch" href="https://raw.githubusercontent.com/" />
-<link rel="icon" href="{{ '/assets/favicon.ico' | absolute_url }}" type="image/x-icon">
-<link rel="stylesheet" href="{{ '/assets/style.css' | absolute_url }}">
-{% feed_meta %}
-{% seo %}
-</head>
-<body data-layout="{{page.layout}}">
-<div class="site-container">
-<header class="px-wide">
-  {% include header.html %}
-</header>
-{%- if page.show_panel %}
-<div class="panel ai-center ac-center ss px-wide">
-  {% include filtersort.html %}
-</div>
-{%- endif -%}
-<main class="px-wide">
-{{- content -}}
+  {% if page.title != 'Home' -%}
+  <title>{{page.title|default:site.title}} | bookstand</title>
+  {% else -%}
+  <title>{{site.title}}</title>
+  {%- endif -%}
+  <meta name="author" content="Annie Tran (@nntrn)" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <meta name="description" content="{{site.description}}">
+  <link rel="preconnect" href="https://raw.githubusercontent.com/" crossorigin />
+  <link rel="dns-prefetch" href="https://raw.githubusercontent.com/" />
+  <link rel="icon" href="{{ '/assets/favicon.ico' | absolute_url }}" type="image/x-icon">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | absolute_url }}">
+  {% feed_meta %}
+  {% seo %}
 
-{% include footer.html %}
-</main>
-</div>
+  {%- if page.inline_css %}
+  <style>
+    {% for css in page.inline_css -%}
+    {% include {{css}} %}
+    {%- endfor -%}  
+  </style>
+  {%- endif %}
+</head>
+
+<body data-layout="{{page.layout}}">
+  <header class="px-wide">
+    <div class="header-container">
+      <h1 class="site-title flex gap-md">
+        <span style="opacity: 0.25; font-weight: 700; user-select: none">/</span>
+        <a class="flex ss no gc" href="{{ '/' | relative_url }}">{{site.title}}</a>
+      </h1>
+    </div>
+  </header>
+  <main class="px-wide">
+  {{- content -}}
+  {% include footer.html %}
+  </main>
+
+  <script>
+    if (navigator.userAgent.indexOf("Window") > -1) {
+      document.getRootNode().firstElementChild.style.setProperty("font-size","14px")
+    } else if (navigator.userAgent.indexOf("Mac") > -1) {
+      document.getRootNode().firstElementChild.style.setProperty("font-size","12px")
+    }
+  </script>
+  {% if page.inline_js %}
+  <script>
+    {% for js in page.inline_js -%}
+    {% include {{js}} %}
+    {%- endfor -%}  
+  </script>
+  {% endif %}
 </body>
 </html>
