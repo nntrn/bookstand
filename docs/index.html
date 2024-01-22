@@ -14,9 +14,10 @@ inline_js: ["url.js"]
     <div class="flex ai-center center gap-sm lh-1">
       <label for="rangefilter" class="fs-90 ws-pre">LIMIT</label>
       <input type="range" id="rangefilter" min="0" max="{{maxcount.count}}" step="5" value="1"
-            oninput="numfilter.value=value" onchange="filterCount(value)" />
+        oninput="numfilter.value=value" onchange="filterCount(value)" />
       <input type="number" id="numfilter" min="0" max="{{maxcount.count}}" step="5" value="1"
-            oninput="rangefilter.value=value" onchange="filterCount(value)" />
+        oninput="rangefilter.value=value" onchange="filterCount(value)" 
+        onfocus="this.value='';" />
     </div>
     <div class="flex ai-baseline">
       <label for="sortby" class="fs-90 ws-pre">Sort By</label>

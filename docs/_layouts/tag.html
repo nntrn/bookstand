@@ -5,7 +5,7 @@ layout: default
 {%- assign pagetag = page.tags |first -%}
 {%- assign books = site.data.books | where: 'tags', pagetag |sort: 'title' -%}
 
-<div class="box">
+<div class="box px-0">
   {% include breadcrumb.html -%}
   <h2>#{{pagetag}}</h2>
   <ul class="flex-list" style="width:90%">

@@ -104,14 +104,14 @@ a.muted:hover{color:#444}
 .pb-2{padding-bottom:1rem!important}
 .relative{position:relative!important}
 .related-posts li{list-style:none;padding-left:0}
-.related-posts{padding:0 1rem;line-height:1.25}
+.related-posts{padding:0;line-height:1.25}
 .row{display:flex;flex-direction:row;flex-wrap:wrap}
 .sb{justify-content:space-between}
 .serif{font-family:var(--font-serif)!important}
 .page-content{flex:7;padding:0 2rem}
 .sidebar{flex:3}
 .sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.35rem;font-family:var(--font-monospace);font-size:.95rem}
-.sidebar ul li a:hover,li a:hover{background:rgba(var(--accent-color),.1)}
+.sidebar ul li a:hover,.hover:hover{background:rgba(var(--accent-color),.1)}
 .site-container{overflow-y:auto;position:relative;scrollbar-width:thin;height:100%}
 .site-subtitle{font-style:italic;font-family:var(--font-family);font-weight:400;display:block}
 .site-title{display:flex;font-weight:600;gap:.15rem;line-height:1.25;align-items:center;letter-spacing:-.25px;font-size:20px;align-content:flex-end}
@@ -149,9 +149,6 @@ ul.related-posts{gap:.5rem}
 .container{flex-direction:row-reverse;display:flex}
 .separator{padding-right:2rem;border-right:1px dotted #222}
 .sidebar{max-width:300px}
-}
-@media (orientation:landscape){
-.related-posts{padding:0 0}
 }
 @media (max-width:700px){
 .sm-px-0{padding-left:0!important;padding-right:0!important}
