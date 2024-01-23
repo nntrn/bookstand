@@ -79,7 +79,7 @@ footer ul li{display:block;padding:0 0}
 .header-container{font-style:normal;z-index:1000;width:100%;text-decoration:none;color:var(--body-color);padding:auto;margin:auto;display:flex}
 .loc{display:block;font-size:.8rem;text-decoration:none;color:var(--color-icon);text-transform:uppercase;width:fit-content}
 .highlighted .loc{display:none}
-.highlighted span{background:#fff0b1;color:#7b660d}
+.highlighted span{background:#fff0b1;color:#111;mix-blend-mode:multiply}
 .inline-flex{display:inline-flex}
 .annotations li span{margin-right:2px}
 .lh-1{line-height:1!important}
