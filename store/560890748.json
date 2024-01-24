@@ -1,0 +1,66 @@
+{
+  "id": "560890748",
+  "title": "Salt Sugar Fat",
+  "subtitle": "How the Food Giants Hooked Us",
+  "author": "Michael Moss",
+  "isbn": "9780679604778",
+  "genreNames": [
+    "Business & Personal Finance",
+    "Books",
+    "Health, Mind & Body",
+    "Health & Fitness",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=560890748&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7946570
+        }
+      ]
+    }
+  ],
+  "pageCount": 480,
+  "releaseDate": "2013-02-26",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY</b><br /> <b><i>The Atlantic • The Huffington Post • Men’s Journal • MSN </i>(U.K.) • <i>Kirkus Reviews • Publishers Weekly</i></b><br /><br />#1 <i>NEW YORK TIMES </i>BESTSELLER • <b>WINNER OF THE JAMES BEARD FOUNDATION AWARD FOR WRITING AND LITERATURE</b></b><br /><br />Every year, the average American eats thirty-three pounds of cheese and seventy pounds of sugar. Every day, we ingest 8,500 milligrams of salt, double the recommended amount, almost none of which comes from the shakers on our table. It comes from processed food, an industry that hauls in $1 trillion in annual sales. In <i>Salt Sugar Fat, </i>Pulitzer Prize–winning investigative reporter Michael Moss shows how we ended up here. Featuring examples from Kraft, Coca-Cola, Lunchables, Frito-Lay, Nestlé, Oreos, Capri Sun, and many more, Moss’s explosive, empowering narrative is grounded in meticulous, eye-opening research. He takes us into labs where scientists calculate the “bliss point” of sugary beverages, unearths marketing techniques taken straight from tobacco company playbooks, and talks to concerned insiders who make startling confessions. Just as millions of “heavy users” are addicted to salt, sugar, and fat, so too are the companies that peddle them. You will never look at a nutrition label the same way again.<br /> &#xa0;<br /> <b>Praise for <i>Salt Sugar Fat</i></b><br />&#xa0;<br /> “[Michael] Moss has written a <i>Fast Food Nation</i> for the processed food industry. Burrowing deep inside the big food manufacturers, he discovered how junk food is formulated to make us eat more of it and, he argues persuasively, actually to addict us.”<b>—Michael Pollan</b><br /> &#xa0;<br /> “If you had any doubt as to the food industry’s complicity in our obesity epidemic, it will evaporate when you read this book.”<b>—<i>The Washington Post</i></b><br /> &#xa0;<br /> “Vital reading for the discerning food consumer.”<b>—<i>The Wall Street Journal</i></b><br /> &#xa0;<br />“The chilling story of how the food giants have seduced everyone in this country . . . Michael Moss understands a vital and terrifying truth: that we are not just eating fast food when we succumb to the siren song of sugar, fat, and salt. We are fundamentally changing our lives—and the world around us.”<b>—Alice Waters</b><br /> &#xa0;<br /> “Propulsively written [and] persuasively argued . . . an exactingly researched, deeply reported work of advocacy journalism.”<b>—<i>The Boston Globe</i></b><br /><br />“A remarkable accomplishment.”<b>—<i>The New York Times&#xa0;Book Review</i></b>"
+  },
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/3b/a2/81/3ba2811e-3275-52c8-1b67-34fa6fda4e08/9780679604778.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "44383c",
+    "textColor2": "111010",
+    "textColor4": "403f40",
+    "assetToken": "Publication/v4/3b/a2/81/3ba2811e-3275-52c8-1b67-34fa6fda4e08/9780679604778.jpg",
+    "textColor1": "15060b",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 258,
+    "ratingCountList": [
+      20,
+      20,
+      26,
+      53,
+      139
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "Salt Sugar Fat",
+  "isPreorder": false,
+  "publisher": "Random House Publishing Group",
+  "artistName": "Michael Moss",
+  "primaryLocale": "en-US"
+}
