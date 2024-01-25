@@ -4,9 +4,10 @@
 #   $ ln -s /path/to/update.sh update-bookstand.sh
 #   $ update-bookstand.sh
 
+set -e
 SCRIPT=$(realpath $0)
 DIR=${SCRIPT%/*}
-COMMIT_SCRIPT=$DIR/commit.sh update-bookstand.sh
+COMMIT_SCRIPT=$DIR/commit.sh
 
 cd $DIR
 open -a Books
