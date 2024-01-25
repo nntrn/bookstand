@@ -1,0 +1,67 @@
+{
+  "id": "420306009",
+  "title": "Don't Sleep, There Are Snakes",
+  "subtitle": "Life and Language in the Amazonian Jungle",
+  "author": "Daniel L. Everett",
+  "isbn": "9780307377791",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Nonfiction",
+    "Social Science",
+    "Philosophy"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=420306009&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3390774
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2008-11-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Part passionate memoir, part scientific exploration, a life-changing tale set among a small tribe of Amazonian Indians in Brazil that offers a riveting look into the nature of language, thought, and life itself.<br /><br />\"Immensely interesting and deeply moving.... One of the best books I have read.\"—Lucy Dodwell,&#xa0;New Scientist<br /></b><br />A riveting account of the astonishing experiences and discoveries made by linguist Daniel Everett while he lived with the Pirahã, a small tribe of Amazonian Indians in central Brazil.<br /><br />Daniel Everett arrived among the Pirahã with his wife and three young children hoping to convert the tribe to Christianity. Everett quickly became obsessed with their language and its cultural and linguistic implications. The Pirahã have no counting system, no fixed terms for color, no concept of war, and no personal property. Everett was so impressed with their peaceful way of life that he eventually lost faith in the God he'd hoped to introduce to them, and instead devoted his life to the science of linguistics.&#xa0;"
+  },
+  "artwork": {
+    "width": 492,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/94/4a/23/944a23be-101d-a9a1-e280-2c5d3676a47a/9780307377791.jpg/{w}x{h}bb.{f}",
+    "height": 750,
+    "textColor3": "cdc5bb",
+    "textColor2": "efebe6",
+    "textColor4": "c0bfbb",
+    "assetToken": "Publication4/v4/94/4a/23/944a23be-101d-a9a1-e280-2c5d3676a47a/9780307377791.jpg",
+    "textColor1": "fff3e7",
+    "bgColor": "06100e",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 30,
+    "ratingCountList": [
+      2,
+      3,
+      2,
+      7,
+      16
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "name": "Don't Sleep, There Are Snakes",
+  "publisher": "Knopf Doubleday Publishing Group",
+  "isPreorder": false,
+  "artistName": "Daniel L. Everett",
+  "primaryLocale": "en-US"
+}
