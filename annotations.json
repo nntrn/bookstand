@@ -57435,5 +57435,43 @@
     "ZGENRE": "Business & Personal Finance",
     "ZSORTAUTHOR": "Moss, Michael",
     "ZSORTTITLE": "Salt Sugar Fat"
+  },
+  {
+    "Z_PK": 4089,
+    "ZANNOTATIONCREATIONDATE": "2024-01-24T01:17:55Z",
+    "ZANNOTATIONASSETID": "560890748",
+    "ZFUTUREPROOFING5": null,
+    "ZANNOTATIONNOTE": null,
+    "ZANNOTATIONSTYLE": 3,
+    "ZANNOTATIONTYPE": 2,
+    "ZANNOTATIONISUNDERLINE": 0,
+    "ZPLLOCATIONRANGESTART": 6,
+    "ZANNOTATIONLOCATION": "epubcfi(/6/14[c01]!/4/116,/1:261,/3:75)",
+    "ZANNOTATIONSELECTEDTEXT": "To be really enticing, these products had to be loaded with sugar and fat. Only these two ingredients, along with salt, seemed to have the power to excite the brain about eating.",
+    "ZASSETID": "560890748",
+    "ZTITLE": "Salt Sugar Fat",
+    "ZAUTHOR": "Michael Moss",
+    "ZGENRE": "Business & Personal Finance",
+    "ZSORTAUTHOR": "Moss, Michael",
+    "ZSORTTITLE": "Salt Sugar Fat"
+  },
+  {
+    "Z_PK": 4088,
+    "ZANNOTATIONCREATIONDATE": "2024-01-24T07:05:15Z",
+    "ZANNOTATIONASSETID": "420306009",
+    "ZFUTUREPROOFING5": null,
+    "ZANNOTATIONNOTE": null,
+    "ZANNOTATIONSTYLE": 3,
+    "ZANNOTATIONTYPE": 2,
+    "ZANNOTATIONISUNDERLINE": 0,
+    "ZPLLOCATIONRANGESTART": 7,
+    "ZANNOTATIONLOCATION": "epubcfi(/6/16[prf]!/4/2[prf]/6/1,:0,:290)",
+    "ZANNOTATIONSELECTEDTEXT": "Science is not just about research teams in lab coats working under the direction of an eminent scientist. It can be pursued by lone individuals slogging it out in hard times and hard places—feeling lost and over their heads, yet challenged to bring new knowledge out of their difficulties.",
+    "ZASSETID": "420306009",
+    "ZTITLE": "Don't Sleep, There Are Snakes",
+    "ZAUTHOR": "Daniel L. Everett",
+    "ZGENRE": "Language Arts & Disciplines",
+    "ZSORTAUTHOR": "Everett, Daniel L.",
+    "ZSORTTITLE": "Don't Sleep, There Are Snakes"
   }
 ]
