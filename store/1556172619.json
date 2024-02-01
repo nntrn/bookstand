@@ -1,0 +1,66 @@
+{
+  "id": "1556172619",
+  "title": "Immune",
+  "subtitle": "A Journey into the Mysterious System That Keeps You Alive",
+  "author": "Philipp Dettmer",
+  "isbn": "9780593241332",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Biology",
+    "Health, Mind & Body"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=7990&salableAdamId=1556172619&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$7.99",
+      "price": 7.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 30404047
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2021-11-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES </i>BESTSELLER • A gorgeously illustrated deep dive into the immune system that will forever change how you think about your body, from the creator of the popular science YouTube channel Kurzgesagt—In a Nutshell</b><br />&#xa0;<br /><b>“Through wonderful analogies and a genius for clarifying complex ideas, <i>Immune</i> is a truly brilliant introduction to the human body’s vast system for fighting infections and other threats.”—John Green, #1 <i>New York Times</i> bestselling author of <i>The Fault in Our Stars</i></b><br /><br />You wake up and feel a tickle in your throat. Your head hurts. You’re mildly annoyed as you get the kids ready for school and dress for work yourself. Meanwhile, an epic war is being fought, just below your skin. Millions are fighting and dying for you to be able to complain as you head out the door.<br />&#xa0;<br />&#xa0;But most of us never really stop to ask: What even <i>is</i> our&#xa0;immune system?<br /><br />Second only to the human brain in its complexity, it is one of the oldest and most critical facets of life on Earth. Without it, you would die within days. In <i>Immune</i>, Philipp Dettmer, the brains behind the most popular science channel on YouTube, takes readers on a journey through the fortress of the human body and its defenses. There is a constant battle of staggering scale raging within us, full of stories of invasion, strategy, defeat, and noble self-sacrifice. In fact, in the time you’ve been reading this, your immune system has probably identified and eradicated a cancer cell that started to grow in your body.<br /><br />Each chapter delves into an element of the immune system, including defenses like antibodies and inflammation as well as threats like bacteria, allergies, and cancer, as Dettmer reveals why boosting your immune system is actually nonsense, how parasites sneak their way past your body’s defenses, how viruses work, and what goes on in your wounds when you cut yourself.<br /><br />Enlivened by engaging full-color graphics and immersive descriptions, <i>Immune</i> turns one of the most intricate, interconnected, and confusing subjects—immunology—into a gripping adventure through an astonishing alien landscape. <i>Immune</i> is a vital and remarkably fun crash course in what is arguably, and increasingly, the most important system in the body."
+  },
+  "artwork": {
+    "width": 2175,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/18/d4/6d/18d46dfa-4f16-3c3d-1b13-e622b486c02e/9780593241332.d.jpg/{w}x{h}bb.{f}",
+    "height": 2778,
+    "textColor3": "3c3114",
+    "textColor2": "18122d",
+    "textColor4": "463927",
+    "assetToken": "Publication122/v4/18/d4/6d/18d46dfa-4f16-3c3d-1b13-e622b486c02e/9780593241332.d.jpg",
+    "textColor1": "0c0816",
+    "bgColor": "fdd60d",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.7,
+    "ratingCount": 114,
+    "ratingCountList": [
+      1,
+      1,
+      4,
+      16,
+      92
+    ],
+    "ariaLabelForRatings": "4.7 stars"
+  },
+  "name": "Immune",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Philipp Dettmer",
+  "primaryLocale": "en-US"
+}
