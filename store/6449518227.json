@@ -1,0 +1,64 @@
+{
+  "id": "6449518227",
+  "title": "The Art of Explanation",
+  "subtitle": "How to Communicate with Clarity and Confidence",
+  "author": "Ros Atkins",
+  "isbn": "9781472298423",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Reference"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6449518227&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1492040
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2023-09-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>'For all those who want their audiences to listen and understand' JEREMY BOWEN | 'Precision, deftness and a calming expertise' THE TIMES </b><br /><b><i><br />Do you worry about holding people's attention during presentations?</i></b><br /><b><i><br />Are you unsure where to start when faced with writing an essay or report?</i></b><br /><b><i><br />Are you preparing for an interview and wondering how to get all your points across?</i></b><br /><br />Explanation - identifying and communicating what we want to say - is an art. And the BBC presenter and journalist Ros Atkins, creator of the viral 'Ros Atkins on...' explainer videos, is something of a master of the form. In this book, Ros shares the secrets he has learned from years of working in high-pressure newsrooms, identifying the ten elements of a good explanation and the seven steps you need to take to express yourself with clarity and impact.<br /><br />Whether at work, school, university or home, we all benefit from being able to articulate ourselves clearly. Filled with practical examples, <i>The Art of Explanation </i>is a must-read for anyone who wants to sharpen their communication skills."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/60/75/c2/6075c223-ad66-9578-3ceb-f20d95778cea/9781472298423.jpg/{w}x{h}bb.{f}",
+    "height": 2168,
+    "textColor3": "393939",
+    "textColor2": "303030",
+    "textColor4": "585858",
+    "assetToken": "Publication126/v4/60/75/c2/6075c223-ad66-9578-3ceb-f20d95778cea/9781472298423.jpg",
+    "textColor1": "090a0a",
+    "bgColor": "f6f6f6",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "3.0 stars"
+  },
+  "name": "The Art of Explanation",
+  "isPreorder": false,
+  "publisher": "Headline",
+  "artistName": "Ros Atkins",
+  "primaryLocale": "en-US"
+}
