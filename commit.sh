@@ -1,37 +1,29 @@
 #!/usr/bin/env bash
-# shellcheck disable=SC2207
 #
-# USAGE
-#   Commit changes to annotations.json to track added lines for a book
-#
-# RUN
-#   $ ./commit.sh
+# Commit changes to annotations.json to track added lines for a book
 #
 SCRIPT="$(realpath $0)"
 DIR="${SCRIPT%/*}"
 
-cd $DIR || exit 1
+cd $DIR
 
-git pull
+git pull &>/dev/null
 
-if [[ -n "$(git ls-files -m annotations.json)" ]]; then
+DIFFTEXT="$(git diff -U0 annotations.json | grep -Eo '\+[ ]+"ZSORTTITLE.*')"
 
-  IFS=$'\n' CHANGE_SUMMARY=($(
-    grep -Eo 'ZSORTTITLE.*' <(git diff annotations.json | tr -d '"') |
-      awk -F: '{a[$2]++;}END{for (i in a)print "+" a[i] i;}'
-  ))
-
+if [[ -n $DIFFTEXT ]]; then
+  CHANGE_SUMMARY="$(echo "$DIFFTEXT" | grep -Eo 'ZSORTTITLE.*' | awk -F: '{a[$2]++;}END{for (i in a)print "+" a[i] i;}')"
+  NUMLINES=$(echo "$CHANGE_SUMMARY" | awk 'END{print NR}')
   git add annotations.json
 
-  if [[ ${#CHANGE_SUMMARY[@]} -gt 1 ]]; then
-    git commit -m "Add annotations from ${#CHANGE_SUMMARY[@]} sources" -m "$(printf "%s\\n" "${CHANGE_SUMMARY[@]}")"
-  elif [[ ${#CHANGE_SUMMARY[@]} -eq 1 ]]; then
-    git commit -m "${CHANGE_SUMMARY[@]}"
+  if [[ $NUMLINES -gt 1 ]]; then
+    git commit -m "Add annotations from ${NUMLINES} sources" -m "${CHANGE_SUMMARY}"
+  elif [[ $NUMLINES -eq 1 ]]; then
+    git commit -m "${CHANGE_SUMMARY}"
   fi
-
-  # output commit before exiting
   git log -n 1
 
 else
-  echo "No changes to annotations.json"
+  echo "Did not detect commitable changes to annotations.json"
+  exit 0
 fi
