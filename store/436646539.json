@@ -1,0 +1,71 @@
+{
+  "id": "436646539",
+  "title": "American Gods: The Tenth Anniversary Edition",
+  "subtitle": "A Novel",
+  "author": "Neil Gaiman",
+  "isbn": "9780062109590",
+  "genreNames": [
+    "Contemporary",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Fantasy",
+    "Fiction & Literature",
+    "Action & Adventure",
+    "Fairy Tales, Myths & Fables",
+    "Literary Fiction"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=436646539&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 6978607
+        }
+      ]
+    }
+  ],
+  "pageCount": 784,
+  "releaseDate": "2011-06-21",
+  "isIBook": false,
+  "description": {
+    "standard": "Since it was first published,&#xa0;American Gods&#xa0;became an instant classic.&#xa0;Now discover the mystery and majesty of&#xa0;American Gods&#xa0;in this beautiful reissue of the Author's Preferred Text edition. Featuring a new preface by Neil Gaiman in honor of the novel's 20th anniversary, this commemorative volume is a true celebration of a modern masterpiece.<br /><br />Locked behind bars for three years, Shadow did his time, quietly waiting for the magic day when he could return to Eagle Point, Indiana. A man no longer scared of what tomorrow might bring, all he wanted was to be with Laura, the wife he deeply loved, and start a new life.&#xa0;<br /><br />But just days before his release, Laura and Shadow’s best friend are killed in an accident. With his life in pieces and nothing to keep him tethered, Shadow accepts a job from a beguiling stranger he meets on the way home, an enigmatic man who calls himself Mr. Wednesday. A trickster and a rogue, Wednesday seems to know more about Shadow than Shadow does himself.&#xa0;<br /><br />Life as Wednesday’s bodyguard, driver, and errand boy is far more interesting and dangerous than Shadow ever imagined—it is a job that takes him on a dark and strange road trip and introduces him to a host of eccentric characters whose fates are mysteriously intertwined with his own."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/df/43/99/df439929-a3e8-99ec-9a6a-4dd9e48bbb3e/9780062109590.jpg/{w}x{h}bb.{f}",
+    "height": 2406,
+    "textColor3": "3b3b3b",
+    "textColor2": "621113",
+    "textColor4": "7e3e3f",
+    "assetToken": "Publication125/v4/df/43/99/df439929-a3e8-99ec-9a6a-4dd9e48bbb3e/9780062109590.jpg",
+    "textColor1": "0e0d0e",
+    "bgColor": "f0f0f2",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 1519,
+    "ratingCountList": [
+      40,
+      36,
+      130,
+      353,
+      960
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "American Gods: The Tenth Anniversary Edition",
+  "publisher": "William Morrow",
+  "isPreorder": false,
+  "artistName": "Neil Gaiman",
+  "editorialNotes": {
+    "standard": "Do Americans worship anything besides money, beauty, phones, and cars? Ask Shadow, a man enlisted to serve a strange deity who’s taken human form and is looking for allies in a coming war between Old and New. <i>American Gods</i>, Neil Gaiman’s richly imagined pageturner, invites you to suspend disbelief and open yourself to the possibility that the divine world harbors something ancient, alive—and worth believing in. Gaiman’s fluid prose effortlessly propels Shadow through a thrilling, hall-of-mirrors plot.\n"
+  },
+  "primaryLocale": "en-US"
+}
