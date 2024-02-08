@@ -22,7 +22,7 @@
   <style>
     {% for css in page.inline_css -%}
     {% include {{css}} %}
-    {%- endfor -%}  
+    {%- endfor -%}
   </style>
   {%- endif %}
 </head>
@@ -41,18 +41,11 @@
   {% include footer.html %}
   </main>
 
-  <script>
-    if (navigator.userAgent.indexOf("Window") > -1) {
-      document.getRootNode().firstElementChild.style.setProperty("font-size","14px")
-    } else if (navigator.userAgent.indexOf("Mac") > -1) {
-      document.getRootNode().firstElementChild.style.setProperty("font-size","12px")
-    }
-  </script>
   {% if page.inline_js %}
   <script>
     {% for js in page.inline_js -%}
     {% include {{js}} %}
-    {%- endfor -%}  
+    {%- endfor -%}
   </script>
   {% endif %}
 </body>
