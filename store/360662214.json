@@ -1,0 +1,68 @@
+{
+  "id": "360662214",
+  "title": "Selections from Fragile Things, Volume Six",
+  "subtitle": "A Short Fiction",
+  "author": "Neil Gaiman",
+  "isbn": "9780061848759",
+  "genreNames": [
+    "Fantasy Short Stories",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Fantasy",
+    "Fiction & Literature",
+    "Short Stories",
+    "Literary Anthologies"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=990&salableAdamId=360662214&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$0.99",
+      "price": 0.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 629049
+        }
+      ]
+    }
+  ],
+  "pageCount": 71,
+  "releaseDate": "2009-02-03",
+  "isIBook": false,
+  "description": {
+    "standard": "“A prodigiously imaginative collection.”<br /><br />—New York Times Book Review, Editor’s Choice<br /><br />“Dazzling tales from a master of the fantastic.”<br />—Washington Post Book World<br /><br />Fragile Things is a sterling collection of exceptional tales from Neil Gaiman, multiple award-winning (the Hugo, Bram Stoker, Newberry, and Eisner Awards, to name just a few), #1 New York Times bestselling author of The Graveyard Book, Anansi Boys, Coraline, and the groundbreaking Sandman graphic novel series. A uniquely imaginative creator of wonders whose unique storytelling genius has been acclaimed by a host of literary luminaries from Norman Mailer to Stephen King, Gaiman’s astonishing powers are on glorious displays in Fragile Things. Enter and be amazed!"
+  },
+  "artwork": {
+    "width": 467,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/14/4d/d2/mzi.nxqhpabr.jpg/{w}x{h}bb.{f}",
+    "height": 700,
+    "textColor3": "182d2f",
+    "textColor2": "162729",
+    "textColor4": "1f4349",
+    "assetToken": "Publication/14/4d/d2/mzi.nxqhpabr.jpg",
+    "textColor1": "0d0c09",
+    "bgColor": "43b2c9",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Selections from Fragile Things, Volume Six",
+  "publisher": "William Morrow",
+  "isPreorder": false,
+  "artistName": "Neil Gaiman",
+  "primaryLocale": "en-US"
+}
