@@ -12,9 +12,12 @@ BUILD_SCRIPT=$DIR/build.sh
 cd "$(git -C $DIR rev-parse --show-toplevel)"
 
 if grep -q 'rebuild' <<<"${ARGS[@]}"; then
-  echo "Removing _site and .jekyll-cache"
-  [[ -d $DIR/docs/_site ]] && rm -rf $CWD/docs/_site
-  [[ -d $DIR/docs/.jekyll-cache ]] && rm -rf $CWD/docs/.jekyll-cache
+  for dir in $CWD/docs/_annotations $CWD/docs/_site $CWD/docs/.jekyll-cache; do
+    if [[ -d $dir ]]; then
+      echo "removing $dir"
+      rm -rf $dir
+    fi
+  done
   $BUILD_SCRIPT --all-data-tasks --all-file-tasks --out $CWD/docs
 fi
 

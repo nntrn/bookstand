@@ -6,7 +6,7 @@
 {%- else -%}
   {%- assign url_base = site.github.url %}
 {%- endif %}
-<?xml-stylesheet type="text/xml" href="{{ url_base }}/feed.xslt.xml"?>
+<?xml-stylesheet type="text/xml" href="{{ url_base }}/feed.xml"?>
 <feed xmlns="http://www.w3.org/2005/Atom"{%- if site.lang %} xml:lang="{{ site.lang }}"{%- endif %}>
   <generator uri="http://jekyllrb.com" version="{{ jekyll.version }}">Jekyll</generator>
   <link href="{{ page.url | prepend: url_base }}" rel="self" type="application/atom+xml" />

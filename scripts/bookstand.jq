@@ -45,8 +45,8 @@ def get_author_slug($s):
   $s
   | (if test("&";"x") then split("[,&][\\s]?";"x") else split("; ") end )[0]
   | gsub("[.,]";"")
-  | gsub("[^\\w\\d-]+";"-";"x")
-  | gsub("_$";"";"x")
+  | gsub("[^\\w\\d]+";"-";"x")
+  | gsub("-$";"";"x")
   | ascii_downcase;
 
 def slugify($text):
@@ -129,7 +129,7 @@ def annotation_base:
       created: min_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       modified: max_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       tags: (.[0].ZGENRE|get_tags),
-      slug: "\(get_author_slug(.[0].ZSORTAUTHOR))-\(slugify(.[0].ZTITLE))",
+      slug: "\(get_author_slug(.[0].ZAUTHOR))-\(slugify(.[0].ZTITLE))",
       count: length,
       text: group_by_chapter
     });
