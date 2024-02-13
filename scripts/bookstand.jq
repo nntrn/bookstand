@@ -129,7 +129,7 @@ def annotation_base:
       created: min_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       modified: max_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       tags: (.[0].ZGENRE|get_tags),
-      slug: "\(get_author_slug(.[0].ZSORTAUTHOR))_\(slugify(.[0].ZTITLE))",
+      slug: "\(get_author_slug(.[0].ZSORTAUTHOR))-\(slugify(.[0].ZTITLE))",
       count: length,
       text: group_by_chapter
     });
