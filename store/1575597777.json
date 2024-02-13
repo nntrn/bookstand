@@ -1,0 +1,73 @@
+{
+  "id": "1575597777",
+  "title": "Heartbreak: A Personal and Scientific Journey",
+  "subtitle": null,
+  "author": "Florence Williams",
+  "isbn": "9781324003496",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Biographies & Memoirs",
+    "Nonfiction",
+    "Family & Relationships",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1575597777&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1940127
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2022-02-01",
+  "isIBook": false,
+  "description": {
+    "standard": "Winner of the 2023 PEN/E.O. Wilson Literary Science Writing Award<br /><br />\nA Five Books \"Best Literary Science Writing\" Book of 2023 • A Smithsonian Best Science Book of 2022 • A Prospect Magazine Top Memoir of 2022 • A KCRW Life Examined Best Book of 2022<br /><br />\n\"Keen observer [and] deft writer\" (David Quammen) Florence Williams explores the fascinating, cutting-edge science of heartbreak while seeking creative ways to mend her own.<br /><br />When her twenty-five-year marriage suddenly falls apart, journalist Florence Williams expects the loss to hurt. But when she starts feeling physically sick, losing weight and sleep, she sets out in pursuit of rational explanation. She travels to the frontiers of the science of \"social pain\" to learn why heartbreak hurts so much—and why so much of the conventional wisdom about it is wrong.<br /><br />Soon Williams finds herself on a surprising path that leads her from neurogenomic research laboratories to trying MDMA in a Portland therapist’s living room, from divorce workshops to the mountains and rivers that restore her. She tests her blood for genetic markers of grief, undergoes electrical shocks while looking at pictures of her ex, and discovers that our immune cells listen to loneliness. Searching for insight as well as personal strategies to game her way back to health, she seeks out new relationships and ventures into the wilderness in search of an extraordinary antidote: awe.<br /><br />With warmth, daring, wit, and candor, Williams offers a gripping account of grief and healing. Heartbreak is a remarkable merging of science and self-discovery that will change the way we think about loneliness, health, and what it means to fall in and out of love."
+  },
+  "artwork": {
+    "width": 800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/36/ed/9d/36ed9d1e-8d4c-2bd2-7897-b4b5efa74bba/9781324003496.jpg/{w}x{h}bb.{f}",
+    "height": 1200,
+    "textColor3": "3b3a38",
+    "textColor2": "333331",
+    "textColor4": "595956",
+    "assetToken": "Publication126/v4/36/ed/9d/36ed9d1e-8d4c-2bd2-7897-b4b5efa74bba/9781324003496.jpg",
+    "textColor1": "0d0d0c",
+    "bgColor": "f2f2e8",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 15,
+    "ratingCountList": [
+      0,
+      1,
+      1,
+      3,
+      10
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Heartbreak: A Personal and Scientific Journey",
+  "isPreorder": false,
+  "publisher": "W. W. Norton & Company",
+  "artistName": "Florence Williams",
+  "editorialNotes": {
+    "standard": "A science writer’s intimate journey through grief offers surprising insights. When journalist Florence Williams’ 25-year marriage unexpectedly imploded, she fell back on her research skills and interviewed experts in different fields, from psychology to physiology, in the hopes of making sense of her despair. Chronicling her findings and the details of her journey back to happiness, Williams crafts a fascinating book that’s part inspiring memoir, part cutting-edge report on the science of heartbreak. We loved learning how much scientists have figured out about the way we experience emotions like sadness and loss—and were deeply moved by Williams’ quest to find healing and wholeness. <i>Heartbreak</i> is an educational and inspiring read about a universal rite of passage.",
+    "short": "A science writer’s intimate journey through grief offers surprising insights."
+  },
+  "primaryLocale": "en-US"
+}

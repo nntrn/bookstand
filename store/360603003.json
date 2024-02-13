@@ -1,0 +1,71 @@
+{
+  "id": "360603003",
+  "title": "What We Believe but Cannot Prove",
+  "subtitle": "Today's Leading Thinkers on Science in the Age of Certainty",
+  "author": "John Brockman",
+  "isbn": "9780061828102",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Nonfiction",
+    "Social Science",
+    "Sociology",
+    "Science & Nature"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=990&salableAdamId=360603003&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$0.99",
+      "price": 0.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 682128
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2009-10-13",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Edge Question Series"
+  },
+  "description": {
+    "standard": "More than one hundred of the world's leading thinkers write about things they believe in, despite the absence of concrete proof<br /><br />Scientific theory, more often than not, is born of bold assumption, disparate bits of unconnected evidence, and educated leaps of faith. Some of the most potent beliefs among brilliant minds are based on supposition alone -- yet that is enough to push those minds toward making the theory viable.<br /><br />Eminent cultural impresario, editor, and publisher of Edge (www.edge.org), John Brockman asked a group of leading scientists and thinkers to answer the question: What do you believe to be true even though you cannot prove it? This book brings together the very best answers from the most distinguished contributors.<br /><br />Thought-provoking and hugely compelling, this collection of bite-size thought-experiments is a fascinating insight into the instinctive beliefs of some of the most brilliant minds today."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/3f/30/bd/3f30bd39-1117-80af-5ac3-6d25799cab85/cover.jpg/{w}x{h}bb.{f}",
+    "height": 2409,
+    "textColor3": "364549",
+    "textColor2": "302826",
+    "textColor4": "434b4d",
+    "assetToken": "Publication1/v4/3f/30/bd/3f30bd39-1117-80af-5ac3-6d25799cab85/cover.jpg",
+    "textColor1": "202120",
+    "bgColor": "8fd5ea",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      1
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "What We Believe but Cannot Prove",
+  "publisher": "HarperCollins e-books",
+  "isPreorder": false,
+  "artistName": "John Brockman",
+  "primaryLocale": "en-US"
+}
