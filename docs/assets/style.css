@@ -43,7 +43,7 @@ li>p{margin:0}
 main{overflow-y:auto;height:calc(100vh - var(--header-height));margin:auto;width:100%;scrollbar-width:thin;display:flex;flex-direction:column;justify-content:space-between;gap:1rem;z-index:-1}
 pre{overflow-x:hidden;white-space:pre-wrap}
 time{font-weight:700}
-footer{border-top:1px solid var(--border-color);width:100%;margin:auto;z-index:1000;margin:1rem 0}
+footer{border-top:1px solid var(--border-color);width:100%;margin:auto;z-index:1000;margin:1rem 0;font-size:.9rem}
 footer ul{display:flex;margin:0 0;padding:0 0;flex:10;flex-direction:row}
 footer ul li{display:block;padding:0 0}
 .ac-center{align-content:center}

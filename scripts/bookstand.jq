@@ -6,7 +6,7 @@ module {
     repository: "github.com/nntrn/bookstand"
 };
 
-def lpad(n): tostring | if (n > length) then ((n - length) * "0") + . else . end;  
+def lpad(n): tostring | if (n > length) then ((n - length) * "0") + . else . end;
 
 def epublocation($cfi):
   $cfi
@@ -40,6 +40,14 @@ def split_long_title($text):
   $text
   | split("\\s?[(:)]\\s?";"x")
   | (map(select(length > 0))| [.[0],(.[1:]|map(select(contains("Volume"))))]|flatten|join(" "));
+
+def get_author_slug($s):
+  $s
+  | (if test("&";"x") then split("[,&][\\s]?";"x") else split("; ") end )[0]
+  | gsub("[.,]";"")
+  | gsub("[^\\w\\d-]+";"-";"x")
+  | gsub("_$";"";"x")
+  | ascii_downcase;
 
 def slugify($text):
   ([39]|implode) as $squo
@@ -81,7 +89,7 @@ def markdown_tmpl:
     "modified: \(.modified)",
     "tags: \(.tags|@json)",
     "slug: \(.slug)",
-    "description: \(dquote("Saved quotes from "+.title+" by "+.author))",
+    "description: \(dquote("Bookmarks from "+.title+" by "+.author))",
     "---",
     ""
   ] | join("\n");
@@ -121,7 +129,7 @@ def annotation_base:
       created: min_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       modified: max_by(.ZANNOTATIONCREATIONDATE).ZANNOTATIONCREATIONDATE,
       tags: (.[0].ZGENRE|get_tags),
-      slug: slugify(.[0].ZTITLE),
+      slug: "\(get_author_slug(.[0].ZSORTAUTHOR))_\(slugify(.[0].ZTITLE))",
       count: length,
       text: group_by_chapter
     });
