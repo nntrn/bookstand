@@ -1,0 +1,67 @@
+{
+  "id": "6445636006",
+  "title": "The Big Time",
+  "subtitle": "How the 1970s Transformed Sports in America",
+  "author": "Michael MacCambridge",
+  "isbn": "9781538708040",
+  "genreNames": [
+    "Sports & Outdoors",
+    "Books",
+    "History",
+    "U.S. History"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>“Indispensable history.” –Sally Jenkins, bestselling author of&#xa0;<i>The Right Call</i><br /><br /> A captivating chronicle of the pivotal decade in American sports, when the games invaded prime time, and sports moved from the margins to the mainstream of American culture.</b><br /><br /> Every decade brings change, but as Michael MacCambridge chronicles in THE BIG TIME, no decade in American sports history featured such convulsive cultural shifts as the 1970s.&#xa0;So many things happened during the decade—the move of sports into prime-time television, the beginning of athletes’ gaining a sense of autonomy for their own careers, integration becoming—at least within sports—more of the rule than the exception, and the social revolution that brought females more decisively into sports, as athletes, coaches, executives, and spectators. More than politicians, musicians or actors, the decade in America was defined by its most exemplary athletes. The sweeping changes in the decade could be seen in the collective experience of Billie Jean King and Muhammad Ali, Henry Aaron and Julius Erving, Kareem Abdul-Jabbar and Joe Greene, Jack Nicklaus and Chris Evert, among others, who redefined the role of athletes and athletics in American culture. The Seventies witnessed the emergence of spectator sports as an ever-expanding mainstream phenomenon, as well as dramatic changes in the way athletes were paid, portrayed, and packaged. In tracing the epic narrative of how American sports was transformed in the Seventies, a larger story emerges: of how America itself changed, and how spectator sports moved decisively on a trajectory toward what it has become today, the last truly “big tent” in American culture."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=16990&salableAdamId=6445636006&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$16.99",
+      "price": 16.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 75769417
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2023-10-10",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1722,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/b3/36/fb/b336fb34-4b41-b7fc-d296-55fa91d19735/9781538708040.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "3a1f06",
+    "textColor2": "3b1508",
+    "textColor4": "602d0c",
+    "assetToken": "Publication126/v4/b3/36/fb/b336fb34-4b41-b7fc-d296-55fa91d19735/9781538708040.jpg",
+    "textColor1": "0b0300",
+    "bgColor": "f78f1e",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 8,
+    "ratingCountList": [
+      0,
+      0,
+      4,
+      2,
+      2
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "name": "The Big Time",
+  "isPreorder": false,
+  "publisher": "Grand Central Publishing",
+  "artistName": "Michael MacCambridge",
+  "primaryLocale": "en-US"
+}
