@@ -1,0 +1,67 @@
+{
+  "id": "470467570",
+  "type": "books",
+  "title": "The Second Sex",
+  "subtitle": null,
+  "author": "Simone de Beauvoir, Constance Borde & Sheila Malovany-Chevallier",
+  "isbn": "9780307814531",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=470467570&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8843521
+        }
+      ]
+    }
+  ],
+  "pageCount": 800,
+  "releaseDate": "1989-12-17",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The essential masterwork that has provoked and inspired generations of men and women.</b> <b>“From Eve’s apple to Virginia Woolf’s room of her own, Beauvoir’s treatise remains an essential rallying point, urging self-sufficiency and offering the fruit of knowledge.”&#xa0;—<i>Vogue<br /><br /></i></b>This unabridged edition reinstates significant portions of the original French text that were cut in the first English translation. Vital and groundbreaking, Beauvoir’s pioneering and impressive text remains as pertinent today as when it was first published, and will continue to provoke and inspire generations of men and women to come."
+  },
+  "artwork": {
+    "width": 1555,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication2/v4/a9/1e/d7/a91ed70f-3c53-c290-3cf8-750e66f90ef9/9780307814531.jpg/{w}x{h}bb.{f}",
+    "height": 2404,
+    "textColor3": "2a2a2a",
+    "textColor2": "2c1806",
+    "textColor4": "4d3d30",
+    "assetToken": "Publication2/v4/a9/1e/d7/a91ed70f-3c53-c290-3cf8-750e66f90ef9/9780307814531.jpg",
+    "textColor1": "000000",
+    "bgColor": "d3d4d6",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 15,
+    "ratingCountList": [
+      0,
+      2,
+      1,
+      2,
+      10
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Second Sex",
+  "publisher": "Knopf Doubleday Publishing Group",
+  "isPreorder": false,
+  "artistName": "Simone de Beauvoir, Constance Borde & Sheila Malovany-Chevallier",
+  "primaryLocale": "en-US"
+}
