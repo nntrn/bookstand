@@ -14,7 +14,7 @@ DIFFTEXT="$(git diff -U0 annotations.json | grep -Eo '\+[ ]+"ZSORTTITLE.*')"
 if [[ -n $DIFFTEXT ]]; then
   CHANGE_SUMMARY="$(echo "$DIFFTEXT" | grep -Eo 'ZSORTTITLE.*' | awk -F: '{a[$2]++;}END{for (i in a)print "+" a[i] i;}')"
   NUMLINES=$(echo "$CHANGE_SUMMARY" | awk 'END{print NR}')
-  git add annotations.json
+  git add annotations.json covers store
 
   if [[ $NUMLINES -gt 1 ]]; then
     git commit -m "Add annotations from ${NUMLINES} sources" -m "${CHANGE_SUMMARY}"
