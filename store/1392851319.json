@@ -1,0 +1,75 @@
+{
+  "id": "1392851319",
+  "type": "books",
+  "title": "The Perfect Theory",
+  "subtitle": "A Century of Geniuses and the Battle over General Relativity",
+  "author": "Pedro G. Ferreira",
+  "isbn": "9780547554907",
+  "genreNames": [
+    "Physics",
+    "Books",
+    "Science & Nature",
+    "Science History"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1392851319&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1891515
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2014-02-04",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“One of the best popular accounts of how Einstein and his followers have been trying to explain the universe for decades</b>” <b>(<i>Kirkus Reviews</i>, starred review).</b><br /> &#xa0;<br /> Physicists have been exploring, debating, and questioning the general theory of relativity ever since Albert Einstein first presented it in 1915. This has driven their work to unveil the universe’s surprising secrets even further, and many believe more wonders remain hidden within the theory’s tangle of equations, waiting to be exposed. In this sweeping narrative of science and culture, an astrophysicist brings general relativity to life through the story of the brilliant physicists, mathematicians, and astronomers who have taken up its challenge. For these scientists, the theory has been both a treasure trove and an enigma.<br /> &#xa0;<br /> Einstein’s theory, which explains the relationships among gravity, space, and time, is possibly the most perfect intellectual achievement of modern physics—yet studying it has always been a controversial endeavor. Relativists were the target of persecution in Hitler’s Germany, hounded in Stalin’s Russia, and disdained in 1950s America. Even today, PhD students are warned that specializing in general relativity will make them unemployable.<br /> &#xa0;<br /> Still, general relativity has flourished, delivering key insights into our understanding of the origin of time and the evolution of all the stars and galaxies in the cosmos. Its adherents have revealed what lies at the farthest reaches of the universe, shed light on the smallest scales of existence, and explained how the fabric of reality emerges. Dark matter, dark energy, black holes, and string theory are all progeny of Einstein’s theory.<br /> &#xa0;<br /> In the midst of a momentous transformation in modern physics, as scientists look farther and more clearly into space than ever before, <i>The Perfect Theory</i> exposes the greater relevance of general relativity, showing us where it started, where it has led—and where it can still take us.<br /> &#xa0;"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/f9/6b/56/f96b5645-7433-d317-762e-3b84d6b146ee/9780547554907.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "cccdcd",
+    "textColor2": "e5e5e5",
+    "textColor4": "b8b9b8",
+    "assetToken": "Publication125/v4/f9/6b/56/f96b5645-7433-d317-762e-3b84d6b146ee/9780547554907.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "040807",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 18,
+    "ratingCountList": [
+      0,
+      1,
+      1,
+      5,
+      11
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "The Perfect Theory",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "First formulated by Einstein in 1907, two years after publishing his special theory of relativity, the general theory of relativity has endured some hard times, having been challenged by quantum mechanics in the 1930s and by dialectical materialism in the Soviet Union during Stalin's reign. Even Einstein doubted some of his early conclusions. But Ferreira, a professor of astrophysics at Oxford, shares the story of general relativity's revival and application to previously unobservable objects like quasars and black holes. Ferreira's book is also about the people who find joy and excitement in discovering the secrets of the universe. With palpable delight, Ferreira details false starts, chance discoveries, and the vindication of long-ridiculed ideas that emerged from the work that predicted singularities, M-theory, and dark energy. He also shows that Einstein didn't work in a vacuum; international collaboration made confirmation of his theory possible, while overturning some initial conclusions. Perhaps most importantly, Ferreira's clear explanations offer a wonderful look into a world of those who tackle the hard math that is \"the key to understanding the history of the universe, the origin of time, and the evolution of... the cosmos.\" ",
+      "date": "Mon Dec 16 00:00:00 PST 2013",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "publisher": "Houghton Mifflin Harcourt",
+  "isPreorder": false,
+  "artistName": "Pedro G. Ferreira",
+  "primaryLocale": "en-US"
+}
