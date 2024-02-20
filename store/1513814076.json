@@ -1,0 +1,75 @@
+{
+  "id": "1513814076",
+  "type": "books",
+  "title": "The Practice",
+  "subtitle": "Shipping Creative Work",
+  "author": "Seth Godin",
+  "isbn": "9780593328989",
+  "genreNames": [
+    "Small Business & Entrepreneurship",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=1513814076&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3026202
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2020-11-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the bestselling author of <i>Linchpin</i>, <i>Tribes,</i> and <i>The Dip</i> comes an elegant little book that will inspire artists, writers, and entrepreneurs to stretch and commit to putting their best work out into the world.</b><br /><br />Creative work doesn't come with a guarantee. But there is a pattern to who succeeds and who doesn't. And engaging in the consistent practice of its pursuit is the best way forward.<br /><br />Based on the breakthrough Akimbo workshop pioneered by legendary author Seth Godin, <i>The Practice</i> will help you get unstuck and find the courage to make and share creative work. Godin insists that writer's block is a myth, that consistency is far more important than authenticity, and that experiencing the imposter syndrome is a sign that you're a well-adjusted human. Most of all, he shows you what it takes to turn your passion from a private distraction to a productive contribution, the one you've been seeking to share all along.<br /><br />With this book as your guide, you'll learn to dance with your fear. To take the risks worth taking. And to embrace the empathy required to make work that contributes with authenticity and joy."
+  },
+  "artwork": {
+    "width": 1538,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/13/db/f5/13dbf5b8-ba71-f8a7-352c-1db416cb2589/9780593328989.d.jpg/{w}x{h}bb.{f}",
+    "height": 2175,
+    "textColor3": "022531",
+    "textColor2": "100b0d",
+    "textColor4": "0d2836",
+    "assetToken": "Publication114/v4/13/db/f5/13dbf5b8-ba71-f8a7-352c-1db416cb2589/9780593328989.d.jpg",
+    "textColor1": "030607",
+    "bgColor": "009ddb",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 62,
+    "ratingCountList": [
+      1,
+      3,
+      4,
+      13,
+      41
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "\"Are you an artist? Of course you are,\" fist-pumps business guru Godin (This is Marketing) in this big-hearted book of affirmations. The modern economy, he says, has \"brainwashed\" would-be entrepreneurs and industry disruptors into staying on the 9-to-5 treadmill, when they really owe it to themselves and everyone else (\"It's selfish to hold back when there's a chance you have something to offer\") to try out their most ambitious ideas, even at the risk of failure. Godin urges readers to get started by redefining themselves as changemakers, since \"identity fuels action, and action creates habits, and habits are part of a practice, and a practice is the single best way to get to where you seek to go.\" His cognitively dissonant advice, like \"seek out constraints\" and embrace inauthenticity when necessary (such as by \"show up\" even when one is feeling uninspired and has \"something else you'd rather be doing\"), is thought-provoking, if occasionally lacking in gravitas, as when he optimistically forecasts that if businesspeople simply trust themselves and \"the people we serve,\" then that \"trust will be repaid many times over.\" Nonetheless, Godin's message will resonate with his many fans, and his enthusiastic, nearly giddy tone may even charm skeptics.",
+      "date": "Mon Sep 07 00:00:00 PDT 2020",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "The Practice",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Seth Godin",
+  "primaryLocale": "en-US"
+}

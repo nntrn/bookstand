@@ -1,0 +1,67 @@
+{
+  "id": "1368278319",
+  "type": "books",
+  "title": "Sell with a Story",
+  "subtitle": "How to Capture Attention, Build Trust, and Close the Sale",
+  "author": "Paul Smith",
+  "isbn": "9780814437124",
+  "genreNames": [
+    "Business & Personal Finance",
+    "Books",
+    "Marketing & Sales",
+    "Industries & Professions"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1368278319&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1083320
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2016-09-08",
+  "isIBook": false,
+  "description": {
+    "standard": "Despite the high-tech tools available to salespeople today, the most personal method still works best. Through storytelling, a salesperson can explain products or services in ways that resonate, connect people to the mission, and help determine what decisions are made.<br /><br />A well-crafted story can pack the emotional punch to turn routine presentations into productive relationships. In&#xa0;Sell with a Story, organizational storytelling expert and author Paul Smith focuses his popular and proven formula to the sales arena.<br /><br />Smith identifies the ingredients of the most effective sales stories and reveals how to:<br />Select the right story&#xa0;Craft a compelling and memorable narrative&#xa0;Incorporate challenge, conflict, and resolution• And more&#xa0;<br />Learning from model stories, skill-building exercises, and enlightening examples from Microsoft, Costco, Xerox, Abercrombie &amp; Fitch, Hewlett-Packard, and other top companies, you will soon be able to turn their personal experiences into stories that introduce yourself, build rapport, address objections, add value to the product, bring data to life, create a sense of urgency…and most importantly, sell!<br /><br />If you want to become a better communicator and transform your sales results,&#xa0;Sell with a Story&#xa0;is for you.&#xa0;"
+  },
+  "artwork": {
+    "width": 1590,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/75/ea/c7/75eac71f-8eab-d483-7e25-c6d19db2f8af/9780814437124.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "434242",
+    "textColor2": "560611",
+    "textColor4": "783841",
+    "assetToken": "Publication115/v4/75/ea/c7/75eac71f-8eab-d483-7e25-c6d19db2f8af/9780814437124.jpg",
+    "textColor1": "151312",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 4,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      1,
+      2
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "Sell with a Story",
+  "publisher": "AMACOM",
+  "isPreorder": false,
+  "artistName": "Paul Smith",
+  "primaryLocale": "en-US"
+}

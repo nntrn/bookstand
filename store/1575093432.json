@@ -1,0 +1,79 @@
+{
+  "id": "1575093432",
+  "type": "books",
+  "title": "Seven Games: A Human History",
+  "subtitle": null,
+  "author": "Oliver Roeder",
+  "isbn": "9781324003786",
+  "genreNames": [
+    "World History",
+    "Books",
+    "History",
+    "Arts & Entertainment",
+    "Games"
+  ],
+  "seller": "W.W. Norton & Company, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=13990&salableAdamId=1575093432&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$13.99",
+      "price": 13.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 13936319
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2022-01-25",
+  "isIBook": false,
+  "description": {
+    "standard": "A New York Times Book Review Editors’ Choice<br /><br />\n\"Beguiling, mesmerizing, and utterly charming.\" —Stefan Fatsis, author of Word Freak<br /><br />\nA group biography of seven enduring and beloved games, and the story of why—and how—we play them.<br /><br />Checkers, backgammon, chess, and Go. Poker, Scrabble, and bridge. These seven games, ancient and modern, fascinate millions of people worldwide. In Seven Games, Oliver Roeder charts their origins and historical importance, the delightful arcana of their rules, and the ways their design makes them pleasurable.<br /><br />Roeder introduces thrilling competitors, such as evangelical minister Marion Tinsley, who across forty years lost only three games of checkers;&#xa0;Shusai,&#xa0;the Master, the last Go champion of imperial Japan, defending tradition against “modern rationalism”; and an IBM engineer who created a backgammon program so capable at self-learning that NASA used it on the space shuttle. He delves into the history and lore of each game: backgammon boards in ancient Egypt, the Indian origins of chess, how certain shells from a particular beach in Japan make the finest white Go stones.<br /><br />Beyond the cultural and personal stories, Roeder explores why games, seemingly trivial pastimes, speak so deeply to the human soul. He introduces an early philosopher of games, the aptly named Bernard Suits, and visits an Oxford cosmologist who has perfected a computer that can effectively play bridge, a game as complicated as human language itself.<br /><br />Throughout, Roeder tells the compelling story of how humans, pursuing scientific glory and competitive advantage, have invented AI programs better than any human player, and what that means for the games—and for us. Funny, fascinating, and profound, Seven Games is a story of obsession, psychology, history, and how play makes us human."
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/b4/0a/d0/b40ad0ce-f46d-5ce1-d3d1-18f83918d793/9781324003786.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "3c3d3a",
+    "textColor2": "461a3e",
+    "textColor4": "6b4865",
+    "assetToken": "Publication126/v4/b4/0a/d0/b40ad0ce-f46d-5ce1-d3d1-18f83918d793/9781324003786.jpg",
+    "textColor1": "0c0c09",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 11,
+    "ratingCountList": [
+      2,
+      0,
+      1,
+      2,
+      6
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "name": "Seven Games: A Human History",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "With entertaining cultural profiles of the games of checkers, chess, go, Scrabble, backgammon, poker, and bridge, journalist Roeder (<em>The Riddler</em>) delivers a splashy narrative that successfully argues that games, more than just being forms of entertainment, help individuals develop strategies for navigating daily life. \"Learning a game's intricacies and playing that game with others binds us with other humans, shaping our culture and, indeed, our perspective on the ‘real' world,\" he asserts. Chess, for instance, offers players a chance to consider lengthy tactical combinations and resolve complex relationships among the pieces on the board. Legend has it, Roeder writes, that go was invented by a Chinese emperor 4,000 years ago to discipline his \"unruly son.\" In poker, the player must surrender to not knowing what lies in their opponents' hands, much as they have to in real life, \"where there is often a whole host of things we would like to know but that we do not: consider courtship, negotiations, warfare.\" To further enrich his exploration, he weaves in luminous sketches of other fierce competitors, such as one \"technochratic Scrabble sage\" who advises other nationally ranked players and helped Roeder prepare for the 2019 North American Scrabble Championship. This humanistic look at some of the most popular games in history will have readers hooked. ",
+      "date": "Mon Nov 08 00:00:00 PST 2021",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "isPreorder": false,
+  "publisher": "W. W. Norton & Company",
+  "artistName": "Oliver Roeder",
+  "editorialNotes": {
+    "standard": "You’d never guess that classic games like checkers, poker, and Scrabble are surrounded by such fascinating stories. Journalist and puzzle-maker Oliver Roeder dives into the history, theory, and evolution of those games—along with backgammon, bridge, chess, and Go—and shows us just how these leisurely pastimes have impacted our world. For example, we learn that scientists have advanced AI technology by programming computers to play these games at superhuman levels. (Most of them, anyway. Apparently AIs still can’t quite master playing bridge, which is just fiendishly complex!) And even if you’re not familiar with the Japanese board game Go, you’ll be fascinated by the stories of how competitive players have been devoting their lives to it since the 17th century. Whether you’re an aspiring chess grandmaster, a game-night aficionado, or a fan of social histories, we recommend going all-in on <i>Seven Games</i>."
+  },
+  "primaryLocale": "en-US"
+}
