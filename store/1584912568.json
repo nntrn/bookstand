@@ -1,0 +1,68 @@
+{
+  "id": "1584912568",
+  "type": "books",
+  "title": "The Secret Life of Secrets",
+  "subtitle": "How Our Inner Worlds Shape Well-Being, Relationships, and Who We Are",
+  "author": "Michael Slepian",
+  "isbn": "9780593237236",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Science & Nature",
+    "Self-Improvement"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=1584912568&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3250354
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2022-06-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“If you’ve ever wondered why we keep secrets and what motivates us to spill them, look no further. Michael Slepian has spent the past decade studying the psychology of secrets, and is ready to reveal his findings to the world.”—Adam Grant, #1 <i>New York Times</i> bestselling author of <i>Think Again</i></b><br />&#xa0;<br /><b>“<i>The Secret Life of Secrets</i> gracefully blends engaging stories with compelling science.”—Sonja Lyubomirsky, University of California professor and author of <i>The How of Happiness</i></b><br />&#xa0;<br />Think of a secret that you’re keeping from others. It shouldn’t take long; behavioral scientist Michael Slepian finds that, on average, we are keeping as many as thirteen secrets at any given time. His research involving more than 50,000 participants from around the world shows that the most common secrets include lies we’ve told, ambitions, addictions, mental health challenges, hidden relationships, and financial struggles.<br /><br />Our secrets can weigh heavily upon us. Yet the burden of secrecy, Slepian argues, rarely stems from the work it takes to keep a secret hidden. Rather, the weight of our secrets comes from carrying them alone, without the support of others. Whether we are motivated to protect our reputation, a relationship, a loved one’s feelings, or some personal or professional goal, one thing is clear: Holding back some part of our inner world is often lonely and isolating.&#xa0;But <i>The Secret Life of Secrets </i>shows you that&#xa0;it doesn’t have to be.<br /><br />Filled with fresh insight into one of the most universal—yet least understood—aspects of human behavior, <i>The Secret Life of Secrets</i> sheds a fascinating new light on questions like: At what age do children develop the cognitive capacity for secrecy? Do all secrets come with the same mental load? How can we reconcile our secrets with our human desires to relate, connect, and be known? When should we confess our secrets? Who makes for the ideal confidant? And can keeping certain types of secrets actually enhance our well-being?<br /><br />Drawing on over a decade of original research, <i>The Secret Life of Secrets </i>reveals the surprising ways that secrets pervade our lives, and offers science-based strategies that make them easier to live with. The result is a rare window into the inner workings of our minds, our relationships, and our sense of who we are."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/9b/5a/d2/9b5ad215-26c6-a8b6-aa3e-e0aae169ede2/9780593237236.d.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "33224f",
+    "textColor2": "061b4a",
+    "textColor4": "383251",
+    "assetToken": "Publication116/v4/9b/5a/d2/9b5ad215-26c6-a8b6-aa3e-e0aae169ede2/9780593237236.d.jpg",
+    "textColor1": "000648",
+    "bgColor": "ff8f6d",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Secret Life of Secrets",
+  "isPreorder": false,
+  "publisher": "Crown",
+  "artistName": "Michael Slepian",
+  "primaryLocale": "en-US"
+}
