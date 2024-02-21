@@ -1,0 +1,67 @@
+{
+  "id": "828759981",
+  "type": "books",
+  "title": "The Elements of Eloquence",
+  "subtitle": "Secrets of the Perfect Turn of Phrase",
+  "author": "Mark Forsyth",
+  "isbn": "9780698168091",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=828759981&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1067380
+        }
+      ]
+    }
+  ],
+  "pageCount": 256,
+  "releaseDate": "2014-10-07",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the #1 international bestselling author of <i>The Etymologicon </i>and <i>The Horologicon</i>&#xa0;comes an education in the art of articulation, from the King James Bible to Katy Perry…</b><i><br /></i><br />From classic poetry to pop lyrics, from Charles Dickens to Dolly Parton, even from Jesus to James Bond, Mark Forsyth explains the secrets that make a phrase—such as “O Captain! My Captain!” or “To be or not to be”—memorable.<br /><br /> In his inimitably entertaining and wonderfully witty style, he takes apart famous phrases and shows how you too can write like Shakespeare or quip like Oscar Wilde. Whether you’re aiming to achieve literary immortality or just hoping to deliver the perfect one-liner, <i>The Elements of Eloquence </i>proves that you don’t need to have anything important to say—you simply need to say it well.<br /><br /> In an age unhealthily obsessed with the power of substance, this is a book that highlights the importance of style."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/bf/bb/72/bfbb72a3-c05b-0567-0ca1-547b486310be/9780698168091.jpg/{w}x{h}bb.{f}",
+    "height": 2449,
+    "textColor3": "3e434f",
+    "textColor2": "282c35",
+    "textColor4": "454b58",
+    "assetToken": "Publication4/v4/bf/bb/72/bfbb72a3-c05b-0567-0ca1-547b486310be/9780698168091.jpg",
+    "textColor1": "1f222a",
+    "bgColor": "bbc8e6",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.8,
+    "ratingCount": 22,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      3,
+      18
+    ],
+    "ariaLabelForRatings": "4.8 stars"
+  },
+  "name": "The Elements of Eloquence",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Mark Forsyth",
+  "primaryLocale": "en-US"
+}
