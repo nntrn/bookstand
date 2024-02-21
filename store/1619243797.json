@@ -1,0 +1,69 @@
+{
+  "id": "1619243797",
+  "type": "books",
+  "title": "Get to the Point!",
+  "subtitle": "Sharpen Your Message and Make Your Words Matter",
+  "author": "Joel Schwartzberg",
+  "isbn": "9781523094134",
+  "genreNames": [
+    "Business & Personal Finance",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines",
+    "Health, Mind & Body",
+    "Self-Improvement"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1619243797&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1598560
+        }
+      ]
+    }
+  ],
+  "pageCount": 129,
+  "releaseDate": "2017-10-16",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A communications coach shows how to identify your point, strengthen it, stick to it, and sell it with this quick and sensible guide.</b><br /><br />Every time you communicate, you’re trying to do something, change something, or move someone to action. You’re trying to make a point. But the only way to make a point is to have a point. And the surprising truth is, very few communicators know their points or even understand what a point is, rendering them pointless.<br /><br />Communications expert Joel Schwartzberg says a point is not just a topic, an idea, or a theme. A real point is a proposition of value. It’s a contention you can propose, argue, illustrate, and prove. In this concise and practical book, you’ll learn to identify your point, strengthen it, stick to it, and sell it. Whether you want to improve your impact in speeches, staff meetings, pitches, emails, PowerPoint presentations, or any other communication setting, Schwartzberg’s novel approach teaches you how to go from simply sharing a thought to making a difference. Which would you rather do?<br /><br /><b>IBPA Benjamin Franklin Award silver winner in the Business &amp; Career category</b><br /><br /><b>Next Generation Indie Award Winner in the How To category</b><br /><br /><b>“If you don’t have something to say, then don’t say anything. Joel Schwartzberg takes that simple edict and turns it into a manifesto for giving talks that make a difference.” —Seth Godin, author of <i>Linchpin</i></b><br /><br /><b>“Good ideas too often get lost in a jungle of muddled thinking. In <i>Get to the Point!</i>, Joel Schwartzberg supplies useful tools to deliver your points with impact and elegance.” —David Brancaccio, host and senior editor,<i> Marketplace Morning Report</i></b>"
+  },
+  "artwork": {
+    "width": 1554,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/9f/d8/99/9fd89937-bc7b-f3a1-f702-7542632f7b61/9781523094134.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "2a2829",
+    "textColor2": "1e191c",
+    "textColor4": "3a3639",
+    "assetToken": "Publication122/v4/9f/d8/99/9fd89937-bc7b-f3a1-f702-7542632f7b61/9781523094134.jpg",
+    "textColor1": "0a0809",
+    "bgColor": "a9aaac",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.8,
+    "ratingCount": 4,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      3
+    ],
+    "ariaLabelForRatings": "4.8 stars"
+  },
+  "name": "Get to the Point!",
+  "isPreorder": false,
+  "publisher": "Berrett-Koehler Publishers",
+  "artistName": "Joel Schwartzberg",
+  "primaryLocale": "en-US"
+}

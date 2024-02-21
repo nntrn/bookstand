@@ -1,0 +1,68 @@
+{
+  "id": "6472882161",
+  "type": "books",
+  "title": "Winning Arguments",
+  "subtitle": "What Works and Doesn't Work in Politics, the Bedroom, the Courtroom, and the Classroom",
+  "author": "Stanley Fish",
+  "isbn": "9780062226686",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Business & Personal Finance"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6472882161&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1562319
+        }
+      ]
+    }
+  ],
+  "pageCount": 216,
+  "releaseDate": "2016-07-05",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Fish mines cultural touchstones from Milton to ‘Married with Children’ to explain how various types of arguments are structured and how that understanding can lead to victory” — <i>New York Times Book Review</i></b><br /><br />A lively and accessible guide to understanding rhetoric by the world class English and Law professor and bestselling author of <i>How to Write a Sentence.</i><br /><br />Filled with the wit and observational prowess that shaped Stanley Fish’s acclaimed bestseller <i>How to Write a Sentence, Winning Arguments</i> guides readers through the “greatest hits” of rhetoric. In this clever and engaging guide, Fish offers insight and outlines the crucial keys you need to win any debate, anywhere, anytime—drawn from landmark legal cases, politics, his own career, and even popular film and television. A celebration of clashing minds and viewpoints, <i>Winning Arguments</i> is sure to become a classic.&#xa0;"
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/16/5d/23/165d2358-1e81-92cb-d06b-4e58f0101852/9780062226686.jpg/{w}x{h}bb.{f}",
+    "height": 2258,
+    "textColor3": "302e2a",
+    "textColor2": "112224",
+    "textColor4": "3d4846",
+    "assetToken": "Publication116/v4/16/5d/23/165d2358-1e81-92cb-d06b-4e58f0101852/9780062226686.jpg",
+    "textColor1": "000001",
+    "bgColor": "efe3cb",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Winning Arguments",
+  "isPreorder": false,
+  "publisher": "HarperCollins",
+  "artistName": "Stanley Fish",
+  "primaryLocale": "en-US"
+}
