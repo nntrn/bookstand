@@ -1,0 +1,71 @@
+{
+  "id": "422531047",
+  "type": "books",
+  "title": "Chinese Fairy Tales and Fantasies",
+  "subtitle": null,
+  "author": "Moss Roberts",
+  "isbn": "9780307760425",
+  "genreNames": [
+    "Fairy Tales, Myths & Fables",
+    "Books",
+    "Fiction & Literature",
+    "Sci-Fi & Fantasy",
+    "Fantasy",
+    "Historical Fantasy"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=422531047&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 12196755
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "1980-07-12",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "The Pantheon Fairy Tale and Folklore Library"
+  },
+  "description": {
+    "standard": "This collection of tales opens up a magical world far from our customary haunts. Ghost stories, romances, fables, and heroic sagas: the forms are familiar, but the characters we meet surprise us at every turn. For those who know and love the tales of the Grimms and Andersen, the universal themes of fairy tale literature emerge in these classic stories, but with a sophistication that is uniquely Chinese and altogether entrancing.<br /><br /><i>With black-and-white drawings throughout</i><br /><i>Part of the Pantheon Fairy Tale and Folklore Library</i>"
+  },
+  "artwork": {
+    "width": 1864,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/1f/33/a9/1f33a968-29d2-43d2-d284-fee30b701903/9780307760425.jpg/{w}x{h}bb.{f}",
+    "height": 2811,
+    "textColor3": "e0cdd4",
+    "textColor2": "fdc110",
+    "textColor4": "eaa61d",
+    "assetToken": "Publication111/v4/1f/33/a9/1f33a968-29d2-43d2-d284-fee30b701903/9780307760425.jpg",
+    "textColor1": "f1f2f4",
+    "bgColor": "9e3953",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "Chinese Fairy Tales and Fantasies",
+  "isPreorder": false,
+  "publisher": "Knopf Doubleday Publishing Group",
+  "artistName": "Moss Roberts",
+  "primaryLocale": "en-US"
+}
