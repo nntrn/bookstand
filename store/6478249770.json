@@ -1,0 +1,72 @@
+{
+  "id": "6478249770",
+  "type": "books",
+  "title": "The Mathematics of Love",
+  "subtitle": "Patterns, Proofs, and the Search for the Ultimate Equation",
+  "author": "Hannah Fry",
+  "isbn": "9781476784892",
+  "genreNames": [
+    "Family & Relationships",
+    "Books",
+    "Nonfiction",
+    "Science & Nature",
+    "Mathematics",
+    "Social Science",
+    "Sociology"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6478249770&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 21789998
+        }
+      ]
+    }
+  ],
+  "pageCount": 111,
+  "releaseDate": "2015-02-03",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "TED"
+  },
+  "description": {
+    "standard": "<b>In this must-have for anyone who wants to better understand their love life, a mathematician pulls back the curtain and reveals the hidden patterns—from dating sites to divorce, sex to marriage—behind the rituals of love.</b><br /><br />The roller coaster of romance is hard to quantify; defining how lovers might feel from a set of simple equations is impossible. But that doesn’t mean that mathematics isn’t a crucial tool for understanding love. <br /><br />Love, like most things in life, is full of patterns. And mathematics is ultimately the study of patterns—from predicting the weather to the fluctuations of the stock market, the movement of planets or the growth of cities. These patterns twist and turn and warp and evolve just as the rituals of love do. <br /><br />In <i>The Mathematics of Love, </i>Dr. Hannah Fry takes the reader on a fascinating journey through the patterns that define our love lives, applying mathematical formulas to the most common yet complex questions pertaining to love: What’s the chance of finding love? What’s the probability that it will last? How do online dating algorithms work, exactly? Can game theory help us decide who to approach in a bar? At what point in your dating life should you settle down? <br /><br />From evaluating the best strategies for online dating to defining the nebulous concept of beauty, Dr. Fry proves—with great insight, wit, and fun—that math is a surprisingly useful tool to negotiate the complicated, often baffling, sometimes infuriating, always interesting, mysteries of love."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/7f/41/fc/7f41fcd8-5e22-e49e-f1fe-44c999483889/9781476784892.jpg/{w}x{h}bb.{f}",
+    "height": 1909,
+    "textColor3": "d6dadc",
+    "textColor2": "dae5e8",
+    "textColor4": "bac8cc",
+    "assetToken": "Publication122/v4/7f/41/fc/7f41fcd8-5e22-e49e-f1fe-44c999483889/9781476784892.jpg",
+    "textColor1": "fdfdfd",
+    "bgColor": "3d505c",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Mathematics of Love",
+  "isPreorder": false,
+  "publisher": "Simon & Schuster",
+  "artistName": "Hannah Fry",
+  "primaryLocale": "en-US"
+}
