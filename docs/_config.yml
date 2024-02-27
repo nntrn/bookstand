@@ -10,6 +10,11 @@ repository: nntrn/bookstand
 github_username: nntrn
 favicon_ico: /assets/favicon.ico
 
+about: |
+  Hello!  
+  I'm someone who likes shopping Apple's flash sales for non-fiction books 
+  and rereading 
+
 book:
   branch: assets
   dir: covers
@@ -41,6 +46,10 @@ plugins:
 
 sass:
   style: compact
+  sourcemap: never
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 compress_html:
   clippings: [div, p, ul, td, h1, h2]

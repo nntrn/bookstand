@@ -110,7 +110,7 @@ a.muted:hover{color:#444}
 .serif{font-family:var(--font-serif)!important}
 .page-content{flex:7;padding:0 2rem}
 .sidebar{flex:3}
-.sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.35rem;font-family:var(--font-monospace);font-size:.95rem}
+.sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.35rem;font-size:.95rem}
 .sidebar ul li a:hover,.hover:hover{background:rgba(var(--accent-color),.1)}
 .site-container{overflow-y:auto;position:relative;scrollbar-width:thin;height:100%}
 .site-subtitle{font-style:italic;font-family:var(--font-family);font-weight:400;display:block}
