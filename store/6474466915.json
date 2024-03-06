@@ -1,0 +1,70 @@
+{
+  "id": "6474466915",
+  "type": "books",
+  "title": "Conformity",
+  "subtitle": "The Power of Social Influences",
+  "author": "Cass R. Sunstein & Robert H Frank",
+  "isbn": "9781479846849",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body",
+    "Politics & Current Events",
+    "Political Science",
+    "Business & Personal Finance",
+    "Marketing & Sales"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6474466915&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1902200
+        }
+      ]
+    }
+  ],
+  "pageCount": 197,
+  "releaseDate": "2019-05-28",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The <i>New York Times</i>–bestselling coauthor of <i>Nudge</i> reveals the appeal—and the danger—of conformity: </b><b>“Fascinating and surprising revelations.” —<i>GQ</i></b><br /><br /> We live in an era of tribalism, polarization, and intense social division—separating people along lines of religion, political conviction, race, ethnicity, and sometimes gender. How did this happen? In <i>Conformity</i>, Cass R. Sunstein argues that the key to making sense of living in this fractured world lies in understanding the idea of conformity—what it is and how it works—as well as the countervailing force of dissent.<br /><br /> An understanding of conformity sheds new light on many issues confronting us today: the role of social media, the rise of fake news, the growth of authoritarianism, the success of Donald Trump, the functions of free speech, debates over immigration and the Supreme Court, and much more.<br /><br /> Lacking information of our own and seeking the good opinion of others, we often follow the crowd, but Sunstein shows that when individuals suppress their own instincts about what is true and what is right, it can lead to significant social harm. While dissenters tend to be seen as selfish individualists, dissent is actually an important means of correcting the natural human tendency toward conformity and has enormous social benefits in reducing extremism, encouraging critical thinking, and protecting freedom itself.<br /><br /> Sunstein concludes that while much of the time it is in the individual’s interest to follow the crowd, it is in the social interest for individuals to say and do what they think is best. A well-functioning democracy depends on it.<br /> &#xa0;<br /> “Eminently relevant&#xa0;.&#xa0;.&#xa0;. a must-read.” ―<i>Booklist</i>"
+  },
+  "artwork": {
+    "width": 1478,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/0c/c8/e4/0cc8e434-dadd-3ee9-5dd1-f25cb024172a/9781479846849.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "292e30",
+    "textColor2": "310f3d",
+    "textColor4": "513a61",
+    "assetToken": "Publication126/v4/0c/c8/e4/0cc8e434-dadd-3ee9-5dd1-f25cb024172a/9781479846849.jpg",
+    "textColor1": "000000",
+    "bgColor": "cee6f2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Conformity",
+  "isPreorder": false,
+  "publisher": "NYU Press",
+  "artistName": "Cass R. Sunstein & Robert H Frank",
+  "primaryLocale": "en-US"
+}
