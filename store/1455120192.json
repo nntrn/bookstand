@@ -1,0 +1,75 @@
+{
+  "id": "1455120192",
+  "type": "books",
+  "title": "Monster, She Wrote",
+  "subtitle": "The Women Who Pioneered Horror and Speculative Fiction",
+  "author": "Lisa Kroger & Melanie R. Anderson",
+  "isbn": "9781683691396",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Fiction & Literature",
+    "Literary Criticism"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1455120192&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 66008670
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2019-09-17",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Meet the women writers who defied convention to craft some of literature’s strangest tales,&#xa0;from <i>Frankenstein </i>to<i> The Haunting of Hill House</i> and beyond<i>.</i></b><br /><br /><i>Frankenstein </i>was just the beginning: horror stories and other weird fiction wouldn’t exist without the women who created it. From Gothic ghost stories to psychological horror to science fiction, women have been primary architects of speculative literature of all sorts. And their own life stories are as intriguing as their fiction. <br /><br />Everyone knows about<b> Mary Shelley</b>, creator of Frankenstein, who was rumored to keep her late husband’s heart in her desk drawer. But have you heard of <b>Margaret “Mad Madge” Cavendish</b>, who wrote a science-fiction epic 150 years earlier (and liked to wear topless gowns to the theater)? If you know the astounding work of <b>Shirley Jackson</b>, whose novel <i>The Haunting of Hill House </i>was reinvented as a Netflix series, then try the psychological hauntings of <b>Violet Paget</b>, who was openly involved in long-term romantic relationships with women in the Victorian era. You’ll meet celebrated icons (<b>Ann Radcliffe, V. C. Andrews</b>), forgotten wordsmiths (<b>Eli Colter, Ruby Jean Jensen</b>), and today’s vanguard (<b>Helen Oyeyemi</b>). Curated reading lists point you to their most spine-chilling tales.<br /><br />Part biography, part reader’s guide, the engaging write-ups and detailed reading lists will introduce you to more than a hundred authors and over two hundred of their mysterious and spooky novels, novellas, and stories."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/b6/a8/a3/b6a8a38b-a4d2-ff7e-16a5-1ff30bdf6256/9781683691396.d.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "1f4629",
+    "textColor2": "002331",
+    "textColor4": "1f4538",
+    "assetToken": "Publication123/v4/b6/a8/a3/b6a8a38b-a4d2-ff7e-16a5-1ff30bdf6256/9781683691396.d.jpg",
+    "textColor1": "00241e",
+    "bgColor": "9ccc56",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 4,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      1,
+      2
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Monster, She Wrote",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Kr ger and Anderson anthologize the histories of horror's greatest female writers into this meticulously compiled resource. Covering over three dozen writers, the coauthors reveal the experiences, whether with mysticism, trauma, or societal repression, that defined their subjects and led them toward the macabre. Kr ger and Anderson describe the flamboyant public persona of pioneering feminist and science fiction writer Margaret Cavendish,  the \"stormy vacation\" that inspired Mary Wollstonecraft Shelley's Frankenstein, the proto-Wiccan musings of Dion Fortune's occult detective stories, and the wellspring of creativity that \"weird Western\" writer Eli Colter found in a period of temporary blindness. Most significantly, the genre of horror is explored as a medium for \"psychological excavations into how humanity sees itself,\" in which a ghost might function as a \"metaphorical mirror for what was already haunting the character.\" In addition to the analysis and history of these writers, Kr ger and Anderson offer a list of essential readings from, and film adaptations of, each woman's work. This biographical index will reawaken readers' admiration for established virtuosos of literary terror and inspire curiosity in lesser-known specialists in fictitious fear.  ",
+      "date": "Mon Jul 08 00:00:00 PDT 2019",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "publisher": "Quirk Books",
+  "isPreorder": false,
+  "artistName": "Lisa Kroger & Melanie R. Anderson",
+  "primaryLocale": "en-US"
+}

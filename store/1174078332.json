@@ -1,0 +1,65 @@
+{
+  "id": "1174078332",
+  "type": "books",
+  "title": "The Curious Journalist's Guide to Data",
+  "subtitle": "Tow Center for Digital Journalism \"Guide To\" Series",
+  "author": "Jonathan Stray",
+  "isbn": null,
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "Tow Center for Digital Journalism",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=0&salableAdamId=1174078332&pricingParameters=PLUS&pg=default",
+      "type": "get",
+      "priceFormatted": "$0.00",
+      "price": 0,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 13792214
+        }
+      ]
+    }
+  ],
+  "pageCount": 135,
+  "releaseDate": "2016-03-24",
+  "isIBook": false,
+  "description": {
+    "standard": "This book, by Jonathan Stray, is about using data in journalism. But it’s not a particularly practical book. Instead it’s for the curious, for those who wonder about the deep ideas that hold everything together."
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/c4/6b/4c/c46b4c62-348a-b8ec-d35e-a59e67306990/cover.jpg/{w}x{h}bb.{f}",
+    "height": 2360,
+    "textColor3": "33383f",
+    "textColor2": "03214c",
+    "textColor4": "354d70",
+    "assetToken": "Publication71/v4/c4/6b/4c/c46b4c62-348a-b8ec-d35e-a59e67306990/cover.jpg",
+    "textColor1": "00060f",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Curious Journalist's Guide to Data",
+  "isPreorder": false,
+  "publisher": "Tow Center for Digital Journalism",
+  "artistName": "Jonathan Stray",
+  "primaryLocale": "en-US"
+}
