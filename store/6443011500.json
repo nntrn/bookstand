@@ -1,0 +1,80 @@
+{
+  "id": "6443011500",
+  "type": "books",
+  "title": "Poverty, by America",
+  "subtitle": null,
+  "author": "Matthew Desmond",
+  "isbn": "9780593239926",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Politics & Current Events",
+    "Public Administration"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=6443011500&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2481556
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2023-03-21",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>#1 <i>NEW YORK TIMES</i> BESTSELLER • The Pulitzer Prize–winning author of <i>Evicted</i> reimagines the debate on poverty, making a&#xa0;“provocative and compelling” (NPR)&#xa0;argument about why it persists in America: because the rest of us benefit from it.<br /><br /><b>ONE OF <i>THE CALIFORNIA REVIEW OF BOOKS</i>’ TEN BEST BOOKS OF THE YEAR • A BEST BOOK OF THE YEAR: <i>The New Yorker, The New York Times Book Review, </i>NPR, <i>Oprah Daily, Time, The Star Tribune, Vulture, The Christian Science Monitor, </i>Chicago Public Library, <i>Esquire, She Reads, Library Journal</i></b><br /><br />“Urgent and accessible . . . Its moral force is a gut punch.”—<i>The New Yorker</i><br /></b><br /><b><b>Longlisted for the </b><i><b>Inc.</b></i><b> Non-Obvious Book Award</b> • Longlisted for the Andrew Carnegie Medal </b><br /><br />The United States, the richest country on earth, has more poverty than any other advanced democracy. Why? Why does this land of plenty allow one in every eight of its children to go without basic necessities, permit scores of its citizens to live and die on the streets, and authorize its corporations to pay poverty wages?&#xa0;<br />&#xa0;<br />In this landmark book, acclaimed sociologist Matthew Desmond draws on history, research, and original reporting to show how affluent Americans knowingly and unknowingly keep poor people poor.&#xa0;Those of us who are financially secure exploit the poor, driving down their wages while forcing them to overpay for housing and access to cash and credit. We prioritize the subsidization of our wealth over the alleviation of poverty, designing a welfare state that gives the most to those who need the least. And we stockpile opportunity in exclusive communities, creating zones of concentrated riches alongside those of concentrated despair. Some lives are made small so that others may grow.<br />&#xa0;<br />Elegantly written and fiercely argued, this compassionate book gives us new ways of thinking about a morally urgent problem. It also helps us imagine solutions. Desmond builds a startlingly original and ambitious case for ending poverty. He calls on us all to become poverty abolitionists, engaged in a politics of collective belonging to usher in a new age of shared prosperity and, at last, true freedom."
+  },
+  "artwork": {
+    "width": 1688,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/36/75/d8/3675d828-e65a-d349-edc8-2192e66b3412/9780593239926.d.jpg/{w}x{h}bb.{f}",
+    "height": 2550,
+    "textColor3": "a7c3c2",
+    "textColor2": "c5c5c2",
+    "textColor4": "9e9e9b",
+    "assetToken": "Publication116/v4/36/75/d8/3675d828-e65a-d349-edc8-2192e66b3412/9780593239926.d.jpg",
+    "textColor1": "d0f4f3",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 145,
+    "ratingCountList": [
+      6,
+      4,
+      18,
+      30,
+      87
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "Poverty, by America",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Pulitzer winner Desmond follows up <em>Evicted</em> with a powerful inquiry into why the U.S. is \"the richest country on earth, with more poverty than any other advanced democracy.\" Noting that 38 million Americans cannot afford basic necessities, Desmond argues that poverty persists because others benefit from it: workers are paid non-living wages and unions are discouraged in order to boost the pay of corporate executives; poor consumers are overcharged for rental housing and financial services so that landlords and banks can prosper; and affluent families benefit from tax breaks, student loans, and other forms of federal aid while welfare programs are publicly belittled and made difficult to access. Poverty is further entrenched by the underfunding of education, mass transit, and healthcare, Desmond argues, creating a world of private opulence and public squalor. His solutions include eliminating the residential segregation that blocks poor families from well-funded public services and employment and housing opportunities. More broadly, he calls for better-off Americans to acknowledge their complicity in perpetuating poverty and to pressure the government to undertake \"an aggressive, uncompromising antipoverty agenda.\" Though the path to achieving these reforms isn't always clear, Desmond enriches his detailed and trenchant analysis with poignant reflections on America's \"unblushing inequality\" and the \"anomie of wealth.\" It's a gut-wrenching call for change. <em>",
+      "date": "Mon Jan 02 00:00:00 PST 2023",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "publisher": "Crown",
+  "isPreorder": false,
+  "artistName": "Matthew Desmond",
+  "editorialNotes": {
+    "standard": "Pulitzer Prize–winning sociologist Matthew Desmond follows up his powerful bestseller <i>Evicted</i> with a fearless dive into the devastating role of poverty in the United States. Desmond expertly and methodically examines the root causes of poverty, including predatory banking practices, underfunded public schools, inaccessible and unaffordable healthcare, and a low-paying labor market. The core of his research reveals a shocking truth: Poverty continues in America because the well-off actually benefit greatly from it. Thankfully, Desmond also serves up actionable ways to fix this terrible system, from potential legislation and grassroots social organizing to ways to help re-empower the labor movement. If you’ve ever felt helpless about issues like homelessness, food scarcity, and childhood poverty, don’t miss <i>Poverty, by America</i>.\n",
+    "short": "Why is there such poverty in the world’s richest country? The author of <i>Evicted</i> digs in."
+  },
+  "primaryLocale": "en-US"
+}

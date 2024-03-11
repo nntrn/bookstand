@@ -1,0 +1,78 @@
+{
+  "id": "6445339985",
+  "type": "books",
+  "title": "Comedy Book",
+  "subtitle": "How Comedy Conquered Culture–and the Magic That Makes It Work",
+  "author": "Jesse David Fox",
+  "isbn": "9780374604721",
+  "genreNames": [
+    "Performing Arts",
+    "Books",
+    "Arts & Entertainment",
+    "Nonfiction",
+    "Social Science",
+    "Humor"
+  ],
+  "seller": "Macmillan",
+  "description": {
+    "standard": "<b>One of NPR’s Best Books of 2023. A <i>New York Times Book Review </i>Editors' Choice. Named a Most Anticipated Book by <i>Vulture</i>, <i>Elle</i>,<i> Chicago Tribune</i>,<i> The Millions</i>, and <i>Lit Hub.</i></b><br /><b><br />“<i>Comedy Book</i> </b><b>changes the way we talk about an art form that is more diverse and exciting than ever before.” </b><b>—Seth Meyers </b><br /><br /><b>“Energetic and wise . . . <i>Comedy Book </i></b><b>is not the definitive history of the past three-plus decades. It’s Fox’s history, and better for it.” </b><b>—<i>The New York Times Book Review</i></b><br /><b><br />From a beloved comedy critic, a wisecracking, heartfelt, and overdue chronicle of comedy’s boom—and its magic.<br /></b><br />In <i>Comedy Book</i>, Jesse David Fox—the country’s most definitive voice in comedy criticism and someone who, in his own words, enjoys comedy “maybe more than anyone on this planet”—tackles everything you need to know about comedy, an art form that has been under-considered throughout its history, even as it has ascended as a cultural force. Weaving together history and analysis, Fox unravels the genre’s political legacy through an ode to Jon Stewart, interrogates the divide between highbrow and lowbrow via Adam Sandler, and unpacks how marginalized comics create spaces for their communities. Along the way, Fox covers topics ranging from comedy in the age of political correctness and Will Smith’s slap, to the right wing’s relationship with comedy, to comedy’s ability to heal in the wake of tragedy. <br /><br />With memorable cameos from Jerry Seinfeld, Dave Chappelle, John Mulaney, Ali Wong, Kate Berlant, and countless others, <i>Comedy Book</i> is an eye-opening education in how to engage with our most omnipresent art form, a riotous history of American pop culture, and a love letter to laughter."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=6445339985&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1541029
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2023-11-07",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/2b/5e/85/2b5e8577-fa38-3200-06e5-1607f8f6de98/9780374604721.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "434342",
+    "textColor2": "292929",
+    "textColor4": "525251",
+    "assetToken": "Publication126/v4/2b/5e/85/2b5e8577-fa38-3200-06e5-1607f8f6de98/9780374604721.jpg",
+    "textColor1": "161616",
+    "bgColor": "f4f4f2",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.5,
+    "ratingCount": 4,
+    "ratingCountList": [
+      1,
+      0,
+      1,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "3.5 stars"
+  },
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "This electric debut from <em>Vulture</em> editor Fox serves up trenchant observations on the roles context, laughter, timing, and other factors play in comedic movies, television shows, and standup sets from 1990 through the early 2020s. Expounding on the craft of standup, Fox discusses how Chris Rock adopts a deliberately amateurish stage presence while testing out new material to see which jokes inspire laughter despite his stilted performance. The author has a knack for finding revelations in unexpected places, as when he mounts an oddly stirring defense of Adam Sandler's scatological humor, which, Fox suggests, serves to relieve the shame associated with pooping and the pressure adults feel to deny their juvenile side. Fox's arguments are as stimulating as they are unexpected; for instance, he suggests that \"comedy doesn't need to make people laugh\" and is instead the \"art of manipulating funny,\" pointing out how the profundity of Hannah Gadsby's standup special <em>Nanette</em> arises from the contrast between the joke-heavy beginning of the show and the serious ending. There are fresh perspectives on every page, and the style is as humorous as one would expect (\"I was an actual child once. I know, hard to believe, but it's true,\" he writes while contemplating the enduring appeal of his childhood favorite, <em>The Simpsons</em>). Brilliant and a pleasure to read, this raises the bar for comedy studies. ",
+      "date": "Mon Sep 11 00:00:00 PDT 2023",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Comedy Book",
+  "publisher": "Farrar, Straus and Giroux",
+  "isPreorder": false,
+  "artistName": "Jesse David Fox",
+  "primaryLocale": "en-US"
+}
