@@ -31,7 +31,7 @@ def get_author: get_author(.);
 
 def remove_citations($text):
   $text 
-    | gsub("(?<a>[^0-9]{3})[0-9]{1,2}(?<b>[^0-9%]{2})"; .a +.b; "x")
+    | gsub("(?<a>[^0-9\\$,]{3})[0-9]{1,2}(?<b>[^0-9%\\.,]{2})"; .a +.b; "x")
     | gsub("(?<a>[^0-9]{3})[0-9]{1,2}([\\s]+)?$"; .a +.b; "xs");
 
 def remove_citations: remove_citations(.);
