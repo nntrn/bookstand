@@ -1,0 +1,77 @@
+{
+  "id": "1021439268",
+  "type": "books",
+  "title": "The Genius of Birds",
+  "subtitle": null,
+  "author": "Jennifer Ackerman",
+  "isbn": "9781101980842",
+  "genreNames": [
+    "Biology",
+    "Books",
+    "Science & Nature",
+    "Biographies & Memoirs",
+    "Life Sciences",
+    "Nature"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1021439268&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 5568875
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2016-04-12",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Lovely, celebratory. For all the belittling of ‘bird brains,’ [Ackerman] shows them to be uniquely impressive machines . . .”&#xa0;<b>—</b><i><b>New York Times Book Review&#xa0;</b><br /></i><br />“A lyrical testimony to the wonders of avian intelligence.”&#xa0;<b>—<i>Scientific American<br /><br /><b>An award-winning science writer tours the globe to reveal what makes birds capable of such extraordinary feats of mental prowess</b></i></b></b><br /> &#xa0;<br />Birds are astonishingly intelligent creatures. According to revolutionary new research, some birds rival primates and even humans in their remarkable forms of intelligence. In <i>The Genius of Birds</i>, acclaimed author Jennifer Ackerman explores their newly discovered brilliance and how it came about. <br /><br />As she travels around the world to the most cutting-edge frontiers of research, Ackerman not only tells the story of the recently uncovered genius of birds but also delves deeply into the latest findings about the bird brain itself that are shifting our view of what it means to be intelligent. At once personal yet scientific, richly informative and beautifully written, <i>The Genius of Birds</i> celebrates the triumphs of these surprising and fiercely intelligent creatures.<br /><br />Ackerman is also the author of <i>Birds by the Shore: Observing the Natural Life of the Atlantic Coast.&#xa0;</i>"
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/0a/15/f9/0a15f921-7acd-59c8-8f13-edf2ca9da38c/9781101980842.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "4e4d4c",
+    "textColor2": "01304c",
+    "textColor4": "34596e",
+    "assetToken": "Publication111/v4/0a/15/f9/0a15f921-7acd-59c8-8f13-edf2ca9da38c/9781101980842.jpg",
+    "textColor1": "222122",
+    "bgColor": "fffcf5",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 31,
+    "ratingCountList": [
+      2,
+      0,
+      3,
+      8,
+      18
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Genius of Birds",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Popular science writer Ackerman (Ah-Choo!: The Uncommon Life of Your Common Cold) puts paid to the notion of being birdbrained with this survey of the observational and experimental evidence for impressive bird cognition. She explores birds' capacities for tool use, socialization, navigation, mimicry, discrimination, and possibly even theory of mind. Ackerman interviews specialists without overindulging in research travelogue, keeping centered on her feathered subjects rather than on the human interactions, and urges against anthropomorphizing bird behavior, correlating specific behaviors to generalized intelligence, or benchmarking the value of avian mental skills to that of humans. But her most interesting bits of trivia play to that urge: undergraduates who fail at mental simulations at which some birds succeed, bowerbirds trained to distinguish good human art from bad, Thomas Jefferson's mockingbird singing \"popular songs of the day,\" and pigeons learning to open automatic cafeteria doors. Though Ackerman's focus is mainly ethological, she also speculates on the possible relationships between complex task completion and evolutionary fitness. This light popular science read doesn't present much new framing or insight; Ackerman seeks out current research to discover a few surprises, such as a possible role for olfactory cues in navigation, but doesn't point to or create any big conceptual shifts. ",
+      "date": "Mon May 02 00:00:00 PDT 2016",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Jennifer Ackerman",
+  "primaryLocale": "en-US"
+}

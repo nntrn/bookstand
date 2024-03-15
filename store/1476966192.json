@@ -1,0 +1,80 @@
+{
+  "id": "1476966192",
+  "type": "books",
+  "title": "Entangled Life",
+  "subtitle": "How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures",
+  "author": "Merlin Sheldrake",
+  "isbn": "9780525510338",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Nature"
+  ],
+  "seller": "Penguin Random House LLC",
+  "description": {
+    "standard": "<b><i>NEW YORK TIMES</i> BESTSELLER •&#xa0;A “brilliant [and] entrancing” (<i>The Guardian</i>) journey into the hidden lives of fungi—the great connectors of the living world—and their astonishing and intimate roles in human life, with the power to heal our bodies, expand our minds, and help us address our most urgent environmental problems.</b><br /><br /><b>“Grand and dizzying in how thoroughly it recalibrates our understanding of the natural world.”—Ed Yong, author of <i>An Immense World</i></b><br /><b> </b><br /><b>ONE OF THE BEST BOOKS OF THE YEAR—<i>Time, BBC Science Focus, The Daily Mail, Geographical, The Times, The Telegraph, New Statesman, London Evening Standard, Science Friday</i></b><br /><br />When we think of fungi, we likely think of mushrooms. But mushrooms are only fruiting bodies, analogous to apples on a tree. Most fungi live out of sight, yet make up a massively diverse kingdom of organisms that supports and sustains nearly all living systems. Fungi provide a key to understanding the planet on which we live, and the ways we think, feel, and behave.<br /><br />In the first edition of this mind-bending book, Sheldrake introduced us to this mysterious but massively diverse kingdom of life. This exquisitely designed volume, abridged from the original, features more than one hundred full-color images that bring the spectacular variety, strangeness, and&#xa0;beauty of fungi to life as never before.<br /><br />Fungi throw our concepts of individuality and even intelligence into question. They are metabolic masters, earth makers, and key players in most of life’s processes. They can change our minds, heal our bodies, and even help us remediate environmental disaster. By examining fungi on their own terms, Sheldrake reveals how these extraordinary organisms—and our relationships with them—are changing our understanding of how life works.<br /><br /><b>Winner of the Wainwright Prize, the Royal Society Science Book Prize, and the Guild of Food Writers Award •&#xa0;Shortlisted for the British Book Award •&#xa0;Longlisted for the Rathbones Folio Prize</b>"
+  },
+  "editorialNotes": {
+    "standard": "This enthralling scientific study about all things fungi is just as mind-altering as any magic mushroom. Biologist Merlin Sheldrake has always been captivated by the over two million species of fungi that exist on our planet, and he shares his discoveries in this fascinating book. We were amazed to discover how vital mushrooms are to everything from making bread and alcohol to cleaning up oil spills to controlling zombie ants—and even creating sustainable building materials. Throughout this wildly informative read, Sheldrake is engaging and intriguingly philosophical. Fans of Robin Wall Kimmerer and Michael Pollan will love this exploration of the magical mysteries of fungi.\n",
+    "short": "You’ll be amazed and enchanted by the all extraordinary things fungi can do.",
+    "tagline": "This book explores the importance and interrelationship of fungi with the whole of nature. So much of this information is out of sight and overlooked.” –Beth"
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1476966192&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 45486884
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2020-05-12",
+  "isIBook": false,
+  "artwork": {
+    "width": 1556,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c2/52/0c/c2520c9a-4abd-32e7-602f-596d05805e07/9780525510338.d.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "c6b502",
+    "textColor2": "ccbc4a",
+    "textColor4": "a5993b",
+    "assetToken": "Publication116/v4/c2/52/0c/c2520c9a-4abd-32e7-602f-596d05805e07/9780525510338.d.jpg",
+    "textColor1": "f6e003",
+    "bgColor": "0b0d00",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 96,
+    "ratingCountList": [
+      3,
+      3,
+      6,
+      12,
+      72
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Scientist Sheldrake debuts with a revelatory look at fungi that proves their relevance to humans goes far beyond their uses in cooking. While fungi lack brains, they can process and share complicated information about food and the habitability of environments quickly and over great distances, influencing the \"speed and direction of growth,\" in ways not yet understood, prompting Sheldrake to ask, \"Can we think of their behavior as intelligent?\" By discussing how fungi come together with algae to form lichens, Sheldrake touches on another question, that of \"where one organism stops and another begins\" in symbiotic relationships. Elsewhere, he explains how fungi were essential for the original colonization of land by plants, as they effectively served as roots for the first rootless arrivals. Meanwhile, anthropologists have postulated that, via the fermentation process, fungi may have sparked one of humankind's key transitions: \"from hunter-gatherers to agriculturalists.\" Looking to the future, Sheldrake discusses developing uses of fungi in shipping, construction, and environmental remediation materials. In bringing all these diverse threads together, Sheldrake delivers a thoroughly enjoyable paean to a wholly different kingdom of life. ",
+      "date": "Mon Mar 09 00:00:00 PDT 2020",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Entangled Life",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Merlin Sheldrake",
+  "primaryLocale": "en-US"
+}
