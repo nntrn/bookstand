@@ -1,0 +1,68 @@
+{
+  "id": "6478507991",
+  "type": "books",
+  "title": "Planet Funny",
+  "subtitle": "How Comedy Ruined Everything",
+  "author": "Ken Jennings",
+  "isbn": "9781501100611",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Arts & Entertainment",
+    "Performing Arts",
+    "Humor"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6478507991&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 12587970
+        }
+      ]
+    }
+  ],
+  "pageCount": 321,
+  "releaseDate": "2018-05-29",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A <i>Kirkus</i><i>Reviews</i> Best Book of the Year</b><br /><br /><b>The witty and exuberant <i>New York Times </i>bestselling author <b>and record-setting <i>Jeopardy!</i> champion</b><b><b></b></b>Ken Jennings relays the history of humor in “lively, insightful, and crawling with goofy factlings,” (Maria Semple, author of <i>Where’d You Go Bernadette</i>)—from fart jokes on clay Sumerian tablets to the latest Twitter gags and Facebook memes.</b><br /><br />Where once society’s most coveted trait might have been strength or intelligence or honor, today, in a clear sign of evolution sliding off the trails, it is being funny. Yes, funniness.<br /><br />Consider: Super Bowl commercials don’t try to sell you anymore; they try to make you laugh. Airline safety tutorials—those terrifying laminated cards about the possibilities of fire, explosion, depressurization, and drowning—have been replaced by joke-filled videos with multimillion-dollar budgets and dance routines. Thanks to social media, we now have a whole Twitterverse of amateur comedians riffing around the world at all hours of the day—and many of them even get popular enough online to go pro and take over TV.<br /><br />In his “smartly structured, soundly argued, and yes—pretty darn funny” (<i>Booklist</i>, starred review) <i>Planet Funny</i>, Ken Jennings explores this brave new comedic world and what it means—or doesn’t—to be funny in it now. Tracing the evolution of humor from the caveman days to the bawdy middle-class antics of Chaucer to Monty Python’s game-changing silliness to the fast-paced meta-humor of <i>The Simpsons</i>, Jennings explains how we built our humor-saturated modern age, where lots of us get our news from comedy shows and a comic figure can even be elected President of the United States purely on showmanship. “Fascinating, entertaining and—I’m being dead serious here—important” (A.J. Jacobs, author of <i>The Year of Living Biblically</i>), <i>Planet Funny</i> is a full taxonomy of what spawned and defines the modern sense of humor."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/df/c6/1c/dfc61ce4-bc64-82d7-92f7-addd6f33b6c8/9781501100611.jpg/{w}x{h}bb.{f}",
+    "height": 2128,
+    "textColor3": "3c3c3b",
+    "textColor2": "242424",
+    "textColor4": "4a4a49",
+    "assetToken": "Publication122/v4/df/c6/1c/dfc61ce4-bc64-82d7-92f7-addd6f33b6c8/9781501100611.jpg",
+    "textColor1": "121212",
+    "bgColor": "e4e5dd",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Planet Funny",
+  "isPreorder": false,
+  "publisher": "Simon & Schuster",
+  "artistName": "Ken Jennings",
+  "primaryLocale": "en-US"
+}
