@@ -1,0 +1,68 @@
+{
+  "id": "1595573109",
+  "type": "books",
+  "title": "Ask A Historian",
+  "subtitle": "50 Surprising Answers to Things You Always Wanted to Know",
+  "author": "Greg Jenner",
+  "isbn": "9781474618632",
+  "genreNames": [
+    "History",
+    "Books",
+    "World History",
+    "Humor",
+    "Reference"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1595573109&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4465106
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2021-10-28",
+  "isIBook": false,
+  "description": {
+    "standard": "'Brilliantly funny' SHAPARAK KHORSANDI<br />'Immensely enjoyable' <i>BBC HISTORY MAGAZINE<br /></i>'Every page contains delights' LINDSEY FITZHARRIS<br /><br />Why is Italy called Italy? How old is curry? How fast was the medieval Chinese post system? How do we know how people sounded in the past? Who invented maths?<br /><br />Responding to fifty genuine questions from the public, Greg Jenner takes you on an entertaining tour through history from the Stone Age to the Swinging Sixties, revealing the best and most surprising stories, facts and historical characters from the past. From ancient joke books, African empires and the invention of meringues, to mummies, mirrors and menstrual pads - <i>Ask A Historian </i>is a deliciously amusing and informative smorgasbord of historical curiosities."
+  },
+  "artwork": {
+    "width": 1616,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/be/27/47/be2747a6-771f-0c19-1aa1-1c13b2b94d50/9781474618632.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "c07112",
+    "textColor2": "df8512",
+    "textColor4": "b26e14",
+    "assetToken": "Publication116/v4/be/27/47/be2747a6-771f-0c19-1aa1-1c13b2b94d50/9781474618632.jpg",
+    "textColor1": "f08910",
+    "bgColor": "01111e",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Ask A Historian",
+  "publisher": "Orion",
+  "isPreorder": false,
+  "artistName": "Greg Jenner",
+  "primaryLocale": "en-US"
+}
