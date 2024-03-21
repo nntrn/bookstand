@@ -1,0 +1,67 @@
+{
+  "id": "357921318",
+  "type": "books",
+  "title": "The NPR Curious Listener's Guide to Classical Music",
+  "subtitle": null,
+  "author": "Timothy K. Smith",
+  "isbn": "9781440674150",
+  "genreNames": [
+    "Music",
+    "Books",
+    "Arts & Entertainment",
+    "Reference",
+    "Encyclopedias"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=8990&salableAdamId=357921318&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$8.99",
+      "price": 8.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 712199
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2002-08-06",
+  "isIBook": false,
+  "description": {
+    "standard": "For the beginner&#xa0;or the devotee—it's everything the classical music buff needs to know.The major composers from Bach and Bartok to Rachmaninoff and TchaikovskySignificant performers from Maurice Andre and Leornard Bernstein to Georg Solti and Yo Yo MaThe landmark works from Appalachian Spring to Don JuanA concise history of classical musicA deconstruction of the art formThe language of classical musicValuable resources for the Curious Listener"
+  },
+  "artwork": {
+    "width": 1518,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/0e/ba/be/0ebabe31-3d28-3606-6ba9-315167105054/9781440674150.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "373a34",
+    "textColor2": "3e2530",
+    "textColor4": "5d4d50",
+    "assetToken": "Publication118/v4/0e/ba/be/0ebabe31-3d28-3606-6ba9-315167105054/9781440674150.jpg",
+    "textColor1": "0e0e0d",
+    "bgColor": "d9ebd1",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The NPR Curious Listener's Guide to Classical Music",
+  "isPreorder": false,
+  "publisher": "Penguin Publishing Group",
+  "artistName": "Timothy K. Smith",
+  "primaryLocale": "en-US"
+}
