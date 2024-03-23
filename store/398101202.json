@@ -1,0 +1,80 @@
+{
+  "id": "398101202",
+  "type": "books",
+  "title": "I Is an Other",
+  "subtitle": "The Secret Life of Metaphor and How it Shapes the Way We See the World",
+  "author": "James Geary",
+  "isbn": "9780062041777",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Business & Personal Finance",
+    "Management & Leadership",
+    "History",
+    "Reference",
+    "Foreign Languages",
+    "Linguistics"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=398101202&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1648436
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2011-02-08",
+  "isIBook": false,
+  "description": {
+    "standard": "For lovers of language and fans of&#xa0;Blink&#xa0;and&#xa0;Freakonomics,&#xa0;New York Times&#xa0;bestselling author James Geary offers this fascinating look at metaphors and their influence in every aspect of our lives, from art to medicine, psychology to the stock market.<br /><br />From President Obama’s political rhetoric to the bursting of the housing bubble, from conversations to commercials, James Geary shows that every aspect of our day-to-day experience is molded by metaphor. Geary takes readers from Aristotle’s investigation of metaphor right up to the latest neuroscientific insights into how metaphor works in the brain.&#xa0;Romeo’s exclamation “It is the East, and Juliet is the sun!” may be one of the most well-known metaphors in literature, but metaphor is more than a device of love-struck poets. As Geary demonstrates, metaphor has leaped off the page and landed with a mighty splash right in the middle of the stream of consciousness.<br /><br />Witty, persuasive, and original,&#xa0;I Is an Other&#xa0;explores metaphor’s effects on financial decision making, effective advertising, leadership, learning, and more."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/0e/4e/43/0e4e431b-f2b2-806b-72b7-b88a32e3cdbf/9780062041777.jpg/{w}x{h}bb.{f}",
+    "height": 2373,
+    "textColor3": "403d37",
+    "textColor2": "392824",
+    "textColor4": "60524b",
+    "assetToken": "Publication124/v4/0e/4e/43/0e4e431b-f2b2-806b-72b7-b88a32e3cdbf/9780062041777.jpg",
+    "textColor1": "100d0a",
+    "bgColor": "fffde8",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 10,
+    "ratingCountList": [
+      2,
+      0,
+      0,
+      2,
+      6
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "name": "I Is an Other",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "\"Metaphorical thinking is the way we make sense of the world\" and neurological research shows that humans experience pleasure when performing the \"cognitive gymnastics\" of deciphering metaphors to connect two dissimilar things, asserts Geary (The World in a Phrase) in a delightful examination that borrows for its title from a poem by Rimbaud, whose writing aimed to \"upset conventional orders of perception.\" Tests on people who do not understand metaphors, such as those with Asperger's syndrome, uncover the roles that \"mirror\" and \"Gnostic\" neurons play in conceptual comprehension and long-term memory. Geary also analyzes how metaphors are used in advertising, scientific discoveries, economics, and politics. \"Metaphors, once forgotten or ignored, are easily mistaken for objective facts,\" he warns, showing how metaphor \"surreptitiously infiltrates our purchasing decisions.\" Voters, consumers, and investors interested in knowing how their decisions may be influenced by well-planned metaphors will be fascinated by Geary's adept explication of the metaphor's role in defining perceptions. ",
+      "date": "Mon Nov 15 00:00:00 PST 2010",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "isPreorder": false,
+  "publisher": "HarperCollins e-books",
+  "artistName": "James Geary",
+  "primaryLocale": "en-US"
+}
