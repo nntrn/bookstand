@@ -1,0 +1,70 @@
+{
+  "id": "1230156197",
+  "type": "books",
+  "title": "Not That Bad",
+  "subtitle": "Dispatches from Rape Culture",
+  "author": "Roxane Gay",
+  "isbn": "9780062413505",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Family & Relationships",
+    "Biographies & Memoirs",
+    "Society",
+    "Health, Mind & Body"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1230156197&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7732988
+        }
+      ]
+    }
+  ],
+  "pageCount": 368,
+  "releaseDate": "2018-05-01",
+  "isIBook": false,
+  "description": {
+    "standard": "New York Times Bestseller<br /><br />Edited and with an introduction by Roxane Gay, the&#xa0;New York Times&#xa0;bestselling and deeply beloved author of&#xa0;Bad Feminist&#xa0;and&#xa0;Hunger, this&#xa0;anthology of first-person essays tackles rape, assault, and harassment head-on.<br /><br />Vogue,&#xa0;“10 of the Most Anticipated Books of Spring 2018” *&#xa0;Harper’s Bazaar,&#xa0;“10 New Books to Add to Your Reading List in 2018” *&#xa0;Elle,&#xa0;“21 Books We’re Most Excited to Read in 2018”&#xa0;*&#xa0;Boston&#xa0;Globe,&#xa0;“25 books we can’t wait to read in 2018” *&#xa0;Huffington Post, “60 Books We Can’t Wait to Read in 2018” * Hello Giggles, “19 Books We Can’t Wait to Read in 2018”&#xa0;*&#xa0;Buzzfeed, “33 Most Exciting New Books of 2018”<br /><br />In this valuable and revealing anthology, cultural critic and bestselling author Roxane Gay collects original and previously published pieces that address what it means to live in a world where women have to measure the harassment, violence, and aggression they face, and where they are “routinely second-guessed, blown off, discredited, denigrated, besmirched, belittled, patronized, mocked, shamed, gaslit, insulted, bullied” for speaking out. Contributions include essays from established and up-and-coming writers, performers, and critics, including actors Ally Sheedy and Gabrielle Union and writers Amy Jo Burns, Lyz Lenz, Claire Schwartz, and Bob Shacochis. Covering a wide range of topics and experiences, from an exploration of the rape epidemic embedded in the refugee crisis to first-person accounts of child molestation, this collection is often deeply personal and is always unflinchingly honest. Like Rebecca Solnit’s Men Explain Things to Me, Not That Bad will resonate with every reader, saying “something in totality that we cannot say alone.”<br /><br />Searing and heartbreakingly candid, this provocative collection both reflects the world we live in and offers a call to arms insisting that “not that bad” must no longer be good enough."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/13/0b/69/130b69ce-60de-255d-1c39-6dacc8064378/9780062413505.jpg/{w}x{h}bb.{f}",
+    "height": 2410,
+    "textColor3": "cbcbcb",
+    "textColor2": "fef101",
+    "textColor4": "cbc000",
+    "assetToken": "Publication116/v4/13/0b/69/130b69ce-60de-255d-1c39-6dacc8064378/9780062413505.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.7,
+    "ratingCount": 29,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      3,
+      23
+    ],
+    "ariaLabelForRatings": "4.7 stars"
+  },
+  "name": "Not That Bad",
+  "isPreorder": false,
+  "publisher": "Harper Perennial",
+  "artistName": "Roxane Gay",
+  "primaryLocale": "en-US"
+}
