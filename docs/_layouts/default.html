@@ -27,15 +27,12 @@
 </head>
 
 <body data-layout="{{page.layout}}">
-  <header class="px-wide">
-    <div class="header-container">
+  <header class="px-1">
       <h1 class="site-title flex gap-md">
-        <span style="opacity: 0.25; font-weight: 700; user-select: none">/</span>
         <a class="flex ss no gc" href="{{ '/' | relative_url }}">{{site.title}}</a>
       </h1>
-    </div>
   </header>
-  <main class="px-wide">
+  <main class="px-1">
   {{- content -}}
   {% include footer.html %}
   </main>

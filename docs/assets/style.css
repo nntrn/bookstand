@@ -1,11 +1,12 @@
 *,::after,::before{box-sizing:border-box}
 :root{--font-serif:times,serif;--font-monospace:courier,courier new;--font-sans-serif:'helvetica neue',helvetica,sans-serif;--body-font:var(--font-sans-serif);--link-color:#0074D9;--color-icon:#acacac;--header-height:60px;--border-color:#333;--accent-color:37,99,235;--bg-color:#fff;--bg-header:#ddd;--rgb-body:0,0,0;--body-color:#393939;--gradient-in:#0250c5;--gradient-out:#d43f8d;--gray:#aaa}
-html{font-size:14px;line-height:1.15;-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+html{font-size:13px;line-height:1.15;-webkit-text-size-adjust:100%;scroll-behavior:smooth}
 @media (max-width:500px){
 html{font-size:.8rem}
 }
 body{font-size:inherit;line-height:1.4;color:var(--body-color);background-color:var(--bg-color);overflow-wrap:break-word;margin:0;font-variant-numeric:proportional-nums}
 main{display:block}
+main.px-1 h1{margin-top:1rem}
 h1{font-size:2em;margin:.67em 0}
 img{border-style:none}
 button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}
@@ -34,13 +35,13 @@ h1,h2,h3{margin:0 0}
 h2{margin:.15rem 0;padding-top:.4rem}
 h4 a{color:var(--body-color);font-weight:700}
 h4{margin-top:0;font-family:var(--font-family);text-transform:uppercase;font-weight:400;line-height:1.4;margin-bottom:.95rem;font-size:.9rem}
-header{border-bottom:2px solid var(--border-color);height:var(--header-height);margin:auto;padding:auto;display:flex;position:sticky;top:0;background:#fff}
+header{border-bottom:2px solid var(--border-color);height:var(--header-height);margin:auto;padding:0 1rem;display:flex;position:sticky;top:0;background:#fff}
 hr:before{content:"---"}
 hr{margin:.75rem 0;border:0}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scrollbar-width:thin}
 li{padding-left:.5rem}
 li>p{margin:0}
-main{overflow-y:auto;height:calc(100vh - var(--header-height));margin:auto;width:100%;scrollbar-width:thin;display:flex;flex-direction:column;justify-content:space-between;gap:1rem;z-index:-1}
+main{overflow-y:auto;height:calc(100vh - var(--header-height));margin:auto;width:100%;scrollbar-width:thin;display:flex;flex-direction:column;gap:1rem;z-index:-1}
 pre{overflow-x:hidden;white-space:pre-wrap}
 time{font-weight:700}
 footer{border-top:1px solid var(--border-color);width:100%;margin:auto;z-index:1000;margin:1rem 0;font-size:.9rem}
@@ -99,6 +100,7 @@ a.muted:hover{color:#444}
 .pl-0{padding-left:0!important}
 .pr-0{padding-right:0!important}
 .px-0{padding-right:0!important;padding-left:0!important}
+.px-1{padding-right:1rem!important;padding-left:1rem!important}
 .py-0{padding-top:0!important;padding-bottom:0!important}
 .py-1{padding-top:.25rem!important;padding-bottom:.25rem!important}
 .pb-2{padding-bottom:1rem!important}
@@ -111,7 +113,7 @@ a.muted:hover{color:#444}
 .page-content{flex:7;padding:0 2rem}
 .sidebar{flex:3}
 .sidebar ul{margin:auto;display:flex;flex-direction:column;gap:.35rem;font-size:.95rem}
-.sidebar ul li a:hover,.hover:hover{background:rgba(var(--accent-color),.1)}
+.hover:hover,.sidebar ul li a:hover{background:rgba(var(--accent-color),.1)}
 .site-container{overflow-y:auto;position:relative;scrollbar-width:thin;height:100%}
 .site-subtitle{font-style:italic;font-family:var(--font-family);font-weight:400;display:block}
 .site-title{display:flex;font-weight:600;gap:.15rem;line-height:1.25;align-items:center;letter-spacing:-.25px;font-size:20px;align-content:flex-end}
