@@ -1,0 +1,68 @@
+{
+  "id": "1524022890",
+  "type": "books",
+  "title": "The Occupation Thesaurus: A Writer's Guide to Jobs, Vocations, and Careers",
+  "subtitle": null,
+  "author": "Becca Puglisi",
+  "isbn": null,
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education",
+    "Reference",
+    "Dictionaries & Thesauruses"
+  ],
+  "seller": "JADD Publishing",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=1524022890&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4622327
+        }
+      ]
+    }
+  ],
+  "pageCount": 310,
+  "releaseDate": "2020-07-20",
+  "isIBook": false,
+  "description": {
+    "standard": "What if there was a shortcut for helping readers get to know your characters? Would you take it? <br /><br />\nCharacters are as complex as people and revealing their inner layers without chunky blocks of pace-stopping description is a challenge. The Occupation Thesaurus can help you unlock one of the best tools in your show-don't-tell writing kit: a character's job. <br /><br />\nOccupations are part of our everyday world, meaning they can be used to encourage readers to make associations between a type of work and the person doing it, shortening the \"get to know the character\" curve. Whether a person loves or hates what they do, a job can reveal many things, including their priorities, beliefs, desires, and needs. <i>The Occupation Thesaurus </i>will show you how a career choice can characterize, drive the plot, infuse scenes with conflict, and get readers on the character's side through the relatable pressures, responsibilities, and stakes inherent with work. <br /><br />\nTHINK OUTSIDE THE BOX REGARDING CAREER OPTIONS <br /><br />\nSelect a job that packs a powerful punch. Inside <i>The Occupation Thesaurus</i>, you'll find: <br /><br />\n•\tInformative profiles on popular and unusual jobs to help you write them with authority <br />\n•\tBelievable conflict scenarios for each occupation, giving you unlimited possibilities for adding tension at the story and scene level<br />\n•\tAdvice for twisting the stereotypes often associated with these professions <br />\n•\tInstruction on how to use jobs to characterize, support story structure, reinforce theme, and more <br />\n•\tAn in-depth study on how emotional wounds and basic human needs may influence a character's choice of occupation <br />\n•\tA brainstorming tool to organize the various aspects of your character's personality so you can come up with the best careers for them <br /><br />\nDo more with your description and choose a profession for your character that showcases who they are, what they want, and what they believe in. With over 120 entries in a user-friendly format, <i>The Occupation Thesaurus </i>is an entire job fair for writers."
+  },
+  "artwork": {
+    "width": 1890,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/c3/87/25/c3872578-4ada-f685-683a-ab426c42c950/The_Occupation_Thesaurus_Cover_LARGE_EBOOK.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "c9c9c9",
+    "textColor2": "d8efe7",
+    "textColor4": "adbfb9",
+    "assetToken": "Publication124/v4/c3/87/25/c3872578-4ada-f685-683a-ab426c42c950/The_Occupation_Thesaurus_Cover_LARGE_EBOOK.jpg",
+    "textColor1": "fbfbfb",
+    "bgColor": "010302",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The Occupation Thesaurus: A Writer's Guide to Jobs, Vocations, and Careers",
+  "isPreorder": false,
+  "publisher": "JADD Publishing",
+  "artistName": "Becca Puglisi",
+  "primaryLocale": "en-US"
+}
