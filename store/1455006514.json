@@ -1,0 +1,68 @@
+{
+  "id": "1455006514",
+  "title": "Super Thinking",
+  "subtitle": "The Big Book of Mental Models",
+  "author": "Gabriel Weinberg & Lauren McCann",
+  "isbn": "9780525533597",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Psychology",
+    "Self-Improvement"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=1455006514&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 40457271
+        }
+      ]
+    }
+  ],
+  "pageCount": 352,
+  "releaseDate": "2019-06-18",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A <i>WALL STREET JOURNAL </i>BESTSELLER!<br /></b><br />\"You can't really know anything if you just remember isolated facts. If the facts don't hang together on a latticework of theory, you don't have them in a usable form. <br /><i>You've got to have models in your head.</i>\"<br />- Charlie Munger, investor, vice chairman of Berkshire Hathaway<br />The world's greatest problem-solvers, forecasters, and decision-makers all rely on a set of frameworks and shortcuts that help them cut through complexity and separate good ideas from bad ones. They're called mental models, and you can find them in dense textbooks on psychology, physics, economics, and more. <br /><br />Or, you can just read Super Thinking, a fun, illustrated guide to every mental model you could possibly need. How can mental models help you? Well, here are just a few examples...<br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;If you've ever been overwhelmed by a to-do list that's grown too long, maybe you need the <b>Eisenhower Decision Matrix</b> to help you prioritize. <br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;Use the <b>5 Whys</b> model to better understand people's motivations or get to the root cause of a problem. <br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;Before concluding that your colleague who messes up your projects is out to sabotage you, consider <b>Hanlon's Razor</b> for an alternative explanation. <br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;Ever sat through a bad movie just because you paid a lot for the ticket? You might be falling prey to <b>Sunk Cost Fallacy</b>. <br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;Set up <b>Forcing Functions</b>, like standing meeting or deadlines, to help grease the wheels for changes you want to occur. <br /><br />So, the next time you find yourself faced with a difficult decision or just trying to understand a complex situation, let Super Thinking upgrade your brain with mental models."
+  },
+  "artwork": {
+    "width": 2138,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/ab/8e/5f/ab8e5f0c-f57a-2b55-3792-5d8339b8362e/9780525533597.d.jpg/{w}x{h}bb.{f}",
+    "height": 2813,
+    "textColor3": "c5e0e8",
+    "textColor2": "ffe800",
+    "textColor4": "cbcf21",
+    "assetToken": "Publication113/v4/ab/8e/5f/ab8e5f0c-f57a-2b55-3792-5d8339b8362e/9780525533597.d.jpg",
+    "textColor1": "f7fff9",
+    "bgColor": "0067a7",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 13,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      2,
+      10
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "name": "Super Thinking",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Gabriel Weinberg & Lauren McCann",
+  "primaryLocale": "en-US"
+}
