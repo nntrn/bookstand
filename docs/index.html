@@ -14,10 +14,9 @@ inline_js: ["url.js"]
     <div class="flex ai-center center gap-sm lh-1">
       <label for="rangefilter" class="fs-90 ws-pre">LIMIT</label>
       <input type="range" id="rangefilter" min="0" max="{{maxcount.count}}" step="5" value="1"
-        oninput="numfilter.value=value" onchange="filterCount(value)" />
+        oninput="filterCount(value)" />
       <input type="number" id="numfilter" min="0" max="{{maxcount.count}}" step="5" value="1"
-        oninput="rangefilter.value=value" onchange="filterCount(value)" 
-        onfocus="this.value='';" />
+        oninput="filterCount(value)" />
     </div>
     <div class="flex ai-baseline">
       <label for="sortby" class="fs-90 ws-pre">Sort By</label>
@@ -45,7 +44,7 @@ inline_js: ["url.js"]
         <img src="{{githubcoverurl}}/{{book.assetid}}.jpg" title="{{title}} by {{book.author}}" />
         <label><strong>{{ title }}</strong></label>
       </a>
-      <span class="clamp fs-90 w-100 center muted" title="{{book.author}}">{{ book.author }}</span>
+      <span class="clamp w-100 center muted fs-90" title="{{book.author}}">{{ book.author }}</span>
     </div>
     {%- endfor %}
   </div>

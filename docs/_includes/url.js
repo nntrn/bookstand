@@ -29,7 +29,7 @@ function sortElements(search = urlquery().sort) {
 }
 
 function filterCount(n) {
-  const num = !n ? 1 : typeof n === "object" ? n.target.value : n
+  const num = Number(n) || 0
 
   $$(".books .book").forEach((book) => {
     if (Number(book.dataset.count) > Number(num)) {
@@ -38,8 +38,12 @@ function filterCount(n) {
       book.hidden = true
     }
   })
-  $("#rangefilter").value = num
-  $("#numfilter").value = num
+  if (Number($("#rangefilter").value) != num) {
+    $("#rangefilter").value = num
+  }
+  if (Number($("#numfilter").value) != num) {
+    $("#numfilter").value = num
+  }
 }
 
 if (location.search) {
