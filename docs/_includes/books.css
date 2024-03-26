@@ -5,7 +5,7 @@ label{font-weight:500}
 .book a:hover strong{text-decoration:underline;text-decoration-thickness:1.5px;text-decoration-skip-ink:none}
 .book a{filter:opacity(1)!important;cursor:pointer;text-decoration:none;color:#4c4c4c;line-height:1.1;text-align:center;justify-content:center}
 .book img:hover{filter:opacity(.75) contrast(.9);box-shadow:0 0 2px rgba(0,0,0,.4);transition:box-shadow .2s ease}
-.book img{width:calc(1rem + 8vw);box-shadow:0 0 1px 1px rgba(0,0,0,.1);border-radius:4px;user-select:none;transition:box-shadow .2s ease;text-align:center;display:block;min-width: 120px;}
+.book img{width:min(20vw,100px);box-shadow:0 0 1px 1px #0000001a;border-radius:4px;user-select:none;transition:box-shadow .2s ease;text-align:center;display:block/*! min-width: 120px; */}
 .book label span{overflow:hidden;font-weight:400;color:#aaa;line-height:1.2;margin:auto;font-family:var(--body-font)}
 .book label{display:flex;flex-direction:column;gap:.3rem;justify-content:center;text-align:center;letter-spacing:-.025px;hyphens:auto;cursor:pointer}
 .book label{margin:auto;width:120%;margin:auto;margin-left:-10%}
