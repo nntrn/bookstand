@@ -1,0 +1,67 @@
+{
+  "id": "6474566415",
+  "type": "books",
+  "title": "How Math Explains the World",
+  "subtitle": "A Guide to the Power of Numbers, from Car Repair to Modern Physics",
+  "author": "James D. Stein",
+  "isbn": "9780061828683",
+  "genreNames": [
+    "Education",
+    "Books",
+    "Professional & Technical",
+    "Science & Nature",
+    "Mathematics"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6474566415&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2601612
+        }
+      ]
+    }
+  ],
+  "pageCount": 292,
+  "releaseDate": "2009-03-17",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Explores the application of math to problem solving in the everyday.&#xa0;.&#xa0;.&#xa0;. [W]ill appeal to both casual and serious fans of math or physics.” —<i>Publishers Weekly</i></b><br /> &#xa0;<br /> In&#xa0;<i>How Math Explains the World</i>, mathematician Stein reveals how seemingly arcane mathematical investigations and discoveries have led to bigger, more world-shaking insights into the nature of our world. In the four main sections of the book, Stein tells the stories of the mathematical thinkers who discerned some of the most fundamental aspects of our universe. From their successes and failures, delusions, and even duels, the trajectories of their innovations—and their impact on society—are traced in this fascinating narrative. Quantum mechanics, space-time, chaos theory and the workings of complex systems, and the impossibility of a “perfect” democracy are all here. Stein's book is both mind-bending and practical, as he explains the best way for a salesman to plan a trip, examines why any thought you could have is imbedded in the number p, and—perhaps most importantly—answers one of the modern world's toughest questions: why the garage can never get your car repaired on time.<br /> &#xa0;<br /> Friendly, entertaining, and fun,&#xa0;<i>How Math Explains the World</i>&#xa0;is the first book by one of California's most popular math teachers, a veteran of both “math for poets” and Princeton's Institute for Advanced Studies. And it's perfect for any reader wanting to know how math makes both science and the world tick."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/1f/6c/9d/1f6c9d50-4b97-c0da-26c2-078e61836601/9780061828683.jpg/{w}x{h}bb.{f}",
+    "height": 2379,
+    "textColor3": "3b3c3e",
+    "textColor2": "5b0d10",
+    "textColor4": "7a3c3e",
+    "assetToken": "Publication126/v4/1f/6c/9d/1f6c9d50-4b97-c0da-26c2-078e61836601/9780061828683.jpg",
+    "textColor1": "0d0d0f",
+    "bgColor": "f7f8fa",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "How Math Explains the World",
+  "isPreorder": false,
+  "publisher": "HarperCollins",
+  "artistName": "James D. Stein",
+  "primaryLocale": "en-US"
+}

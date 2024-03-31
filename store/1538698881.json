@@ -1,0 +1,67 @@
+{
+  "id": "1538698881",
+  "type": "books",
+  "title": "A People's Guide to Capitalism",
+  "subtitle": "An Introduction to Marxist Economics",
+  "author": "Hadas Thier",
+  "isbn": "9781642592184",
+  "genreNames": [
+    "Economics",
+    "Books",
+    "Business & Personal Finance",
+    "Politics & Current Events",
+    "Political Science"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=17990&salableAdamId=1538698881&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$17.99",
+      "price": 17.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2447298
+        }
+      ]
+    }
+  ],
+  "pageCount": 410,
+  "releaseDate": "2018-06-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A lively, accessible, and timely guide to Marxist economics for those who want to understand and dismantle the world of the 1%.</b><br /><br /> Economists regularly promote Capitalism as the greatest system ever to grace the planet. With the same breath, they implore us to leave the job of understanding the magical powers of the market to the “experts.”<br /><br /> Despite the efforts of these mainstream commentators to convince us otherwise, many of us have begun to question why this system has produced such vast inequality and wanton disregard for its own environmental destruction. This book offers answers to exactly these questions on their own terms: in the form of a radical economic theory.<br /><br /><b>“Thier’s urgently needed book strips away jargon to make Marx’s essential work accessible to today’s diverse mass movements.” —Sarah Leonard, contributing editor to <i>The Nation</i></b><br /><br /><b>“A great book for proletarian chain-breaking.” —Rob Larson, author of <i>Bit Tyrants: The Political Economy of Silicon Valley</i></b><br /><br /><b>“Thier unpacks the mystery of capitalist inequality with lucid and accessible prose&#xa0;.&#xa0;.&#xa0;.&#xa0;. We will need books like <i>A People’s Guide</i> to help us make sense of the root causes of the financial crises that shape so many of our struggles today.” —Keeanga-Yamahtta Taylor, author of<i> Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership</i></b><br /><br /><b>“Ranging from exploitation at work to the operations of modern finance, this book takes the reader through a fine-tuned introduction to Marx’s analysis of the modern economy&#xa0;.&#xa0;.&#xa0;.&#xa0;. Thier combines theoretical explanation with contemporary examples to illuminate the inner workings of capitalism&#xa0;.&#xa0;.&#xa0;. . Reminds us of the urgent need for alternatives to a crisis-ridden system.” —David McNally, author of <i>Blood and Money</i></b>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/79/15/a0/7915a071-72a6-3106-53a4-976309f2f85a/9781642592184.jpg/{w}x{h}bb.{f}",
+    "height": 2359,
+    "textColor3": "efc9a2",
+    "textColor2": "feddb3",
+    "textColor4": "f2b792",
+    "assetToken": "Publication124/v4/79/15/a0/7915a071-72a6-3106-53a4-976309f2f85a/9781642592184.jpg",
+    "textColor1": "fbf4c7",
+    "bgColor": "c0200e",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.7,
+    "ratingCount": 9,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      1,
+      7
+    ],
+    "ariaLabelForRatings": "4.7 stars"
+  },
+  "name": "A People's Guide to Capitalism",
+  "publisher": "Haymarket Books",
+  "isPreorder": false,
+  "artistName": "Hadas Thier",
+  "primaryLocale": "en-US"
+}

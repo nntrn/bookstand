@@ -1,0 +1,67 @@
+{
+  "id": "677262505",
+  "type": "books",
+  "title": "Stats and Curiosities",
+  "subtitle": "From Harvard Business Review",
+  "author": "Harvard Business Review",
+  "isbn": "9781422197479",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Economics",
+    "Finance"
+  ],
+  "seller": "Perseus Books, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=17990&salableAdamId=677262505&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$17.99",
+      "price": 17.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4785266
+        }
+      ]
+    }
+  ],
+  "pageCount": 224,
+  "releaseDate": "2013-09-24",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Fascinating stats… useful tips… entertaining topics.</b><br /><br />Did you know that to make a task seem easier, all you have to do is lean back a little? Or that retail salespeople who mimic the way their customers speak and behave end up selling more?<br /><br />If you like stats like this, are intrigued by ideas, and find connecting the dots to be a critical part of your skill set—this book is for you.<br /><br />Culled from <i>Harvard Business Review</i>’s popular newsletter, The Daily Stat, this book offers a compelling look at insights that both amuse and inform. Covering such managerial topics as teams, marketing, workplace psychology, and leadership, you’ll find a wide range of business statistics and general curiosities and oddities about professional life that will add an element of trivia and humor to your learning (and will make you appear smarter than your colleagues).<br /><br />Highly quotable and surprisingly useful, <i>Stats and Curiosities: From Harvard Business Review</i> will keep you on the front lines of business research—and ahead of the pack at work."
+  },
+  "artwork": {
+    "width": 792,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication6/v4/f9/cd/b2/f9cdb21b-91dc-476b-69d3-0e0e501a8fa2/9781422197479-frontcover.jpg/{w}x{h}bb.{f}",
+    "height": 1188,
+    "textColor3": "d6d4e6",
+    "textColor2": "c5c7cd",
+    "textColor4": "a8a9c1",
+    "assetToken": "Publication6/v4/f9/cd/b2/f9cdb21b-91dc-476b-69d3-0e0e501a8fa2/9781422197479-frontcover.jpg",
+    "textColor1": "fffefc",
+    "bgColor": "343092",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.7,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    "ariaLabelForRatings": "3.7 stars"
+  },
+  "name": "Stats and Curiosities",
+  "publisher": "Harvard Business Review Press",
+  "isPreorder": false,
+  "artistName": "Harvard Business Review",
+  "primaryLocale": "en-US"
+}
