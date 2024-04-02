@@ -1,0 +1,74 @@
+{
+  "id": "427556212",
+  "type": "books",
+  "title": "The Journal of Best Practices",
+  "subtitle": "A Memoir of Marriage, Asperger Syndrome, and One Man's Quest to Be a Better Husband",
+  "author": "David Finch",
+  "isbn": "9781439189757",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Nonfiction",
+    "Family & Relationships"
+  ],
+  "seller": "Simon & Schuster Digital Sales LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=427556212&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3553660
+        }
+      ]
+    }
+  ],
+  "pageCount": 240,
+  "releaseDate": "2012-01-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>*A<i> New York Times </i>Bestseller*</b><br /> <b>A warm and hilarious memoir by a man diagnosed with Asperger syndrome who sets out to save his relationship.</b><br /><br />Five years after David Finch married Kristen, the love of his life, they learned that he has Asperger syndrome. The diagnosis explained David’s ever-growing list of quirks and compulsions, but it didn’t make him any easier to live with.<br /><br />Determined to change, David set out to understand Asperger syndrome and learn to be a better husband with an endearing zeal. His methods for improving his marriage involve excessive note-taking, performance reviews, and most of all, the Journal of Best Practices: a collection of hundreds of maxims and hard-won epiphanies, including “Don’t change the radio station when she’s singing along” and “Apologies do not count when you shout them.” David transforms himself from the world’s most trying husband to the husband who tries the hardest. He becomes the husband he’d always meant to be.<br /><br />Filled with humor and wisdom, <i>The Journal of Best Practices</i> is a candid story of ruthless self-improvement, a unique window into living with an autism spectrum condition, and proof that a true heart is the key to happy marriage."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/1d/d8/2c/1dd82c95-039a-31f4-463b-60dd3352649e/9781439189757.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "323510",
+    "textColor2": "262000",
+    "textColor4": "514400",
+    "assetToken": "Publication/v4/1d/d8/2c/1dd82c95-039a-31f4-463b-60dd3352649e/9781439189757.jpg",
+    "textColor1": "000d15",
+    "bgColor": "fdd400",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 214,
+    "ratingCountList": [
+      9,
+      5,
+      19,
+      46,
+      135
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Few people would consider the moment they are diagnosed with Asperger's Syndrome as a positive moment in their life, but for Finch it was a blessing in disguise. At the point he found out about his condition, which he describes as \"a relatively mild form of autism,\" his five-year marriage to his wife, Kristen, was crumbling under the weight of his idiosyncrasies (\"lining certain items up,\" \"lightly touching objects in a particular way,\" needing \"things to go as planned\") that controlled Finch's daily life and made it impossible for him to be the type of father and husband he or his family wanted him to be. But after gaining an understanding of what he needed to \"overcome,\" Finch, who wrote a well-received article for the New York Times about his disorder, begins the long process of learning how to manage the \"egocentricity\" and \"relationship-defeating behaviors\" associated with Asperger's. Finch's main weapon in his fight against his own brain is what he calls \"The Journal of Best Practices,\" a notebook in which he keeps track of concepts, hints, lessons, and reflections that help him deal with and even conquer the manifestations of his disorder. In relating his story, Finch is compellingly honest, a trait that works well with his self-deprecating humor. There are points when the \"best practices\" are repetitive, but of course that is the nature of Asperger's syndrome, and Finch's ability to put his experiences on paper will no doubt help more people and families understand this oft-misunderstood disorder. ",
+      "date": "Mon Sep 19 00:00:00 PDT 2011",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "The Journal of Best Practices",
+  "publisher": "Scribner",
+  "isPreorder": false,
+  "artistName": "David Finch",
+  "primaryLocale": "en-US"
+}
