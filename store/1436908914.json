@@ -1,0 +1,66 @@
+{
+  "id": "1436908914",
+  "type": "books",
+  "title": "Write Your First Ghost Story",
+  "subtitle": "A Step by Step Writing Exercise for Bringing Spooky Ideas to Life",
+  "author": "D.G. Mayes",
+  "isbn": null,
+  "genreNames": [
+    "Writing Reference",
+    "Books",
+    "Reference"
+  ],
+  "seller": "Daniel Mayes",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1436908914&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 2572987
+        }
+      ]
+    }
+  ],
+  "pageCount": 41,
+  "releaseDate": "2018-08-20",
+  "isIBook": false,
+  "description": {
+    "standard": "Write Your First Ghost Story is an exercise for writing and outlining ghost stories. Whether or not you're new to writing, this guided process will help you craft complete stories; this book will help writers develop their ideas for a ghost story into a complete narrative. It provides writers with a solid foundation for understanding the ghost story genre and gives suggestions, guidance, and a few bonus story-writing tips to help them bring their ideas to life. Also, included in this book is a detailed scene by scene walk-through for helping writers develop ghost story outlines. This step by step exercise will enable you to Write Your First Ghost Story!"
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/f1/6e/89/f16e8942-3c36-0e03-8948-7afde64ff936/1500x2500Cover.png/{w}x{h}bb.{f}",
+    "height": 2500,
+    "textColor3": "2f1327",
+    "textColor2": "161605",
+    "textColor4": "411e2c",
+    "assetToken": "Publication128/v4/f1/6e/89/f16e8942-3c36-0e03-8948-7afde64ff936/1500x2500Cover.png",
+    "textColor1": "000900",
+    "bgColor": "ec3dc6",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Write Your First Ghost Story",
+  "isPreorder": false,
+  "publisher": "D.G. Mayes",
+  "artistName": "D.G. Mayes",
+  "primaryLocale": "en-US"
+}
