@@ -1,0 +1,81 @@
+{
+  "id": "1510780615",
+  "type": "books",
+  "title": "Midnight Sun",
+  "subtitle": null,
+  "author": "Stephenie Meyer",
+  "isbn": "9780316592253",
+  "genreNames": [
+    "Romance for Young Adults",
+    "Books",
+    "Young Adult",
+    "Fiction for Young Adults",
+    "Horror, Monsters & Ghosts",
+    "Fantasy for Young Adults",
+    "Coming of Age Fiction for Young Adults"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "seriesInfo": {
+    "seriesName": "The Twilight Saga",
+    "sequenceNumber": "5",
+    "sequenceDisplayLabel": "Book 5"
+  },
+  "description": {
+    "standard": "<b>#1 bestselling author Stephenie Meyer makes a triumphant return to the world of Twilight with this highly anticipated companion: the iconic love story of Bella and Edward told from the vampire's point of view.</b><b><br /></b>When Edward Cullen and Bella Swan met in <i>Twilight</i>, an iconic love story was born. But until now, fans have heard only Bella's side of the story. At last, readers can experience Edward's version in the long-awaited companion novel, <i>Midnight Sun</i>.<br />This unforgettable tale as told through Edward's eyes takes on a new and decidedly dark twist. Meeting Bella is both the most unnerving and intriguing event he has experienced in all his years as a vampire. As we learn more fascinating details about Edward's past and the complexity of his inner thoughts, we understand why this is the defining struggle of his life. How can he justify following his heart if it means leading Bella into danger?<br />In <i>Midnight Sun</i>, Stephenie Meyer transports us back to a world that has captivated millions of readers and brings us an epic novel about the profound pleasures and devastating consequences of immortal love.<br /><b>An instant #1 <i>New York Times</i> Bestseller</b><b>An instant #1 <i>USA Today </i>Bestseller</b><b>An instant #1 <i>Wall Street Journal </i>Bestseller</b><b>An instant #1 <i>IndieBound</i> Bestseller</b><b>Apple Audiobook August Must-Listens Pick</b><br /><b>\"People do not want to just read Meyer's books; they want to climb inside them and live there.\" -- <i>Time</i></b><b><br /></b><b>\"A literary phenomenon.\" -- <i>New York Times</i></b>"
+  },
+  "editorialNotes": {
+    "short": "Team Jacob holdouts might just switch sides after reading Edward’s side of the story.",
+    "standard": "The <i>Twilight</i> series became a worldwide phenomenon, but with this new book, it’s clear we’ve never known the whole story.&#xa0;Sure, we followed along as Bella Swan fell in love with the immortal Edward Cullen and eventually became immersed in his entire vampire clan, but <i>Midnight Sun</i> is the first time we’ve learned Edward’s side of the story. Diving into their romance from the ancient teen’s perspective, we started to understand everything Edward went through as he constantly resists his violent vampire urges in the name of love. But we were even more fascinated by the deep insights into Edward’s inner life, as his hidden feelings, secret past, and deepest family bonds all come to light. Reading the vampire’s agonizing internal conflict is so heart-wrenching, Team Jacob holdouts should prepare to switch sides."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1510780615&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4257210
+        }
+      ]
+    }
+  ],
+  "audience": "Grades 7-17",
+  "pageCount": 672,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2020-08-04",
+  "isIBook": false,
+  "artwork": {
+    "width": 1733,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/b1/d6/7e/b1d67e8f-0ec3-7771-ff7e-d06b9c20fe0d/9780316592253.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "cecece",
+    "textColor2": "de7c4f",
+    "textColor4": "b36642",
+    "assetToken": "Publication126/v4/b1/d6/7e/b1d67e8f-0ec3-7771-ff7e-d06b9c20fe0d/9780316592253.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "0b0c0e",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 8263,
+    "ratingCountList": [
+      387,
+      371,
+      651,
+      1116,
+      5738
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Midnight Sun",
+  "isPreorder": false,
+  "publisher": "Little, Brown Books for Young Readers",
+  "artistName": "Stephenie Meyer",
+  "primaryLocale": "en-US"
+}
