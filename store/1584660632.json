@@ -1,0 +1,69 @@
+{
+  "id": "1584660632",
+  "type": "books",
+  "title": "Slaying the Dragon",
+  "subtitle": "A Secret History of Dungeons & Dragons",
+  "author": "Ben Riggs",
+  "isbn": "9781250278050",
+  "genreNames": [
+    "Games",
+    "Books",
+    "Arts & Entertainment",
+    "Nonfiction",
+    "Social Science"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1584660632&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 24972099
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2022-07-19",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Role-playing game historian Ben Riggs unveils the secret history of TSR</b>— <b>the company that unleashed imaginations with <i>Dungeons &amp; Dragons</i>, was driven into ruin by disastrous management decisions, and then saved by their bitterest rival.</b><b><br /><br />\"Ben Riggs manages to walk the fine line between historical accuracy and fun about as well as anyone and SLAYING THE DRAGON is equal parts historical accuracy and entertainment. It was an essential read for me while directing and producing the Official D&amp;D documentary but I’d recommend it to anyone regardless of the subject material. It’s a wild and fun ride through the turbulent history of one the most influential brands in our lifetime.\" - JOE MANGANIELLO</b><br /><br />Co-created by wargame enthusiasts Gary Gygax and Dave Arneson, the original <i>Dungeons &amp; Dragons</i> role-playing game released by TSR (Tactical Studies Rules) in 1974 created a radical new medium: the role-playing game. For the next two decades, TSR rocketed to success, producing multiple editions of <i>D&amp;D</i>, numerous settings for the game, magazines, video games, <i>New York Times</i> bestselling novels by Margaret Weis, Tracy Hickman, and R. A. Salvatore, and even a TV show! But by 1997, a series of ruinous choices and failed projects brought TSR to the edge of doom—only to be saved by their fiercest competitor, Wizards of the Coast, the company behind the collectible card game <i>Magic: The Gathering</i>.<br /><br />Unearthed from Ben Riggs’s own adventurous campaign of in-depth research, interviews with major players, and acquisitions of secret documents, <i>Slaying the Dragon</i> reveals the true story of the rise and fall of TSR. Go behind the scenes of their Lake Geneva headquarters where innovative artists and writers redefined the sword and sorcery genre, managers and executives sabotaged their own success by alienating their top talent, ignoring their customer fanbase, accruing a mountain of debt, and agreeing to deals which, by the end, made them into a publishing company unable to publish so much as a postcard.<br /><br />As epic and fantastic as the adventures TSR published, <i>Slaying the Dragon</i> is the legendary tale of the rise and fall of the company that created the role-playing game world."
+  },
+  "artwork": {
+    "width": 1613,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/af/31/d7/af31d7e6-d281-004a-dde8-393e2673dedf/9781250278050.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "cecdce",
+    "textColor2": "eb505a",
+    "textColor4": "bf434b",
+    "assetToken": "Publication126/v4/af/31/d7/af31d7e6-d281-004a-dde8-393e2673dedf/9781250278050.jpg",
+    "textColor1": "fffdfe",
+    "bgColor": "0f0f11",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 12,
+    "ratingCountList": [
+      0,
+      1,
+      0,
+      4,
+      7
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "name": "Slaying the Dragon",
+  "isPreorder": false,
+  "publisher": "St. Martin's Publishing Group",
+  "artistName": "Ben Riggs",
+  "primaryLocale": "en-US"
+}

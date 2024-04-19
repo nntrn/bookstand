@@ -1,0 +1,67 @@
+{
+  "id": "1378860422",
+  "type": "books",
+  "title": "Words That Built a Nation",
+  "subtitle": "Voices of Democracy That Have Shaped America’s History",
+  "author": "Marilyn Miller, Ellen Scordato, Dan Tucker & Mary Kate McDevitt",
+  "isbn": "9781635651898",
+  "genreNames": [
+    "History for Kids",
+    "Books",
+    "Kids",
+    "Social Studies for Kids"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=1378860422&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 149661888
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "releaseDate": "2018-02-13",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The ultimate tour of United States' most inspiring speeches, quotes, and leaders—the perfect gift for kids who love history and want to make a difference in the future.</b><br /><br />Together in one essential collection, this selection of the United States' most important historical documents and speeches immerses kids in the ideas and words that have shaped American democracy. Now, this young history lovers must-have gift has been revised and revamped for the 21st century. From the Gettysburg Address to the 2015 Supreme Court ruling on same-sex marriage, this updated edition introduces the landmark statements and moments that are impacting our nation today.<br /><br />With powerful illustrations important background information and context,&#xa0;<i>Words That Built a Nation&#xa0;</i>is an up-to-date and breathtaking look at U.S. history.&#xa0;"
+  },
+  "artwork": {
+    "width": 2250,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/ee/ce/4e/eece4eb7-b5e6-9701-b332-67e3d792713e/9781635651898.jpg/{w}x{h}bb.{f}",
+    "height": 2738,
+    "textColor3": "003548",
+    "textColor2": "0e1c2d",
+    "textColor4": "0b3a49",
+    "assetToken": "Publication118/v4/ee/ce/4e/eece4eb7-b5e6-9701-b332-67e3d792713e/9781635651898.jpg",
+    "textColor1": "00172c",
+    "bgColor": "00aeb6",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Words That Built a Nation",
+  "isPreorder": false,
+  "publisher": "Random House Children's Books",
+  "artistName": "Marilyn Miller, Ellen Scordato, Dan Tucker & Mary Kate McDevitt",
+  "primaryLocale": "en-US"
+}

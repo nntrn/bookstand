@@ -1,0 +1,80 @@
+{
+  "id": "1570108602",
+  "type": "books",
+  "title": "Pandora's Jar",
+  "subtitle": "Women in the Greek Myths",
+  "author": "Natalie Haynes",
+  "isbn": "9780063139473",
+  "genreNames": [
+    "Literary Criticism",
+    "Books",
+    "Fiction & Literature",
+    "History",
+    "Ancient History",
+    "European History",
+    "Nonfiction",
+    "Social Science",
+    "Society"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1570108602&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9354066
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "releaseDate": "2022-03-29",
+  "isIBook": false,
+  "description": {
+    "standard": "NEW YORK TIMES BESTSELLER<br /><br />“Funny, sharp explications of what these sometimes not-very-nice women were up to, and how they sometimes made idiots of . . . but read on!”—Margaret Atwood, author of The Handmaid's Tale<br /><br />The national bestselling author of A Thousand Ships returns with a fascinating, eye-opening take on the remarkable women at the heart of classical&#xa0;stories Greek mythology from Helen of Troy to Pandora and the Amazons to Medea.<br /><br />The tellers of Greek myths—historically men—have routinely sidelined the female characters. When they do take a larger role, women are often portrayed as monstrous, vengeful or just plain evil—like Pandora, the woman of eternal scorn and damnation whose curiosity is tasked with causing all the world’s suffering and wickedness when she opened that forbidden box. But, as Natalie Haynes reveals, in ancient Greek myths there was no box. It was a jar . . . which is far more likely to tip over.<br /><br />In Pandora’s Jar, the broadcaster, writer, stand-up comedian, and passionate classicist turns the tables, putting the women of the Greek myths on an equal footing with the men. With wit, humor, and savvy, Haynes revolutionizes our understanding of epic poems, stories, and plays, resurrecting them from a woman’s perspective and tracing the origins of their mythic female characters. She looks at women such as Jocasta, Oedipus’ mother-turned-lover-and-wife (turned Freudian sticking point), at once the cleverest person in the story and yet often unnoticed. She considers Helen of Troy, whose marriage to Paris “caused” the Trojan war—a somewhat uneven response to her decision to leave her husband for another man. She demonstrates how the vilified Medea was like an ancient Beyonce—getting her revenge on the man who hurt and betrayed her, if by extreme measures. And she turns her eye to Medusa, the original monstered woman, whose stare turned men to stone, but who wasn’t always a monster, and had her hair turned to snakes as punishment for being raped.<br /><br />Pandora’s Jar brings nuance and care to the millennia-old myths and legends and asks the question: Why are we so quick to villainize these women in the first place—and so eager to accept the stories we’ve been told?"
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/8b/55/3c/8b553c21-baf7-8db0-7d0c-4a6098b4548d/9780063139473.jpg/{w}x{h}bb.{f}",
+    "height": 2409,
+    "textColor3": "cccbcb",
+    "textColor2": "30dfb7",
+    "textColor4": "26b292",
+    "assetToken": "Publication115/v4/8b/55/3c/8b553c21-baf7-8db0-7d0c-4a6098b4548d/9780063139473.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "010000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 14,
+    "ratingCountList": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Classicist Haynes (<em>A Thousand Ships</em>) challenges common ideas about Greek mythology in this sharp corrective. To show \"how differently  were viewed in the ancient world,\" she closely reads the tales of 10 mythological women. Medusa, for example, was more than just a serpent-haired villain, but was transformed into a \"monster\" after being raped by Poseidon. In the tale of Jocasta written by Sophocles, she and Oedipus did not realize the nature of their relationship (and readers often overlook her \"terrible fate,\" Haynes writes). Medea, meanwhile, was a clever woman whose choice between \"jealous or crazy\" mirrors Beyoncé's, and Pandora didn't unleash evils onto the world out of vengeance—her vessel was originally a jar, not a box, and one easily tipped over. Haynes also offers a fascinating study of renderings of mythological figures in art as they changed over time, including on ancient water jars, in Italian bowls from 400 BCE, and as 16th-century statues. While in some sections Haynes assumes too much knowledge on the part of the reader, when she hits her stride and seamlessly blends historical, textual, and artistic analysis, her survey sings. Even those casually familiar with Greek mythology will find this enriching. <em>",
+      "date": "Mon Jan 31 00:00:00 PST 2022",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Pandora's Jar",
+  "publisher": "Harper Perennial",
+  "isPreorder": false,
+  "artistName": "Natalie Haynes",
+  "primaryLocale": "en-US"
+}

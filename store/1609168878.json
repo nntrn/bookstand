@@ -1,0 +1,67 @@
+{
+  "id": "1609168878",
+  "type": "books",
+  "title": "Nero",
+  "subtitle": "Matricide, Music, and Murder in Imperial Rome",
+  "author": "Anthony Everitt & Roddy Ashworth",
+  "isbn": "9780593133224",
+  "genreNames": [
+    "Ancient History",
+    "Books",
+    "History",
+    "Biographies & Memoirs"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1609168878&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 16665862
+        }
+      ]
+    }
+  ],
+  "pageCount": 448,
+  "releaseDate": "2022-11-08",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A striking, nuanced biography of Nero—the controversial populist ruler and last of the Caesars—and a vivid portrait of ancient Rome<br /><br />“Exciting and provocative . . . <i>Nero</i> is a pleasure to read.”—Barry Strauss, author of <i>The War That Made the Roman Empire: Antony, Cleopatra, and Octavian at Actium</i></b><br /><br />The Roman emperor Nero’s name has long been a byword for cruelty, decadence, and despotism. As the stories go, he set fire to Rome and thrummed his lyre as it burned. He then cleared the charred ruins and built a vast palace. He committed incest with his mother, who had schemed and killed to place him on the throne, and later murdered her.<br /><br />But these stories, left behind by contemporary historians who hated him, are hardly the full picture, and in this nuanced biography, celebrated historian Anthony Everitt and investigative journalist Roddy Ashworth reveal the contradictions inherent in Nero and offer a reappraisal of his life. Contrary to popular memory, the empire was well managed during his reign. He presided over diplomatic triumphs, and his legions overcame the fiery British queen Boudica who led one of the greatest revolts Rome had ever had to face. He loved art, culture, and music, and he won the loyalty of the lower classes with fantastic spectacles. He did not set fire to Rome.<br /><br />In <i>Nero</i>, ancient Rome comes to life: the fire-prone streets, the deadly political intrigues, and the ongoing architectural projects. In this teeming, politically unstable world, Nero was vulnerable to fierce reproach from the nobility and relatives who would gladly usurp him, and he was often too ready to murder rivals. He had a vision for Rome, but, racked by insecurity, he perhaps lacked the stomach to govern it.<br /><br />This is the bloodstained story of one of Rome’s most notorious emperors: but in Everitt and Ashworth’s hands, Nero’s life is also a complicated, cautionary tale about the mettle required to rule."
+  },
+  "artwork": {
+    "width": 1875,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/10/b0/4f/10b04f2b-487e-df3f-2510-955267a8181b/9780593133224.d.jpg/{w}x{h}bb.{f}",
+    "height": 2850,
+    "textColor3": "3c3b39",
+    "textColor2": "161516",
+    "textColor4": "424140",
+    "assetToken": "Publication116/v4/10/b0/4f/10b04f2b-487e-df3f-2510-955267a8181b/9780593133224.d.jpg",
+    "textColor1": "0f0d0d",
+    "bgColor": "f1f1e9",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.8,
+    "ratingCount": 5,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      4
+    ],
+    "ariaLabelForRatings": "4.8 stars"
+  },
+  "name": "Nero",
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Anthony Everitt & Roddy Ashworth",
+  "primaryLocale": "en-US"
+}
