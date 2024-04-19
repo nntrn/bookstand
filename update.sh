@@ -5,16 +5,34 @@ set -e
 SCRIPT=$(realpath $0)
 DIR=${SCRIPT%/*}
 
+_log() { echo -e "\033[0;${2:-33}m$1\033[0m" 3>&2 2>&1 >&3 3>&-; }
+
+_checkfile() {
+  RELPATH="${1//$PWD/.}"
+  if [[ -f $1 && -s $1 ]]; then
+    echo -e "${RELPATH} \033[0;32m✔\033[0m" 3>&2 2>&1 >&3 3>&-
+    return 0
+  elif [[ -f $1 ]]; then
+    echo -e "${RELPATH} \033[0;31m✘ FILE IS EMPTY\033[0m" 3>&2 2>&1 >&3 3>&-
+    return 1
+  else
+    echo -e "${RELPATH} \033[0;31m✘ DOES NOT EXIST\033[0m" 3>&2 2>&1 >&3 3>&-
+    return 1
+  fi
+}
+
 sync_ibooks() {
   open -a Books
-  echo "Sleeping ....."
-  sleep 30
-  echo "Done!"
+  echo " Starting █"
+  for i in {1..3}; do
+    sleep 10
+    jq -nr --arg ix $i '(100*($ix|tonumber)/3) as $i|"\($i|round)%" as $c|[" " * (8-($c|length)),$c,"█"*(25*($i/100))]|join(" ")'
+  done
   osascript -e 'quit app "Books"'
 }
 
 scrape_book_api() {
-  curl -L -s "https://books.apple.com/us/book/id${1:?}" |
+  curl -L -s "https://books.apple.com/us/book/id${1:?}" --fail |
     sed 's,<script,\n<script,g;s,<\/script>,\n</script>,g;s,>{,>\n{,g' |
     sed -n '/<script type="fastboot\/shoebox" id="shoebox-media-api-cache-amp-books">/,/<\/script>/ p' |
     grep -vE '<.?script' |
@@ -31,47 +49,48 @@ get_artwork_url() {
   else "" end'
 }
 
-scrape_job() {
-  local bookid=$1
-  local STORE_PATH=store/${bookid:?}.json
-  local COVER_PATH=covers/${bookid:?}.jpg
-  mkdir -p {store,covers}
-  if [[ $UPDATE_SCRAPE -eq 1 || ! -f $STORE_PATH || ! -s $STORE_PATH ]]; then
-    echo "$bookid: Scraping book data"
-    scrape_book_api $bookid >$STORE_PATH
-  else
-    echo "$STORE_PATH exists"
-  fi
-  ARTWORK_URL="$(get_artwork_url $STORE_PATH)"
-  if [[ ! -f $COVER_PATH && -n $ARTWORK_URL ]]; then
-    echo "$bookid: Downloading $ARTWORK_URL"
-    curl -s --create-dirs -o $COVER_PATH "$ARTWORK_URL"
-  else
-    echo "$COVER_PATH exists"
+get_artwork_cover() {
+  local STOREPATH=store/$1.json
+  local COVERPATH=covers/$1.jpg
+
+  if [[ -f $STOREPATH ]]; then
+    ARTWORK_URL="$(get_artwork_url $STOREPATH)"
+    _log "Downloading artwork cover from $ARTWORK_URL"
+    curl -s --create-dirs -o $COVERPATH "$ARTWORK_URL" --fail
   fi
 }
 
-RUN_SYNC=${RUN_SYNC:-1}
-RUN_QUERY=${RUN_QUERY:-1}
-RUN_SCRAPE=${RUN_SCRAPE:-1}
-UPDATE_SCRAPE=${UPDATE_SCRAPE:-0}
+run_jobs_for_asset() {
+  BOOKID=${1:?}
+  STORE_PATH=store/${BOOKID}.json
+  COVER_PATH=covers/${BOOKID}.jpg
 
-while [ "$1" != "" ]; do
-  case $1 in
-  --skip-sync) RUN_SYNC=0 ;;
-  --skip-query) RUN_QUERY=0 ;;
-  --skip-scrape) RUN_SCRAPE=0 ;;
-  --update) UPDATE_SCRAPE=1 ;;
-  esac
-  shift 1
-done
+  if [[ $BOOKID == [0-9]* ]]; then
+    [[ ! -f $STORE_PATH ]] && scrape_book_api $BOOKID >$STORE_PATH
+    [[ ! -f $COVER_PATH ]] && get_artwork_cover $BOOKID
 
-cd $DIR
-git pull
+    _checkfile $STORE_PATH
+    _checkfile $COVER_PATH
+  else
+    _log "ERROR: $BOOKID is not a valid id" 31
+  fi
+}
 
-[[ $RUN_SYNC -eq 1 ]] && sync_ibooks
-[[ $RUN_QUERY -eq 1 ]] && queryibooks >annotations.json
-if [[ $RUN_SCRAPE -eq 1 ]]; then
-  ASSET_IDS=($(git diff -U0 annotations.json | grep -Eo '\+[ ]+"ZASSETID.*' | sort -u | awk -F'"' '{print $(NF-1)}'))
-  for i in "${ASSET_IDS[@]}"; do scrape_job $i; done
-fi
+{
+  cd $DIR
+  git pull
+  sync_ibooks
+  queryibooks >annotations.json
+  mkdir -p {covers,store}
+
+  ASSET_IDS=($(git diff -U0 annotations.json | grep -Eo '\+[ ]+"ZASSETID": "[0-9]+"' | sort -u | awk -F'"' '{print $(NF-1)}'))
+
+  echo "ASSET IDS: ${#ASSET_IDS[@]}"
+
+  for i in "${ASSET_IDS[@]}"; do
+    _log "Start job for $i" 36
+    run_jobs_for_asset $i
+  done
+
+  find . -type f ! -path "*/.git/*" -empty -print -delete
+}
