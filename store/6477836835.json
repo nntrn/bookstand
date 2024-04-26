@@ -1,0 +1,67 @@
+{
+  "id": "6477836835",
+  "type": "books",
+  "title": "The Armchair Economist",
+  "subtitle": "Economics & Everyday Life",
+  "author": "Steven E. Landsburg",
+  "isbn": "9781416587255",
+  "genreNames": [
+    "Economics",
+    "Books",
+    "Business & Personal Finance",
+    "Management & Leadership",
+    "Reference"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=6477836835&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3329146
+        }
+      ]
+    }
+  ],
+  "pageCount": 338,
+  "releaseDate": "2007-11-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The extensively revised and updated edition of Steven Landsburg’s hugely popular book, <i>The Armchair Economist</i>—“a delightful compendium of quotidian examples illustrating important economic and financial theories” (<i>The Journal of Finance</i>).</b><br /><br />In this revised and updated edition of Steven Landsburg’s hugely popular book, he applies economic theory to today’s most pressing concerns, answering a diverse range of daring questions, such as:<br /><br />Why are seat belts deadly?<br /> Why do celebrity endorsements sell products?<br /> Why are failed executives paid so much?<br /> Who should bear the cost of oil spills?<br /> Do government deficits matter?<br /> How is workplace safety bad for workers?<br /> What’s wrong with the local foods movement?<br /> Which rich people can’t be taxed?<br /> Why is rising unemployment sometimes good?<br /> Why do women pay more at the dry cleaner?<br /> Why is life full of disappointments?<br /><br />Whether these are nagging questions you’ve always had, or ones you never even thought to ask, this new edition of <i>The Armchair Economist </i>turns the eternal ideas of economic theory into concrete answers that you can use to navigate the challenges of contemporary life."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/ab/fc/5b/abfc5b3f-fdce-19e3-5113-2e81629150d2/9781416587255.jpg/{w}x{h}bb.{f}",
+    "height": 2149,
+    "textColor3": "252829",
+    "textColor2": "003123",
+    "textColor4": "255044",
+    "assetToken": "Publication116/v4/ab/fc/5b/abfc5b3f-fdce-19e3-5113-2e81629150d2/9781416587255.jpg",
+    "textColor1": "000001",
+    "bgColor": "b9c9c8",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Armchair Economist",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "artistName": "Steven E. Landsburg",
+  "primaryLocale": "en-US"
+}

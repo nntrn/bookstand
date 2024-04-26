@@ -1,0 +1,69 @@
+{
+  "id": "6478136693",
+  "type": "books",
+  "title": "Mythology 101",
+  "subtitle": "From Gods and Goddesses to Monsters and Mortals, Your Guide to Ancient Mythology",
+  "author": "Kathleen Sears",
+  "isbn": "9781440573330",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Reference"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6478136693&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4067538
+        }
+      ]
+    }
+  ],
+  "pageCount": 289,
+  "releaseDate": "2013-12-03",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Adams 101"
+  },
+  "description": {
+    "standard": "Explore the fascinating myths of Greek and Roman civilizations!<br /><br />The tales of gods and heroes are often turned into tedious discourse that even Ovid would reject. This easy-to-read guide cuts out the boring details, and instead, provides you with a thrilling lesson in classic mythology.<br /><br />From the heights of Mt. Olympus to the depths of the Underworld, this book takes you on an unforgettable journey through all the major myths born in ancient Greece and Rome, such as Achilles's involvement in the Trojan War; Pluto's kidnapping of the beautiful Proserpina; and the slaying of Medusa by Perseus, the heroic demi-god. You'll also learn all about the wonders of the world as well as the greatest creatures ever recorded in history.<br /><br />Like Charon navigating the River of Wailing, <i>Mythology 101</i> will guide you through the most glorious (and completely terrifying) tales the ancient world has to offer."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/d1/4d/d9/d14dd92e-b587-3388-eb40-305ef2d7d110/9781440573330.jpg/{w}x{h}bb.{f}",
+    "height": 1897,
+    "textColor3": "414141",
+    "textColor2": "1d1d1f",
+    "textColor4": "4a4a4c",
+    "assetToken": "Publication122/v4/d1/4d/d9/d14dd92e-b587-3388-eb40-305ef2d7d110/9781440573330.jpg",
+    "textColor1": "111111",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Mythology 101",
+  "isPreorder": false,
+  "publisher": "Simon & Schuster",
+  "artistName": "Kathleen Sears",
+  "primaryLocale": "en-US"
+}
