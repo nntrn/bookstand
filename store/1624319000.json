@@ -1,0 +1,76 @@
+{
+  "id": "1624319000",
+  "type": "books",
+  "title": "Dyscalculia",
+  "subtitle": "A Love Story of Epic Miscalculation",
+  "author": "Camonghne Felix",
+  "isbn": "9780593242186",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Nonfiction",
+    "Family & Relationships",
+    "Social Science"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1624319000&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 11672773
+        }
+      ]
+    }
+  ],
+  "pageCount": 240,
+  "releaseDate": "2023-02-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Powerful . . . a poetic meditation on how love or attempts at loving can drive us to madness.”—<i>The Boston Globe</i></b><br /> &#xa0;<br /> <b>“We learn about the cracks in Felix’s upbringing, the hurt from the breakup itself, and a pain that spans a lifetime, all through a sharp millennial voice.”—<i>Time </i></b><br /> <b><br />A BEST BOOK OF THE YEAR: <i>Time, </i>Chicago Public Library, <i>Electric Lit</i></b><br /><br />When Camonghne Felix goes through a monumental breakup, culminating in a hospital stay, everything—from her early childhood trauma and mental health to her relationship with mathematics—shows up in the tapestry of her healing. In this exquisite and raw reflection, Felix repossesses herself through the exploration of history she’d left behind, using her childhood “dyscalculia”—a disorder that makes it difficult to learn math—as a metaphor for the consequences of her miscalculations in love. Through reckoning with this breakup and other adult gambles in intimacy, Felix asks the question: Who gets to assert their right to pain?<br />&#xa0;<br /><i>Dyscalculia</i> negotiates the misalignments of perception and reality, love and harm, and the politics of heartbreak, both romantic and familial."
+  },
+  "artwork": {
+    "width": 1538,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/ee/a3/f0/eea3f004-2c63-233f-b802-a868b2c0ede9/9780593242186.d.jpg/{w}x{h}bb.{f}",
+    "height": 2325,
+    "textColor3": "553745",
+    "textColor2": "352724",
+    "textColor4": "5d4345",
+    "assetToken": "Publication112/v4/ee/a3/f0/eea3f004-2c63-233f-b802-a868b2c0ede9/9780593242186.d.jpg",
+    "textColor1": "2a1723",
+    "bgColor": "ffb6c8",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.6,
+    "ratingCount": 7,
+    "ratingCountList": [
+      1,
+      0,
+      1,
+      4,
+      1
+    ],
+    "ariaLabelForRatings": "3.6 stars"
+  },
+  "name": "Dyscalculia",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Poet Felix (<em>Build Yourself a Boat</em>) recounts the implosion of a relationship in this biting memoir. After she discovered her partner had had an affair, Felix was so devastated, she writes, that she wanted \"to die,\" and the ensuing breakup led Felix to reflect on past traumas, specifically being repeatedly raped as a child by an older cousin, and years of largely ineffective inpatient psychiatric care. In her adulthood, a psychiatrist diagnosed her with bipolar two and prescribed a stabilizer, and \"for the first time, things begin to add up.\" Mathematical metaphors are sprinkled throughout as Felix traces her failed relationship and comes to terms with her role in its chaos (\"When I spiral, I take on my own momentum, my own force, fractals of my many fractals taking on new diameter\"). Her writing hums with coruscating lyricism, most notably in her depictions of the transformative effects of romantic love: Felix is \"like an arrow in its quiver\" and \"a werewolf at the turn of the moon\" as she falls deeper in love. Visceral and radiant, this soul-searching self-interrogation resonates. <em>",
+      "date": "Mon Oct 31 00:00:00 PDT 2022",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "publisher": "Random House Publishing Group",
+  "isPreorder": false,
+  "artistName": "Camonghne Felix",
+  "primaryLocale": "en-US"
+}
