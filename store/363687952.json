@@ -1,0 +1,75 @@
+{
+  "id": "363687952",
+  "type": "books",
+  "title": "Small Gods",
+  "subtitle": "A Discworld Novel",
+  "author": "Terry Pratchett",
+  "isbn": "9780061803208",
+  "genreNames": [
+    "Fantasy",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Contemporary",
+    "Fiction & Literature",
+    "Science Fiction",
+    "Literary Fiction",
+    "Horror",
+    "Action & Adventure"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=363687952&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2982591
+        }
+      ]
+    }
+  ],
+  "pageCount": 400,
+  "releaseDate": "2009-03-17",
+  "seriesInfo": {
+    "seriesName": "Discworld"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "\"Humorously entertaining. . . subtly thought-provoking. . . Pratchett's Discworld books are filled with humor and magic.\" —Chicago Tribune<br /><br />\"Think J.R.R. Tolkien with a sharper, more satiric edge.\" —Houston Chronicle<br /><br />The thirteenth novel in the Discworld series from New York Times bestselling author Sir Terry Pratchett.<br /><br />Lost in the chill deeps of space between the galaxies, it sails on forever, a flat, circular world carried on the back of a giant turtle— Discworld —a land where the unexpected can be expected. Where the strangest things happen to the nicest people. Like Brutha, a simple lad who only wants to tend his melon patch. Until one day he hears the voice of a god calling his name. A small god, to be sure. But bossy as Hell.<br /><br />Religion is a competitive business in the Discworld. Everyone has their own opinion and their own gods, of every shape and size—all fighting for faith, followers, and a place at the top. So when the great god Om accidentally manifests himself as a lowly tortoise, stripped of all divine power, it’s clear he’s become less important than he realized.<br /><br />In such instances, you need an acolyte, and fast. Enter Brutha, the Chosen One—or at least the only One available. He wants peace, justice and love—but that’s hard to achieve in a world where religion means power, and corruption reigns supreme.<br /><br />The Discworld novels can be read in any order but&#xa0;Small Gods&#xa0;is a standalone."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/5a/f4/7c/5af47cd9-bb4f-2fb7-e739-a0bc3f75f477/9780061803208.jpg/{w}x{h}bb.{f}",
+    "height": 2575,
+    "textColor3": "cbcbcb",
+    "textColor2": "f36f1a",
+    "textColor4": "c25915",
+    "assetToken": "Publication118/v4/5a/f4/7c/5af47cd9-bb4f-2fb7-e739-a0bc3f75f477/9780061803208.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 264,
+    "ratingCountList": [
+      8,
+      6,
+      16,
+      49,
+      185
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "name": "Small Gods",
+  "isPreorder": false,
+  "publisher": "HarperCollins e-books",
+  "artistName": "Terry Pratchett",
+  "primaryLocale": "en-US"
+}
