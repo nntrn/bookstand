@@ -1,0 +1,68 @@
+{
+  "id": "1609365277",
+  "type": "books",
+  "title": "Veni Vidi Didici",
+  "subtitle": "Have Fun Learning Latin with Songs, Games, Puzzles and Jokes",
+  "author": "Jason Talley",
+  "isbn": "9781612437118",
+  "genreNames": [
+    "Foreign Languages",
+    "Books",
+    "Reference",
+    "Ancient Languages",
+    "Humor"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1609365277&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2203292
+        }
+      ]
+    }
+  ],
+  "pageCount": 194,
+  "releaseDate": "2017-07-18",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>This engaging Latin guide offers a lively introduction to the so-called “dead language” with basic skills and vocabulary plus jokes, songs, and more.</b><br /><br />Seize the day with a fun, new guide to the ultimate language. Whether you’re looking to show up your teacher or have a laugh with friends,&#xa0;<i>Veni Vidi Didici</i>&#xa0;will give you the knowledge to drop some Latin that’s sure to impress, including:<br /><br /><b>• Cool Slang</b><br /><br /><b>• Lighthearted insults</b><br /><br /><b>• Funny Jokes</b><br /><br /><b>• Timeless Games</b><br /><br /><b>• Famous Sayings</b><br /><br /><b>• Clever Puzzles</b><br /><br /><i>Veni Vidi Didici</i>&#xa0;goes beyond basics, offering silly stories and historical factoids that will keep you entertained for hours."
+  },
+  "artwork": {
+    "width": 1553,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/36/49/7c/36497ced-2727-0e90-f969-7795d5a7f7c8/9781612437118.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "332b14",
+    "textColor2": "3f120b",
+    "textColor4": "5f3014",
+    "assetToken": "Publication116/v4/36/49/7c/36497ced-2727-0e90-f969-7795d5a7f7c8/9781612437118.jpg",
+    "textColor1": "090b0a",
+    "bgColor": "dfab3b",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "Veni Vidi Didici",
+  "isPreorder": false,
+  "publisher": "Ulysses Press",
+  "artistName": "Jason Talley",
+  "primaryLocale": "en-US"
+}

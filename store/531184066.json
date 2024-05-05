@@ -1,0 +1,68 @@
+{
+  "id": "531184066",
+  "type": "books",
+  "title": "Story of Philosophy",
+  "subtitle": null,
+  "author": "Will Durant",
+  "isbn": "9781476702605",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction",
+    "Biographies & Memoirs",
+    "History"
+  ],
+  "seller": "Simon & Schuster Digital Sales LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=531184066&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7439707
+        }
+      ]
+    }
+  ],
+  "pageCount": 432,
+  "releaseDate": "2012-07-24",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><b>This brilliant and concise account of the lives and ideas of the world's great philosophers</b><b>—Plato, Aristotle, Bacon, Spinoza, Voltaire, Kant, Schopenhauer, Spencer, Nietzsche, Bergson, Croce, Russell, Santayana, James, and Dewey—is \"a delight\" (<i>The New York Times</i>) and remains one of the most important books of our time.</b></b><br /><br />Will Durant chronicles the ideas of the great thinkers, the economic and intellectual environments which influenced them, and the personal traits and adventures out of which each philosophy grew. Durant’s insight and wit never cease to dazzle; <i>The Story of Philosophy</i> is an essential book for anyone who wishes to understand the history and development of philosophical ideas in the Western world."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/5b/b3/56/5bb35691-78fc-bc22-6315-4457958483f4/9781476702605.jpg/{w}x{h}bb.{f}",
+    "height": 2190,
+    "textColor3": "baa889",
+    "textColor2": "e9c08d",
+    "textColor4": "bb9971",
+    "assetToken": "Publication118/v4/5b/b3/56/5bb35691-78fc-bc22-6315-4457958483f4/9781476702605.jpg",
+    "textColor1": "e9d2ab",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 33,
+    "ratingCountList": [
+      1,
+      4,
+      4,
+      3,
+      21
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "name": "Story of Philosophy",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "contentRating": "explicit",
+  "artistName": "Will Durant",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "1452794594",
+  "type": "books",
+  "title": "The Elements of Style, Fourth Edition",
+  "subtitle": null,
+  "author": "William Strunk, Jr. & E.B. White",
+  "isbn": "9789897788024",
+  "genreNames": [
+    "Education",
+    "Books",
+    "Professional & Technical",
+    "Language Arts & Disciplines",
+    "Reference"
+  ],
+  "seller": "De Marque, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=990&salableAdamId=1452794594&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$0.99",
+      "price": 0.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1001114
+        }
+      ]
+    }
+  ],
+  "pageCount": 116,
+  "releaseDate": "2019-02-13",
+  "isIBook": false,
+  "description": {
+    "standard": "'The Elements of Style' (1918), by William Strunk, Jr., is an American English writing style guide. It is the best-known, most influential prescriptive treatment of English grammar and usage, and often is required reading and usage in U.S. high school and university composition classes. This edition of 'The Elements of Style' details eight elementary rules of usage, ten elementary principles of composition, \"a few matters of form\", and a list of commonly misused words and expressions."
+  },
+  "artwork": {
+    "width": 3750,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/94/b0/c4/94b0c425-179a-5e8b-b500-a3eb41fee70d/9789897788024.jpg/{w}x{h}bb.{f}",
+    "height": 5833,
+    "textColor3": "28282c",
+    "textColor2": "43061b",
+    "textColor4": "5d2c3f",
+    "assetToken": "Publication114/v4/94/b0/c4/94b0c425-179a-5e8b-b500-a3eb41fee70d/9789897788024.jpg",
+    "textColor1": "000103",
+    "bgColor": "c5c5cf",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "version": "1",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 34,
+    "ratingCountList": [
+      0,
+      0,
+      9,
+      5,
+      20
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "name": "The Elements of Style, Fourth Edition",
+  "publisher": "Pandora's Box",
+  "isPreorder": false,
+  "artistName": "William Strunk, Jr. & E.B. White",
+  "primaryLocale": "en-US"
+}
