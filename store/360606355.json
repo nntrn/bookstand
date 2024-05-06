@@ -1,0 +1,75 @@
+{
+  "id": "360606355",
+  "type": "books",
+  "title": "Mort",
+  "subtitle": "A Discworld Novel",
+  "author": "Terry Pratchett",
+  "isbn": "9780061803888",
+  "genreNames": [
+    "Fantasy",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Contemporary",
+    "Fiction & Literature",
+    "Literary Fiction",
+    "Science Fiction",
+    "Horror",
+    "Action & Adventure"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=360606355&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1822246
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "releaseDate": "2009-10-13",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Discworld"
+  },
+  "description": {
+    "standard": "New York Times bestselling author Terry Pratchett makes Death a central character in Mort, a fabulous installment in Discworld, the fantasy cosmos where even the angel of darkness needs some assistance.&#xa0;<br /><br />Death comes to everyone eventually on Discworld. And now he's come to Mort with an offer the young man can't refuse. (No, literally, can't refuse since being dead isn't exactly compulsory.) Actually, it's a pretty good deal. As Death's apprentice, Mort will have free board and lodging. He'll get use of the company horse. And he won't have to take any time off for family funerals. But despite the obvious perks, young Mort is about to discover that there is a serious downside to working for the Reaper Man . . . because this perfect job can be a killer on one's love life.<br /><br />Terry Pratchett's profoundly irreverent, bestselling novels have garnered him a revered position in the halls of parody next to the likes of Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen."
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/8c/70/95/8c70956a-4036-f9a0-bd61-ef893a7dd1e1/9780061803888.jpg/{w}x{h}bb.{f}",
+    "height": 2590,
+    "textColor3": "dbdeec",
+    "textColor2": "fef200",
+    "textColor4": "dcd421",
+    "assetToken": "Publication128/v4/8c/70/95/8c70956a-4036-f9a0-bd61-ef893a7dd1e1/9780061803888.jpg",
+    "textColor1": "fdfffe",
+    "bgColor": "545aa9",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 4.7,
+    "ratingCount": 370,
+    "ratingCountList": [
+      4,
+      2,
+      12,
+      74,
+      278
+    ],
+    "ariaLabelForRatings": "4.7 stars"
+  },
+  "name": "Mort",
+  "isPreorder": false,
+  "publisher": "Harper Paperbacks",
+  "artistName": "Terry Pratchett",
+  "primaryLocale": "en-US"
+}

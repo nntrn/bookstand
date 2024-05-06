@@ -1,0 +1,81 @@
+{
+  "id": "533636106",
+  "type": "books",
+  "title": "This Explains Everything",
+  "subtitle": "150 Deep, Beautiful, and Elegant Theories of How the World Works",
+  "author": "John Brockman",
+  "isbn": "9780062230188",
+  "genreNames": [
+    "Science & Nature",
+    "Books",
+    "Physics",
+    "Science & Nature Essays",
+    "Professional & Technical",
+    "Engineering",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=533636106&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1863346
+        }
+      ]
+    }
+  ],
+  "pageCount": 432,
+  "releaseDate": "2013-01-22",
+  "seriesInfo": {
+    "seriesName": "Edge Question Series"
+  },
+  "isIBook": false,
+  "description": {
+    "standard": "Drawn from the cutting-edge frontiers of science, This Explains Everything will revolutionize your understanding of the world.<br /><br />What is your favorite deep, elegant, or beautiful explanation? This is the question John Brockman, publisher of Edge.org (\"The world's smartest website\"—The Guardian), posed to the world's most influential minds. Flowing from the horizons of physics, economics, psychology, neuroscience, and more, This Explains Everything presents 150 of the most surprising and brilliant theories of the way of our minds, societies, and universe work.<br /><br />Jared Diamond on biological electricity • Nassim Nicholas Taleb on positive stress • Steven Pinker on the deep genetic roots of human conflict • Richard Dawkins on pattern recognition • Nobel Prize-winning physicist Frank Wilczek on simplicity • Lisa Randall on the Higgs mechanism • BRIAN Eno on the limits of intuition • Richard Thaler on the power of commitment • V. S. Ramachandran on the \"neural code\" of consciousness • Nobel Prize winner ERIC KANDEL on the power of psychotherapy • Mihaly Csikszentmihalyi on \"Lord Acton's Dictum\" • Lawrence M. Krauss on the unification of electricity and magnetism • plus contributions by Martin J. Rees • Kevin Kelly • Clay Shirky • Daniel C. Dennett • Sherry Turkle • Philip Zimbardo • Lee Smolin • Rebecca Newberger Goldstein • Seth Lloyd • Stewart Brand • George Dyson • Matt Ridley"
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/ea/5f/03/ea5f03e5-2fcb-2d71-7625-e0f61a63c6aa/9780062230188_Outside_Front_Cover.jpg/{w}x{h}bb.{f}",
+    "height": 2118,
+    "textColor3": "393417",
+    "textColor2": "570d16",
+    "textColor4": "783b21",
+    "assetToken": "Publication/v4/ea/5f/03/ea5f03e5-2fcb-2d71-7625-e0f61a63c6aa/9780062230188_Outside_Front_Cover.jpg",
+    "textColor1": "08050a",
+    "bgColor": "fdf04c",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.2,
+    "ratingCount": 60,
+    "ratingCountList": [
+      10,
+      11,
+      12,
+      11,
+      16
+    ],
+    "ariaLabelForRatings": "3.2 stars"
+  },
+  "name": "This Explains Everything",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "In this latest volume of erudition from Edge.com founder John Brockman (This Will Make You Smarter), the question \"What is your favorite deep, elegant, or beautiful explanation?\" serves as the prompt for over a hundred concise essays. The topics cover the gamut of the sciences while also including answers from other realms including economics and the arts. Darwin and Einstein, while not the precise subject of many answers, feature prominently as do ideas of human consciousness and cognition. As with other collections of this ilk, the essays widely vary in ease of comprehension and level of profundity. While there is no structure beyond the individual essays, occasionally a few essays in close proximity will touch on similar matters, as when Nicholas Christakis's essay on why the sky is blue is followed by Philip Campbell's on \"The Beauty in a Sunrise\", each referencing the work of Lord Rayleigh on the scattering of light. A few entries border on gimmicks, such as Ernst P  ppel's series of haiku on trust or Katinka Matson's single sentence on \"Occam's Razor\": \"Keep it simple.\" Still, this collection will satisfy anyone who is looking to stretch his thinking. ",
+      "date": "Mon Feb 11 00:00:00 PST 2013",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "publisher": "Harper Perennial",
+  "isPreorder": false,
+  "artistName": "John Brockman",
+  "primaryLocale": "en-US"
+}
