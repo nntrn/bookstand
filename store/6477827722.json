@@ -1,0 +1,69 @@
+{
+  "id": "6477827722",
+  "type": "books",
+  "title": "The Devil You Know",
+  "subtitle": "Encounters in Forensic Psychiatry",
+  "author": "Gwen Adshead & Eileen Horne",
+  "isbn": "9781982134815",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Health, Mind & Body",
+    "Psychology",
+    "True Crime"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=6477827722&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3532328
+        }
+      ]
+    }
+  ],
+  "pageCount": 319,
+  "releaseDate": "2021-07-20",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>In this “unmissable book” (<i>The Guardian</i>), an internationally renowned forensic psychiatrist and psychotherapist demonstrates the remarkable human capacity for radical empathy, change, and redemption.</b><br /><br />What drives someone to commit an act of terrible violence? Drawing from her thirty years of experience in providing therapy to people in prisons and secure hospitals who have committed serious offenses, Dr. Gwen Adshead provides fresh and surprising insights into violence and the mind. Through a collaboration with coauthor Eileen Horne, Dr. Adshead brings her extraordinary career to life in a series of unflinching portraits.<br /><br />Alongside doctor and patient, we discover what human cruelty, ranging from serial homicide to stalking, arson or sexual offending, means to perpetrators, experiencing firsthand how minds can change when the people some might label as “evil” are able to take responsibility for their life stories and get to know their own minds. With outcomes ranging from hope to despair, from denial to recovery, these men and women are revealed in all their complexity and shared humanity. In this era of mass incarceration, deep cuts in mental health care and extreme social schisms, this book offers a persuasive argument for compassion over condemnation.<br /><br />Moving, thought-provoking, and brilliantly told, <i>The Devil You Know</i> is a rare and timely book with the power to transform our ideas about cruelty and violence, and to radically expand the limits of empathy. “A welcome contribution to the literature of crime and rehabilitation” (<i>Kirkus Reviews</i>)."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/af/b9/71/afb97180-963d-e04f-b853-bb34fecc1db0/9781982134815.jpg/{w}x{h}bb.{f}",
+    "height": 2133,
+    "textColor3": "b58083",
+    "textColor2": "ea8064",
+    "textColor4": "bb6750",
+    "assetToken": "Publication126/v4/af/b9/71/afb97180-963d-e04f-b853-bb34fecc1db0/9781982134815.jpg",
+    "textColor1": "e3a1a4",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "name": "The Devil You Know",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "artistName": "Gwen Adshead & Eileen Horne",
+  "primaryLocale": "en-US"
+}

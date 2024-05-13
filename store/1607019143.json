@@ -1,0 +1,69 @@
+{
+  "id": "1607019143",
+  "type": "books",
+  "title": "The United States of Cryptids",
+  "subtitle": "A Tour of American Myths and Monsters",
+  "author": "J. W. Ocker",
+  "isbn": "9781683693239",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "History",
+    "U.S. History",
+    "Reference"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1607019143&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 44327348
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "releaseDate": "2022-10-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Meet the monsters in our midst, from bigfoot to Mothman and beyond!<br /></b><br />Welcome to the United States of Cryptids, where mysterious monsters lurk in the dark forests, deep lakes, and sticky swamps of all fifty states. From the infamous Jersey Devil to the obscure Snallygaster, travel writer and chronicler of the strange J. W. Ocker uncovers the bizarre stories of these creatures and investigates the ways in which communities embrace and celebrate their local cryptids. Readers will learn about:<br />&#xa0;<br />• <b>Batsquatch of Washington</b>, a winged bigfoot that is said to have emerged from the eruption of Mount Saint Helens<br />• <b>Nain Rouge of Michigan</b>, a fierce red goblin that has been spotted before every major city disaster in Detroit<br />• <b>Flatwoods Monster of West Virginia</b>, a robotic extraterrestrial that crash-landed in rural Appalachia<br />• <b>Lizard Man of South Carolina</b>, a reptilian mutant that attacked a teenager in the summer of 1988<br />• <b>Glocester Ghoul of Rhode Island</b>, a fire-breathing dragon that guards a hoard of pirate treasure<br />• And many more!<br />&#xa0;<br />Whether you believe in bigfoot or not, this fully illustrated compendium is a fun, frightening, fascinating tour through American folklore and history, exploring the stories we tell about monsters and what those stories say about us."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/a4/dc/1c/a4dc1c93-1bd0-1de1-50ec-08ab4b512b13/9781683693239.d.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "c4883e",
+    "textColor2": "f1aa31",
+    "textColor4": "c18928",
+    "assetToken": "Publication112/v4/a4/dc/1c/a4dc1c93-1bd0-1de1-50ec-08ab4b512b13/9781683693239.d.jpg",
+    "textColor1": "f4a94c",
+    "bgColor": "050505",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 4,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      4
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "name": "The United States of Cryptids",
+  "isPreorder": false,
+  "publisher": "Quirk Books",
+  "artistName": "J. W. Ocker",
+  "primaryLocale": "en-US"
+}

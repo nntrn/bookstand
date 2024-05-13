@@ -1,0 +1,67 @@
+{
+  "id": "1286609357",
+  "type": "books",
+  "title": "Terry Pratchett's Discworld Imaginarium",
+  "subtitle": null,
+  "author": "Paul Kidby",
+  "isbn": "9781473223387",
+  "genreNames": [
+    "Art & Architecture",
+    "Books",
+    "Arts & Entertainment",
+    "Sci-Fi & Fantasy",
+    "Fantasy"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1286609357&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 20528008
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "releaseDate": "2017-11-23",
+  "isIBook": false,
+  "description": {
+    "standard": "<b></b><br /><br />Paul Kidby, Sir Terry Pratchett's artist of choice, provided the illustrations for <i>The Last Hero</i>, designed the covers for the Discworld novels since 2002, and is the author of the bestselling <i>The Art Of Discworld</i>.<br /><br />Now, Paul Kidby has collected the very best of his Discworld illustrations in this definitive volume, including 40 pieces never before seen, 30 pieces that have only appeared in foreign editions, limited editions and BCA editions, and 17 book cover illustrations since 2004 that have never been seen without cover text.<br /><br />If Terry Pratchett's pen gave his characters life, Paul Kidby's brush allowed them to live it, and nowhere is that better illustrated than in this magnificent book. For fans old and new, this beautiful collectors item is the perfect gift for Christmas.<br /><br />'The closest anyone's got to how I see the characters' - <b>Sir Terry Pratchett</b>"
+  },
+  "artwork": {
+    "width": 1970,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/74/48/02/744802b9-99c7-a4e6-2e78-c14b3768f54b/9781473223387.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "373d43",
+    "textColor2": "1b1e1f",
+    "textColor4": "3f4549",
+    "assetToken": "Publication118/v4/74/48/02/744802b9-99c7-a4e6-2e78-c14b3768f54b/9781473223387.jpg",
+    "textColor1": "121518",
+    "bgColor": "cfdfef",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "userRating": {
+    "value": 3.2,
+    "ratingCount": 5,
+    "ratingCountList": [
+      1,
+      1,
+      0,
+      2,
+      1
+    ],
+    "ariaLabelForRatings": "3.2 stars"
+  },
+  "name": "Terry Pratchett's Discworld Imaginarium",
+  "publisher": "Orion",
+  "isPreorder": false,
+  "artistName": "Paul Kidby",
+  "primaryLocale": "en-US"
+}
