@@ -1,0 +1,82 @@
+{
+  "id": "6502454449",
+  "type": "books",
+  "title": "The Emotion Amplifier: A Writer's Guide to Character Stress and Volatility",
+  "subtitle": "Second Edition",
+  "author": "Becca Puglisi",
+  "isbn": "9781736152348",
+  "genreNames": [
+    "Writing Reference",
+    "Books",
+    "Reference",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines",
+    "Arts & Entertainment",
+    "Film",
+    "Dictionaries & Thesauruses"
+  ],
+  "seller": "JADD Publishing",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=6990&salableAdamId=6502454449&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$6.99",
+      "price": 6.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2926717
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6502454449&pg=default&pricingParameters=STDQ",
+  "pageCount": 210,
+  "releaseDate": "2024-05-13",
+  "isIBook": false,
+  "description": {
+    "standard": "Characters who are in control of their emotions rarely slip up, which makes for boring reading. To avoid that pitfall, channel your dark side and introduce stress that will make it harder for them to think clearly. Your weapon of choice? An amplifier. Pain, arousal, dehydration—conditions and states like these make it difficult for a character to emotionally self-regulate, setting them up for overreactions, misjudgments, and (hopefully) colossal mistakes they’ll have to fix and learn from.<br />\nInside The Emotion Amplifier Thesaurus, you’ll find:<br />\n·&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; A deep dive into cognitive and emotional dissonance and how psychological discomfort steers a character’s reasoning and impacts their ability to make decisions<br />\n·&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Information on emotional stress as a trigger for self-awareness and personal growth, which makes amplifiers powerful levers to help steer story structure and character arc<br />\n·&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Lists of body language cues, internal sensations, thoughts, and other descriptives to show the effects of more than fifty amplifiers<br />\n·&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Brainstorming help on how to use each amplifier to generate tension and complication, apply everyday pressure, and make a character emotionally volatile<br />\n·&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Fifty-two bonus writing tips to help you wield amplifiers with skill and precision, taking your scenes from good to great<br />\nPush your characters. Give them no quarter. Use physical, cognitive, and psychological strain to force them to face their mistakes, acknowledge their true feelings, and work through the contradictions at the heart of every inner struggle."
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6e/77/b5/6e77b509-1e71-e43f-df5b-893659e55459/Emotion_Amplifier_Thesaurus_Cover_LARGE_EBOOK.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "cccccc",
+    "textColor2": "779ce3",
+    "textColor4": "5f7db6",
+    "assetToken": "Publication211/v4/6e/77/b5/6e77b509-1e71-e43f-df5b-893659e55459/Emotion_Amplifier_Thesaurus_Cover_LARGE_EBOOK.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "010101",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-emotion-amplifier-a-writers-guide-to/id6502454449",
+  "screenshots": [],
+  "userRating": {
+    "value": 4.5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ariaLabelForRatings": "4.5 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-05-09T14:20:01Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Emotion Amplifier: A Writer's Guide to Character Stress and Volatility",
+  "isPreorder": false,
+  "publisher": "JADD Publishing",
+  "artistName": "Becca Puglisi",
+  "primaryLocale": "en-US"
+}

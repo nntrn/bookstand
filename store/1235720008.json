@@ -1,0 +1,77 @@
+{
+  "id": "1235720008",
+  "type": "books",
+  "title": "Ray Bradbury: On Writing",
+  "subtitle": "Collected Speeches",
+  "author": "Ray Bradbury",
+  "isbn": null,
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Robert Kerns",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=3990&salableAdamId=1235720008&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$3.99",
+      "price": 3.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 541135
+        }
+      ]
+    }
+  ],
+  "pageCount": 148,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1235720008&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2017-05-11",
+  "isIBook": false,
+  "description": {
+    "standard": "Ray Bradbury was a prolific and influential writer of the 20th century. Ray Bradbury: On Writing is a manifesto of Bradbury's writing philosophy. It is a collection of speeches on the art and process of writing, delivered in Bradbury's entertaining, witty, and candid style.&#xa0;<br />\nTopics include:<br />\n• processes for developing ideas<br />\n• the 'hygiene' of writing<br />\n• how a bad writer becomes good writer<br />\n• developing your enthusiasms<br />\n• how to take in inspiration<br />\n• where to find your voice<br />\n• and more"
+  },
+  "artwork": {
+    "width": 1563,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/b5/9b/25/b59b25e5-4f8d-ccfd-02d3-3ef89e69951f/ray_bradbury.jpg/{w}x{h}bb.{f}",
+    "height": 2500,
+    "textColor3": "2e2e2f",
+    "textColor2": "171c35",
+    "textColor4": "414459",
+    "assetToken": "Publication122/v4/b5/9b/25/b59b25e5-4f8d-ccfd-02d3-3ef89e69951f/ray_bradbury.jpg",
+    "textColor1": "000000",
+    "bgColor": "e9e7ea",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/ray-bradbury-on-writing/id1235720008",
+  "screenshots": [],
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 12,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      4,
+      6
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2017-05-11T17:22:56Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Ray Bradbury: On Writing",
+  "isPreorder": false,
+  "publisher": "CG LLC",
+  "artistName": "Ray Bradbury",
+  "primaryLocale": "en-US"
+}

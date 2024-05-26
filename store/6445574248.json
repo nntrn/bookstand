@@ -1,0 +1,82 @@
+{
+  "id": "6445574248",
+  "type": "books",
+  "title": "Build a Mathematical Mind - Even If You Think You Can't Have One",
+  "subtitle": null,
+  "author": "Albert Rutherford",
+  "isbn": "9798215437964",
+  "genreNames": [
+    "Mathematics",
+    "Books",
+    "Science & Nature",
+    "Business & Personal Finance"
+  ],
+  "seller": "Draft2Digital, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=990&salableAdamId=6445574248&pricingParameters=PLUS&pg=default",
+      "type": "buy",
+      "priceFormatted": "$0.99",
+      "price": 0.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "plusPublication",
+          "size": 492628
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6445574248&pg=default&pricingParameters=PLUS",
+  "pageCount": 90,
+  "releaseDate": "2023-01-31",
+  "isIBook": false,
+  "description": {
+    "standard": "Would you like to be a proficient mathematician… without using numbers?<br />There is so much more to math than geometry and calculus! It is present in almost every life aspect, from improving your communication skills to how to fit your luggage into your car.<br /><br />Did you always hate math because you couldn't understand complex formulas?<br />Don't let a few equations or a bad teacher deter you from building a mathematical mind. Learn the best cognitive tools to revolutionize the way you make sense of problems and persevere in solving them.<br /><br />Boost your critical thinking and analytical skills.<br />Mathematical thinking involves analyzing data, patterns, and relationships and evaluating information and arguments, which can help improve critical thinking skills.<br /><br />Adopt a mathematician's mindset. Tinker, invent, make educated guesses, describe with precision, and use probability to your advantage.<br /><br />Build a Mathematical Mind – Even If You Think You Can't Have One&#xa0;is an action manual that will help you sharpen your everyday life skills such as:<br />- improving your logic,<br />- understanding how probability works,<br />- and making estimations.<br /><br />This is a research-backed math manual you'll love to read. It contains examples for faster learning and greater everyday impact.<br /><br />Hone your problem-solving skills and make better decisions.<br />Albert Rutherford is an internationally bestselling author whose writing derives from various sources, such as research, coaching, academic, and real-life experience.<br /><br />Improve your communication skills.&#xa0;<br />Mathematical thinking involves clearly and concisely explaining ideas and solutions, which can improve how you communicate. With enhanced precision, you will have a keen attention to detail and the ability to be accurate in your thinking and talking.<br /><br />Increase your confidence.&#xa0;<br />Developing mathematical thinking skills can increase your confidence and self-esteem, being able to solve difficult problems and understand complex ideas.<br /><br />If you ever felt ashamed for not getting math, this is the time to heal that wound. Give math another chance. Let it make you unstoppable!"
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/11/6a/ea/116aead2-bc82-353b-1768-56a4103d60ea/0001003651.jpg/{w}x{h}bb.{f}",
+    "height": 1944,
+    "textColor3": "343536",
+    "textColor2": "670302",
+    "textColor4": "853534",
+    "assetToken": "Publication126/v4/11/6a/ea/116aead2-bc82-353b-1768-56a4103d60ea/0001003651.jpg",
+    "textColor1": "020304",
+    "bgColor": "fefefe",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/build-a-mathematical-mind-even-if-you-think-you-cant-have-one/id6445574248",
+  "screenshots": [],
+  "userRating": {
+    "value": 4,
+    "ratingCount": 8,
+    "ratingCountList": [
+      0,
+      2,
+      0,
+      2,
+      4
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-04-24T22:02:22Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-02-01T00:12:32Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Build a Mathematical Mind - Even If You Think You Can't Have One",
+  "isPreorder": false,
+  "publisher": "Albert Rutherford",
+  "artistName": "Albert Rutherford",
+  "primaryLocale": "en-US"
+}

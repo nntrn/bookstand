@@ -1,0 +1,77 @@
+{
+  "id": "6445207551",
+  "type": "books",
+  "title": "The Silent Musician",
+  "subtitle": "Why Conducting Matters",
+  "author": "Mark Wigglesworth",
+  "isbn": "9780226622699",
+  "genreNames": [
+    "Music",
+    "Books",
+    "Arts & Entertainment"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=6445207551&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 869940
+        }
+      ]
+    }
+  ],
+  "pageCount": 264,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6445207551&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2019-03-21",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Meditations on the craft of conducting, written with grace and humor, unfailingly light in spirit but sometimes profound.” —<i>The Washington Post</i></b><br /><br />The conductor—formally attired, imposingly poised above an orchestra, baton waving dramatically—is a familiar figure even for those who never set foot in a concert hall. As a veritable icon for classical music, the conductor has also been subjected to some ungenerous caricatures, presented variously as unhinged gesticulator, indulged megalomaniac, or even outright impostor. Consider, for example: Bugs Bunny as Leopold Stokowski, dramatically smashing his baton and then breaking into erratic poses with a forbidding intensity in his eyes, or Mickey Mouse in Fantasia, unwittingly conjuring dangerous magic with carefree gestures he doesn’t understand. As these clichés betray, there’s an aura of mystery around what a conductor actually does, often coupled with disbelief that he or she really makes a difference to the performance we hear.<br /><br /><i>The Silent Musician</i> deepens our understanding of what conductors do and why they matter. Rather than providing an instruction manual or a history, it explores the role of the conductor in noiselessly shaping the music that we hear. World-renowned conductor Mark Wigglesworth deftly and wittily explores the philosophical underpinnings of conducting—from the conductor’s relationship with musicians and the music, to the public and personal responsibilities conductors face—and examines the subtler components of their silent art, which include precision, charisma, diplomacy, and passion. Ultimately, Wigglesworth shows how conductors—by simultaneously keeping time and allowing time to expand—manage to shape ensemble music into an immersive, transformative experience, without ever making a sound. <br /><br />“Rich in musical insights and phrased with wit and elegance.” —<i>The Tablet</i>"
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/56/bd/ca/56bdcadb-b955-b638-14df-f377d08b288d/9780226622699.jpg/{w}x{h}bb.{f}",
+    "height": 2378,
+    "textColor3": "505453",
+    "textColor2": "323433",
+    "textColor4": "5b5c5c",
+    "assetToken": "Publication113/v4/56/bd/ca/56bdcadb-b955-b638-14df-f377d08b288d/9780226622699.jpg",
+    "textColor1": "252928",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-silent-musician/id6445207551",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2022-12-22T10:17:40Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Silent Musician",
+  "publisher": "The University of Chicago Press",
+  "isPreorder": false,
+  "artistName": "Mark Wigglesworth",
+  "primaryLocale": "en-US"
+}
