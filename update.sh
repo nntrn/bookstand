@@ -36,15 +36,15 @@ scrape_book_api() {
     sed 's,<script,\n<script,g;s,<\/script>,\n</script>,g;s,>{,>\n{,g' |
     sed -n '/<script type="fastboot\/shoebox" id="shoebox-media-api-cache-amp-books">/,/<\/script>/ p' |
     grep -vE '<.?script' |
-    jq '(if (length>0) then . else halt_error(1) end)
-      | to_entries| .[0].value | fromjson | (.d|.[0])
+    jq 'values|map(fromjson.d)|last[]
+      | del(.relationships)
       | {id,type,title:.attributes.name,subtitle,author:.attributes.artistName,isbn,genreNames} + .attributes
-      | del(.versionHistory,.screenshots,.bookSampleDownloadUrl,.editorialArtwork,.url)' 2>/dev/null
+      ' 2>/dev/null
 }
 
 get_artwork_url() {
-  cat $1 | jq -r '((env.IMGWIDTH|tonumber)? // 200) as $w |
-  if .artwork.url
+  cat $1 | jq -r '200 as $w 
+  | if .artwork.url
   then (.artwork|"\(.url|gsub("{w}.*";""))\($w)x\(.height/(.width/$w)|ceil)bb.jpg")
   else "" end'
 }
