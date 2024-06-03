@@ -1,0 +1,153 @@
+{
+  "id": "974978087",
+  "type": "books",
+  "title": "The Geography of Genius",
+  "subtitle": "A Search for the World's Most Creative Places from Ancient Athens to Silicon Valley",
+  "author": "Eric Weiner",
+  "isbn": "9781451691689",
+  "genreNames": [
+    "World History",
+    "Books",
+    "History",
+    "Nonfiction",
+    "Social Science",
+    "Travel & Adventure",
+    "Travel Essays & Memoirs"
+  ],
+  "seller": "Simon & Schuster Digital Sales LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=974978087&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3849583
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=974978087&pg=default&pricingParameters=STDQ",
+  "pageCount": 368,
+  "releaseDate": "2016-01-05",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Tag along on this <i>New York Times</i> bestselling “witty, entertaining romp” (<i>The New York Times Book Review</i>) as Eric Winer travels the world, from Athens to Silicon Valley—and back through history, too—to show how creative genius flourishes in specific places at specific times.</b><br /><br />In this “intellectual odyssey, traveler’s diary, and comic novel all rolled into one” (Daniel Gilbert, author of <i>Stumbling on Happiness</i>), acclaimed travel writer Weiner sets out to examine the connection between our surroundings and our most innovative ideas. A “superb travel guide: funny, knowledgeable, and self-deprecating” (<i>The Washington Post</i>), he explores the history of places like Vienna of 1900, Renaissance Florence, ancient Athens, Song Dynasty Hangzhou, and Silicon Valley to show how certain urban settings are conducive to ingenuity. With his trademark insightful humor, this “big-hearted humanist” (<i>The Wall Street Journal</i>) walks the same paths as the geniuses who flourished in these settings to see if the spirit of what inspired figures like Socrates, Michelangelo, and Leonardo remains. In these places, Weiner asks, “What was in the air, and can we bottle it?”<br /><br />“Fun and thought provoking” (<i>Miami Herald</i>), <i>The Geography of Genius </i>reevaluates the importance of culture in nurturing creativity and “offers a practical map for how we can all become a bit more inventive” (Adam Grant, author of <i>Originals</i>)."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/d5/eb/b0/d5ebb034-06b9-ad0a-4493-9432ffa506da/9781451691689.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "3a3a30",
+    "textColor2": "38331f",
+    "textColor4": "5e5a47",
+    "assetToken": "Publication71/v4/d5/eb/b0/d5ebb034-06b9-ad0a-4493-9432ffa506da/9781451691689.jpg",
+    "textColor1": "0b0b02",
+    "bgColor": "f7f5e9",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/the-geography-of-genius/id974978087",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 19,
+    "ratingCountList": [
+      2,
+      0,
+      4,
+      6,
+      7
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2020-02-27T03:15:27Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2018-08-14T07:03:03Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2018-08-10T03:00:39Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2018-07-31T02:45:05Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2017-12-23T07:48:46Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-11-12T13:16:26Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-10-29T01:17:02Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-06-29T11:33:08Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-06-28T12:58:05Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-06-27T22:29:42Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-06-23T01:06:28Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-03-24T02:03:50Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2015-12-11T02:57:42Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2015-12-03T02:10:04Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Geography of Genius",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "In an ambitious attempt to determine the genesis of genius and the conception of creativity, former NPR correspondent Weiner (The Geography of Bliss) travels to history's great hot spots of innovation. As he walks the hallowed streets of Athens, Calcutta, Edinburgh, Hangzhou, Silicon Valley, and other storied locales, he investigates the elements and factors that came together to turn these places into centers of cultural and technological advancement. Weiner speaks with resident experts and recounts the stories of thinkers and doers alike to chart the progress of ideas over the centuries. \"Do these genius clusters come in one flavor or many,\" he asks, \"and did the genius of the place evaporate completely, or do trace elements remain?\" But in Weiner's quest to understand what makes genius and what causes certain places at certain times to hit a creative critical mass, he seems to end up with more questions than answers, accepting that there is no one true, predictable way to determine how and where genius will strike. He tackles this thought-provoking topic intelligently and doggedly, but occasionally loses focus and direction. Weiner's work is definitely more about the journey than the destination. ",
+      "date": "Mon Nov 23 00:00:00 PST 2015",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "isPreorder": false,
+  "publisher": "Simon & Schuster",
+  "artistName": "Eric Weiner",
+  "primaryLocale": "en-US"
+}

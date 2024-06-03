@@ -1,0 +1,80 @@
+{
+  "id": "6476762865",
+  "type": "books",
+  "title": "Death Becomes Them",
+  "subtitle": "Unearthing the Suicides of the Brilliant, the Famous & the Notorious",
+  "author": "Alix Strauss",
+  "isbn": "9780061959356",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Sociology",
+    "Professional & Technical",
+    "Medical"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6476762865&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3616956
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6476762865&pg=default&pricingParameters=STDQ",
+  "pageCount": 354,
+  "releaseDate": "2009-08-27",
+  "isIBook": false,
+  "description": {
+    "standard": "Kurt Cobain, Anne Sexton, Mark Rothko, Ernest Hemingway, Adolf Hitler . . . all famous, some rich and powerful, some beloved, some abhorred. But when life and circumstance got to be too much, each headed for the exit door. Sigmund Freud overdosed on morphine. Dorothy Dandridge stripped naked and swallowed a handful of antidepressants. Hunter S. Thompson shot himself while talking to his wife on the phone.<br /><br />These are the lonely personal nightmares behind celebrity suicides—the deaths and their causes are as diverse as the victims themselves. In <i>Death Becomes Them</i>, Alix Strauss bids each one a final good-bye while examining the last days and the unbearable incidents that drove these notables to end their lives. She decodes their notes, touches on their accomplishments, and delves into the methodologies of their deaths using autopsy and police reports and personal photos. Strauss also explores the morbid curiosity that feeds our fixation with famously tortured souls and provides lists of other controversial, bizarre, and poorly executed suicides in this mammoth tome."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/ab/7e/07/ab7e075e-a1f0-7833-affe-8d72b69e18b3/9780061959356.jpg/{w}x{h}bb.{f}",
+    "height": 2291,
+    "textColor3": "3c3809",
+    "textColor2": "242324",
+    "textColor4": "4f4c1d",
+    "assetToken": "Publication116/v4/ab/7e/07/ab7e075e-a1f0-7833-affe-8d72b69e18b3/9780061959356.jpg",
+    "textColor1": "0b0a0b",
+    "bgColor": "fef101",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/death-becomes-them/id6476762865",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-01-26T09:34:02Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Death Becomes Them",
+  "isPreorder": false,
+  "publisher": "HarperCollins",
+  "contentRating": "explicit",
+  "artistName": "Alix Strauss",
+  "primaryLocale": "en-US"
+}

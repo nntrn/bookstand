@@ -1,0 +1,84 @@
+{
+  "id": "361932294",
+  "type": "books",
+  "title": "Do You Think What You Think You Think?",
+  "subtitle": "The Ultimate Philosophical Handbook",
+  "author": "Julian Baggini & Jeremy Stangroom",
+  "isbn": "9781101213483",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=361932294&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3115580
+        }
+      ]
+    }
+  ],
+  "pageCount": 192,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=361932294&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2007-08-28",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Explore the gray areas in your gray matter with philosophical brainteasers from armchair philosopher and bestselling author of <i>The Pig That Wants to Be Eaten, </i>Julian Baggini.</b><br /><br /> Is your brain ready for a thorough philosophical health check? <br /><br /> Julian Baggini, the author of the international bestseller <i>The Pig That Wants to Be Eaten,</i> and his fellow founding editor of <i>The Philosopher's Magazine</i>&#xa0;Jeremy Stangroom have some thought-provoking questions about your thinking: Is what you believe coherent and consistent, or a jumble of contradictions? If you could design a God, what would He, She, or It be like? And how will you fare on the tricky terrain of ethics when your taboos are under the spotlight? <br /><br /><i> Do You Think What You Think You Think </i>features a&#xa0;dozen philosophical quizzes guaranteed to make armchair philosophers uncomfortably shift in their seats. Fun, challenging, and surprising, this book will enable you to discover the <i>you</i> you never knew you were."
+  },
+  "artwork": {
+    "width": 600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/02/4e/8a/mzi.pldpylgo.jpg/{w}x{h}bb.{f}",
+    "height": 800,
+    "textColor3": "663736",
+    "textColor2": "401f1c",
+    "textColor4": "5f4739",
+    "assetToken": "Publication/02/4e/8a/mzi.pldpylgo.jpg",
+    "textColor1": "4a0b19",
+    "bgColor": "d8e7ac",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/do-you-think-what-you-think-you-think/id361932294",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2010-03-13T14:11:31Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "In their latest philosophical novelty book, Baggini and Stangroom refashion the kind of frivolous quiz found in women's and men's style magazines the kind with flippant multiple-choice answers adding up to a final score as a philosophical tool. The challenges are amusing and fun enough to pass the time during a long commute, making for a kind of Philosophy 101 student's sudoku, but not much more. As in his previous book, The Pig That Wants to Be Eaten, Baggini encourages people to question common assumptions. Unfortunately, this book feels more superficial than its charming precursor. In the case of a quiz on free will, the scoring requires more time than the test taking. In another chapter, it's possible to conclude that Britney Spears is as great an artist as Mozart. The book's \"final\" measures the reader's absorption of the history of the discipline that's provided in the overviews and analyses surrounding each of the tests but it's clear that learning the history of philosophy isn't the point. Once readers have completed the final tally, some may be disappointed to find that, no matter what their score, \"what you know about philosophy isn't worth knowing.\" ",
+      "date": "Mon Jun 04 00:00:00 PDT 2007",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Do You Think What You Think You Think?",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Julian Baggini & Jeremy Stangroom",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1602735798",
+  "type": "books",
+  "title": "The Visual Mba",
+  "subtitle": "Two Years of Business School Packed into One Priceless Book of Pure Awesomeness",
+  "author": "Jason Barron",
+  "isbn": "9780358025399",
+  "genreNames": [
+    "Business & Personal Finance",
+    "Books",
+    "Careers"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=15990&salableAdamId=1602735798&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$15.99",
+      "price": 15.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 76365075
+        }
+      ]
+    }
+  ],
+  "pageCount": 208,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1602735798&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2019-04-16",
+  "isIBook": false,
+  "description": {
+    "standard": "Jason Barron spent 516 hours in class, completed mountains of homework and shelled out tens of thousands of dollars to complete his MBA at the BYU&#xa0;Marriott School of Business. Along the way, rather than taking boring notes that he would never read (nor use) again, Jason created sketch notes for each class—visually capturing the essential points of his education—and providing an engaging and invaluable resource.<br /> &#xa0;<br /> Once finished with his MBA, Jason launched a widely successful Kickstarter campaign distilling these same notes into a self-published book to help aspiring business leaders of all backgrounds and income levels understand the critical concepts one learns in business school.<br /> &#xa0;<br /> Whether you are thinking about applying to business school, are currently in college studying business,&#xa0;or have always wondered what is taught in an MBA program, this highly entertaining&#xa0;and visual book is for you.<br /> &#xa0;"
+  },
+  "artwork": {
+    "width": 1800,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/23/b4/1e/23b41e9b-4158-880f-7d54-8f74e2a4f1de/9780358025399.jpg/{w}x{h}bb.{f}",
+    "height": 2700,
+    "textColor3": "333333",
+    "textColor2": "3c3115",
+    "textColor4": "635a44",
+    "assetToken": "Publication126/v4/23/b4/1e/23b41e9b-4158-880f-7d54-8f74e2a4f1de/9780358025399.jpg",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/the-visual-mba/id1602735798",
+  "userRating": {
+    "value": 3.9,
+    "ratingCount": 12,
+    "ratingCountList": [
+      0,
+      2,
+      2,
+      3,
+      5
+    ],
+    "ariaLabelForRatings": "3.9 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2022-01-13T01:11:38Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Visual Mba",
+  "publisher": "Harper Business",
+  "isPreorder": false,
+  "artistName": "Jason Barron",
+  "primaryLocale": "en-US"
+}

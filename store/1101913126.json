@@ -1,0 +1,87 @@
+{
+  "id": "1101913126",
+  "type": "books",
+  "title": "This Is Me Letting You Go",
+  "subtitle": null,
+  "author": "Heidi Priebe",
+  "isbn": "9781530896653",
+  "genreNames": [
+    "Family & Relationships",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "The Thought & Expression Co Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1101913126&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 401209
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1101913126&pg=default&pricingParameters=STDQ",
+  "pageCount": 118,
+  "releaseDate": "2016-04-08",
+  "isIBook": false,
+  "description": {
+    "standard": "Letting go is not a process that comes naturally to us.&#xa0;<br /><br />\nIn a world that teaches us to cling to what we love at all costs, there is an undeniable art to moving on—and it’s one that we are constantly relearning.&#xa0;<br /><br />\nIn this series of honest and poignant essays, Heidi Priebe explores the harsh reality of what it means to let go of the people and situations we love most—often before we are ready to—and how to embrace what comes next."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/26/f4/ff/26f4ff0e-516a-484c-f135-68ea6be78768/This_Is_Me_Letting_You_Go_HeidiPriebe_cover.jpg/{w}x{h}bb.{f}",
+    "height": 2550,
+    "textColor3": "c0b18a",
+    "textColor2": "eedbb3",
+    "textColor4": "bfaf99",
+    "assetToken": "Publication211/v4/26/f4/ff/26f4ff0e-516a-484c-f135-68ea6be78768/This_Is_Me_Letting_You_Go_HeidiPriebe_cover.jpg",
+    "textColor1": "f0dda1",
+    "bgColor": "00002e",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/this-is-me-letting-you-go/id1101913126",
+  "screenshots": [],
+  "userRating": {
+    "value": 4.7,
+    "ratingCount": 973,
+    "ratingCountList": [
+      20,
+      19,
+      39,
+      123,
+      772
+    ],
+    "ariaLabelForRatings": "4.7 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": "New cover and copyedits.",
+      "versionString": null,
+      "releaseDate": "2024-03-29T19:01:03Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-06-02T13:39:34Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-04-08T21:58:31Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "This Is Me Letting You Go",
+  "isPreorder": false,
+  "publisher": "Thought Catalog Books",
+  "artistName": "Heidi Priebe",
+  "primaryLocale": "en-US"
+}

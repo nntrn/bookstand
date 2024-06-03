@@ -1,0 +1,82 @@
+{
+  "id": "1478273644",
+  "type": "books",
+  "title": "Creating Characters",
+  "subtitle": "The Complete Guide to Populating Your Fiction",
+  "author": "Writer's Digest Books",
+  "isbn": "9781599638805",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.",
+  "seriesInfo": {
+    "seriesName": "Creative Writing Essentials"
+  },
+  "description": {
+    "standard": "Create characters that leap off the page--and into readers' hearts!<br /><br />Populating your fiction with authentic, vivid characters is a surefire way to captivate your readers from the first sentence to the last. Whether you're writing a series, novel, short story, or flash fiction, <i>Creating Characters</i> is an invaluable guide to bringing your fictional cast to life.<br /><br />This book is a comprehensive reference to every stage of character development. You'll find timely advice and helpful instruction from best-selling authors like Nancy Kress, Elizabeth Sims, Orson Scott Card, Chuck Wendig, Hallie Ephron, Donald Maass, and James Scott Bell. They'll show you how to:<br /><br />&#xa0;&#xa0;&#xa0;•&#xa0;Effectively introduce your characters<br />&#xa0;&#xa0;&#xa0;•&#xa0;Build a believable protagonist<br />&#xa0;&#xa0;&#xa0;•&#xa0;Develop strong anti-heroes and compelling villains<br />&#xa0;&#xa0;&#xa0;•&#xa0;Juggle multiple points of view without missing a beat<br />&#xa0;&#xa0;&#xa0;•&#xa0;Craft authentic dialogue that propels the story forward<br />&#xa0;&#xa0;&#xa0;•&#xa0;Motivate your characters with powerful objectives and a believable conflict<br />&#xa0;&#xa0;&#xa0;•&#xa0;Show dynamic character development over the course of a story<br /> No matter what your genre, <i>Creating Characters</i> gives you the tools necessary to create realistic, fascinating characters that your readers will root for and remember long after they've finished the story."
+  },
+  "screenshots": [],
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2019-08-29T13:34:55Z"
+    }
+  ],
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=1478273644&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1188045
+        }
+      ]
+    }
+  ],
+  "pageCount": 342,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1478273644&pg=default&pricingParameters=STDQ",
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2014-10-03",
+  "isIBook": false,
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/56/a4/8d/56a48dcc-6157-f483-932a-8d471aa89fe9/9781599638805.d.jpg/{w}x{h}bb.{f}",
+    "height": 2531,
+    "textColor3": "2e2c33",
+    "textColor2": "090808",
+    "textColor4": "2e2c32",
+    "assetToken": "Publication113/v4/56/a4/8d/56a48dcc-6157-f483-932a-8d471aa89fe9/9781599638805.d.jpg",
+    "textColor1": "090809",
+    "bgColor": "c3bcdd",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/creating-characters/id1478273644",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "editorialArtwork": {},
+  "name": "Creating Characters",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Writer's Digest Books",
+  "primaryLocale": "en-US"
+}

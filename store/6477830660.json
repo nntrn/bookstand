@@ -1,0 +1,78 @@
+{
+  "id": "6477830660",
+  "type": "books",
+  "title": "Life Moves Pretty Fast",
+  "subtitle": "The Lessons We Learned From Eighties Movies (and Why We Don't Learn Them From Movies Anymore)",
+  "author": "Hadley Freeman",
+  "isbn": "9781501130663",
+  "genreNames": [
+    "Film",
+    "Books",
+    "Arts & Entertainment",
+    "History",
+    "Biographies & Memoirs"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=6477830660&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3338956
+        }
+      ]
+    }
+  ],
+  "pageCount": 353,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6477830660&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2016-06-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From <i>Vogue</i> contributor and <i>Guardian</i> columnist Hadley Freeman, a personalized guide to eighties movies that describes why they changed movie-making forever—featuring exclusive interviews with the producers, directors, writers and stars of the best cult classics.</b><br /><br />For Hadley Freeman, movies of the 1980s have simply got it all. Comedy in <i>Three Men and a Baby</i>, <i>Hannah and Her Sisters</i>, <i>Ghostbusters</i>, and <i>Back to the Future</i>; all a teenager needs to know in <i>Pretty in Pink</i>, <i>Ferris Bueller’s Day Off</i>, <i>Say Anything</i>, <i>The Breakfast Club</i>, and <i>Mystic Pizza</i>; the ultimate in action from <i>Top Gun</i>, <i>Die Hard</i>, <i>Beverly Hills Cop</i>, and <i>Indiana Jones and the Temple of Doom</i>; love and sex in <i>9 1/2 Weeks</i>, <i>Splash</i>, <i>About Last Night</i>, <i>The Big Chill</i>, and <i>Bull Durham</i>; and family fun in <i>The Little Mermaid</i>, <i>ET</i>, <i>Big</i>, <i>Parenthood</i>, and <i>Lean On Me</i>.<br /><br />In <i>Life Moves Pretty Fast</i>, Hadley puts her obsessive movie geekery to good use, detailing the decade’s key players, genres, and tropes. She looks back on a cinematic world in which bankers are invariably evil, where children are always wiser than adults, where science is embraced with an intense enthusiasm, and the future viewed with giddy excitement. And, she considers how the changes between movies then and movies today say so much about society’s changing expectations of women, young people, and art—and explains why <i>Pretty in Pink</i> should be put on school syllabuses immediately.<br /><br />From how John Hughes discovered Molly Ringwald, to how the friendship between Dan Aykroyd and John Belushi influenced the evolution of comedy, and how Eddie Murphy made America believe that race can be transcended, this is a “highly personal, witty love letter to eighties movies, but also an intellectually vigorous, well-researched take on the changing times of the film industry” (<i>The Guardian</i>)."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/d6/91/e4/d691e4ba-b9f9-fefe-a968-f4129dd06035/9781501130663.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "36312c",
+    "textColor2": "1a1a1a",
+    "textColor4": "43413e",
+    "assetToken": "Publication126/v4/d6/91/e4/d691e4ba-b9f9-fefe-a968-f4129dd06035/9781501130663.jpg",
+    "textColor1": "090503",
+    "bgColor": "e8ded2",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/life-moves-pretty-fast/id6477830660",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-02-13T15:39:54Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Life Moves Pretty Fast",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "artistName": "Hadley Freeman",
+  "primaryLocale": "en-US"
+}

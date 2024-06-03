@@ -1,0 +1,77 @@
+{
+  "id": "1128398649",
+  "type": "books",
+  "title": "Logic: A Complete Introduction: Teach Yourself",
+  "subtitle": null,
+  "author": "Siu-Fan Lee",
+  "isbn": "9781473608443",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction",
+    "Science & Nature"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1128398649&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 32391308
+        }
+      ]
+    }
+  ],
+  "pageCount": 384,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1128398649&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2017-01-12",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Your complete introduction to logic</b><br />When you see black clouds looming and predict it's going to rain, you're using logic. When you decide that all swans are white because all the swans you've seen are white, that's logic too (even though the conclusion is false).<br /><br />As humans we want to understand how things are connected and why, so that we can derive things we don''t know yet from what we do. Logic studies the methods and principles to distinguish good and bad reasoning.<br /><br />This book introduces three basic logical systems: categorical logic, propositional logic and predicate logic. It identifies in each system essential methods to test arguments, and there are illustrations and exercises to enhance your mastery of these skills.<br /><br />By the time you finish you will understand what logicians were thinking when they designed logical systems and start to think like them.<br /><br />Whether you are preparing for an essay, studying for an exam or simply want to expand ypour knowledge, <i>Logic: A Complete Introduction</i> is your go-to guide."
+  },
+  "artwork": {
+    "width": 1694,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/21/19/57/211957d5-fac8-e909-4df4-bfb3c455d233/9781473608443.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "cbcbcb",
+    "textColor2": "efa060",
+    "textColor4": "bf804d",
+    "assetToken": "Publication71/v4/21/19/57/211957d5-fac8-e909-4df4-bfb3c455d233/9781473608443.jpg",
+    "textColor1": "fefefe",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/logic-a-complete-introduction-teach-yourself/id1128398649",
+  "screenshots": [],
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-12-15T15:37:22Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Logic: A Complete Introduction: Teach Yourself",
+  "isPreorder": false,
+  "publisher": "John Murray Press",
+  "artistName": "Siu-Fan Lee",
+  "primaryLocale": "en-US"
+}

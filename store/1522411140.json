@@ -1,0 +1,83 @@
+{
+  "id": "1522411140",
+  "type": "books",
+  "title": "Homer Simpson Goes To Washington",
+  "subtitle": "American Politics Through Popular Culture",
+  "author": "Joseph J. Foy",
+  "isbn": "9780813138916",
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction",
+    "Politics & Current Events",
+    "Political Science"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=1522411140&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2491925
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1522411140&pg=default&pricingParameters=STDQ",
+  "pageCount": 282,
+  "releaseDate": "2008-08-22",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Informative and entertaining&#xa0;.&#xa0;.&#xa0;. convincingly argue[s] that an interest in popular culture can counterbalance the growing tide of political apathy.” —<i>Publishers Weekly</i></b><br /> &#xa0;<br /> While pundits may accuse popular culture of brainwashing, indoctrinating, distracting, or dumbing down the masses, the fact is that Americans have long turned to entertainment sources to make sense of politics, through television shows such as <i>The Simpsons</i>, <i>The West Wing</i>, <i>The Daily Show</i>, and <i>Chappelle’s Show</i> and films such as <i>Election</i>, <i>Bulworth</i>, and <i>Wag the Dog</i>. In <i>Homer Simpson Goes to Washington</i>, Joseph J. Foy has assembled a multidisciplinary team of scholars with backgrounds in political science, philosophy, law, cultural studies, and music. Their essays tackle common assumptions about government and explain fundamental concepts such as civil rights, democracy, and ethics—through the lens of drama and comedy."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/77/6a/46/776a46ec-9257-6bb8-d5c4-d367bbd84502/9780813138916.jpg/{w}x{h}bb.{f}",
+    "height": 2361,
+    "textColor3": "32383b",
+    "textColor2": "012b41",
+    "textColor4": "315264",
+    "assetToken": "Publication114/v4/77/6a/46/776a46ec-9257-6bb8-d5c4-d367bbd84502/9780813138916.jpg",
+    "textColor1": "02090d",
+    "bgColor": "f2f2f2",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/homer-simpson-goes-to-washington/id1522411140",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-05-11T06:40:26Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2020-07-07T05:01:54Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Homer Simpson Goes To Washington",
+  "publisher": "The University Press of Kentucky",
+  "isPreorder": false,
+  "artistName": "Joseph J. Foy",
+  "primaryLocale": "en-US"
+}
