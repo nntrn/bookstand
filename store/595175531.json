@@ -1,0 +1,82 @@
+{
+  "id": "595175531",
+  "type": "books",
+  "title": "Backyard Farming: Raising Chickens",
+  "subtitle": "From Building Coops to Collecting Eggs and More",
+  "author": "Kim Pezza",
+  "isbn": "9781578264452",
+  "genreNames": [
+    "Lifestyle & Home",
+    "Books",
+    "Professional & Technical",
+    "Engineering",
+    "Science & Nature",
+    "Nature"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=595175531&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 14072047
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=595175531&pg=default&pricingParameters=STDQ",
+  "pageCount": 128,
+  "releaseDate": "2013-05-28",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "Backyard Farming"
+  },
+  "description": {
+    "standard": "<b>The backyard homesteader’s beginner-friendly guide to raising chickens—from planning and hatching to caring for your birds and enjoying their farm-fresh eggs!</b><br /><br /> Discover how to care for your flock! As a comprehensive primer for first-time chicken farmers,<b><i> </i></b><i>Raising Chickens</i> includes detailed illustrations and informative photographs to ease new homesteaders into the world of backyard chicken farming.<br /><br /> <i>Raising Chickens</i> takes you from start to finish. Inside, you will:<br /><br /> • Find the ideal breed of bird for your needs<br /> • Construct a coop to minimize your workload and maximize your enjoyment<br /> • Gather eggs for food, profit, or to hatch your own birds to grow your flock<br /> • Use the freshest eggs possible in a variety of delicious recipes<br /> • Tips and tricks from experienced farmers on avoiding common mistakes<br /><br /> <i>Raising Chickens</i> is your first big step to joining the growing movement of homemakers and homesteaders looking to make a return to a healthier, happier way of life—and it starts right in your own backyard."
+  },
+  "artwork": {
+    "width": 1650,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/4c/d5/f2/4cd5f2bb-4732-438d-0a34-ceb7f57954dc/9781578264452.jpg/{w}x{h}bb.{f}",
+    "height": 2475,
+    "textColor3": "464438",
+    "textColor2": "1a1813",
+    "textColor4": "48463c",
+    "assetToken": "Publication115/v4/4c/d5/f2/4cd5f2bb-4732-438d-0a34-ceb7f57954dc/9781578264452.jpg",
+    "textColor1": "18160f",
+    "bgColor": "fffcdf",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/backyard-farming-raising-chickens/id595175531",
+  "userRating": {
+    "value": 4.3,
+    "ratingCount": 3,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "4.3 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2013-05-22T01:47:56Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Backyard Farming: Raising Chickens",
+  "isPreorder": false,
+  "publisher": "Hatherleigh Press",
+  "artistName": "Kim Pezza",
+  "primaryLocale": "en-US"
+}
