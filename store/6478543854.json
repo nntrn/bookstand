@@ -1,0 +1,77 @@
+{
+  "id": "6478543854",
+  "type": "books",
+  "title": "The Smear",
+  "subtitle": "How Shady Political Operatives and Fake News Control What You See, What You Think, and How You Vote",
+  "author": "Sharyl Attkisson",
+  "isbn": "9780062468185",
+  "genreNames": [
+    "Political Science",
+    "Books",
+    "Politics & Current Events"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=6478543854&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2692465
+        }
+      ]
+    }
+  ],
+  "pageCount": 307,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6478543854&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2017-06-27",
+  "isIBook": false,
+  "description": {
+    "standard": "<b><i>New York Times </i>Bestseller</b><br /><br />Ever wonder how politics turned into a take-no-prisoners blood sport? The <i>New York Times</i> bestselling author of <i>Stonewalled</i> pulls back the curtain on the shady world of opposition research and reveals the dirty tricks those in power use to influence your opinions.<br /><br />Behind most major political stories in the modern era, there is an agenda; an effort by opposition researchers, spin doctors, and outside interests to destroy an idea or a person. The tactic they use is the Smear. Every day, Americans are influenced by the Smear without knowing it. Paid forces cleverly shape virtually every image you cross. Maybe you read that Donald Trump is a racist misogynist, or saw someone on the news mocking the Bernie Sanders campaign. The trick of the Smear is that it is often based on some shred of truth, but these media-driven \"hit pieces\" are designed to obscure the truth. Success hinges on the Smear artist’s ability to remain invisible; to make it seem as if their work is neither calculated nor scripted. It must appear to be precisely what it is not.<br /><br />Veteran journalist Sharyl Attkisson has witnessed this practice firsthand. After years of being pitched hit jobs and puff pieces, she’s an expert at detecting Smear campaigns. Now, the hard-hitting investigative reporter shares her inside knowledge, revealing how the Smear takes shape and who its perpetrators are—including Clinton confidant Sidney Blumenthal and, most influential of all, \"right-wing assassin turned left-wing assassin\" (<i>National Review</i>) political operative David Brock and his Media Matters for America empire.<br /><br />Attkisson exposes the diabolical tactics of Smear artists, and their outrageous access to the biggest names in political media—operatives who are corrupting the political process, and discouraging widespread citizen involvement in our democracy."
+  },
+  "artwork": {
+    "width": 1405,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/49/60/85/49608585-165e-0108-b98d-9c2be7f45f79/9780062468185.jpg/{w}x{h}bb.{f}",
+    "height": 2111,
+    "textColor3": "2e2e2f",
+    "textColor2": "222221",
+    "textColor4": "464646",
+    "assetToken": "Publication112/v4/49/60/85/49608585-165e-0108-b98d-9c2be7f45f79/9780062468185.jpg",
+    "textColor1": "040404",
+    "bgColor": "d9d9d9",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/the-smear/id6478543854",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-02-27T15:41:02Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Smear",
+  "isPreorder": false,
+  "publisher": "HarperCollins",
+  "artistName": "Sharyl Attkisson",
+  "primaryLocale": "en-US"
+}

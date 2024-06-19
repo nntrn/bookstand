@@ -1,0 +1,90 @@
+{
+  "id": "887125719",
+  "type": "books",
+  "title": "Video Game Storytelling",
+  "subtitle": "What Every Developer Needs to Know about Narrative Techniques",
+  "author": "Evan Skolnick",
+  "isbn": "9780385345835",
+  "genreNames": [
+    "Games",
+    "Books",
+    "Arts & Entertainment",
+    "Art & Architecture",
+    "Computers & Internet",
+    "Programming"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=887125719&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3607924
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=887125719&pg=default&pricingParameters=STDQ",
+  "pageCount": 208,
+  "releaseDate": "2014-12-02",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>UNLOCK YOUR GAME'S NARRATIVE POTENTIAL!<br /></b><br />With increasingly sophisticated video games being consumed by an enthusiastic and expanding audience, the pressure is on game developers like never before to deliver exciting stories and engaging characters. With <i>Video Game Storytelling</i>, game writer and producer Evan Skolnick provides a comprehensive yet easy-to-follow guide to storytelling basics and how they can be applied at every stage of the development process—by all members of the team. This clear, concise reference pairs relevant examples from top games and other media with a breakdown of the key roles in game development, showing how a team’s shared understanding and application of core storytelling principles can deepen the player experience. Understanding story and why it matters is no longer just for writers or narrative designers. From team leadership to game design and beyond, Skolnick reveals how each member of the development team can do his or her part to help produce gripping, truly memorable narratives that will enhance gameplay and bring today’s savvy gamers back time and time again."
+  },
+  "artwork": {
+    "width": 1836,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/d8/6c/d8/d86cd83d-2ba3-cb1e-a1d3-ba2a7e2ee059/9780385345835.jpg/{w}x{h}bb.{f}",
+    "height": 2752,
+    "textColor3": "c9cd54",
+    "textColor2": "faea39",
+    "textColor4": "cfc741",
+    "assetToken": "Publication3/v4/d8/6c/d8/d86cd83d-2ba3-cb1e-a1d3-ba2a7e2ee059/9780385345835.jpg",
+    "textColor1": "f3f250",
+    "bgColor": "233c64",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/video-game-storytelling/id887125719",
+  "userRating": {
+    "value": 3.7,
+    "ratingCount": 3,
+    "ratingCountList": [
+      1,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "3.7 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-03-09T03:15:15Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2014-12-03T19:31:31Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2014-11-14T17:57:45Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Video Game Storytelling",
+  "isPreorder": false,
+  "publisher": "Clarkson Potter/Ten Speed",
+  "artistName": "Evan Skolnick",
+  "primaryLocale": "en-US"
+}
