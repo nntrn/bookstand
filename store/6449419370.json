@@ -1,0 +1,93 @@
+{
+  "id": "6449419370",
+  "type": "books",
+  "title": "60 Songs That Explain the '90s",
+  "subtitle": null,
+  "author": "Rob Harvilla",
+  "isbn": "9781538764947",
+  "genreNames": [
+    "Music",
+    "Books",
+    "Arts & Entertainment",
+    "Humor",
+    "Biographies & Memoirs"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=3990&salableAdamId=6449419370&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$3.99",
+      "price": 3.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9850068
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6449419370&pg=default&pricingParameters=STDQ",
+  "pageCount": 320,
+  "pageProgressionDirection": "ltr",
+  "releaseDate": "2023-11-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>NAMED A BEST MUSIC BOOK OF 2023 by&#xa0;<i>PITCHFORK,&#xa0;</i><i>VARIETY,&#xa0;</i>AND <i>ROLLING STONE</i><br /><br /> A companion to the #1 music podcast on Spotify, this book takes readers through the greatest hits that define a weirdly undefinable decade.&#xa0;</b><br /><br /> The 1990s were a chaotic and gritty and utterly magical time for music, a confounding barrage of genres and lifestyles and superstars, from grunge to hip-hop, from sumptuous R&amp;B to rambunctious ska-punk, from Axl to Kurt to Missy to Santana to Tupac to Britney. In 60 SONGS THAT EXPLAIN THE '90s,&#xa0;<i>Ringer</i>&#xa0;music critic Rob Harvilla reimagines all the earwormy, iconic hits Gen Xers pine for with vivid historical storytelling, sharp critical analysis, rampant loopiness, and wryly personal ruminations on the most bizarre, joyous, and inescapable songs from a decade we both regret entirely and miss desperately."
+  },
+  "artwork": {
+    "width": 1722,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/76/86/99/76869998-8d70-67e0-86f9-3954df5676f1/9781538764947.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "31322f",
+    "textColor2": "29045c",
+    "textColor4": "4d3074",
+    "assetToken": "Publication126/v4/76/86/99/76869998-8d70-67e0-86f9-3954df5676f1/9781538764947.jpg",
+    "textColor1": "060606",
+    "bgColor": "e0e1d3",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/60-songs-that-explain-the-90s/id6449419370",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 9,
+    "ratingCountList": [
+      0,
+      0,
+      2,
+      1,
+      6
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-02-20T08:18:25Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-10-06T08:03:35Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "60 Songs That Explain the '90s",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "<em>The Ringer</em> staff writer Harvilla debuts with a fun and freewheeling look back at the music of the 1990s. Expanding on his podcast of the same name (and here covering more than 100 songs), Harvilla mixes musical analysis, cultural history, and \"whimsical personal digressions\" to celebrate musical \"chaos agents,\" including Madonna and her \"provocateur euphoria\"; \"sellouts (or not) (or maybe)\" such as Metallica drummer Lars Uhlrich (\"Lars is a god, an all-timer, a Hall of Famer, whatever. But he's also a crazy overrated drummer. He's flash over competence. He's ostentatious,\" the author good-naturedly complains); and  post-hardcore band Fugazi, who \"refused to do a cash-grab reunion tour\" after their 2001 breakup and exemplify \"the precise opposite of selling out.\" An especially excellent chapter teases out the condescending implications of reflexively calling female rockers \"badasses\" (\"You feel compelled to praise female artists by clumsily asserting they're tougher than men\") before giving props to Alanis Morissette and Sinéad O'Connor. Making no attempt to frame the '90s as a \"halcyon era,\" Harvilla renders the decade as an ordinary time made \"spectacular\" by the music that enlivened it. Among his most memorable musings are his reflections on Tom Petty's 1994 song \"It's Good to Be King,\" a \"reverie that has always made me shut my eyes and gaze out of my car window... even if I wasn't in a car.\" It adds up to a funny and poignant love letter to a decade that's \"far enough away to feel like the past, but close enough to still be hounding the present.\" ",
+      "date": "Mon Oct 02 00:00:00 PDT 2023",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "isPreorder": false,
+  "publisher": "Grand Central Publishing",
+  "artistName": "Rob Harvilla",
+  "primaryLocale": "en-US"
+}

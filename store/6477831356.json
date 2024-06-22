@@ -1,0 +1,75 @@
+{
+  "id": "6477831356",
+  "type": "books",
+  "title": "Mary Poppins, She Wrote",
+  "subtitle": "The Life of P. L. Travers",
+  "author": "Valerie Lawson",
+  "isbn": "9781476762937",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=6477831356&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 26092502
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6477831356&pg=default&pricingParameters=STDQ",
+  "pageCount": 417,
+  "releaseDate": "2013-12-03",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>THE ONLY TRUE STORY BEHIND THE CREATOR OF MARY POPPINS</b><br /><br /><b>The remarkable life of P.L. Travers, the creator of Mary Poppins—perfect for fans of the movie <i>Mary Poppins Returns</i> and the original Disney classic!</b><br /><br /><b>“An arresting life…Lawson is superb at excavating the details.” —<i>Library Journal</i></b><br /><br />The spellbinding stories of Mary Poppins, the quintessentially English and utterly magical nanny, have been loved by generations. She flew into the lives of the unsuspecting Banks family in a children’s book that was instantly hailed as a classic, then became a household name when Julie Andrews stepped into the title role in Walt Disney’s hugely successful and equally classic film. But the Mary Poppins in the stories was not the cheery film character. She was tart and sharp, plain and vain. She was a remarkable character.<br /><br /> The story of Mary Poppins’ creator, as this definitive biography reveals, is equally remarkable. The fabulous English nanny was actually conceived by an Australian, Pamela Lyndon Travers, who came to London in 1924 from Queensland as a journalist. She became involved with Theosophy, traveled in the literary circles of W.B. Yeats and T.S. Eliot, and became a disciple of the famed spiritual guru, Gurdjieff. She famously clashed with Walt Disney over the adaptation of the Mary Poppins books into film. Travers, whom Disney accused of vanity for “thinking you know more about Mary Poppins than I do,” was as tart and opinionated as Julie Andrews’s big-screen Mary Poppins was cheery. Yet it was a love of mysticism and magic that shaped Travers’s life as well as the character of Mary Poppins. The clipped, strict, and ultimately mysterious nanny who emerged from her pen was the creation of someone who remained inscrutable and enigmatic to the end of her ninety-six years.<br /><br /> Valerie Lawson’s illuminating biography provides the first full look whose personal journey is as intriguing as her beloved characters."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/cf/24/26/cf2426f9-254c-7b06-37f2-1c4c61506b55/9781476762937.jpg/{w}x{h}bb.{f}",
+    "height": 2071,
+    "textColor3": "393939",
+    "textColor2": "001b30",
+    "textColor4": "334859",
+    "assetToken": "Publication126/v4/cf/24/26/cf2426f9-254c-7b06-37f2-1c4c61506b55/9781476762937.jpg",
+    "textColor1": "080808",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/mary-poppins-she-wrote/id6477831356",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-02-13T16:04:48Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Mary Poppins, She Wrote",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "artistName": "Valerie Lawson",
+  "primaryLocale": "en-US"
+}
