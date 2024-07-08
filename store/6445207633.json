@@ -1,0 +1,78 @@
+{
+  "id": "6445207633",
+  "type": "books",
+  "title": "Writing for Social Scientists",
+  "subtitle": "How to Start & Finish Your Thesis, Book, or Article",
+  "author": "Howard S. Becker",
+  "isbn": "9780226644097",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=6445207633&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1508130
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6445207633&pg=default&pricingParameters=STDQ",
+  "pageCount": 193,
+  "releaseDate": "2020-09-01",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>The classic guide to avoiding pitfalls and achieving success in academic writing—in a fully updated edition with a new preface by the author.</b><br /><br />For decades, <i>Writing for Social Scientist</i>s has been a lifeboat for academic writers of all fields, from beginning students to seasoned professionals. With reassuring candor, author and sociologist Howard S. Becker identifies some of the common problems all academic writers face, including from procrastination and stifling perfectionism to getting caught up in the trappings of “proper” academic writing, and struggling with the when and how of citations. He then offers concrete advice, based on his own experiences and those of his students and colleagues, for overcoming these obstacles and gaining confidence as a writer.<br /><br />This new edition has been updated throughout to reflect the contemporary landscape of academic writing, offering a new generation of scholars and students encouragement to write about society or any other scholarly topic clearly and persuasively. As academics are called upon to write more often, in more formats, <i>Writing for Social Scientists</i> continues be an important resource for any writer’s shelf."
+  },
+  "artwork": {
+    "width": 1553,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/e7/53/d5/e753d5cf-2a22-e2b4-0217-6c1a847a48cb/9780226644097.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "1a3033",
+    "textColor2": "152e2e",
+    "textColor4": "214d50",
+    "assetToken": "Publication123/v4/e7/53/d5/e753d5cf-2a22-e2b4-0217-6c1a847a48cb/9780226644097.jpg",
+    "textColor1": "0d0b0a",
+    "bgColor": "51c6d8",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/writing-for-social-scientists/id6445207633",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2022-12-22T10:23:09Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Writing for Social Scientists",
+  "publisher": "The University of Chicago Press",
+  "isPreorder": false,
+  "artistName": "Howard S. Becker",
+  "primaryLocale": "en-US"
+}
