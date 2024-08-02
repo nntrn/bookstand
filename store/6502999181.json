@@ -1,0 +1,78 @@
+{
+  "id": "6502999181",
+  "type": "books",
+  "title": "On Death and Dying",
+  "subtitle": "What the Dying Have to Teach Doctors, Nurses, Clergy and Their Own Families",
+  "author": "Elisabeth Kübler-Ross",
+  "isbn": null,
+  "genreNames": [
+    "Social Science",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "Robert Blair",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=6502999181&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1125164
+        }
+      ]
+    }
+  ],
+  "pageCount": 414,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6502999181&pg=default&pricingParameters=STDQ",
+  "releaseDate": "1969-01-01",
+  "isIBook": false,
+  "description": {
+    "standard": "Written by Dr. Elisabeth Kübler--Ross this book explores the five stages of death: denial and isolation, anger, bargaining, depression, and acceptance. It’s uses interviews and conversations to give the reader a better understanding of how imminent death affects the patient, medical professionals and the patient's family."
+  },
+  "artwork": {
+    "width": 2480,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f4/71/db/f471db9a-60ae-2e7b-a207-392ab92c322b/On_Death_And_Dying.jpg/{w}x{h}bb.{f}",
+    "height": 3508,
+    "textColor3": "cbcbcb",
+    "textColor2": "d6d6d6",
+    "textColor4": "ababab",
+    "assetToken": "Publication211/v4/f4/71/db/f471db9a-60ae-2e7b-a207-392ab92c322b/On_Death_And_Dying.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "000000",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "version": "1",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/on-death-and-dying/id6502999181",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": "1",
+      "releaseDate": "2024-05-22T13:46:04Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "On Death and Dying",
+  "isPreorder": false,
+  "publisher": "Robert Blair",
+  "artistName": "Elisabeth Kübler-Ross",
+  "primaryLocale": "en-US"
+}

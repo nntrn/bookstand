@@ -1,0 +1,81 @@
+{
+  "id": "6476762185",
+  "type": "books",
+  "title": "Shadow Show",
+  "subtitle": "All-New Stories in Celebration of Ray Bradbury",
+  "author": "Sam Weller & Mort Castle",
+  "isbn": "9780062122698",
+  "genreNames": [
+    "Sci-Fi Short Stories",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Science Fiction & Literature",
+    "Fiction & Literature",
+    "Short Stories",
+    "Fantasy",
+    "Fantasy Short Stories"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=9990&salableAdamId=6476762185&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$9.99",
+      "price": 9.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2334520
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6476762185&pg=default&pricingParameters=STDQ",
+  "pageCount": 467,
+  "releaseDate": "2012-07-10",
+  "isIBook": false,
+  "description": {
+    "standard": "<i>What do you imagine when you hear the name</i> . . . Bradbury?<br /><br />You might see rockets to Mars. Or bizarre circuses where otherworldly acts whirl in the center ring. Perhaps you travel to a dystopian future, where books are set ablaze . . . or to an out-of-the-way sideshow, where animated illustrations crawl across human skin. Or maybe, suddenly, you're returned to a simpler time in small-town America, where summer perfumes the air and life is almost perfect . . . <i>almost</i>.<br /><br />Ray Bradbury—peerless storyteller, poet of the impossible, and one of America's most beloved authors—is a literary giant whose remarkable career has spanned seven decades. Now twenty-six of today's most diverse and celebrated authors offer new short works in honor of the master; stories of heart, intelligence, and dark wonder from a remarkable range of creative artists."
+  },
+  "artwork": {
+    "width": 1575,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/b9/74/47/b9744779-d8ee-0bbd-3df9-31eefd62e98a/9780062122698.jpg/{w}x{h}bb.{f}",
+    "height": 2366,
+    "textColor3": "c8ccce",
+    "textColor2": "c1c2c5",
+    "textColor4": "9c9fa1",
+    "assetToken": "Publication126/v4/b9/74/47/b9744779-d8ee-0bbd-3df9-31eefd62e98a/9780062122698.jpg",
+    "textColor1": "f7fbfe",
+    "bgColor": "0a1010",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/shadow-show/id6476762185",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-01-26T09:14:08Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Shadow Show",
+  "publisher": "HarperCollins",
+  "isPreorder": false,
+  "artistName": "Sam Weller & Mort Castle",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "6444250493",
+  "type": "books",
+  "title": "Nobody's Fool",
+  "subtitle": "Why We Get Taken In and What We Can Do about It",
+  "author": "Daniel Simons & Christopher Chabris",
+  "isbn": "9781541602243",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Psychology",
+    "Nonfiction",
+    "True Crime"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>From two <i>New York Times</i>-bestselling psychologists, “an engaging master class in how to foil purveyors of false promises” (Philip E. Tetlock, author of <i>Superforecasting</i>)</b><br /> &#xa0;<br /> From phishing scams to Ponzi schemes, fraudulent science to fake art, chess cheaters to crypto hucksters, and marketers to magicians, our world brims with deception. In&#xa0;<i>Nobody’s Fool</i>, psychologists Daniel Simons and Christopher Chabris show us how to avoid being taken in. They describe the key habits of thinking and reasoning that serve us well most of the time but make us vulnerable—like our tendency to accept what we see, stick to our commitments, and overvalue precision and consistency. Each chapter illustrates their new take on the science of deception, describing scams you’ve never heard of and shedding new light on some you have. Simons and Chabris provide memorable maxims and practical tools you can use to spot deception before it’s too late.&#xa0;<br /> &#xa0;<br /> Informative, illuminating, and entertaining,&#xa0;<i>Nobody’s Fool</i>&#xa0;will protect us from charlatans in all their forms—and delight us along the way. &#xa0;"
+  },
+  "screenshots": [],
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-01-03T09:25:33Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-05-25T07:22:14Z"
+    }
+  ],
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=18990&salableAdamId=6444250493&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$18.99",
+      "price": 18.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2386989
+        }
+      ]
+    }
+  ],
+  "pageCount": 336,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6444250493&pg=default&pricingParameters=STDQ",
+  "audience": "Grades 9-17",
+  "releaseDate": "2023-07-11",
+  "isIBook": false,
+  "artwork": {
+    "width": 1677,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/5a/dc/ac/5adcac33-8e0b-7186-578a-ee9c2d669075/9781541602243.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "0c241e",
+    "textColor2": "23140d",
+    "textColor4": "1c3029",
+    "assetToken": "Publication112/v4/5a/dc/ac/5adcac33-8e0b-7186-578a-ee9c2d669075/9781541602243.jpg",
+    "textColor1": "0f0500",
+    "bgColor": "00a198",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/nobodys-fool/id6444250493",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "editorialArtwork": {},
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Simons, a psychology professor at the University of Illinois, and Chabris, a behavioral science professor at Geisinger Health System, follow up their <em>The Invisible Gorilla</em> with an eye-opening examination of the thought patterns that render people vulnerable to duplicity. From Ponzi schemes to art forgeries, the authors write, scams exploit cognitive patterns that \"serve us well most of the time\"—the tendency to focus only on information that's \"right in front of us,\" or make predictions based on experience—but reveal blind spots when fraudsters hijack them. Simons and Chabris dig into a trove of scams, among them Bernie Madoff's $20 billion \"mother of all Ponzi schemes,\" which duped investors in part thanks to the \"smooth, consistent\" upward returns he fabricated; phishing emails that replicate the format of legitimate messages; and TV psychics who capitalize on emotionally vulnerable audiences. The authors explain that while fraud can't be entirely prevented, one can be less vulnerable to it by fact-checking claims, being skeptical of studies with unrealistically potent results, and learning to recognize \"nonresponses\" to information requests. Replete with fascinating examples, including the 2022 FTX cryptocurrency collapse and the classic \"Nigerian prince\" email scam, this entry provides smart, succinct analyses based in solid cognitive science principles. The gullible and skeptical alike will find plenty to chew on.  ",
+      "date": "Mon Apr 10 00:00:00 PDT 2023",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Nobody's Fool",
+  "isPreorder": false,
+  "publisher": "Basic Books",
+  "artistName": "Daniel Simons & Christopher Chabris",
+  "primaryLocale": "en-US"
+}

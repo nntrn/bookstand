@@ -1,0 +1,94 @@
+{
+  "id": "627873389",
+  "type": "books",
+  "title": "Something Wicked This Way Comes",
+  "subtitle": null,
+  "author": "Ray Bradbury",
+  "isbn": "9780062242174",
+  "genreNames": [
+    "Fantasy",
+    "Books",
+    "Sci-Fi & Fantasy",
+    "Fiction & Literature",
+    "Literary Fiction",
+    "Science Fiction"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=3990&salableAdamId=627873389&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$3.99",
+      "price": 3.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 778956
+        }
+      ]
+    }
+  ],
+  "pageCount": 304,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=627873389&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2013-04-23",
+  "isIBook": false,
+  "description": {
+    "standard": "Few American novels written this century have endured in th heart and mind as has this one-Ray Bradbury's incomparable masterwork of the dark fantastic. A carnival rolls in sometime after the midnight hour on a chill Midwestern October eve, ushering in Halloween a week before its time. A calliope's shrill siren song beckons to all with a seductive promise of dreams and youth regained. In this season of dying, Cooger &amp; Dark's Pandemonium Shadow Show has come to Green Town, Illinois, to destroy every life touched by its strange and sinister mystery. And two inquisitive boys standing precariously on the brink of adulthood will soon discover the secret of the satanic raree-show's smoke, mazes, and mirrors, as they learn all too well the heavy cost of wishes -- and the stuff of nightmare."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/62/e5/cf/62e5cf03-3d44-96eb-8065-a56d4508b05e/9780062242174.jpg/{w}x{h}bb.{f}",
+    "height": 2317,
+    "textColor3": "cdcac3",
+    "textColor2": "c3c8bd",
+    "textColor4": "9fa29a",
+    "assetToken": "Publication/v4/62/e5/cf/62e5cf03-3d44-96eb-8065-a56d4508b05e/9780062242174.jpg",
+    "textColor1": "fdf9f0",
+    "bgColor": "0d0d0d",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/something-wicked-this-way-comes/id627873389",
+  "screenshots": [],
+  "userRating": {
+    "value": 4.1,
+    "ratingCount": 313,
+    "ratingCountList": [
+      18,
+      9,
+      52,
+      81,
+      153
+    ],
+    "ariaLabelForRatings": "4.1 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2019-10-25T09:53:40Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2017-10-04T19:58:34Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2015-04-17T02:16:47Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2013-04-02T23:08:00Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Something Wicked This Way Comes",
+  "isPreorder": false,
+  "publisher": "William Morrow Paperbacks",
+  "artistName": "Ray Bradbury",
+  "primaryLocale": "en-US"
+}

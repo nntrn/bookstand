@@ -1,0 +1,86 @@
+{
+  "id": "6501975623",
+  "type": "books",
+  "title": "The Intelligent Conversationalist",
+  "subtitle": "31 Cheat Sheets That Will Show You How to Talk to Anyone About Anything, Anytime",
+  "author": "Imogen Lloyd Webber",
+  "isbn": "9781466835849",
+  "genreNames": [
+    "Self-Improvement",
+    "Books",
+    "Health, Mind & Body",
+    "Professional & Technical",
+    "Education",
+    "Language Arts & Disciplines"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=6501975623&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 21193532
+        }
+      ]
+    }
+  ],
+  "pageCount": 377,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6501975623&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2016-06-07",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>“Gives readers the background and resources they need to effectively discuss a range of issues&#xa0;.&#xa0;.&#xa0;. as practical as it is hilarious.” —<i>Bustle</i></b><br /><br />Have you ever been at a cocktail party when all of a sudden you feel like an outsider in the conversation because you have absolutely no idea what the person is talking about? You’re standing around with a glass of wine and someone starts talking about how the stock market did that day leading to the career highs of Ben Bernanke and the best way to short a stock. You stand there completely silent because you know nothing about the stock market, let alone the history of economics. You’re being pushed to the outside edge of the pack and there’s no way to reach gracefully for your iPhone and Google. <br /><br />Fear not: Imogen Lloyd Webber is on a mission to make everyone as conversationally nimble as she has learned to be as a cable news pundit. Her solution: get a few cheat sheets and study up. Remember cheat sheets, those slips of paper filled with facts? As Imogen might say “Google is good, but a cheat sheet is forever&#xa0;.&#xa0;.&#xa0;. ” In eight cheat sheets, Imogen takes you through the facts that come up in most conversations: the English language, math/economics, religion, history, politics, geography, biology and culture. From the history of money to who signed The Magna Carta, Imogen shows you how to get back in a conversation, win any argument and most importantly, how to pivot out of a tough conversational bind. Imogen Lloyd Webber’s <i>The Intelligent Conversationalist </i>will help you talk with anyone about anything anytime."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4d/87/1b/4d871bc9-7975-4baf-f9f5-57db74363dd4/9781466835849.jpg/{w}x{h}bb.{f}",
+    "height": 2098,
+    "textColor3": "3f3f3e",
+    "textColor2": "1f1f1f",
+    "textColor4": "4c4c4a",
+    "assetToken": "Publication221/v4/4d/87/1b/4d871bc9-7975-4baf-f9f5-57db74363dd4/9781466835849.jpg",
+    "textColor1": "10100f",
+    "bgColor": "fefff9",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-intelligent-conversationalist/id6501975623",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-05-03T23:05:57Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-05-01T04:36:46Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Intelligent Conversationalist",
+  "publisher": "St. Martin's Publishing Group",
+  "isPreorder": false,
+  "artistName": "Imogen Lloyd Webber",
+  "primaryLocale": "en-US"
+}

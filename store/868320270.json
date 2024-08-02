@@ -1,0 +1,149 @@
+{
+  "id": "868320270",
+  "type": "books",
+  "title": "Thoughts on Design",
+  "subtitle": null,
+  "author": "Paul Rand",
+  "isbn": "9781452130651",
+  "genreNames": [
+    "Design",
+    "Books",
+    "Professional & Technical"
+  ],
+  "seller": "Chronicle Books LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=868320270&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 8982246
+        }
+      ]
+    }
+  ],
+  "pageCount": 96,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=868320270&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2014-08-19",
+  "isIBook": false,
+  "description": {
+    "standard": "One of the seminal texts of graphic design, Paul Rand's Thoughts on Design is now available for the first time since the 1970s. Writing at the height of his career, Rand articulated in his slender volume the pioneering vision that all design should seamlessly integrate form and function. This facsimile edition preserves Rand's original 1947 essay with the adjustments he made to its text and imagery for a revised printing in 1970, and adds only an informative and inspiring new foreword by design luminary Michael Bierut. As relevant today as it was when first published, this classic treatise is an indispensable addition to the library of every designer."
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/f9/13/e3/f913e3d3-d5b4-cbc8-2c72-0f45263e2e6d/9781452130651.jpg/{w}x{h}bb.{f}",
+    "height": 1763,
+    "textColor3": "d8d8d8",
+    "textColor2": "d2d4d9",
+    "textColor4": "b5b5ba",
+    "assetToken": "Publication4/v4/f9/13/e3/f913e3d3-d5b4-cbc8-2c72-0f45263e2e6d/9781452130651.jpg",
+    "textColor1": "ffffff",
+    "bgColor": "3f3d40",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [
+    {
+      "width": 768,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication2/v4/7b/d9/6c/7bd96ca3-f147-6314-5041-177782f9879a/9781452130651_001_screenshot.png/{w}x{h}bb.{f}",
+      "height": 1024,
+      "textColor3": "313131",
+      "textColor2": "1d1d1d",
+      "textColor4": "494949",
+      "assetToken": "Publication2/v4/7b/d9/6c/7bd96ca3-f147-6314-5041-177782f9879a/9781452130651_001_screenshot.png",
+      "textColor1": "000000",
+      "bgColor": "f8f8f8",
+      "hasP3": false
+    },
+    {
+      "width": 768,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/79/2a/b8/792ab8cf-cf91-5ea1-1939-e69cb418b00b/9781452130651_002_screenshot.png/{w}x{h}bb.{f}",
+      "height": 1024,
+      "textColor3": "313131",
+      "textColor2": "1d1d1d",
+      "textColor4": "494949",
+      "assetToken": "Publication/v4/79/2a/b8/792ab8cf-cf91-5ea1-1939-e69cb418b00b/9781452130651_002_screenshot.png",
+      "textColor1": "000000",
+      "bgColor": "f8f8f8",
+      "hasP3": false
+    },
+    {
+      "width": 768,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/3c/f8/de/3cf8dee6-2557-fa77-a92f-f9d2479199f6/9781452130651_003_screenshot.png/{w}x{h}bb.{f}",
+      "height": 1024,
+      "textColor3": "3c3c3c",
+      "textColor2": "232323",
+      "textColor4": "4d4d4d",
+      "assetToken": "Publication4/v4/3c/f8/de/3cf8dee6-2557-fa77-a92f-f9d2479199f6/9781452130651_003_screenshot.png",
+      "textColor1": "0d0d0d",
+      "bgColor": "f8f8f8",
+      "hasP3": false
+    },
+    {
+      "width": 768,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/6a/52/58/6a525829-5548-778c-2c5e-e1bd8a44ba0b/9781452130651_004_screenshot.png/{w}x{h}bb.{f}",
+      "height": 1024,
+      "textColor3": "353535",
+      "textColor2": "232323",
+      "textColor4": "4e4e4e",
+      "assetToken": "Publication4/v4/6a/52/58/6a525829-5548-778c-2c5e-e1bd8a44ba0b/9781452130651_004_screenshot.png",
+      "textColor1": "040404",
+      "bgColor": "f8f8f8",
+      "hasP3": false
+    },
+    {
+      "width": 768,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/6e/e1/36/6ee136f1-a671-fbdc-03c2-74bf629dda46/9781452130651_005_screenshot.png/{w}x{h}bb.{f}",
+      "height": 1024,
+      "textColor3": "343434",
+      "textColor2": "343434",
+      "textColor4": "5b5b5b",
+      "assetToken": "Publication/v4/6e/e1/36/6ee136f1-a671-fbdc-03c2-74bf629dda46/9781452130651_005_screenshot.png",
+      "textColor1": "040404",
+      "bgColor": "f8f8f8",
+      "hasP3": false
+    }
+  ],
+  "url": "https://books.apple.com/us/book/thoughts-on-design/id868320270",
+  "userRating": {
+    "value": 4.2,
+    "ratingCount": 32,
+    "ratingCountList": [
+      1,
+      1,
+      5,
+      10,
+      15
+    ],
+    "ariaLabelForRatings": "4.2 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2014-07-04T02:05:11Z"
+    }
+  ],
+  "editorialArtwork": {
+    "originalFlowcaseBrick": {
+      "width": 1778,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/a2/8c/c0/a28cc051-b39e-c81d-92da-c0ad35595029/mza_3687961547279307923.png/{w}x{h}{c}.{f}",
+      "height": 600,
+      "textColor3": "cdcbd0",
+      "textColor2": "eeeeef",
+      "textColor4": "cbcbcc",
+      "textColor1": "f0eef4",
+      "bgColor": "403f42",
+      "hasP3": false
+    }
+  },
+  "name": "Thoughts on Design",
+  "isPreorder": false,
+  "publisher": "Chronicle Books LLC",
+  "artistName": "Paul Rand",
+  "primaryLocale": "en-US"
+}

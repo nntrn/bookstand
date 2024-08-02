@@ -1,0 +1,92 @@
+{
+  "id": "660526578",
+  "type": "books",
+  "title": "Pitch Perfect",
+  "subtitle": "How to Say It Right the First Time, Every Time",
+  "author": "Bill McGowan",
+  "isbn": "9780062273239",
+  "genreNames": [
+    "Marketing & Sales",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Careers"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=19990&salableAdamId=660526578&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$19.99",
+      "price": 19.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1221738
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=660526578&pg=default&pricingParameters=STDQ",
+  "pageCount": 288,
+  "releaseDate": "2014-04-01",
+  "isIBook": false,
+  "description": {
+    "standard": "Media guru and Emmy Award-winning correspondent Bill McGowan—coach to some of the biggest names in business and entertainment, including Eli Manning, Kelly Clarkson, Jack Welch, Thomas Keller and Kenneth Cole teaches you how to get your message across and get what you want with pitch perfect communication.&#xa0; He is also a trusted advisor in the C-suites of tech companies like, Facebook, Spotify, AirBnB, Dropbox and Salesforce.com.<br /><br />Saying the right thing the right way can make the difference between sealing the deal or losing the account, getting a promotion, or getting a pink slip. It’s essential to be pitch perfect—to get the right message across to the right person at the right time. In Pitch Perfect, Bill McGowan shows you how to craft the right message and deliver it using the right language—both verbal and nonverbal.<br /><br />Pitch Perfect teaches you how to overcome common communication pitfalls using McGowan’s simple Principles of Persuasion, which are highly effective and easy to learn, implement, and master. With Pitch Perfect you can harness the power of persuasion and have people not only listening closely to your every word but also remembering you long after you’ve left the room."
+  },
+  "artwork": {
+    "width": 2146,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/39/1e/2a/391e2a1a-b9e9-e6c2-3559-972031a1ba47/9780062273239.jpg/{w}x{h}bb.{f}",
+    "height": 3238,
+    "textColor3": "392d07",
+    "textColor2": "342c15",
+    "textColor4": "5c4c12",
+    "assetToken": "Publication116/v4/39/1e/2a/391e2a1a-b9e9-e6c2-3559-972031a1ba47/9780062273239.jpg",
+    "textColor1": "080507",
+    "bgColor": "ffca06",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/pitch-perfect/id660526578",
+  "userRating": {
+    "value": 3.5,
+    "ratingCount": 51,
+    "ratingCountList": [
+      8,
+      3,
+      9,
+      15,
+      16
+    ],
+    "ariaLabelForRatings": "3.5 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-03-24T10:03:44Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2014-03-18T21:52:10Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Communications coach McGowan, a former television news anchor, offers a deftly written guide for improving presentation skills. Writing with Bowman, McGowan walks readers through lessons for getting the results they want, making their points in less time, overcoming anxiety, and getting more done. He covers persuasion, self-pacing, mastering successful body positioning, gestures, and facial language, clothing, thinking on your feet, and overcoming the tendency to use wishy-washy language. The book particularly shines when McGowan turns his talent for engaging narrative to entertaining use. For example, his \"Scorcese Principle,\" which stresses that the best way to get your point across is to be entertaining and interesting, or his suggestion that readers follow the model of Mad Men's Don Draper in condensing points down to ad-lines. In addition, McGowan includes scripts for interesting cocktail-party chatter and the much-feared public speaking engagement. Though much of the content is aimed at improving professional pitches and conversations, the advice can be extrapolated to getting any conversation started on the right foot; he later addresses better communication at critical points in one's life, such as wedding toasts, eulogies, and meeting future in-laws. The book is an in-depth training course for better communication and self-presentation, and invaluable for anyone looking to make their conversations and presentations more impactful. 13 b&w illus. ",
+      "date": "Mon Feb 17 00:00:00 PST 2014",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Pitch Perfect",
+  "publisher": "Harper Business",
+  "isPreorder": false,
+  "artistName": "Bill McGowan",
+  "primaryLocale": "en-US"
+}

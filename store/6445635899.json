@@ -1,0 +1,93 @@
+{
+  "id": "6445635899",
+  "type": "books",
+  "title": "Most Delicious Poison",
+  "subtitle": "The Story of Nature's Toxins—From Spices to Vices",
+  "author": "Noah Whiteman",
+  "isbn": "9780316386777",
+  "genreNames": [
+    "Life Sciences",
+    "Books",
+    "Science & Nature",
+    "Ecology",
+    "Chemistry"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>An evolutionary biologist tells the story of nature’s toxins and why we are attracted—and addicted—to them, in this “magisterial, fascinating, and gripping tour de force” (Neil Shubin).</b><br /> A deadly secret lurks within our spice racks, medicine cabinets, backyard gardens, and private stashes.<br /><br /> Scratch beneath the surface of a coffee bean, a red pepper flake, a poppy seed, a mold spore, a foxglove leaf, a magic-mushroom cap, a marijuana bud, or an apple seed, and we find a bevy of strange chemicals. We use these to greet our days (caffeine), titillate our tongues (capsaicin), recover from surgery (opioids), cure infections (penicillin), mend our hearts (digoxin), bend our minds (psilocybin), calm our nerves (CBD), and even kill our enemies (cyanide). But why do plants and fungi produce such chemicals? And how did we come to use and abuse some of them?<br /><br /> Based on cutting-edge science in the fields of evolution, chemistry, and neuroscience,&#xa0;<i>Most Delicious Poison</i> reveals:  The origins of toxins produced by plants, mushrooms, microbes, and even some animals  The mechanisms that animals evolved to overcome them  How a co-evolutionary arms race made its way into the human experience  And much more <br /> This perpetual chemical war not only drove the diversification of life on Earth, but also is intimately tied to our own successes and failures. You will never look at a houseplant, mushroom, fruit, vegetable, or even the past five hundred years of human history the same way again."
+  },
+  "screenshots": [],
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-02-20T08:20:54Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-09-27T08:14:36Z"
+    }
+  ],
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=6445635899&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 25326325
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6445635899&pg=default&pricingParameters=STDQ",
+  "pageCount": 304,
+  "releaseDate": "2023-10-24",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1675,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/22/af/53/22af5378-6266-6dd5-4335-a426883b59ef/9780316386777.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "75b431",
+    "textColor2": "9edb5f",
+    "textColor4": "81b14e",
+    "assetToken": "Publication116/v4/22/af/53/22af5378-6266-6dd5-4335-a426883b59ef/9780316386777.jpg",
+    "textColor1": "8fdf3b",
+    "bgColor": "0b0b0b",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/most-delicious-poison/id6445635899",
+  "userRating": {
+    "value": 4,
+    "ratingCount": 6,
+    "ratingCountList": [
+      1,
+      0,
+      1,
+      0,
+      4
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "editorialArtwork": {},
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "This amusing debut from Whiteman, an evolutionary biology professor at UC Berkeley, explores the \"ways that toxins from nature arose, have been used by us humans and other animals, and have consequently changed the world.\" Natural toxins including capsaicin (the chemical that \"produces the heat we feel when we eat chilies\") and morphine evolved to protect plants from herbivores, Whiteman explains, noting that coffee plants developed caffeine as a natural insecticide capable of killing predatory beetles, butterflies, and mosquitoes (humans' larger bodies are able to metabolize significantly larger doses, tempering the poisonous effects). Digging into the biochemistry of how toxins work, Whiteman observes that ethanol mimics the GABA neurotransmitter that the \"brains of all animals use to dampen the activity of the nervous system,\" binding to GABA receptors and causing sleepiness. There's plenty of fascinating tidbits (mild toxins in saffron might be as effective at treating depression as Prozac), but Whiteman's personal stories can be hit-or-miss, with touching reflections on his father's battle with alcoholism appearing alongside superfluous anecdotes about his dog narrowly surviving after eating caffeine pills. Still, this is worth a look. ",
+      "date": "Mon Aug 28 00:00:00 PDT 2023",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Most Delicious Poison",
+  "isPreorder": false,
+  "publisher": "Little, Brown and Company",
+  "artistName": "Noah Whiteman",
+  "primaryLocale": "en-US"
+}

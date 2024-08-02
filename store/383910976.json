@@ -1,0 +1,85 @@
+{
+  "id": "383910976",
+  "type": "books",
+  "title": "Through the Language Glass",
+  "subtitle": "Why the World Looks Different in Other Languages",
+  "author": "Guy Deutscher",
+  "isbn": "9781429970112",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=12990&salableAdamId=383910976&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$12.99",
+      "price": 12.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2038498
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=383910976&pg=default&pricingParameters=STDQ",
+  "pageCount": 320,
+  "releaseDate": "2010-08-31",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A masterpiece of linguistics scholarship, at once erudite and entertaining, confronts the thorny question of how—and whether—culture shapes language and language, culture</b><br /><br />Linguistics has long shied away from claiming any link between a language and the culture of its speakers: too much simplistic (even bigoted) chatter about the romance of Italian and the goose-stepping orderliness of German has made serious thinkers wary of the entire subject. But now, acclaimed linguist Guy Deutscher has dared to reopen the issue. Can culture influence language—and vice versa? Can different languages lead their speakers to different thoughts? Could our experience of the world depend on whether our language has a word for \"blue\"? <br /><br />Challenging the consensus that the fundaments of language are hard-wired in our genes and thus universal, Deutscher argues that the answer to all these questions is—yes. In thrilling fashion, he takes us from Homer to Darwin, from Yale to the Amazon, from how to name the rainbow to why Russian water—a \"she\"—becomes a \"he\" once you dip a tea bag into her, demonstrating that language does in fact reflect culture in ways that are anything but trivial. Audacious, delightful, and field-changing, <i>Through the Language Glass</i> is a classic of intellectual discovery."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/42/51/74/4251740d-0100-3828-9082-0ebd4019be43/9781429970112.jpg/{w}x{h}bb.{f}",
+    "height": 2114,
+    "textColor3": "414242",
+    "textColor2": "141514",
+    "textColor4": "424241",
+    "assetToken": "Publication/v4/42/51/74/4251740d-0100-3828-9082-0ebd4019be43/9781429970112.jpg",
+    "textColor1": "141514",
+    "bgColor": "f8f8f8",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/through-the-language-glass/id383910976",
+  "userRating": {
+    "value": 3.8,
+    "ratingCount": 18,
+    "ratingCountList": [
+      1,
+      2,
+      5,
+      2,
+      8
+    ],
+    "ariaLabelForRatings": "3.8 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2010-08-19T11:55:07Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "This fascinating pop-linguistics study contends that how we talk influences how we think about the world, from the way we give directions to the colors poets see. Drawing on everything from classics to anthropology and brain scans, linguist Deutscher (The Unfolding of Language) abjures the crude notion that language makes Italians frivolous or gives Hopis a mystical disregard for time. Rather, he insists that linguistic conventions subtly alter basic perceptions. The examples he highlights are delightful and thought-provoking: speakers of languages, such as French and German, in which inanimate objects have gender actually associate gendered qualities with objects; speakers of the Australian Guugu Yimithirr language denote spatial relationships by cardinal points      \"      look out for that big ant just north of your foot'\"      and therefore develop an internal compass that puts a GPS to shame. The author upsets a few linguistics apple carts, challenging both Noam Chomsky's theory of an innate human grammar and Steven Pinker's view of language as a cognitively neutral system for representing the environment. Deutscher's erudite yet entertaining arguments (and cunning illustrations) usually stick; they make for a fascinating exploration of culture's ability to shape the mind. Photos. ",
+      "date": "Mon Jun 28 00:00:00 PDT 2010",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "Through the Language Glass",
+  "isPreorder": false,
+  "publisher": "Henry Holt and Co.",
+  "artistName": "Guy Deutscher",
+  "primaryLocale": "en-US"
+}
