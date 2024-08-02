@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # update annotations.json and download book cover and store data
 
-set -e
+# set -e
 SCRIPT=$(realpath $0)
 DIR=${SCRIPT%/*}
 
@@ -13,7 +13,8 @@ _checkfile() {
     echo -e "${RELPATH} \033[0;32m✔\033[0m" 3>&2 2>&1 >&3 3>&-
     return 0
   elif [[ -f $1 ]]; then
-    echo -e "${RELPATH} \033[0;31m✘ FILE IS EMPTY\033[0m" 3>&2 2>&1 >&3 3>&-
+    echo -e "${RELPATH} \033[0;31m✘ FILE IS EMPTY\033[0m... Deleting" 3>&2 2>&1 >&3 3>&-
+    rm $1
     return 1
   else
     echo -e "${RELPATH} \033[0;31m✘ DOES NOT EXIST\033[0m" 3>&2 2>&1 >&3 3>&-
@@ -56,7 +57,9 @@ get_artwork_cover() {
   if [[ -f $STOREPATH ]]; then
     ARTWORK_URL="$(get_artwork_url $STOREPATH)"
     _log "Downloading artwork cover from $ARTWORK_URL"
-    curl -s --create-dirs -o $COVERPATH "$ARTWORK_URL" --fail
+    if [[ -n $ARTWORK_URL ]]; then
+      curl -s --create-dirs -o $COVERPATH "$ARTWORK_URL" --fail
+    fi
   fi
 }
 
@@ -66,9 +69,9 @@ run_jobs_for_asset() {
   COVER_PATH=covers/${BOOKID}.jpg
 
   if [[ $BOOKID == [0-9]* ]]; then
+    [[ -f $STORE_PATH && ! -s $STORE_PATH ]] && rm $STORE_PATH
     [[ ! -f $STORE_PATH ]] && scrape_book_api $BOOKID >$STORE_PATH
-    [[ ! -f $COVER_PATH ]] && get_artwork_cover $BOOKID
-
+    [[ ! -f $COVER_PATH && -s $STORE_PATH ]] && get_artwork_cover $BOOKID
     _checkfile $STORE_PATH
     _checkfile $COVER_PATH
   else
