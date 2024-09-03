@@ -1,0 +1,80 @@
+{
+  "id": "6477834796",
+  "type": "books",
+  "title": "Rule Makers, Rule Breakers",
+  "subtitle": "Tight and Loose Cultures and the Secret Signals that Direct Our Lives",
+  "author": "Michele Gelfand",
+  "isbn": "9781501152955",
+  "genreNames": [
+    "Sociology",
+    "Books",
+    "Nonfiction",
+    "Social Science",
+    "Health, Mind & Body",
+    "Psychology",
+    "Anthropology"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6477834796&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 9858054
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6477834796&pg=default&pricingParameters=STDQ",
+  "pageCount": 420,
+  "releaseDate": "2018-09-11",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A celebrated social psychologist offers a radical new perspective on cultural differences that reveals why some countries, cultures, and individuals take rules more seriously and how following the rules influences the way we think and act.</b><br /><br />In <i>Rule Makers, Rule Breakers</i>, Michele Gelfand, “an engaging writer with intellectual range” (<i>The</i><i>New York Times Book Review</i>), takes us on an epic journey through human cultures, offering a startling new view of the world and ourselves. With a mix of brilliantly conceived studies and surprising on-the-ground discoveries, she shows that much of the diversity in the way we think and act derives from a key difference—how tightly or loosely we adhere to social norms. Just as DNA affects everything from eye color to height, our tight-loose social coding influences much of what we do.<br /><br /> Why are clocks in Germany so accurate while those in Brazil are frequently wrong? Why do New Zealand’s women have the highest number of sexual partners? Why are red and blue states <i>really </i>so divided? Why was the Daimler-Chrysler merger ill-fated from the start? Why is the driver of a Jaguar more likely to run a red light than the driver of a plumber’s van? Why does one spouse prize running a tight ship while the other refuses to sweat the small stuff?<br /><br /> In search of a common answer, Gelfand spent two decades conducting research in more than fifty countries. Across all age groups, family variations, social classes, businesses, states, and nationalities, she has identified a primal pattern that can trigger cooperation or conflict. Her fascinating conclusion: behavior is highly influenced by the perception of threat.<br /><br /> “A useful and engaging take on human behavior” (<i>Kirkus Reviews</i>) with an approach that is consistently riveting, <i>Rule Makers, Ruler Breakers</i> thrusts many of the puzzling attitudes and actions we observe into sudden and surprising clarity."
+  },
+  "artwork": {
+    "width": 1400,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/77/65/c7/7765c7db-c241-4433-7d6f-e62a1e026c48/9781501152955.jpg/{w}x{h}bb.{f}",
+    "height": 2132,
+    "textColor3": "333333",
+    "textColor2": "1b1b1b",
+    "textColor4": "484848",
+    "assetToken": "Publication126/v4/77/65/c7/7765c7db-c241-4433-7d6f-e62a1e026c48/9781501152955.jpg",
+    "textColor1": "000000",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/rule-makers-rule-breakers/id6477834796",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-02-13T16:33:18Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Rule Makers, Rule Breakers",
+  "publisher": "Simon & Schuster",
+  "isPreorder": false,
+  "artistName": "Michele Gelfand",
+  "primaryLocale": "en-US"
+}

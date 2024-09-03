@@ -1,0 +1,100 @@
+{
+  "id": "456077326",
+  "type": "books",
+  "title": "Drawing on the Right Side of the Brain",
+  "subtitle": "The Definitive, 4th Edition",
+  "author": "Betty Edwards",
+  "isbn": "9781101561805",
+  "genreNames": [
+    "Art & Architecture",
+    "Books",
+    "Arts & Entertainment",
+    "Health, Mind & Body",
+    "Self-Improvement",
+    "Psychology"
+  ],
+  "seller": "PENGUIN GROUP USA, INC.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=456077326&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 85170516
+        }
+      ]
+    }
+  ],
+  "pageCount": 320,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=456077326&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2012-04-26",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A   revised edition of the classic bestselling how to draw book. A life-changing   book, this fully revised and updated edition of Drawing on the Right Side of   the Brain is destined to inspire generations of readers and artists to   come.</b><br /><br /> Translated into more than seventeen languages, Drawing on the Right Side of   the Brain is the world's most widely used instructional drawing book. Whether   you are drawing as a professional artist, as an artist in training, or as a   hobby, this book will give you greater confidence in your ability and deepen   your artistic perception, as well as foster a new appreciation of the world   around you. This revised/updated fourth edition includes:<br /><br /> •&#xa0;a new introduction;<br /> •&#xa0;crucial updates based on recent research on the brain's plasticity and the   enormous value of learning new skills/ utilizing the right hemisphere of the   brain;<br /> •&#xa0;new focus on how the ability to draw on the strengths of the right   hemisphere can serve as an antidote to the increasing left-brain emphasis in   American life-the worship of all that is linear, analytic, digital,   etc.;<br /> •&#xa0;an informative section that addresses recent research linking early   childhood \"scribbling\" to later language development and the   importance of parental encouragement of this activity;<br /> •&#xa0;and new reproductions of master drawings throughout"
+  },
+  "artwork": {
+    "width": 2199,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication20/v4/bd/bf/af/bdbfafdd-b4c8-c4db-7c70-12fe9e631f29/9781101561805.jpg/{w}x{h}bb.{f}",
+    "height": 2687,
+    "textColor3": "2b2018",
+    "textColor2": "161616",
+    "textColor4": "372e28",
+    "assetToken": "Publication20/v4/bd/bf/af/bdbfafdd-b4c8-c4db-7c70-12fe9e631f29/9781101561805.jpg",
+    "textColor1": "070503",
+    "bgColor": "b98c6d",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/drawing-on-the-right-side-of-the-brain/id456077326",
+  "screenshots": [],
+  "userRating": {
+    "value": 4,
+    "ratingCount": 26,
+    "ratingCountList": [
+      3,
+      2,
+      2,
+      4,
+      15
+    ],
+    "ariaLabelForRatings": "4.0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2022-03-03T03:18:05Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2017-08-30T02:23:52Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2017-02-25T02:13:35Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2016-05-11T01:22:10Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2012-04-10T04:46:38Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Drawing on the Right Side of the Brain",
+  "publisher": "Penguin Publishing Group",
+  "isPreorder": false,
+  "artistName": "Betty Edwards",
+  "primaryLocale": "en-US"
+}

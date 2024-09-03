@@ -1,0 +1,87 @@
+{
+  "id": "1623027030",
+  "type": "books",
+  "title": "Invention and Innovation",
+  "subtitle": "A Brief History of Hype and Failure",
+  "author": "Vaclav Smil",
+  "isbn": "9780262374255",
+  "genreNames": [
+    "Engineering",
+    "Books",
+    "Professional & Technical",
+    "Science & Nature",
+    "Science History"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=14990&salableAdamId=1623027030&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$14.99",
+      "price": 14.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 3031794
+        }
+      ]
+    }
+  ],
+  "pageCount": 232,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1623027030&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2023-02-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>From the <i>New York Times</i>-bestselling author, a new volume on the history of human ingenuity—and its attendant breakthroughs and busts.<br /></b><br /><br />Included in BILL GATES's 2023 Holiday Reading List Included in Lit Hub’s Most Anticipated Books of 2023 Included in The Next Big Idea Club’s February 2023 Must-Read Books  \"Every Smil book that I own is marked up with lots of notes that I take while reading. <i>Invention and Innovation</i> is no exception. Even when I disagree with him, I learn a lot from him...he always strengthens my thinking.\" —Bill Gates, Gates Notes<br /><br />The world is never finished catching up with Vaclav Smil. In his latest and perhaps most readable book, <i>Invention and Innovation</i>, the prolific author—a favorite of Bill Gates—pens an insightful and fact-filled jaunt through the history of human invention. Impatient with the hype that so often accompanies innovation, Smil offers in this book a clear-eyed corrective to the overpromises that accompany everything from new cures for diseases to AI. He reminds us that even after we go quite far along the invention-development-application trajectory, we may never get anything real to deploy. Or worse, even after we have succeeded by introducing an invention, its future may be marked by underperformance, disappointment, demise, or outright harm.<br /><br />Drawing on his vast breadth of scientific and historical knowledge, Smil explains the difference between invention and innovation, and looks not only at inventions that failed to dominate as promised (such as the airship, nuclear fission, and supersonic flight), but also at those that turned disastrous (leaded gasoline, DDT, and chlorofluorocarbons). And finally, most importantly, he offers a “wish list” of inventions that we most urgently need to confront the staggering challenges of the twenty-first century.<br /><br />Filled with engaging examples and pragmatic approaches, this book is a sobering account of the folly that so often attends human ingenuity—and how we can, and must, better align our expectations with reality."
+  },
+  "artwork": {
+    "width": 1536,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/3c/fa/4f/3cfa4f23-3dea-8d6e-6425-58cf2e5d530a/9780262374255.d.jpg/{w}x{h}bb.{f}",
+    "height": 2273,
+    "textColor3": "3b393a",
+    "textColor2": "272a1d",
+    "textColor4": "52544a",
+    "assetToken": "Publication112/v4/3c/fa/4f/3cfa4f23-3dea-8d6e-6425-58cf2e5d530a/9780262374255.d.jpg",
+    "textColor1": "0a0809",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/invention-and-innovation/id1623027030",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 7,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      3,
+      4
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-01-25T03:17:38Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Invention and Innovation",
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "Smil (<em>How the World Really Works</em>), a professor emeritus at the University of Manitoba, takes a thought-provoking look at what \"the long trajectory of inventions\" suggests about what to expect in the future. To offer \"a modest reminder of the world as it is, not the world of exaggerated claims or, even worse, the imaginary world of indefensible fantasies,\" Smil considers three types of \"failed inventions.\" There are \"unfulfilled promises,\" which arrived with great expectations, but ended up being so harmful they were banned (DDT and chlorofluorocarbons among them); \"disappointments,\" which initially seemed poised to dominate their markets, only to disappear (supersonic aircraft, for example); and \"eventual rejections,\" or inventions that would be game-changers, but won't arrive any time soon, such as high-speed travel in a vacuum and generating electricity through nuclear fusion. His survey leads him to a list of the inventions \"we need most\" (specifically in the fields of water treatment, agriculture, and electricity distribution) and to the sobering conclusion that the future will likely look like the past: full of failures. This is a solid corrective to the notion that human inventiveness can tackle any challenge. ",
+      "date": "Mon Oct 24 00:00:00 PDT 2022",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "isPreorder": false,
+  "publisher": "MIT Press",
+  "artistName": "Vaclav Smil",
+  "primaryLocale": "en-US"
+}
