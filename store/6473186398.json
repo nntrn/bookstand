@@ -1,0 +1,78 @@
+{
+  "id": "6473186398",
+  "type": "books",
+  "title": "Writing on Both Sides of the Brain",
+  "subtitle": "Breakthrough Techniques for People Who Write",
+  "author": "Henriette Anne Klauser",
+  "isbn": "9780063010253",
+  "genreNames": [
+    "Language Arts & Disciplines",
+    "Books",
+    "Professional & Technical",
+    "Education"
+  ],
+  "seller": "OpenRoad Integrated Media, LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=10990&salableAdamId=6473186398&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$10.99",
+      "price": 10.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 4962650
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6473186398&pg=default&pricingParameters=STDQ",
+  "pageCount": 129,
+  "releaseDate": "2020-04-14",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>A revolutionary approach to writing that will teach you how to express yourself fluently and with confidence for the rest of your life.</b><br /><br />In <i>Writing on Both Sides of the Brain</i>, author Henriette Anne Klauser offers writers breakthrough techniques to break through blocks and create and communicate yourself through words. From working <i>with</i> procrastination and fending off your inner critic to organizing your material and using creative visualization, this informative and empowering guide will help demystify the Right Brain/Left Brain thought processes and keep your words flowing.<br /><br /><b>“Definitely supportive. The biggest block any writer has is self-judgment. <i>Writing on Both Sides of the Brain</i> helps overcome the obstacles and tap into the creative powers within each writer.” —W. Timothy Gallwey, bestselling author of <i>The Inner Game of Tennis</i></b><br /><br /><b>“Amusing, interesting, and stimulating . . . should help many potential writers.” —Pulitzer Prize winner Donald M. Murray</b>"
+  },
+  "artwork": {
+    "width": 1500,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/7a/2b/07/7a2b075d-3930-07a8-06c5-5089e21a9897/9780063010253.jpg/{w}x{h}bb.{f}",
+    "height": 2274,
+    "textColor3": "332e2a",
+    "textColor2": "262421",
+    "textColor4": "4e4a44",
+    "assetToken": "Publication116/v4/7a/2b/07/7a2b075d-3930-07a8-06c5-5089e21a9897/9780063010253.jpg",
+    "textColor1": "040001",
+    "bgColor": "ece4cd",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/writing-on-both-sides-of-the-brain/id6473186398",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-11-27T16:15:12Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Writing on Both Sides of the Brain",
+  "isPreorder": false,
+  "publisher": "HarperCollins",
+  "artistName": "Henriette Anne Klauser",
+  "primaryLocale": "en-US"
+}

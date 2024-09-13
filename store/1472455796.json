@@ -1,0 +1,81 @@
+{
+  "id": "1472455796",
+  "type": "books",
+  "title": "Psychology in Minutes",
+  "subtitle": "200 Key Concepts Explained in an Instant",
+  "author": "Marcus Weeks",
+  "isbn": "9781848667228",
+  "genreNames": [
+    "Psychology",
+    "Books",
+    "Health, Mind & Body"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "seriesInfo": {
+    "seriesName": "In Minutes"
+  },
+  "description": {
+    "standard": "To what extent is memory based on mood? Why do we compare ourselves to others? Are there different types of intelligence? How do we change with age? This book answers all these questions and many more in 200 short and accessible essays. <br /><br />From Pavlov's dogs to experimental ethics and from the development of personality to cognitive behavioural therapy, this book will take you from the foundations of psychological thought to modern-day applications, drawing on recent research and established theories. Each essay is accompanied by an illustration or diagram to help unravel complex ideas.&#xa0;The principles of psychology apply to each and every one of us as they shed light on everything from our childhood development to our interaction with others - and <i>Psychology in Minutes</i> is the perfect insight to this fascinating subject. <br /><br /><b>Contents include:</b> Behaviourism, Experimental ethics, Problem solving, Illusions and paradoxes, Dream analysis, Management and leadership, Compliance and conformity, Attitudes and prejudices, Attraction, Moral development, Gender development, The big five personality traits, Classification of mental disorders, Criticisms of psychoanalysis, Positive psychology, Advertising and the media and The working environment."
+  },
+  "screenshots": [],
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": "1.0.0",
+      "releaseDate": "2019-07-11T02:09:46Z"
+    }
+  ],
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=1472455796&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 31245495
+        }
+      ]
+    }
+  ],
+  "pageCount": 416,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1472455796&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2015-03-19",
+  "isIBook": false,
+  "artwork": {
+    "width": 2621,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/4e/0f/ef/4e0fef45-27c7-a534-2441-135d847acdee/9781848667228.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "354348",
+    "textColor2": "0e1926",
+    "textColor4": "3c434a",
+    "assetToken": "Publication113/v4/4e/0f/ef/4e0fef45-27c7-a534-2441-135d847acdee/9781848667228.jpg",
+    "textColor1": "051924",
+    "bgColor": "f5ecd9",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "version": "1.0.0",
+  "url": "https://books.apple.com/us/book/psychology-in-minutes/id1472455796",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "editorialArtwork": {},
+  "name": "Psychology in Minutes",
+  "isPreorder": false,
+  "publisher": "Quercus Publishing",
+  "artistName": "Marcus Weeks",
+  "primaryLocale": "en-US"
+}
