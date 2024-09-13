@@ -1,0 +1,83 @@
+{
+  "id": "1286730773",
+  "type": "books",
+  "title": "How to Stay in Love",
+  "subtitle": "A Divorce Lawyer's Guide to Staying Together",
+  "author": "James J. Sexton",
+  "isbn": "9781250130785",
+  "genreNames": [
+    "Family & Relationships",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "Macmillan",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=11990&salableAdamId=1286730773&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$11.99",
+      "price": 11.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 2069661
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1286730773&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2018-04-10",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "description": {
+    "standard": "<b>Hard-hitting divorce lawyer James J. Sexton shares his insights and wisdom to help you reverse-engineer a healthy, fulfilling romantic relationship with <i>How to Stay in Love</i>.</b><br /><br />With two decades on the front lines of divorce Sexton has seen what makes formerly happy couples fall out of love and “lose the plot” of the story they were writing together. Now he reveals all of the “what-not-to-dos” for couples who want to build—and consistently work to preserve—a lasting, loving relationship. Sexton tells the unvarnished truth about love and marriage, diving straight into the most common issues that often arise from simple communication problems and relationships that develop by “default” instead of design. <br /><br />Though he deals constantly with the heartbreak of others, he still believes in romance and the transformative power of love. This book is his opportunity to use what he has learned from the mistakes of his clients to help individuals and couples find and preserve lasting connection.<br /><br />Previously published as <i>If You're In My Office, It's Already Too Late</i>."
+  },
+  "artwork": {
+    "width": 1611,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0c/66/f7/0c66f7d7-8090-2cb6-ee83-6223ea8b6d29/9781250130785.jpg/{w}x{h}bb.{f}",
+    "height": 2476,
+    "textColor3": "f1bb03",
+    "textColor2": "ffd41a",
+    "textColor4": "f1ae15",
+    "assetToken": "Publication113/v4/0c/66/f7/0c66f7d7-8090-2cb6-ee83-6223ea8b6d29/9781250130785.jpg",
+    "textColor1": "ffe405",
+    "bgColor": "bd1700",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/how-to-stay-in-love/id1286730773",
+  "userRating": {
+    "value": 4.6,
+    "ratingCount": 46,
+    "ratingCountList": [
+      0,
+      0,
+      4,
+      12,
+      30
+    ],
+    "ariaLabelForRatings": "4.6 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2020-01-06T23:05:44Z"
+    },
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2018-03-19T17:48:31Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "How to Stay in Love",
+  "publisher": "Henry Holt and Co.",
+  "isPreorder": false,
+  "artistName": "James J. Sexton",
+  "primaryLocale": "en-US"
+}
