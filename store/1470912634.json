@@ -1,0 +1,79 @@
+{
+  "id": "1470912634",
+  "type": "books",
+  "title": "Philosophy in Minutes",
+  "subtitle": "200 Key Concepts Explained in an Instant",
+  "author": "Marcus Weeks",
+  "isbn": "9781782066491",
+  "genreNames": [
+    "Philosophy",
+    "Books",
+    "Nonfiction"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=4990&salableAdamId=1470912634&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$4.99",
+      "price": 4.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 42687035
+        }
+      ]
+    }
+  ],
+  "pageCount": 416,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1470912634&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2014-02-06",
+  "isIBook": false,
+  "seriesInfo": {
+    "seriesName": "In Minutes"
+  },
+  "description": {
+    "standard": "<i>Philosophy in Minutes</i> distils 200 of the most important philosophical ideas into easily digestible, bite-sized sections. <br /><br />The core information for every topic - including debates such as the role of philosophy in science and religion, key thinkers from Aristotle to Marx, and introductions to morality and ethics - is explained in straightforward language, using illustrations to make the concepts easy to understand and remember. <br /><br />Whether you are perplexed by existentialism or pondering the notion of free will, this accessible small-format book will help any reader to quickly grasp the basics of this highly nuanced subject. <br /><br /><b>Chapters include:</b> Truth and logic, Marxism, Communism and Socialism, Ontology, Philosophy and literature, Existence of God, Feminist theory, Consciousness, The future of philosophy."
+  },
+  "artwork": {
+    "width": 2578,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/a5/4f/31/a54f31de-ce2b-4120-8c59-52b269e23886/9781782066491.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "3d3b39",
+    "textColor2": "0d3823",
+    "textColor4": "3c5e4b",
+    "assetToken": "Publication113/v4/a5/4f/31/a54f31de-ce2b-4120-8c59-52b269e23886/9781782066491.jpg",
+    "textColor1": "0e0d0d",
+    "bgColor": "f9f5ea",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/philosophy-in-minutes/id1470912634",
+  "screenshots": [],
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2019-07-02T03:12:20Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "Philosophy in Minutes",
+  "isPreorder": false,
+  "publisher": "Quercus Publishing",
+  "artistName": "Marcus Weeks",
+  "primaryLocale": "en-US"
+}
