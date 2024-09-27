@@ -1,0 +1,88 @@
+{
+  "id": "6478526775",
+  "type": "books",
+  "title": "The Problem with Change",
+  "subtitle": "And the Essential Nature of Human Performance",
+  "author": "Ashley Goodall",
+  "isbn": "9780316560375",
+  "genreNames": [
+    "Management & Leadership",
+    "Books",
+    "Business & Personal Finance",
+    "Health, Mind & Body",
+    "Psychology"
+  ],
+  "seller": "Hachette Digital, Inc.",
+  "description": {
+    "standard": "<b>If you’ve had enough of the constant turbulence that defines corporate life today, you’re not alone.&#xa0; Learn why change is bad for people and for business, and discover how to create the stability that we all need to thrive.</b><br /> &#xa0;<br /> For decades, “disruption” and “change” have been seen as essential to business growth and success. In this provocative and incisive book, leadership expert Ashley Goodall argues that what has become a sacred dogma is both wrong and harmful.<br /> &#xa0;<br /> Whether it’s a merger or re-org or a new office layout, change has become the ultimate easy button for leaders, who pursue it with abandon, unleashing a torrent of disruption on employees. The result is what Goodall calls “life in the blender”—a perpetual cycle of upheaval, uncertainty, and unease.<br /> &#xa0;<br /> The problem with change, Goodall argues, is that a culture where everything from people to processes to strategic priorities are constantly in flux exerts a psychological toll that undermines motivation, productivity, and performance.&#xa0; And yet so accustomed are we to constant churn that we have become numb to its very real consequences.<br /> &#xa0;<br /> &#xa0;Drawing on two decades spent leading HR organizations at Deloitte and Cisco, Ashley Goodall reveals why change is not the same as improvement, and how, by prioritizing team cohesion (instead of reshuffling teams at will), by using real words (rather than corporate-speak), by sharing secrets (not mission statements), by fixing only the things that are truly broken (instead of moving fast and breaking everything in sight, and more, leaders at every level can create the stability that people need to thrive."
+  },
+  "screenshots": [],
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-04-23T07:40:34Z"
+    }
+  ],
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=3990&salableAdamId=6478526775&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$3.99",
+      "price": 3.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 1457314
+        }
+      ]
+    }
+  ],
+  "pageCount": 288,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6478526775&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2024-05-07",
+  "pageProgressionDirection": "ltr",
+  "isIBook": false,
+  "artwork": {
+    "width": 1677,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/b0/78/38/b0783820-5a26-1dce-25ea-1147362297f5/9780316560375.jpg/{w}x{h}bb.{f}",
+    "height": 2600,
+    "textColor3": "373736",
+    "textColor2": "282828",
+    "textColor4": "535353",
+    "assetToken": "Publication122/v4/b0/78/38/b0783820-5a26-1dce-25ea-1147362297f5/9780316560375.jpg",
+    "textColor1": "050504",
+    "bgColor": "ffffff",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-problem-with-change/id6478526775",
+  "userRating": {
+    "value": 0,
+    "ratingCount": 0,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "0 stars"
+  },
+  "editorialArtwork": {},
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "\"Business worships disruption\" to its own detriment, according to this refreshing treatise. Business consultant Goodall (coauthor of <em>Nine Lies About Work</em>), a former Cisco executive, argues that mistakenly conflating frequent internal changes with innovation hurts employee morale. In his view, mergers and other shake-ups often cause breakdowns in communication that leave workers uncertain about their employer's future, producing unease and distracting from productive activity. Case studies illustrate other negative consequences of disruption, as when Goodall recounts how a South African banker quit his job because a company reorganization caused constant disputes between coworkers about \"who was responsible for which pieces of work.\" Outlining commonsense principles for reining in unnecessary overhauls, Goodall recommends that business leaders \"raise the bar on what we consider sufficient cause to embark on a large change initiative\" and consider such \"programs and transactions the exception, not the rule.\" It's not always clear how directly the numerous animal studies cited relate to the business world (for instance, Goodall emphasizes the importance of employees feeling that they have agency over their work by describing a study in which dogs became distressed after failing to figure out how to avoid electric shocks). Nevertheless, the book's heterodox thesis puts needless corporate reshuffling to shame. It's an emphatic case for staying the course. <em>",
+      "date": "Mon Mar 25 00:00:00 PDT 2024",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "The Problem with Change",
+  "isPreorder": false,
+  "publisher": "Little, Brown and Company",
+  "artistName": "Ashley Goodall",
+  "primaryLocale": "en-US"
+}

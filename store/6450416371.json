@@ -1,0 +1,82 @@
+{
+  "id": "6450416371",
+  "type": "books",
+  "title": "So Fetch",
+  "subtitle": "The Making of Mean Girls (And Why We're Still So Obsessed With It)",
+  "author": "Jennifer Keishin Armstrong",
+  "isbn": "9780063276185",
+  "genreNames": [
+    "Film",
+    "Books",
+    "Arts & Entertainment",
+    "Performing Arts",
+    "Humor",
+    "Nonfiction",
+    "Social Science",
+    "Society"
+  ],
+  "seller": "HARPERCOLLINS PUBLISHERS  ",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=1990&salableAdamId=6450416371&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$1.99",
+      "price": 1.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 17559629
+        }
+      ]
+    }
+  ],
+  "pageCount": 272,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6450416371&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2024-01-16",
+  "isIBook": false,
+  "description": {
+    "standard": "From the New York Times bestselling author of Seinfeldia comes the totally fetch story of one of the most iconic teen comedies of all time, Mean Girls, revealing how it happened, how it defined a generation, “like, invented” meme culture, and why it just won’t go away, filled with exclusive interviews from the director, cast, and crew. <br /><br />Get in, loser. We’re going back to 2004.<br /><br />It’s been 20 years since&#xa0;Mean Girls&#xa0;hit theaters, winning over critics and audiences alike with its razor-sharp wit, star-making turns for its then unknown cast, and obsessively quotable screenplay by Tina Fey. Fast forward two decades and&#xa0;Mean Girls&#xa0;remains as relevant as ever. Arguably, no other movie from the 2000s has had as big of an impact on pop culture.<br /><br />In&#xa0;So Fetch, New York Times bestselling author of&#xa0;Seinfeldia, Jennifer Keishin Armstrong, offers the first ever authoritative book about this beloved classic that shaped an entire generation. Based off revealing interviews with the director, cast, and crew,&#xa0;So Fetch&#xa0;tells the full story of the making of&#xa0;Mean Girls, from Tina Fey’s brilliant adaptation of a self-help guide for parents of teen girls, to the challenges of casting Lindsay Lohan, Rachel McAdams, and the iconic supporting players.&#xa0;So Fetch&#xa0;also explores the film’s lasting cultural influence, from its role in the rise of Y2K tabloid culture, impact on girls of all ages and lgbtq+ culture, to how we use it to define female relationships to this day.<br /><br />Timed for the 20th anniversary and the release of the new movie musical adaptation,&#xa0;So Fetch&#xa0;is the perfect companion for fans and anyone who understands that when it comes to&#xa0;Mean Girls’ enduring legacy, the limit does not exist!"
+  },
+  "artwork": {
+    "width": 1600,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/fa/cd/3f/facd3f5e-48aa-bef6-3843-cbb4d2ffaae3/9780063276185.jpg/{w}x{h}bb.{f}",
+    "height": 2400,
+    "textColor3": "301722",
+    "textColor2": "440c11",
+    "textColor4": "672130",
+    "assetToken": "Publication116/v4/fa/cd/3f/facd3f5e-48aa-bef6-3843-cbb4d2ffaae3/9780063276185.jpg",
+    "textColor1": "000000",
+    "bgColor": "f277ae",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/so-fetch/id6450416371",
+  "userRating": {
+    "value": 5,
+    "ratingCount": 2,
+    "ratingCountList": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ariaLabelForRatings": "5.0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2024-01-11T14:06:21Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "So Fetch",
+  "publisher": "Dey Street Books",
+  "isPreorder": false,
+  "artistName": "Jennifer Keishin Armstrong",
+  "primaryLocale": "en-US"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "420664575",
+  "type": "books",
+  "title": "The Anchor Book of New American Short Stories",
+  "subtitle": null,
+  "author": "Ben Marcus",
+  "isbn": "9780307428134",
+  "genreNames": [
+    "Fiction & Literature",
+    "Books",
+    "Short Stories",
+    "Literary Fiction"
+  ],
+  "seller": "Penguin Random House LLC",
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=5990&salableAdamId=420664575&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$5.99",
+      "price": 5.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 7037135
+        }
+      ]
+    }
+  ],
+  "pageCount": 496,
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=420664575&pg=default&pricingParameters=STDQ",
+  "releaseDate": "2004-08-10",
+  "isIBook": false,
+  "description": {
+    "standard": "“In twenty-nine separate but ingenious ways, these stories seek permanent residence within a reader. They strive to become an emotional or intellectual cargo that might accompany us wherever, or however, we go. . . . If we are made by what we read, if language truly builds people into what they are, how they think, the depth with which they feel, then these stories are, to me, premium material for that construction project.  You could build a civilization with them.” —Ben Marcus, from the Introduction<br /><br />Award-winning author of <b>Notable American Women</b><i> </i>Ben Marcus brings us this engaging and comprehensive collection of short stories that explore the stylistic variety of the medium in America today.<br /><br /><i>Sea Oak</i> by George Saunders<br /><i>Everything Ravaged, Everything Burned</i> by Wells Tower<br /><i>Do Not Disturb</i> by A.M. Homes<br /><i>The Girl in the Flammable Skirt </i>by Aimee Bender<br /><i>The Caretaker</i> by Anthony Doerr<br /><i>The Old Dictionary</i> by Lydia Davis<br /><i>The Father’s Blessing</i> by Mary Caponegro<br /><i>The Life and Work of Alphonse Kauders</i> by Aleksandar Hemon<br /><i>People Shouldn’t Have to be the Ones to Tell You</i> by Gary Lutz<br /><i>Histories of the Undead</i> by Kate Braverman<br /><i>When Mr. Pirzada Came to Dine</i> by Jhumpa Lahiri<br /><i>Down the Road</i> by Stephen Dixon<br /><i>X Number of Possibilities</i> by Joanna Scott<br /><i>Tiny, Smiling Daddy</i> by Mary Gaitskill<br /><i>Brief Interviews with Hideous Men</i> by David Foster Wallace<br /><i>The Sound Gun</i> by Matthew Derby<br /><i>Short Talks</i> by Anne Carson<br /><i>Field Events</i> by Rick Bass<br /><i>Scarliotti and the Sinkhole</i> by Padgett Powell"
+  },
+  "artwork": {
+    "width": 467,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication/9b/cb/9a/mzi.osurqxsk.jpg/{w}x{h}bb.{f}",
+    "height": 720,
+    "textColor3": "343429",
+    "textColor2": "011a34",
+    "textColor4": "344852",
+    "assetToken": "Publication/9b/cb/9a/mzi.osurqxsk.jpg",
+    "textColor1": "020100",
+    "bgColor": "ffffce",
+    "hasP3": false
+  },
+  "versionDesktopSupportLevel": "supported",
+  "screenshots": [],
+  "url": "https://books.apple.com/us/book/the-anchor-book-of-new-american-short-stories/id420664575",
+  "userRating": {
+    "value": 3,
+    "ratingCount": 1,
+    "ratingCountList": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "ariaLabelForRatings": "3.0 stars"
+  },
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2011-02-15T16:30:51Z"
+    }
+  ],
+  "editorialArtwork": {},
+  "name": "The Anchor Book of New American Short Stories",
+  "isPreorder": false,
+  "publisher": "Knopf Doubleday Publishing Group",
+  "artistName": "Ben Marcus",
+  "primaryLocale": "en-US"
+}
