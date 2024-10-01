@@ -1,0 +1,103 @@
+{
+  "id": "6445760095",
+  "type": "books",
+  "title": "The Comfort of Crows (Reese's Book Club Pick)",
+  "subtitle": "A Backyard Year",
+  "author": "Margaret Renkl",
+  "isbn": "9781954118508",
+  "genreNames": [
+    "Biographies & Memoirs",
+    "Books",
+    "Science & Nature",
+    "Nature",
+    "Nonfiction",
+    "Family & Relationships"
+  ],
+  "seller": "Perseus Books, LLC",
+  "description": {
+    "standard": "<b>REESE’S BOOK CLUB PICK * <i>NEW YORK TIMES</i> BESTSELLER</b><br /><br /><b>“A beautiful love letter to nature and the world around us.”—Reese Witherspoon (Reese’s Book Club September ’24 Pick)<br /></b><br /><br /><b>THE PERFECT GIFT FOR NATURE LOVERS, BIRDERS, AND GARDENERS, WITH ORIGINAL COLOR ART THROUGHOUT * <i>USA TODAY</i> BESTSELLER * NATIONAL BESTSELLER * INDIE NEXT PICK</b><br /><br /><b>From the beloved <i>New York Times</i> opinion writer: a luminous book that traces the passing of seasons, both personal and natural.</b><br /><br />In <i>The Comfort of Crows</i>, Margaret Renkl presents a literary devotional: fifty-two chapters that follow the creatures and plants in her backyard over the course of a year. As we move through the seasons—from a crow spied on New Year’s Day, its resourcefulness and sense of community setting a theme for the year, to the lingering bluebirds of December, revisiting the nest box they used in spring—what develops is a portrait of joy and grief: joy in the ongoing pleasures of the natural world, and grief over winters that end too soon and songbirds that grow fewer and fewer.<br /><br />Along the way, we also glimpse the changing rhythms of a human life. Grown children, unexpectedly home during the pandemic, prepare to depart once more. Birdsong and night-blooming flowers evoke generations past. The city and the country where Renkl raised her family transform a little more with each passing day. And the natural world, now in visible flux, requires every ounce of hope and commitment from the author—and from us. For, as Renkl writes, “radiant things are bursting forth in the darkest places, in the smallest nooks and deepest cracks of the hidden world.”<br /><br />With fifty-two original color artworks by the author’s brother, Billy Renkl, <i>The Comfort of Crows</i> is a lovely and deeply moving book from a cherished observer of the natural world."
+  },
+  "screenshots": [],
+  "versionHistory": [
+    {
+      "releaseNotes": null,
+      "versionString": null,
+      "releaseDate": "2023-07-18T06:19:42Z"
+    }
+  ],
+  "editorialNotes": {
+    "standard": "<i>New York Times</i> opinion writer Margaret Renkl spent much of 2022 close to her suburban Nashville home. While there, she began noticing the changing of the seasons in her backyard, where birds and other local wildlife maintained the soothing rhythms of the natural world in the face of both disruptions in her own life and the steadily growing reality of climate change. The book is structured as 52 moving chapters, each laying out what she saw and heard around her over a week, interspersed with 26 more lyrical “praise songs” that poetically memorialize singular moments throughout the year. Along with her gratitude for the birds, butterflies, and other creatures visiting during the year, Renkl writes thoughtfully of her own life, like the disruptions of the pandemic for herself, her husband, and their three adult sons, as well as her fears of aging following the loss of her parents. Ultimately, this is a singular book about how our lives intersect with the outside world."
+  },
+  "offers": [
+    {
+      "buyParams": "productType=PUB&price=2990&salableAdamId=6445760095&pricingParameters=STDQ&pg=default",
+      "type": "buy",
+      "priceFormatted": "$2.99",
+      "price": 2.99,
+      "currencyCode": "USD",
+      "assets": [
+        {
+          "flavor": "publication",
+          "size": 10827414
+        }
+      ]
+    }
+  ],
+  "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=6445760095&pg=default&pricingParameters=STDQ",
+  "pageCount": 256,
+  "releaseDate": "2023-10-24",
+  "isIBook": false,
+  "artwork": {
+    "width": 1688,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/3a/c9/ed3ac905-4832-e609-3d8a-12b9ce415672/9781954118508.jpg/{w}x{h}bb.{f}",
+    "height": 2551,
+    "textColor3": "c0b11e",
+    "textColor2": "fba401",
+    "textColor4": "ce8906",
+    "assetToken": "Publication211/v4/ed/3a/c9/ed3ac905-4832-e609-3d8a-12b9ce415672/9781954118508.jpg",
+    "textColor1": "e9d61f",
+    "bgColor": "1b1b1b",
+    "hasP3": false
+  },
+  "iBooksVersion": "1.5",
+  "versionDesktopSupportLevel": "supported",
+  "url": "https://books.apple.com/us/book/the-comfort-of-crows-reeses-book-club-pick/id6445760095",
+  "userRating": {
+    "value": 4.4,
+    "ratingCount": 15,
+    "ratingCountList": [
+      0,
+      2,
+      0,
+      3,
+      10
+    ],
+    "ariaLabelForRatings": "4.4 stars"
+  },
+  "editorialArtwork": {
+    "subscriptionHero": {
+      "width": 4320,
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/8c/57/e0/8c57e07e-fd3b-ac05-d3ec-574f5090a616/c1749d4b-c7ca-4cdd-af41-126a112f71fa.png/{w}x{h}{c}.{f}",
+      "height": 1080,
+      "textColor3": "0e1e17",
+      "textColor2": "050402",
+      "textColor4": "0e1f18",
+      "textColor1": "050301",
+      "bgColor": "358c70",
+      "hasP3": false
+    }
+  },
+  "criticalReviews": [
+    {
+      "source": "Publishers Weekly",
+      "content": "<em>New York Times</em> columnist Renkl (<em>Late Migrations</em>) invites readers along on a year of loving outdoor observations in this gently moving memoir. In 52 essays—one per week—Renkl reflects on what she saw and experienced in her Nashville garden over the course of 2022, ruminations that sometimes give way to sense memories of urban parks, a borrowed cabin, and her childhood home in Alabama. Balancing lyrical descriptions of unusual insects and bird-feeder maintenance (\"The only thing to do when a Cooper's hawk stakes out a feeder is to take the feeder down.... The hawk and the owl must eat, too, I know, but I don't wish to make their bloody work any easier\") with rigorous environmentalist queries, she nudges readers to interrogate their place in the natural world. Quandaries abound: Are people more important than the wild foxes made ill from poisons set out to kill their prey? Should people interfere to rescue a baby bird or let its natural predators claim it? Rather than answer those questions, Renkl lets them hang, leaving readers to think them through for themselves. This gorgeous reflection on humanity's symbiotic relationship with the outdoors will transform the way readers interact with their own backyards. <em>",
+      "date": "Mon Aug 07 00:00:00 PDT 2023",
+      "copyright": "© Publishers Weekly"
+    }
+  ],
+  "name": "The Comfort of Crows (Reese's Book Club Pick)",
+  "publisher": "Spiegel & Grau",
+  "isPreorder": false,
+  "artistName": "Margaret Renkl",
+  "primaryLocale": "en-US"
+}
